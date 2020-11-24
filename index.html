@@ -1,63 +1,80 @@
 <!DOCTYPE html>
 <html lang="en">
 
-  <head>
+<head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <title>1MB Club</title>
-  <meta name="description" content="An exclusive membership for web pages weighing less than 1 megabyte.">
-  <link rel="shortcut icon" href="/favicon.png">
-  <link rel="alternate" type="application/atom+xml" title="1MB Club" href="/atom.xml">
+  <title>The 512KB Club</title>
+  <meta name="description" content="The 512KB Club is an exclusive list of web pages weighing less than 512 kilobytes.">
+  <link rel="shortcut icon" href="favicon.jpg">
   <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="fonts/pt-sans/pt-sans.css">
 </head>
 
-
-  <body>
+<body href="#top">
     <header>
-    <h1>1MB Club</h1>
-    <p>The internet has become a <em>bloated mess</em>. Massive javascript libraries. Countless client-side queries. Overly complex frontend frameworks.</p>
-    <p>These things are a <strong>cancerous growth</strong> on the web.</p>
-    <p>But we can make a difference - no matter how small it may seem. <em>1MB Club</em> is a growing collection of performance-focused web pages found across the internet. The one and only rule for a web page to qualify as a member:</p>
-    <ol>
-        <li>Total resources downloaded client-side must not exceed 1 megabyte</li>
-    </ol>
-    <blockquote>
-        <p><strong>Update</strong></p>
-        <p>Due to the huge number of submissions on initial launch, requesting new sites to be added is temporarily paused. Once the backlog has been worked through, submissions will open up again. Thanks!</p>
-    </blockquote>
-</header>
+      <h1>The 512KB Club</h1>
+
+      <p>The internet has become a <b>bloated mess</b>. Massive javascript libraries, countless client-side queries and overly complex frontend frameworks are par for the course these days.</p>
+
+      <p>When online newspapers like <a target="blank" href="https://www.theguardian.com/uk">The Guardian</a> are <b>over 4MB in size</b>, you know there's a problem. Why does an online newspaper need to be over 4MB in size? It's crazy.</p>
+
+      <p>But we can make a difference - all it takes is some optimisation. Do you really need that extra piece of JavaScript? Does your WordPress site need a theme that adds lots of functionality you're never going to use? Are those huge custom fonts really needed? Are your images optimised for the web?</p>
+
+      <p><b>The 512KB Club</b> is a collection of performance-focused web pages from across the Internet. The one and only rule for a web page to qualify as a member is...</p>
+
+      <p class="medium">Your total uncompressed web resources must not exceed 512KB.</p>
+
+      <h2>How to join The 512KB Club</h2>
+
+      <p>If you're interested in getting your site added to <b>The 512KB Club</b>, all you need to do is follow these instructions:</p>
+
+      <ol>
+        <li>Do a <a target="blank" href="https://gtmetrix.com">GTMetrix scan</a> on your website.</li>
+        <li>Once complete, click on the <b>Waterfall</b> tab to make sure the <b>uncompressed</b> size of your site is less than 512KB.</li>
+        <li>If your site satisfies this requirement, <a target="blank" href="https://github.com/kevquirk/512kb.club/issues">submit an issue on GitHub</a> with your URL.</li>
+        <li>We will then check your site with GT Metrix. If it's qualfies, we will add it to the list below.</li>
+      </ol>
+
+    </header>
 
 <main>
     <ul>
-    
-    	<li>
-            <span class="before" style="--data-size:110.7;"></span>
-            <span class="after">110.7 KB</span>
-            <a href="https://mylight.website">mylight.website</a>
-        </li>
-    
-        <li>
-            <span class="before" style="--data-size:266.6;"></span>
-            <span class="after">266.6 KB</span>
-            <a href="https://kevq.uk">kevq.uk</a>
-        </li>
-    
-        <li>
-            <span class="before" style="--data-size:291.9;"></span>
-            <span class="after">291.9 KB</span>
-            <a href="https://100daystooffload.com">100daystooffload.com</a>
-        </li>
-        
+
+      <li>
+         <span class="before" style="--data-size:84.7;"></span>
+         <span class="after">84.7 KB</span>
+         <a class="site" href="https://mylight.website">mylight.website</a>
+     </li>
+
+     <li>
+       <span class="before" style="--data-size:110.7;"></span>
+       <span class="after">110.7 KB</span>
+       <a class="site" href="#">512kb.club</a>
+     </li>
+
+     <li>
+       <span class="before" style="--data-size:291.9;"></span>
+       <span class="after">291.9 KB</span>
+       <a class="site" href="https://100daystooffload.com">100daystooffload.com</a>
+     </li>
+
+     <li>
+       <span class="before" style="--data-size:446.2;"></span>
+       <span class="after">446.2 KB</span>
+       <a class="site" href="https://kevq.uk">kevq.uk</a>
+     </li>
     </ul>
 </main>
 
-    <footer>
-    <p>A small side-project by <a href="https://uglyduck.ca">Bradley Taunt</a><br>
-    Maintained with &hearts; for a performant web<br>
-    Get latest sites via <a href="/atom.xml">RSS</a></p>
+<footer>
+  <p>The 512KB Club was created by <a href="https://kevq.uk">Kev Quirk</a> and was inspired by <a href="https://uglyduck.ca">Bradley Taunt's</a> 1MB Club.</p>
+
+  <p>Maintained with &hearts; for a performant, lightweght web.</p>
+
+  <a href="#top">^ Top ^</a>
 </footer>
 
-  </body>
+</body>
 </html>
-

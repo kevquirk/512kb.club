@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'pt-sans';
+    src: url('pt-sans-bold.woff') format('woff');
+    font-weight: 700;
+    font-style: bold;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'pt-sans';
+    src: url('pt-sans-italic-bold.woff') format('woff');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'pt-sans';
+    src: url('pt-sans-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'pt-sans';
+    src: url('pt-sans-italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}

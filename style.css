@@ -1,28 +1,72 @@
+/* Global colour variables */
+ :root {
+    --bg: #FAFAFA;
+    --text: #212121;
+    --link: #0D47A1;
+    --light-accent: #FFF176;
+    --dark-accent: #FBC02D;
+ }
+
+ /* Define colours for auto dark mode */
+@media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #212121;
+      --text: #EEE;
+      --link: #64B5F6;
+    }
+
+    ul li {
+      opacity: .8;
+    }
+}
+
 * {
     box-sizing: border-box;
 }
 
 body {
-    font: 18px/1.5 "Helvetica", "Arial", sans-serif;
+    font-family: pt-sans,-apple-system,BlinkMacSystemFont,avenir next,avenir,helvetica,helvetica neue,ubuntu,roboto,noto,segoe ui,arial,sans-serif;
+    font-size: 1.2rem;
     margin: 0 0 4rem 0;
-    padding: 0 10px;
+    padding: 0 .5rem;
+    background: var(--bg);
+    color: var(--text);
+}
+
+p.medium {
+  font-weight: bold;
+  font-size: 1.4rem;
 }
 
 h1,h2,h3,h4,h5,h6 {
     line-height: 1.2;
 }
 
+h2,h3 {
+  margin-top: 3rem;
+}
+
 header,main,footer {
     margin: 0 auto;
-    max-width: 800px;
+    max-width: 50rem;
     width: 100%;
 }
 
-a,a:visited {
-    color: currentColor;
+a, a:visited {
+    color: var(--link)
 }
+
 a:hover,a:focus {
-    color: blue;
+  text-decoration: none;
+}
+
+a.site, a.site:visited {
+    color: currentColor;
+    text-decoration: none;
+}
+
+a.site:hover,a.site:focus {
+  text-decoration: underline;
 }
 
 ul {
@@ -30,61 +74,56 @@ ul {
     margin: 3rem 0 0 0;
     padding: 0;
 }
+
 ul li {
-    background: rgba(0,0,0,0.05);
+    background: var(--light-accent);
+    color: #212121;
     line-height: 1;
     margin: 0 0 0.5rem 0;
     padding: 15px 10px 12px;
     position: relative;
+    border-radius: 4px;
 }
+
 ul li span.before,
 ul li span.after {
     left: 0;
     position: absolute;
     top: 0;
 }
+
 ul li span.before {
-    background: rgba(0,0,0,0.1);
+    background: var(--dark-accent);
     height: 100%;
     width: calc(var(--data-size)/512 * 100%);
+    border-radius: 4px;
     z-index: 0;
 }
+
 ul li span.after {
     left: auto;
-    opacity: 0.6;
+    opacity: 0.8;
     right: 10px;
     top: auto;
 }
+
 ul li a {
     font-weight: bold;
     position: relative;
     z-index: 2;
 }
 
-blockquote {
-    background: blanchedalmond;
-    border-left: 10px solid burlywood;
-    margin: 3rem 0 2rem;
-    padding: 20px;
-}
-blockquote p {
-    margin: 0;
-}
-
 footer {
-    border-top: 1px solid lightgrey;
+    border-top: 1px solid var(--text);
     margin: 3rem auto 0;
     padding: 0.5rem 0 0;
-}
-footer p {
-    font-size: 85%;
+    text-align: center;
+    font-size: .9rem;
 }
 
 @media(max-width:500px) {
     body {
-        font: 16px/1.5 "Helvetica", "Arial", sans-serif;
         margin: 0 0 4rem 0;
         padding: 0 10px;
     }
 }
-
