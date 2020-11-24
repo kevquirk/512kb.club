@@ -1,4 +1,6 @@
-# Request to add new URL
+---
+title: 'Request to add new URL'
+---
 
 * **Domain name:**
 * **GTMetrix results:**
