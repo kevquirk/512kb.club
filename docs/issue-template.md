@@ -10,6 +10,6 @@ Please fill in the following template too. It will speed up getting your site ad
 <li>
   <span class="before" style="--data-size:81.4;"></span>
   <span class="after">81.4 KB</span>
-  <a class="site" href="https://example.com">example.com</a>
+  <a class="site" target="blank" href="https://example.com">example.com</a>
 </li>
 ```
