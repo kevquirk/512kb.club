@@ -4,8 +4,8 @@
     --text: #212121;
     --link: #0D47A1;
     --accent: #e6e6e6;
-    --before-red: #ef5350;
-    --after-red: #ffcdd2;
+    --before-blue: #64B5F6;
+    --after-blue: #BBDEFB;
     --before-orange: #FBC02D;
     --after-orange: #FFF176;
     --before-green: #4CAF50;
@@ -82,9 +82,9 @@ ul {
     padding: 0;
 }
 
-/* RED COLOURS */
-ul.red li {
-    background: var(--after-red);
+/* BLUE COLOURS */
+ul.blue li {
+    background: var(--after-blue);
     color: #212121;
     line-height: 1;
     margin: 0 0 0.5rem 0;
@@ -93,8 +93,8 @@ ul.red li {
     border-radius: 4px;
 }
 
-ul.red li span.before-red {
-    background: var(--before-red);
+ul.blue li span.before-blue {
+    background: var(--before-blue);
     height: 100%;
     width: calc(var(--data-size)/512 * 100%);
     border-radius: 4px;
@@ -139,7 +139,7 @@ ul.green li span.before-green {
     z-index: 0;
 }
 
-ul li span.before-red,
+ul li span.before-blue,
 ul li span.before-orange,
 ul li span.before-green,
 ul li span.after {
