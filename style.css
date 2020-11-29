@@ -3,8 +3,14 @@
     --bg: #FAFAFA;
     --text: #212121;
     --link: #0D47A1;
-    --light-accent: #FFF176;
-    --dark-accent: #FBC02D;
+    --accent: #e6e6e6;
+    --before-red: #ef5350;
+    --after-red: #ffcdd2;
+    --before-orange: #FBC02D;
+    --after-orange: #FFF176;
+    --before-green: #4CAF50;
+    --after-green:  #C8E6C9;
+
  }
 
  /* Define colours for auto dark mode */
@@ -13,6 +19,7 @@
       --bg: #212121;
       --text: #EEE;
       --link: #64B5F6;
+      --accent: #333;
     }
 
     ul li {
@@ -42,8 +49,8 @@ h1,h2,h3,h4,h5,h6 {
     line-height: 1.2;
 }
 
-h2,h3 {
-  margin-top: 3rem;
+h2 {
+    margin: 4rem 0 -1.5rem 0;
 }
 
 header,main,footer {
@@ -75,8 +82,9 @@ ul {
     padding: 0;
 }
 
-ul li {
-    background: var(--light-accent);
+/* RED COLOURS */
+ul.red li {
+    background: var(--after-red);
     color: #212121;
     line-height: 1;
     margin: 0 0 0.5rem 0;
@@ -85,19 +93,59 @@ ul li {
     border-radius: 4px;
 }
 
-ul li span.before,
-ul li span.after {
-    left: 0;
-    position: absolute;
-    top: 0;
-}
-
-ul li span.before {
-    background: var(--dark-accent);
+ul.red li span.before-red {
+    background: var(--before-red);
     height: 100%;
     width: calc(var(--data-size)/512 * 100%);
     border-radius: 4px;
     z-index: 0;
+}
+
+/* ORANGE COLOURS */
+ul.orange li {
+    background: var(--after-orange);
+    color: #212121;
+    line-height: 1;
+    margin: 0 0 0.5rem 0;
+    padding: 15px 10px 12px;
+    position: relative;
+    border-radius: 4px;
+}
+
+ul.orange li span.before-orange {
+    background: var(--before-orange);
+    height: 100%;
+    width: calc(var(--data-size)/512 * 100%);
+    border-radius: 4px;
+    z-index: 0;
+}
+
+/* GREEN COLOURS */
+ul.green li {
+    background: var(--after-green);
+    color: #212121;
+    line-height: 1;
+    margin: 0 0 0.5rem 0;
+    padding: 15px 10px 12px;
+    position: relative;
+    border-radius: 4px;
+}
+
+ul.green li span.before-green {
+    background: var(--before-green);
+    height: 100%;
+    width: calc(var(--data-size)/512 * 100%);
+    border-radius: 4px;
+    z-index: 0;
+}
+
+ul li span.before-red,
+ul li span.before-orange,
+ul li span.before-green,
+ul li span.after {
+    left: 0;
+    position: absolute;
+    top: 0;
 }
 
 ul li span.after {
@@ -126,4 +174,44 @@ footer {
         margin: 0 0 4rem 0;
         padding: 0 10px;
     }
+}
+
+/* Format the accordion */
+input {
+  display: none;
+}
+
+label {
+  display: block;
+  padding: 8px 22px;
+  margin: 2rem 0;
+  cursor: pointer;
+  background: var(--accent);
+  border: 1px solid var(--accent);
+  color: var(--text);
+  border-radius: 4px;
+  transition: ease .5s;
+}
+
+label:hover {
+  border: 1px solid var(--text);
+}
+
+label h2 {
+  margin: 0;
+}
+
+.accordion-content {
+  background: var(--accent);
+  padding: 10px 25px;
+  margin: -1.9rem 0 2rem 0;
+  border-radius: 4px;
+}
+
+input + label + .accordion-content {
+  display: none;
+}
+
+input:checked + label + .accordion-content {
+  display: block;
 }
