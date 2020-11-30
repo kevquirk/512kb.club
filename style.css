@@ -184,7 +184,7 @@ input {
 label {
   display: block;
   padding: 8px 22px;
-  margin: 2rem 0;
+  margin: 1rem 0;
   cursor: pointer;
   background: var(--accent);
   border: 1px solid var(--accent);
@@ -197,14 +197,14 @@ label:hover {
   border: 1px solid var(--text);
 }
 
-label h2 {
+label h3 {
   margin: 0;
 }
 
 .accordion-content {
   background: var(--accent);
   padding: 10px 25px;
-  margin: -1.9rem 0 2rem 0;
+  margin: -.9rem 0 2rem 0;
   border-radius: 4px;
 }
 
