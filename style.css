@@ -59,6 +59,11 @@ header,main,footer {
     width: 100%;
 }
 
+.jump li {
+  display: inline-block;
+  padding-right: 1rem;
+}
+
 a, a:visited {
     color: var(--link)
 }
