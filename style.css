@@ -98,7 +98,7 @@ ul.blue li {
     border-radius: 4px;
 }
 
-ul.blue li span.before-blue {
+ul.blue li span.before {
     background: var(--before-blue);
     height: 100%;
     width: calc(var(--data-size)/512 * 100%);
@@ -117,7 +117,7 @@ ul.orange li {
     border-radius: 4px;
 }
 
-ul.orange li span.before-orange {
+ul.orange li span.before {
     background: var(--before-orange);
     height: 100%;
     width: calc(var(--data-size)/512 * 100%);
@@ -136,7 +136,7 @@ ul.green li {
     border-radius: 4px;
 }
 
-ul.green li span.before-green {
+ul.green li span.before {
     background: var(--before-green);
     height: 100%;
     width: calc(var(--data-size)/512 * 100%);
@@ -144,9 +144,7 @@ ul.green li span.before-green {
     z-index: 0;
 }
 
-ul li span.before-blue,
-ul li span.before-orange,
-ul li span.before-green,
+ul li span.before,
 ul li span.after {
     left: 0;
     position: absolute;
