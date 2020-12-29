@@ -1,5 +1,5 @@
 * **Domain name:**
-* **GTMetrix results:**
+* **Link to GTMetrix results:**
 * **Uncompressed page size:**
 
 Please fill in the following template too. It will speed up getting your site added. The example below uses `example.com` as the domain and an uncompressed page size of `81.4 KB`.
