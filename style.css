@@ -180,41 +180,27 @@ footer {
 }
 
 /* Format the accordion */
-input {
-  display: none;
+details {
+	padding: .6rem 1rem;
+	background: var(--accent);
+	border: 1px solid;
+	border-radius: 5px;
+  margin-bottom: 1rem;
 }
 
-label {
-  display: block;
-  padding: 8px 22px;
-  margin: 1rem 0;
-  cursor: pointer;
-  background: var(--accent);
-  border: 1px solid var(--accent);
-  color: var(--text);
-  border-radius: 4px;
-  transition: ease .5s;
+summary {
+	cursor: pointer;
+	font-weight: bold;
 }
 
-label:hover {
-  border: 1px solid var(--text);
+details[open] {
+	padding-bottom: .75rem;
 }
 
-label h3 {
-  margin: 0;
+details[open] summary {
+	margin-bottom: .5rem;
 }
 
-.accordion-content {
-  background: var(--accent);
-  padding: 10px 25px;
-  margin: -.9rem 0 2rem 0;
-  border-radius: 4px;
-}
-
-input + label + .accordion-content {
-  display: none;
-}
-
-input:checked + label + .accordion-content {
-  display: block;
+details[open]>*:last-child {
+	margin-bottom: 0;
 }
