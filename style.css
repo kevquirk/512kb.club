@@ -32,7 +32,7 @@
 }
 
 body {
-    font-family: apple-system,BlinkMacSystemFont,avenir next,avenir,"Nimbus Sans L",roboto,noto,segoe ui,arial,helvetica,helvetica neue,sans-serif;
+    font-family: -apple-system,BlinkMacSystemFont,avenir next,avenir,"Nimbus Sans L",roboto,noto,segoe ui,arial,helvetica,helvetica neue,sans-serif;
     font-size: 1.1rem;
     margin: 0 0 4rem 0;
     padding: 0 .5rem;
