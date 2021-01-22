@@ -40,7 +40,11 @@ body {
     color: var(--text);
 }
 
-p.medium {
+.small {
+  font-size: .9rem;
+}
+
+.medium {
   font-weight: bold;
   font-size: 1.4rem;
 }
