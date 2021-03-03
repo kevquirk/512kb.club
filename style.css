@@ -1,8 +1,14 @@
 /* Global colour variables */
  :root {
+    --sans-font: -apple-system, BlinkMacSystemFont, "Avenir Next", Avenir, "Nimbus Sans L", Roboto, Noto, "Segoe UI", Arial, Helvetica, "Helvetica Neue", sans-serif;
+    --mono-font: Consolas, Menlo, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
+
     --bg: #FAFAFA;
     --text: #212121;
     --link: #0D47A1;
+    --code: #D81B60;
+    --pre: #D0D0D0;
+    --pre-bg: #1A1A1A;
     --accent: #e6e6e6;
     --before-blue: #64B5F6;
     --after-blue: #BBDEFB;
@@ -20,6 +26,7 @@
       --text: #EEE;
       --link: #64B5F6;
       --accent: #333;
+      --code: #F06292;
     }
 
     ul li {
@@ -32,7 +39,7 @@
 }
 
 body {
-    font-family: -apple-system,BlinkMacSystemFont,avenir next,avenir,"Nimbus Sans L",roboto,noto,segoe ui,arial,helvetica,helvetica neue,sans-serif;
+    font-family: var(--sans-font);
     font-size: 1.1rem;
     margin: 0 0 4rem 0;
     padding: 0 .5rem;
@@ -83,6 +90,28 @@ a.site, a.site:visited {
 
 a.site:hover,a.site:focus {
   text-decoration: underline;
+}
+
+pre {
+ font-family: var(--mono-font);
+ background: var(--pre-bg) !important;
+ border-radius: 5px;
+ margin-bottom: 1.6em;
+ max-width: 100%;
+ white-space: pre-wrap;
+ padding: 1.6em;
+ max-height: 650px;
+}
+
+pre code {
+  font-size: 1.1rem;
+  font-family: var(--mono-font);
+  color: #ccc;
+}
+
+code {
+  font-family: var(--mono-font);
+  color: var(--code);
 }
 
 ul {
