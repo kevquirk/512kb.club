@@ -1,0 +1,9 @@
+<ul class="green">
+  {% for item in site.data.green-team %}
+  <li>
+    <span class="before" style="--data-size:{{ item.size }};"></span>
+    <span class="after">{{ item.size }} KB</span>
+    <a class="site" target="blank" href="{{ item.url }}">{{ item.domain }}</a>
+  </li>
+  {% endfor %}
+</ul>

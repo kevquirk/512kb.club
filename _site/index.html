@@ -1,0 +1,1479 @@
+<!doctype html>
+<html lang="en-GB">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>512KB Club | A showcase of lightweight websites.</title>
+<meta name="generator" content="Jekyll v4.2.0" />
+<meta property="og:title" content="512KB Club" />
+<meta name="author" content="Kev Quirk" />
+<meta property="og:locale" content="en_GB" />
+<meta name="description" content="The 512KB Club is a showcase of lightweight websites that prove you don’t need MB’s of JS to have a nice, functional website." />
+<meta property="og:description" content="The 512KB Club is a showcase of lightweight websites that prove you don’t need MB’s of JS to have a nice, functional website." />
+<link rel="canonical" href="https://512kb.club/" />
+<meta property="og:url" content="https://512kb.club/" />
+<meta property="og:site_name" content="512KB Club" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="512KB Club" />
+<script type="application/ld+json">
+{"@type":"WebSite","url":"https://512kb.club/","headline":"512KB Club","author":{"@type":"Person","name":"Kev Quirk"},"description":"The 512KB Club is a showcase of lightweight websites that prove you don’t need MB’s of JS to have a nice, functional website.","name":"512KB Club","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/assets/css/style.css">
+    <link rel="icon" type="image/png" href="/assets/images/favicon.jpg" />
+    <!-- Plausible analytics -->
+    <script async defer data-domain="512kb.club" src="https://plausible.io/js/plausible.js"></script>
+  </head>
+  <body>
+    <a name="top"></a>
+
+    <header>
+        <h1>The 512KB Club</h1>
+    </header>
+
+    <main>
+
+      <p>The internet has become a <b>bloated mess</b>. Massive javascript libraries, countless client-side queries and overly complex frontend frameworks are par for the course these days.</p>
+
+<p>When online newspapers like <a href="https://www.theguardian.com/uk">The Guardian</a> are <strong>over 4MB in size</strong>, you know there’s a problem. Why does an online newspaper need to be over 4MB in size? It’s crazy.</p>
+
+<p>But we can make a difference - all it takes is some optimisation. Do you really need that extra piece of JavaScript? Does your WordPress site need a theme that adds lots of functionality you’re never going to use? Are those huge custom fonts really needed? Are your images optimised for the web?</p>
+
+<p><strong>The 512KB Club</strong> is a collection of performance-focused web pages from across the Internet. The one and only rule for a web page to qualify as a member is…</p>
+
+<p class="medium">Your total UNCOMPRESSED web resources must not exceed 512KB.</p>
+
+<details>
+  <summary>How to join The 512KB Club</summary>
+  <p>If you're interested in getting your site added to <b>The 512KB Club</b>, all you need to do is follow these instructions:</p>
+
+  <ol>
+    <li>Do a <a target="blank" href="https://gtmetrix.com">GTMetrix scan</a> on your website.</li>
+    <li>Once complete, click on the <b>Waterfall</b> tab to make sure the <b>uncompressed</b> size of your site is less than 512KB.</li>
+    <li>If your site satisfies this requirement, <a target="blank" href="https://github.com/kevquirk/512kb.club/issues">submit an issue on GitHub</a> with your URL.</li>
+    <li>I will then check your site with GT Metrix. If it's qualifies, I will add it to the list below.</li>
+  </ol>
+
+  <p class="small"><b>Note:</b> <i>I reserve the right to not add sites based on whether I think they're suitable to be added or not.</i></p>
+</details>
+
+<details>
+  <summary>Once you're in The 512KB Club</summary>
+  <p>If your site qualifies for <b>The 512KB Club</b>, I will add it to one of the following 3 teams:</p>
+
+  <ol>
+    <li><b><span style="color:var(--before);">The green team</span></b> is for sites with a total uncompressed size of <b>less than 100KB</b>.</li>
+    <li><b><span style="color:var(--before);">The orange team</span></b> is for sites with a total uncompressed size of <b>less than 250KB</b>.</li>
+    <li><b><span style="color:var(--before);">The blue team</span></b> is for sites with a total uncompressed size of <b>less than 512KB</b>.</li>
+  </ol>
+
+  <p>Once you're a proud member of one of the teams, you are free to use one of the banners below on your own website. You can either save the SVG or use the code snippet below (remembering to change the name to whichever team you're in).</p>
+
+  <p><img src="/assets/images/green-team.svg" alt="green team banner" /></p>
+
+  <p><img src="/assets/images/orange-team.svg" alt="orange team banner" /></p>
+
+  <p><img src="/assets/images/blue-team.svg" alt="blue team banner" /></p>
+
+  <code>&lt;a href="https://512kb.club"&gt;&lt;img src="https://512kb.club/images/green-team.svg" /&gt;&lt;/a&gt;</code>
+
+</details>
+
+<details>
+  <summary>I've optimised some more, what now?</summary>
+  <p><b>The 512KB Club</b> appears to have sparked some interest in a lot of website owners and the whole thing has become somewhat of a race to the top.</p>
+
+  <p>If you have optimised your website further and want to change your number, please log a <b>new</b> <a target="blank" href="https://github.com/kevquirk/512kb.club/issues">GitHub issue</a> ensuring the title clearly states this is an update.</p>
+</details>
+
+<details>
+  <summary>My site doesn't qualify, what can I do?</summary>
+  <p>Many sites won't qualify for the 512KB Club, but there are some quick things you could try to reduce the size of your site:</p>
+
+  <p><b>1. Replace custom fonts with a local font stack by replacing your <code>font-family</code> declerations in your CSS to one of the following:</b></p>
+<pre><code># Sans-serif font stack
+font-family: -apple-system, BlinkMacSystemFont, "Avenir Next", Avenir, "Nimbus Sans L", Roboto, Noto, "Segoe UI", Arial, Helvetica, "Helvetica Neue", sans-serif;
+
+# Serif font stack
+font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;</code></pre>
+
+  <p><b>2. Optimise any images you have on your page.</b> <a target="blank" href="https://shortpixel.com">Short Pixel</a> is a great service for this.</p>
+
+  <p><b>3. If all else fails</b> and your site is pretty close the 512KB, but not quite there, why not apply for Bradley Taunt's <a target="blank" href="https://1mb.club">1MB Club</a> instead?</p>
+</details>
+
+<details>
+  <summary>What's the point of all this?</summary>
+  <p><b>That's a great question!</b></p>
+
+  <p>I decided to start this project for a couple of reasons:</p>
+
+  <ol>
+    <li>Most, if not all, of the sites listed below are personal sites. Many of which are blogs. The 512KB Club is a great way of discovering other blog owners who are also interested in minimalist/efficient web design. Think of it like a modern day <a target="blank" href="https://en.wikipedia.org/wiki/Webring">webring</a>.</li>
+    <li>It's a bit of fun, so why not?</li>
+  </ol>
+</details>
+
+<details>
+  <summary>I see a problem / how do I get in touch?</summary>
+  <p>See a problem on this site? Maybe there's a site listed that's not longer live, or no longer qualifies for the club. Or, maybe you just want to get in touch for some reason.</p>
+
+  <p>If so, <a target="blank" href="https://github.com/kevquirk/512kb.club/issues">create an issue on GitHub</a> or use <a target="blank" href="https://kevq.uk/contact">the contact page on my main website</a>.</p>
+</details>
+
+<p><br /></p>
+<hr />
+
+<ul class="jump">
+  <li><strong>Jump to:</strong></li>
+  <li><a href="#100">Green Team (&lt;100KB)</a></li>
+  <li><a href="#250">Orange Team (&lt;250KB)</a></li>
+  <li><a href="#512">Blue Team (&lt;512KB)</a></li>
+</ul>
+
+<h2 id="100">The Green Team (&lt;100KB) <span class="small"><a href="#top">^ Top ^</a></span></h2>
+<ul class="green">
+  
+  <li>
+    <span class="before" style="--data-size:1.1;"></span>
+    <span class="after">1.1 KB</span>
+    <a class="site" target="blank" href="https://myipaddress.ru">myipaddress.ru</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:1.2;"></span>
+    <span class="after">1.2 KB</span>
+    <a class="site" target="blank" href="https://neelc.org">neelc.org</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:2;"></span>
+    <span class="after">2 KB</span>
+    <a class="site" target="blank" href="https://tokiesan.github.io">tokiesan.github.io</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:2.1;"></span>
+    <span class="after">2.1 KB</span>
+    <a class="site" target="blank" href="https://salejandro.me">salejandro.me</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:2.2;"></span>
+    <span class="after">2.2 KB</span>
+    <a class="site" target="blank" href="https://pbanks.net">pbanks.net</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:2.3;"></span>
+    <span class="after">2.3 KB</span>
+    <a class="site" target="blank" href="https://www.karl.berlin">karl.berlin</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:2.9;"></span>
+    <span class="after">2.9 KB</span>
+    <a class="site" target="blank" href="https://simbly.me">simbly.me</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:3.1;"></span>
+    <span class="after">3.1 KB</span>
+    <a class="site" target="blank" href="https://adrsrv.duckdns.orgs">adrsrv.duckdns.org</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:3.2;"></span>
+    <span class="after">3.2 KB</span>
+    <a class="site" target="blank" href="https://qtrnn.io">qtrnn.io</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:3.5;"></span>
+    <span class="after">3.5 KB</span>
+    <a class="site" target="blank" href="https://minwiz.com">minwiz.com</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:3.7;"></span>
+    <span class="after">3.7 KB</span>
+    <a class="site" target="blank" href="https://gsthnz.com">gsthnz.com</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:3.7;"></span>
+    <span class="after">3.7 KB</span>
+    <a class="site" target="blank" href="https://sudosie.be">sudosie.be</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:4;"></span>
+    <span class="after">4 KB</span>
+    <a class="site" target="blank" href="https://leagueh.xyz/en/">leagueh.xyz</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:4.3;"></span>
+    <span class="after">4.3 KB</span>
+    <a class="site" target="blank" href="https://www.0chris.com">0chris.com</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:4.7;"></span>
+    <span class="after">4.7 KB</span>
+    <a class="site" target="blank" href="https://erikjohannes.no">erikjohannes.no</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:4.7;"></span>
+    <span class="after">4.7 KB</span>
+    <a class="site" target="blank" href="https://funnylookinhat.com">funnylookinhat.com</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:4.7;"></span>
+    <span class="after">4.7 KB</span>
+    <a class="site" target="blank" href="https://yne.fr">yne.fr</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:5.4;"></span>
+    <span class="after">5.4 KB</span>
+    <a class="site" target="blank" href="https://bestmotherfucking.website">bestmotherfucking.website</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:5.6;"></span>
+    <span class="after">5.6 KB</span>
+    <a class="site" target="blank" href="https://jrballesteros05.codeberg.page">jrballesteros05.codeberg.page</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:5.8;"></span>
+    <span class="after">5.8 KB</span>
+    <a class="site" target="blank" href="https://jf17.ru">jf17.ru</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:6;"></span>
+    <span class="after">6 KB</span>
+    <a class="site" target="blank" href="https://dev-nonsense.com">dev-nonsense.com</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:6.4;"></span>
+    <span class="after">6.4 KB</span>
+    <a class="site" target="blank" href="https://sandboxgeneral.xyz">sandboxgeneral.xyz</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:6.5;"></span>
+    <span class="after">6.5 KB</span>
+    <a class="site" target="blank" href="https://dotfilehub.com">dotfilehub.com</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:6.6;"></span>
+    <span class="after">6.6 KB</span>
+    <a class="site" target="blank" href="https://midnight.pub">midnight.pub</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:6.9;"></span>
+    <span class="after">6.9 KB</span>
+    <a class="site" target="blank" href="https://bebyx.co.ua">bebyx.co.ua</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:7;"></span>
+    <span class="after">7 KB</span>
+    <a class="site" target="blank" href="https://fdisk.space">fdisk.space</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:7.5;"></span>
+    <span class="after">7.5 KB</span>
+    <a class="site" target="blank" href="https://zinzy.website">zinzy.website</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:7.7;"></span>
+    <span class="after">7.7 KB</span>
+    <a class="site" target="blank" href="https://sinax.be">sinax.be</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:8;"></span>
+    <span class="after">8 KB</span>
+    <a class="site" target="blank" href="https://blog.benoitj.ca">blog.benoitj.ca</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:8.1;"></span>
+    <span class="after">8.1 KB</span>
+    <a class="site" target="blank" href="https://mizik.sk">mizik.sk</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:8.4;"></span>
+    <span class="after">8.4 KB</span>
+    <a class="site" target="blank" href="https://paritybit.ca">paritybit.ca</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:8.9;"></span>
+    <span class="after">8.9 KB</span>
+    <a class="site" target="blank" href="https://seirdy.one">seirdy.one</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:9.1;"></span>
+    <span class="after">9.1 KB</span>
+    <a class="site" target="blank" href="https://astrophena.name">astrophena.name</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:9.4;"></span>
+    <span class="after">9.4 KB</span>
+    <a class="site" target="blank" href="https://ybad.name">ybad.name</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:9.7;"></span>
+    <span class="after">9.7 KB</span>
+    <a class="site" target="blank" href="https://vladas.palubinskas.lt">vladas.palubinskas.lt</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:11.1;"></span>
+    <span class="after">11.1 KB</span>
+    <a class="site" target="blank" href="https://codevoid.de">codevoid.de</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:11.3;"></span>
+    <span class="after">11.3 KB</span>
+    <a class="site" target="blank" href="https://journal.gudulin.com">journal.gudulin.com</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:11.3;"></span>
+    <span class="after">11.3 KB</span>
+    <a class="site" target="blank" href="https://oqolarte.github.io">oqolarte.github.io</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:11.7;"></span>
+    <span class="after">11.7 KB</span>
+    <a class="site" target="blank" href="https://simplecss.org">simplecss.org</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:12.1;"></span>
+    <span class="after">12.1 KB</span>
+    <a class="site" target="blank" href="https://chaitanya.page">chaitanya.page</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:13;"></span>
+    <span class="after">13 KB</span>
+    <a class="site" target="blank" href="https://degruchy.org">degruchy.org</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:13.5;"></span>
+    <span class="after">13.5 KB</span>
+    <a class="site" target="blank" href="https://hunden.linuxkompis.se">hunden.linuxkompis.se</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:14;"></span>
+    <span class="after">14 KB</span>
+    <a class="site" target="blank" href="https://airikr.me">airikr.me</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:14.1;"></span>
+    <span class="after">14.1 KB</span>
+    <a class="site" target="blank" href="https://devosmium.xyz">devosmium.xyz</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:15;"></span>
+    <span class="after">15 KB</span>
+    <a class="site" target="blank" href="https://donohoe.dev">donohoe.dev</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:15.5;"></span>
+    <span class="after">15.5 KB</span>
+    <a class="site" target="blank" href="https://oh.mg">oh.mg</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:15.6;"></span>
+    <span class="after">15.6 KB</span>
+    <a class="site" target="blank" href="https://mataroa.blog">mataroa.blog</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:16;"></span>
+    <span class="after">16 KB</span>
+    <a class="site" target="blank" href="https://thewismit.com">thewismit.com</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:16.2;"></span>
+    <span class="after">16.2 KB</span>
+    <a class="site" target="blank" href="https://aaron.place">aaron.place</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:16.2;"></span>
+    <span class="after">16.2 KB</span>
+    <a class="site" target="blank" href="https://mikestone.me">mikestone.me</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:16.5;"></span>
+    <span class="after">16.5 KB</span>
+    <a class="site" target="blank" href="https://portable.fyi">portable.fyi</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:16.7;"></span>
+    <span class="after">16.7 KB</span>
+    <a class="site" target="blank" href="https://cosmo.red">cosmo.red</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:17.1;"></span>
+    <span class="after">17.1 KB</span>
+    <a class="site" target="blank" href="https://joelchrono12.netlify.app">joelchrono12.netlify.app</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:17.2;"></span>
+    <span class="after">17.2 KB</span>
+    <a class="site" target="blank" href="https://a1cy0n.xyz">a1cy0n.xyz</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:18.1;"></span>
+    <span class="after">18.1 KB</span>
+    <a class="site" target="blank" href="https://starbreaker.org">starbreaker.org</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:19;"></span>
+    <span class="after">19 KB</span>
+    <a class="site" target="blank" href="https://zserge.com">zserge.com</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:20.3;"></span>
+    <span class="after">20.3 KB</span>
+    <a class="site" target="blank" href="https://www.ethanyoo.com">ethanyoo.com</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:21;"></span>
+    <span class="after">21 KB</span>
+    <a class="site" target="blank" href="https://mogwai.be">mogwai.be</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:21.9;"></span>
+    <span class="after">21.9 KB</span>
+    <a class="site" target="blank" href="https://eink.link">eink.link</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:22.4;"></span>
+    <span class="after">22.4 KB</span>
+    <a class="site" target="blank" href="https://ecliptik.com">ecliptik.com</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:22.8;"></span>
+    <span class="after">22.8 KB</span>
+    <a class="site" target="blank" href="https://nixnet.email">nixnet.email</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:22.8;"></span>
+    <span class="after">22.8 KB</span>
+    <a class="site" target="blank" href="https://pantsufan.github.io">pantsufan.github.io</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:23.2;"></span>
+    <span class="after">23.2 KB</span>
+    <a class="site" target="blank" href="https://mzumquadrat.de">mzumquadrat.de</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:24.4;"></span>
+    <span class="after">24.4 KB</span>
+    <a class="site" target="blank" href="https://100daystooffload.com">100daystooffload.com</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:24.5;"></span>
+    <span class="after">24.5 KB</span>
+    <a class="site" target="blank" href="https://az.on.lt">az.on.lt</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:24.6;"></span>
+    <span class="after">24.6 KB</span>
+    <a class="site" target="blank" href="https://noJS.club">noJS.club</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:24.7;"></span>
+    <span class="after">24.7 KB</span>
+    <a class="site" target="blank" href="https://john-doe.neocities.org">john-doe.neocities.org</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:25.6;"></span>
+    <span class="after">25.6 KB</span>
+    <a class="site" target="blank" href="https://temp.sh">temp.sh</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:25.8;"></span>
+    <span class="after">25.8 KB</span>
+    <a class="site" target="blank" href="https://blog.mooreanalysis.com">blog.mooreanalysis.com</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:25.8;"></span>
+    <span class="after">25.8 KB</span>
+    <a class="site" target="blank" href="https://zwieratko.sk">zwieratko.sk</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:26.4;"></span>
+    <span class="after">26.4 KB</span>
+    <a class="site" target="blank" href="https://baltuta.eu">baltuta.eu</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:27.4;"></span>
+    <span class="after">27.4 KB</span>
+    <a class="site" target="blank" href="https://lectupedia.com">lectupedia.com</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:27.9;"></span>
+    <span class="after">27.9 KB</span>
+    <a class="site" target="blank" href="https://jds.work">jds.work</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:28.2;"></span>
+    <span class="after">28.2 KB</span>
+    <a class="site" target="blank" href="https://ndanes.com">ndanes.com</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:29;"></span>
+    <span class="after">29 KB</span>
+    <a class="site" target="blank" href="https://nest.jakl.one">nest.jakl.one</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:29.2;"></span>
+    <span class="after">29.2 KB</span>
+    <a class="site" target="blank" href="https://blog.bshah.in">blog.bshah.in</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:30.6;"></span>
+    <span class="after">30.6 KB</span>
+    <a class="site" target="blank" href="https://decentnet.github.io">decentnet.github.io</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:30.6;"></span>
+    <span class="after">30.6 KB</span>
+    <a class="site" target="blank" href="https://tradingcode.net">tradingcode.net</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:30.7;"></span>
+    <span class="after">30.7 KB</span>
+    <a class="site" target="blank" href="https://250kb.club">250kb.club</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:31.3;"></span>
+    <span class="after">31.3 KB</span>
+    <a class="site" target="blank" href="https://amanasifkhalid.github.io">amanasifkhalid.github.io</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:32.8;"></span>
+    <span class="after">32.8 KB</span>
+    <a class="site" target="blank" href="https://tanami.org">tanami.org</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:33.9;"></span>
+    <span class="after">33.9 KB</span>
+    <a class="site" target="blank" href="https://timharek.no">timharek.no</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:34;"></span>
+    <span class="after">34 KB</span>
+    <a class="site" target="blank" href="https://jeremysarber.com">jeremysarber.com</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:34.1;"></span>
+    <span class="after">34.1 KB</span>
+    <a class="site" target="blank" href="https://zinzy.website">zinzy.website</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:34.2;"></span>
+    <span class="after">34.2 KB</span>
+    <a class="site" target="blank" href="https://sontek.net">sontek.net</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:34.4;"></span>
+    <span class="after">34.4 KB</span>
+    <a class="site" target="blank" href="https://cirno.digital">cirno.digital</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:34.9;"></span>
+    <span class="after">34.9 KB</span>
+    <a class="site" target="blank" href="https://projects.deltabeard.com">projects.deltabeard.com</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:35.2;"></span>
+    <span class="after">35.2 KB</span>
+    <a class="site" target="blank" href="https://codingotaku.com">codingotaku.com</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:37;"></span>
+    <span class="after">37 KB</span>
+    <a class="site" target="blank" href="https://timotijhof.net">timotijhof.net</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:38;"></span>
+    <span class="after">38 KB</span>
+    <a class="site" target="blank" href="https://pawelgrzybek.com">pawelgrzybek.com</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:38.4;"></span>
+    <span class="after">38.4 KB</span>
+    <a class="site" target="blank" href="https://thaumatorium.com">thaumatorium.com</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:39.3;"></span>
+    <span class="after">39.3 KB</span>
+    <a class="site" target="blank" href="http://rullan.cat">rullan.cat</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:41.9;"></span>
+    <span class="after">41.9 KB</span>
+    <a class="site" target="blank" href="https://cycloneblaze.net">cycloneblaze.net</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:43.6;"></span>
+    <span class="after">43.6 KB</span>
+    <a class="site" target="blank" href="https://hejo.org">hejo.org</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:43.9;"></span>
+    <span class="after">43.9 KB</span>
+    <a class="site" target="blank" href="http://goel.io">goel.io</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:44.5;"></span>
+    <span class="after">44.5 KB</span>
+    <a class="site" target="blank" href="https://scyllasequence.com">scyllasequence.com</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:44.8;"></span>
+    <span class="after">44.8 KB</span>
+    <a class="site" target="blank" href="https://josias.dev">josias.dev</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:47.3;"></span>
+    <span class="after">47.3 KB</span>
+    <a class="site" target="blank" href="https://cyber-diocletian.github.io">cyber-diocletian.github.io</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:47.3;"></span>
+    <span class="after">47.3 KB</span>
+    <a class="site" target="blank" href="https://richj.co">richj.co</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:51.4;"></span>
+    <span class="after">51.4 KB</span>
+    <a class="site" target="blank" href="https://gabnotes.org">gabnotes.org</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:52;"></span>
+    <span class="after">52 KB</span>
+    <a class="site" target="blank" href="https://ericgardner.info">ericgardner.info</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:52.2;"></span>
+    <span class="after">52.2 KB</span>
+    <a class="site" target="blank" href="https://saladhax.site">saladhax.site</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:54.6;"></span>
+    <span class="after">54.6 KB</span>
+    <a class="site" target="blank" href="https://hugo.md">hugo.md</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:55.2;"></span>
+    <span class="after">55.2 KB</span>
+    <a class="site" target="blank" href="https://cri.dev">cri.dev</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:57.1;"></span>
+    <span class="after">57.1 KB</span>
+    <a class="site" target="blank" href="https://miltsghostrehab.xyz">miltsghostrehab.xyz</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:58.7;"></span>
+    <span class="after">58.7 KB</span>
+    <a class="site" target="blank" href="https://tryhexadecimal.com">tryhexadecimal.com</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:65.1;"></span>
+    <span class="after">65.1 KB</span>
+    <a class="site" target="blank" href="https://rav3ndust.xyz">rav3ndust.xyz</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:66;"></span>
+    <span class="after">66 KB</span>
+    <a class="site" target="blank" href="https://citizen428.net">citizen428.net</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:67.4;"></span>
+    <span class="after">67.4 KB</span>
+    <a class="site" target="blank" href="https://littlezhang.com">littlezhang.com</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:70.9;"></span>
+    <span class="after">70.9 KB</span>
+    <a class="site" target="blank" href="https://sensorstation.co">sensorstation.co</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:71.6;"></span>
+    <span class="after">71.6 KB</span>
+    <a class="site" target="blank" href="https://jscd.pw">jscd.pw</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:72.5;"></span>
+    <span class="after">72.5 KB</span>
+    <a class="site" target="blank" href="https://guts.plus">guts.plus</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:73;"></span>
+    <span class="after">73 KB</span>
+    <a class="site" target="blank" href="https://docs.j7k6.org">docs.j7k6.org</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:74.2;"></span>
+    <span class="after">74.2 KB</span>
+    <a class="site" target="blank" href="https://tunesheavy.com">tunesheavy.com</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:78.5;"></span>
+    <span class="after">78.5 KB</span>
+    <a class="site" target="blank" href="https://blog.dgold.eu">blog.dgold.eu</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:80.1;"></span>
+    <span class="after">80.1 KB</span>
+    <a class="site" target="blank" href="https://murtezayesil.me">murtezayesil.me</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:82.3;"></span>
+    <span class="after">82.3 KB</span>
+    <a class="site" target="blank" href="https://roelwillems.com">roelwillems.com</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:84.6;"></span>
+    <span class="after">84.6 KB</span>
+    <a class="site" target="blank" href="https://canwe.dev">canwe.dev</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:84.7;"></span>
+    <span class="after">84.7 KB</span>
+    <a class="site" target="blank" href="https://mylight.website">mylight.website</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:89.3;"></span>
+    <span class="after">89.3 KB</span>
+    <a class="site" target="blank" href="https://lighthouse16.com">lighthouse16.com</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:90.6;"></span>
+    <span class="after">90.6 KB</span>
+    <a class="site" target="blank" href="https://freshnode.net">freshnode.net</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:91.7;"></span>
+    <span class="after">91.7 KB</span>
+    <a class="site" target="blank" href="https://thatdaria.com">thatdaria.com</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:92.7;"></span>
+    <span class="after">92.7 KB</span>
+    <a class="site" target="blank" href="https://eftegarie.com">eftegarie.com</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:93;"></span>
+    <span class="after">93 KB</span>
+    <a class="site" target="blank" href="https://drgomesp.dev">drgomesp.dev</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:93.5;"></span>
+    <span class="after">93.5 KB</span>
+    <a class="site" target="blank" href="https://qcard.link">qcard.link</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:96;"></span>
+    <span class="after">96 KB</span>
+    <a class="site" target="blank" href="https://ethan.link">ethan.link</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:98.1;"></span>
+    <span class="after">98.1 KB</span>
+    <a class="site" target="blank" href="https://salixos.org">salixos.org</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:99.6;"></span>
+    <span class="after">99.6 KB</span>
+    <a class="site" target="blank" href="https://mikebabb.com">mikebabb.com</a>
+  </li>
+  
+</ul>
+
+<h2 id="250">The Orange Team (&lt;250KB) <span class="small"><a href="#top">^ Top ^</a></span></h2>
+<ul class="orange">
+  
+  <li>
+    <span class="before" style="--data-size:100.6;"></span>
+    <span class="after">100.6 KB</span>
+    <a class="site" target="blank" href="https://format-express.dev">format-express.dev</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:111;"></span>
+    <span class="after">111 KB</span>
+    <a class="site" target="blank" href="https://mvion.fr">mvion.fr</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:114.3;"></span>
+    <span class="after">114.3 KB</span>
+    <a class="site" target="blank" href="https://processwire.dev">processwire.dev</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:116.3;"></span>
+    <span class="after">116.3 KB</span>
+    <a class="site" target="blank" href="https://martin.baillie.id">martin.baillie.id</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:117.1;"></span>
+    <span class="after">117.1 KB</span>
+    <a class="site" target="blank" href="https://mkws.sh">mkws.sh</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:119.7;"></span>
+    <span class="after">119.7 KB</span>
+    <a class="site" target="blank" href="https://clubhouse.boxpiper.com">clubhouse.boxpiper.com</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:121.2;"></span>
+    <span class="after">121.2 KB</span>
+    <a class="site" target="blank" href="https://binyam.in">binyam.in</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:125.1;"></span>
+    <span class="after">125.1 KB</span>
+    <a class="site" target="blank" href="https://jeremysarber.com">jeremysarber.com</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:131.4;"></span>
+    <span class="after">131.4 KB</span>
+    <a class="site" target="blank" href="https://proseandconst.xyz">proseandconst.xyz</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:134;"></span>
+    <span class="after">134 KB</span>
+    <a class="site" target="blank" href="https://sitejs.org">sitejs.org</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:134.9;"></span>
+    <span class="after">134.9 KB</span>
+    <a class="site" target="blank" href="https://caliandro.de">caliandro.de</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:140.9;"></span>
+    <span class="after">140.9 KB</span>
+    <a class="site" target="blank" href="https://julian.ttm.sh">julian.ttm.sh</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:141.3;"></span>
+    <span class="after">141.3 KB</span>
+    <a class="site" target="blank" href="http://rhapsode.adrian.geek.nz">rhapsode.adrian.geek.nz</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:145.8;"></span>
+    <span class="after">145.8 KB</span>
+    <a class="site" target="blank" href="https://oldirtyhacker.com">oldirtyhacker.com</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:147.2;"></span>
+    <span class="after">147.2 KB</span>
+    <a class="site" target="blank" href="http://about.crakila.moe">about.crakila.moe</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:153.6;"></span>
+    <span class="after">153.6 KB</span>
+    <a class="site" target="blank" href="https://mees.io">mees.io</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:159.9;"></span>
+    <span class="after">159.9 KB</span>
+    <a class="site" target="blank" href="https://adrian.geek.nz">adrian.geek.nz</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:160.1;"></span>
+    <span class="after">160.1 KB</span>
+    <a class="site" target="blank" href="https://canistop.net">canistop.net</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:162.2;"></span>
+    <span class="after">162.2 KB</span>
+    <a class="site" target="blank" href="https://zerokspot.com">zerokspot.com</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:164.8;"></span>
+    <span class="after">164.8 KB</span>
+    <a class="site" target="blank" href="https://vvulpes0.github.io">vvulpes0.github.io</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:165.6;"></span>
+    <span class="after">165.6 KB</span>
+    <a class="site" target="blank" href="https://oscarforner.com">oscarforner.com</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:167;"></span>
+    <span class="after">167 KB</span>
+    <a class="site" target="blank" href="https://qwxlea.tk">qwxlea.tk</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:168.3;"></span>
+    <span class="after">168.3 KB</span>
+    <a class="site" target="blank" href="https://thomas.me">thomas.me</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:169.6;"></span>
+    <span class="after">169.6 KB</span>
+    <a class="site" target="blank" href="https://searchforplanet.org">searchforplanet.org</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:173;"></span>
+    <span class="after">173 KB</span>
+    <a class="site" target="blank" href="https://lighthouse16.com">lighthouse16.com</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:174.7;"></span>
+    <span class="after">174.7 KB</span>
+    <a class="site" target="blank" href="https://codetheweb.blog">codetheweb.blog</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:178.5;"></span>
+    <span class="after">178.5 KB</span>
+    <a class="site" target="blank" href="https://allien.work">allien.work</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:178.6;"></span>
+    <span class="after">178.6 KB</span>
+    <a class="site" target="blank" href="https://markosaric.com">markosaric.com</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:178.9;"></span>
+    <span class="after">178.9 KB</span>
+    <a class="site" target="blank" href="https://pothix.com">pothix.com</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:179.1;"></span>
+    <span class="after">179.1 KB</span>
+    <a class="site" target="blank" href="https://robert.winter.ink">robert.winter.ink</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:180.3;"></span>
+    <span class="after">180.3 KB</span>
+    <a class="site" target="blank" href="https://bnolet.me">bnolet.me</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:182.4;"></span>
+    <span class="after">182.4 KB</span>
+    <a class="site" target="blank" href="https://ivanmet.netlify.app">ivanmet.netlify.app</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:187.1;"></span>
+    <span class="after">187.1 KB</span>
+    <a class="site" target="blank" href="https://thelion.website">thelion.website</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:190;"></span>
+    <span class="after">190 KB</span>
+    <a class="site" target="blank" href="https://stefdawson.com">stefdawson.com</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:194.5;"></span>
+    <span class="after">194.5 KB</span>
+    <a class="site" target="blank" href="https://klokmork.com">klokmork.com</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:197;"></span>
+    <span class="after">197 KB</span>
+    <a class="site" target="blank" href="https://federateme.nymbus.xyz">federateme.nymbus.xyz</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:200.4;"></span>
+    <span class="after">200.4 KB</span>
+    <a class="site" target="blank" href="https://ezra.website">ezra.website</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:205.1;"></span>
+    <span class="after">205.1 KB</span>
+    <a class="site" target="blank" href="https://benpro.fr">benpro.fr</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:205.6;"></span>
+    <span class="after">205.6 KB</span>
+    <a class="site" target="blank" href="https://jmtd.net">jmtd.net</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:205.7;"></span>
+    <span class="after">205.7 KB</span>
+    <a class="site" target="blank" href="http://topik.natenorthway.com&lt;">topik.natenorthway.com&lt;</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:207.6;"></span>
+    <span class="after">207.6 KB</span>
+    <a class="site" target="blank" href="https://plausible.io">plausible.io</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:212;"></span>
+    <span class="after">212 KB</span>
+    <a class="site" target="blank" href="http://stuts.uk">stuts.uk</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:218.4;"></span>
+    <span class="after">218.4 KB</span>
+    <a class="site" target="blank" href="https://editions-du-26-octobre">editions-du-26-octobre</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:220.4;"></span>
+    <span class="after">220.4 KB</span>
+    <a class="site" target="blank" href="https://gadonias.com">gadonias.com</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:221;"></span>
+    <span class="after">221 KB</span>
+    <a class="site" target="blank" href="https://xpil.eu">xpil.eu</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:225.2;"></span>
+    <span class="after">225.2 KB</span>
+    <a class="site" target="blank" href="https://gud.one">gud.one</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:226.7;"></span>
+    <span class="after">226.7 KB</span>
+    <a class="site" target="blank" href="https://kevq.uk">kevq.uk</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:229.9;"></span>
+    <span class="after">229.9 KB</span>
+    <a class="site" target="blank" href="https://tek256.com">tek256.com</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:230.1;"></span>
+    <span class="after">230.1 KB</span>
+    <a class="site" target="blank" href="https://fedi.dev">fedi.dev</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:238.1;"></span>
+    <span class="after">238.1 KB</span>
+    <a class="site" target="blank" href="https://secluded.site">secluded.site</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:241.8;"></span>
+    <span class="after">241.8 KB</span>
+    <a class="site" target="blank" href="https://michel-slm.name">michel-slm.name</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:247.1;"></span>
+    <span class="after">247.1 KB</span>
+    <a class="site" target="blank" href="https://pixelcraft.web.app">pixelcraft.web.app</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:247.7;"></span>
+    <span class="after">247.7 KB</span>
+    <a class="site" target="blank" href="https://ciboulette.net">ciboulette.net</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:248.8;"></span>
+    <span class="after">248.8 KB</span>
+    <a class="site" target="blank" href="https://momi.ca">momi.ca</a>
+  </li>
+  
+</ul>
+
+<h2 id="512">The Blue Team (&lt;512KB) <span class="small"><a href="#top">^ Top ^</a></span></h2>
+<ul class="blue">
+  
+  <li>
+    <span class="before" style="--data-size:251.3;"></span>
+    <span class="after">251.3 KB</span>
+    <a class="site" target="blank" href="https://appbeat.io">appbeat.io</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:253.5;"></span>
+    <span class="after">253.5 KB</span>
+    <a class="site" target="blank" href="https://aryan.app">aryan.app</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:262.6;"></span>
+    <span class="after">262.6 KB</span>
+    <a class="site" target="blank" href="https://nymbus.xyz">nymbus.xyz</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:264.1;"></span>
+    <span class="after">264.1 KB</span>
+    <a class="site" target="blank" href="https://l3m.in">l3m.in</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:274.1;"></span>
+    <span class="after">274.1 KB</span>
+    <a class="site" target="blank" href="https://wolfgang.lol">wolfgang.lol</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:275;"></span>
+    <span class="after">275 KB</span>
+    <a class="site" target="blank" href="https://qunitjs.com">qunitjs.com</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:289.1;"></span>
+    <span class="after">289.1 KB</span>
+    <a class="site" target="blank" href="https://leedsbabybank.org">leedsbabybank.org</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:292.6;"></span>
+    <span class="after">292.6 KB</span>
+    <a class="site" target="blank" href="https://playerone.kevincox.ca">playerone.kevincox.ca</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:304.3;"></span>
+    <span class="after">304.3 KB</span>
+    <a class="site" target="blank" href="https://nixnet.services">nixnet.services</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:304.6;"></span>
+    <span class="after">304.6 KB</span>
+    <a class="site" target="blank" href="https://steamosaic.com">steamosaic.com</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:307.2;"></span>
+    <span class="after">307.2 KB</span>
+    <a class="site" target="blank" href="https://noblogo.org">noblogo.org</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:314.1;"></span>
+    <span class="after">314.1 KB</span>
+    <a class="site" target="blank" href="https://lexicon.ga">lexicon.ga</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:322.2;"></span>
+    <span class="after">322.2 KB</span>
+    <a class="site" target="blank" href="https://sebastian.graphics">sebastian.graphics</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:337.8;"></span>
+    <span class="after">337.8 KB</span>
+    <a class="site" target="blank" href="https://jpdb.io">jpdb.io</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:339.4;"></span>
+    <span class="after">339.4 KB</span>
+    <a class="site" target="blank" href="https://zakr.es">zakr.es</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:341;"></span>
+    <span class="after">341 KB</span>
+    <a class="site" target="blank" href="https://havenweb.org">havenweb.org</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:345.9;"></span>
+    <span class="after">345.9 KB</span>
+    <a class="site" target="blank" href="https://wor.do">wor.do</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:357.7;"></span>
+    <span class="after">357.7 KB</span>
+    <a class="site" target="blank" href="https://anibalsolon.com">anibalsolon.com</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:361.7;"></span>
+    <span class="after">361.7 KB</span>
+    <a class="site" target="blank" href="https://robbie.antenesse.net">robbie.antenesse.net</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:364;"></span>
+    <span class="after">364 KB</span>
+    <a class="site" target="blank" href="https://mcgillij.dev">mcgillij.dev</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:370;"></span>
+    <span class="after">370 KB</span>
+    <a class="site" target="blank" href="https://pablosgweb.com">pablosgweb.com</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:385.9;"></span>
+    <span class="after">385.9 KB</span>
+    <a class="site" target="blank" href="https://joshkasuboski.com">joshkasuboski.com</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:386.1;"></span>
+    <span class="after">386.1 KB</span>
+    <a class="site" target="blank" href="https://allaboutberlin.com">allaboutberlin.com</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:395.5;"></span>
+    <span class="after">395.5 KB</span>
+    <a class="site" target="blank" href="https://paramdeo.com">paramdeo.com</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:402.3;"></span>
+    <span class="after">402.3 KB</span>
+    <a class="site" target="blank" href="https://simpleblogs.org">simpleblogs.org</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:402.3;"></span>
+    <span class="after">402.3 KB</span>
+    <a class="site" target="blank" href="https://slashdev.space">slashdev.space</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:414.3;"></span>
+    <span class="after">414.3 KB</span>
+    <a class="site" target="blank" href="https://roelbazuin.nl">roelbazuin.nl</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:416.6;"></span>
+    <span class="after">416.6 KB</span>
+    <a class="site" target="blank" href="https://vreeman.com">vreeman.com</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:430.4;"></span>
+    <span class="after">430.4 KB</span>
+    <a class="site" target="blank" href="https://block.sunappu.net">block.sunappu.net</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:439.7;"></span>
+    <span class="after">439.7 KB</span>
+    <a class="site" target="blank" href="http://evantravers.com">evantravers.com</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:470.1;"></span>
+    <span class="after">470.1 KB</span>
+    <a class="site" target="blank" href="https://dariusz.wieckiewicz.org">dariusz.wieckiewicz.org</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:492.8;"></span>
+    <span class="after">492.8 KB</span>
+    <a class="site" target="blank" href="https://marioseijo.com">marioseijo.com</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:497.4;"></span>
+    <span class="after">497.4 KB</span>
+    <a class="site" target="blank" href="https://emadmasroor.github.io">emadmasroor.github.io</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:501;"></span>
+    <span class="after">501 KB</span>
+    <a class="site" target="blank" href="https://ebass.uk">ebass.uk</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:505;"></span>
+    <span class="after">505 KB</span>
+    <a class="site" target="blank" href="https://drwho.virtadpt.net">drwho.virtadpt.net</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:506.8;"></span>
+    <span class="after">506.8 KB</span>
+    <a class="site" target="blank" href="https://lopeztel.xyz">lopeztel.xyz</a>
+  </li>
+  
+  <li>
+    <span class="before" style="--data-size:509.4;"></span>
+    <span class="after">509.4 KB</span>
+    <a class="site" target="blank" href="https://scott.mortimer.name">scott.mortimer.name</a>
+  </li>
+  
+</ul>
+
+
+
+    </main>
+
+    <footer>
+
+      <p>The 512KB Club was created by <a href="https://kevq.uk">Kev Quirk</a> and was inspired by <a href="https://uglyduck.ca">Bradley Taunt's</a> 1MB Club.</p>
+
+      <p>Maintained with &hearts; for a performant, lightweight web.</p>
+
+			<a href="#top">^ TOP ^</a>
+
+    </footer>
+
+  </body>
+</html>

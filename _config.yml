@@ -1,0 +1,17 @@
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# SEO Stuff
+author: Kev Quirk
+title: 512KB Club
+tagline: A showcase of lightweight websites.
+description: The 512KB Club is a showcase of lightweight websites that prove you don't need MB's of JS to have a nice, functional website.
+lang: en
+locale: en_GB
+url: "https://512kb.club"
+baseurl: ""
+permalink: :title
+
+# Syntax Highlighting
+highlighter: rouge
