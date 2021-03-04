@@ -15,3 +15,7 @@ permalink: :title
 
 # Syntax Highlighting
 highlighter: rouge
+
+# Netlify redirects
+include:
+  - _redirects
