@@ -1,3 +1,3 @@
-* **Website URL:**
-* **Link to GTMetrix results:**
-* **Uncompressed page size:**
+Website URL:
+Link to GTMetrix results:
+Uncompressed page size:

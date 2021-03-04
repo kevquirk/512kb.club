@@ -2,7 +2,7 @@
 permalink: /
 layout: default
 ---
-The internet has become a <b>bloated mess</b>. Massive javascript libraries, countless client-side queries and overly complex frontend frameworks are par for the course these days.
+The internet has become a <b>bloated mess</b>. Massive JavaScript libraries, countless client-side queries and overly complex frontend frameworks are par for the course these days.
 
 When online newspapers like [The Guardian](https://www.theguardian.com/uk) are **over 4MB in size**, you know there's a problem. Why does an online newspaper need to be over 4MB in size? It's crazy.
 

@@ -6,7 +6,7 @@ plugins:
 author: Kev Quirk
 title: 512KB Club
 tagline: A showcase of lightweight websites.
-description: The 512KB Club is a showcase of lightweight websites that prove you don't need MB's of JS to have a nice, functional website.
+description: The 512KB Club is an exclusive list of web pages weighing less than 512 kilobytes.
 lang: en
 locale: en_GB
 url: "https://512kb.club"
