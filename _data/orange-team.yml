@@ -26,6 +26,10 @@
   url: https://binyam.in
   size: 121.2
 
+- domain: secluded.site
+  url: https://secluded.site
+  size: 123.3
+
 - domain: jeremysarber.com
   url: https://jeremysarber.com
   size: 125.1
@@ -193,10 +197,6 @@
 - domain: fedi.dev
   url: https://fedi.dev
   size: 230.1
-
-- domain: secluded.site
-  url: https://secluded.site
-  size: 238.1
 
 - domain: michel-slm.name
   url: https://michel-slm.name
