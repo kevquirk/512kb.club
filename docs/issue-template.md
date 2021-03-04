@@ -2,7 +2,6 @@ Link to GTMetrix results:
 
 Please fill in this simple template:
 
-
 - domain:
   url:
   size:
