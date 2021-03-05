@@ -326,6 +326,10 @@
   url: https://tanami.org
   size: 32.8
 
+- domain: eddiex.se
+  url: https://eddiex.se
+  size: 32.9
+
 - domain: timharek.no
   url: https://timharek.no
   size: 33.9
@@ -437,6 +441,10 @@
 - domain: littlezhang.com
   url: https://littlezhang.com
   size: 67.4
+
+- domain: blog.taylantatli.com
+  url: https://blog.taylantatli.com/
+  size: 70.8
 
 - domain: sensorstation.co
   url: https://sensorstation.co

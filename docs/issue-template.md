@@ -1,15 +1,6 @@
+Please fill out **ALL ITEMS** below before submitting a new issue. If this is a for an update to an existing site, please ensure **"UPDATE"** is in the issue title.
+
 Link to GTMetrix results:
-
-Please fill in this simple template:
-
-- domain:
-  url:
-  size:
-
-Here's an example using `example.com` with a size of `21.4 KB`:
-
-```
-- domain: example.com
-  url: https://example.com
-  size: 21.4
-```
+domain:
+url:
+size:
