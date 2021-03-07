@@ -54,6 +54,10 @@
   url: https://leagueh.xyz/en/
   size: 4
 
+- domain: ybad.name
+  url: https://ybad.name
+  size: 4.2
+
 - domain: 0chris.com
   url: https://www.0chris.com
   size: 4.3
@@ -69,6 +73,10 @@
 - domain: yne.fr
   url: https://yne.fr
   size: 4.7
+
+- domain: aboutdavid.me
+  url: https://aboutdavid.me
+  size: 5 
 
 - domain: bestmotherfucking.website
   url: https://bestmotherfucking.website
@@ -141,10 +149,6 @@
 - domain: astrophena.name
   url: https://astrophena.name
   size: 9.1
-
-- domain: ybad.name
-  url: https://ybad.name
-  size: 9.4
 
 - domain: vladas.palubinskas.lt
   url: https://vladas.palubinskas.lt
@@ -225,10 +229,6 @@
 - domain: a1cy0n.xyz
   url: https://a1cy0n.xyz
   size: 17.2
-
-- domain: starbreaker.org
-  url: https://starbreaker.org
-  size: 18.1
 
 - domain: citizen428.net
   url: https://citizen428.net/
