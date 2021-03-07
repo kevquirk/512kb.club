@@ -76,7 +76,7 @@
 
 - domain: aboutdavid.me
   url: https://aboutdavid.me
-  size: 5 
+  size: 5
 
 - domain: bestmotherfucking.website
   url: https://bestmotherfucking.website
@@ -425,6 +425,10 @@
 - domain: saladhax.site
   url: https://saladhax.site
   size: 52.2
+
+- domain: ccw.icu
+  url: https://ccw.icu
+  size: 53.7 
 
 - domain: hugo.md
   url: https://hugo.md
