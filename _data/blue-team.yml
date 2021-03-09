@@ -6,6 +6,10 @@
   url: https://aryan.app
   size: 253.5
 
+- domain: kevq.uk
+  url: https://kevq.uk
+  size: 257.9
+
 - domain: nymbus.xyz
   url: https://nymbus.xyz
   size: 262.6
@@ -113,10 +117,6 @@
 - domain: slashdev.space
   url: https://slashdev.space
   size: 402.3
-
-- domain: kevq.uk
-  url: https://kevq.uk
-  size: 407.2
 
 - domain: roelbazuin.nl
   url: https://roelbazuin.nl
