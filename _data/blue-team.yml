@@ -18,6 +18,10 @@
   url: https://l3m.in
   size: 264.1
 
+- domain: sakrajda.eu
+  url: https://sakrajda.eu
+  size: 271.7
+
 - domain: wolfgang.lol
   url: https://wolfgang.lol
   size: 274.1
@@ -25,6 +29,10 @@
 - domain: qunitjs.com
   url: https://qunitjs.com
   size: 275
+
+- domain: xanny.family
+  url: https://xanny.family/
+  size: 288.9
 
 - domain: leedsbabybank.org
   url: https://leedsbabybank.org
@@ -134,13 +142,13 @@
   url: http://evantravers.com
   size: 439.7
 
-- domain: sakrajda.eu
-  url: https://sakrajda.eu
-  size: 464.9
-
 - domain: dariusz.wieckiewicz.org
   url: https://dariusz.wieckiewicz.org
   size: 470.1
+
+- domain: blog.khaleelgibran.com
+  url: https://blog.khaleelgibran.com/
+  size: 476.3
 
 - domain: marioseijo.com
   url: https://marioseijo.com

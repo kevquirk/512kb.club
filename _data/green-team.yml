@@ -428,7 +428,7 @@
 
 - domain: ccw.icu
   url: https://ccw.icu
-  size: 53.7 
+  size: 53.7
 
 - domain: hugo.md
   url: https://hugo.md
@@ -525,6 +525,10 @@
 - domain: qcard.link
   url: https://qcard.link
   size: 93.5
+
+- domain: binyam.in
+  url: https://binyam.in
+  size: 93.8
 
 - domain: chriswiegman.com
   url: https://chriswiegman.com
