@@ -174,6 +174,10 @@
   url: https://chaitanya.page
   size: 12.1
 
+- domain: 0xff.nu
+  url: https://0xff.nu
+  size: 12.9
+
 - domain: degruchy.org
   url: https://degruchy.org
   size: 13
@@ -506,6 +510,10 @@
   url: https://mylight.website
   size: 84.7
 
+- domain: ethan.link
+  url: https://ethan.link
+  size: 88.7
+
 - domain: lighthouse16.com
   url: https://lighthouse16.com
   size: 89.3
@@ -537,10 +545,6 @@
 - domain: chriswiegman.com
   url: https://chriswiegman.com
   size: 93.8
-
-- domain: ethan.link
-  url: https://ethan.link
-  size: 96
 
 - domain: salixos.org
   url: https://salixos.org
