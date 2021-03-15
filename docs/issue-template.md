@@ -7,3 +7,11 @@ Link to GTMetrix results:
   url:
   size:
 ```
+
+Example completed template for `example.com` with an **UNCOMPRESSED** size of 72.5KB:
+
+```
+- domain: example.com
+  url: https://example.com
+  size: 72.5
+```
