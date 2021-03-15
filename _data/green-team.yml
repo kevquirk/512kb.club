@@ -10,6 +10,10 @@
   url: https://neelc.org
   size: 1.2
 
+- domain: peretz.xyz
+  url: https://peretz.xyz/
+  size: 1.3
+
 - domain: tokiesan.github.io
   url: https://tokiesan.github.io
   size: 2
@@ -501,6 +505,10 @@
 - domain: roelwillems.com
   url: https://roelwillems.com
   size: 82.3
+
+- domain: fanael.github.io
+  url: https://fanael.github.io/
+  size: 83.7
 
 - domain: canwe.dev
   url: https://canwe.dev

@@ -2,6 +2,10 @@
   url: https://format-express.dev
   size: 100.6
 
+- domain: jloh.co
+  url: https://jloh.co/
+  size: 108
+
 - domain: mvion.fr
   url: https://mvion.fr
   size: 111
@@ -189,6 +193,10 @@
 - domain: fedi.dev
   url: https://fedi.dev
   size: 230.1
+
+- domain: my-flow.com
+  url: https://www.my-flow.com
+  size: 237.9
 
 - domain: michel-slm.name
   url: https://michel-slm.name
