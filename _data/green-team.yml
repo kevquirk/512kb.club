@@ -198,6 +198,10 @@
   url: https://devosmium.xyz
   size: 14.1
 
+- domain: metaletter.net
+  url: https://metaletter.net
+  size: 14.4
+
 - domain: donohoe.dev
   url: https://donohoe.dev
   size: 15
@@ -409,6 +413,10 @@
 - domain: goel.io
   url: http://goel.io
   size: 43.9
+
+- domain: tredkip.github.io
+  url: https://tredkip.github.io/
+  size: 44.4
 
 - domain: scyllasequence.com
   url: https://scyllasequence.com
