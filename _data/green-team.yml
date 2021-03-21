@@ -350,6 +350,10 @@
   url: https://amanasifkhalid.github.io
   size: 31.3
 
+- domain: extinction.fyi
+  url: https://extinction.fyi
+  size: 31.6
+
 - domain: tanami.org
   url: https://tanami.org
   size: 32.8
@@ -426,6 +430,10 @@
   url: https://scyllasequence.com
   size: 44.5
 
+- domain: taylantatli.com
+  url: https://taylantatli.com
+  size: 44.6
+
 - domain: josias.dev
   url: https://josias.dev
   size: 44.8
@@ -482,10 +490,6 @@
   url: https://littlezhang.com
   size: 67.4
 
-- domain: blog.taylantatli.com
-  url: https://blog.taylantatli.com/
-  size: 70.8
-
 - domain: sensorstation.co
   url: https://sensorstation.co
   size: 70.9
@@ -521,6 +525,10 @@
 - domain: fanael.github.io
   url: https://fanael.github.io/
   size: 83.7
+
+- domain: edleeman.co.uk
+  url: https://edleeman.co.uk
+  size: 84.1
 
 - domain: canwe.dev
   url: https://canwe.dev

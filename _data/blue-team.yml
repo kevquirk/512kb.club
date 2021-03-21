@@ -42,6 +42,10 @@
   url: https://playerone.kevincox.ca
   size: 292.6
 
+- domain: sourcerer.ca
+  url: https://www.sourcerer.ca
+  size: 297.2
+
 - domain: nixnet.services
   url: https://nixnet.services
   size: 304.3
@@ -53,6 +57,10 @@
 - domain: noblogo.org
   url: https://noblogo.org
   size: 307.2
+
+- domain: jorp.xyz
+  url: https://jorp.xyz
+  size: 311.5
 
 - domain: lexicon.ga
   url: https://lexicon.ga
