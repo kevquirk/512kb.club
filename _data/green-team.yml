@@ -30,10 +30,6 @@
   url: https://www.karl.berlin
   size: 2.3
 
-- domain: simbly.me
-  url: https://simbly.me
-  size: 2.9
-
 - domain: adrsrv.duckdns.org
   url: https://adrsrv.duckdns.orgs
   size: 3.1
@@ -86,6 +82,10 @@
   url: https://bestmotherfucking.website
   size: 5.4
 
+- domain: simbly.me
+  url: https://simbly.me
+  size: 5.5
+
 - domain: jrballesteros05.codeberg.page
   url: https://jrballesteros05.codeberg.page
   size: 5.6
@@ -116,6 +116,10 @@
 
 - domain: midnight.pub
   url: https://midnight.pub
+  size: 6.6
+
+- domain: spool-five.com
+  url: https://spool-five.com
   size: 6.6
 
 - domain: bebyx.co.ua
@@ -153,6 +157,10 @@
 - domain: astrophena.name
   url: https://astrophena.name
   size: 9.1
+
+- domain: mzumquadrat.de
+  url: https://mzumquadrat.de
+  size: 9.4
 
 - domain: vladas.palubinskas.lt
   url: https://vladas.palubinskas.lt
@@ -273,10 +281,6 @@
 - domain: pantsufan.github.io
   url: https://pantsufan.github.io
   size: 22.8
-
-- domain: mzumquadrat.de
-  url: https://mzumquadrat.de
-  size: 23.2
 
 - domain: 100daystooffload.com
   url: https://100daystooffload.com
