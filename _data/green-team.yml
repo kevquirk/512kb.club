@@ -1,3 +1,7 @@
+- domain: tinyip.me
+  url: https://www.tinyip.me
+  size: 0.15
+
 - domain: whatsitsna.me
   url: https://whatsitsna.me
   size: 1.01
@@ -29,6 +33,10 @@
 - domain: karl.berlin
   url: https://www.karl.berlin
   size: 2.3
+
+- domain: fossphones.com
+  url: https://fossphones.com
+  size: 2.8
 
 - domain: adrsrv.duckdns.org
   url: https://adrsrv.duckdns.orgs
@@ -157,6 +165,10 @@
 - domain: astrophena.name
   url: https://astrophena.name
   size: 9.1
+
+- domain: stapy.magentix.fr
+  url: https://stapy.magentix.fr
+  size: 9.2
 
 - domain: mzumquadrat.de
   url: https://mzumquadrat.de
@@ -537,6 +549,10 @@
 - domain: mylight.website
   url: https://mylight.website
   size: 84.7
+
+- domain: beh.uk
+  url: https://www.beh.uk/
+  size: 88.1
 
 - domain: ethan.link
   url: https://ethan.link
