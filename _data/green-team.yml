@@ -274,6 +274,10 @@
   url: https://oscarforner.com
   size: 19.8
 
+- domain: cri.dev
+  url: https://cri.dev
+  size: 20.3
+
 - domain: ethanyoo.com
   url: https://www.ethanyoo.com
   size: 20.3
@@ -329,6 +333,10 @@
 - domain: lectupedia.com
   url: https://lectupedia.com
   size: 27.4
+
+- domain: paulwilde.uk
+  url: https://paulwilde.uk
+  size: 27.6
 
 - domain: jds.work
   url: https://jds.work
@@ -478,10 +486,6 @@
   url: https://hugo.md
   size: 54.6
 
-- domain: cri.dev
-  url: https://cri.dev
-  size: 55.2
-
 - domain: miltsghostrehab.xyz
   url: https://miltsghostrehab.xyz
   size: 57.1
@@ -549,6 +553,10 @@
 - domain: mylight.website
   url: https://mylight.website
   size: 84.7
+
+- domain: weinzierlweb.com
+  url: https://weinzierlweb.com
+  size: 85.8
 
 - domain: beh.uk
   url: https://www.beh.uk/
