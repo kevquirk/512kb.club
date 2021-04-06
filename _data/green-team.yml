@@ -2,6 +2,14 @@
   url: https://www.tinyip.me
   size: 0.15
 
+- domain: maczan.pl
+  url: https://maczan.pl/
+  size: 0.44
+
+- domain: peretz.xyz
+  url: https://peretz.xyz/
+  size: 0.44
+
 - domain: whatsitsna.me
   url: https://whatsitsna.me
   size: 1.01
@@ -13,10 +21,6 @@
 - domain: neelc.org
   url: https://neelc.org
   size: 1.2
-
-- domain: peretz.xyz
-  url: https://peretz.xyz/
-  size: 1.3
 
 - domain: tokiesan.github.io
   url: https://tokiesan.github.io
@@ -109,6 +113,10 @@
 - domain: dev-nonsense.com
   url: https://dev-nonsense.com
   size: 6
+
+- domain: lo.hn
+  url: https://lo.hn
+  size: 6.2
 
 - domain: sandboxgeneral.xyz
   url: https://sandboxgeneral.xyz
