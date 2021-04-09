@@ -2,6 +2,10 @@
   url: https://www.tinyip.me
   size: 0.15
 
+  - domain: lil.gay
+    url: https://lil.gay
+    size: 0.37
+
 - domain: maczan.pl
   url: https://maczan.pl/
   size: 0.44
@@ -46,6 +50,10 @@
   url: https://adrsrv.duckdns.org
   size: 3.1
 
+- domain: wittamore.com
+  url: https://wittamore.com
+  size: 3.1
+
 - domain: qtrnn.io
   url: https://qtrnn.io
   size: 3.2
@@ -65,6 +73,10 @@
 - domain: leagueh.xyz
   url: https://leagueh.xyz/en/
   size: 4
+
+- domain: ccw.icu
+  url: https://www.ccw.icu
+  size: 4.1
 
 - domain: ybad.name
   url: https://ybad.name
@@ -486,10 +498,6 @@
   url: https://saladhax.site
   size: 52.2
 
-- domain: ccw.icu
-  url: https://ccw.icu
-  size: 53.7
-
 - domain: hugo.md
   url: https://hugo.md
   size: 54.6
@@ -605,6 +613,10 @@
 - domain: chriswiegman.com
   url: https://chriswiegman.com
   size: 93.8
+
+- domain: karamoff.dev
+  url: https://karamoff.dev/
+  size: 94.7
 
 - domain: lyndon.codes
   url: https://lyndon.codes
