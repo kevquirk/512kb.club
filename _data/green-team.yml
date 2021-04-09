@@ -78,6 +78,10 @@
   url: https://www.ccw.icu
   size: 4.1
 
+- domain: ohio.araw.xyz
+  url: https://ohio.araw.xyz
+  size: 4.1
+
 - domain: ybad.name
   url: https://ybad.name
   size: 4.2
@@ -204,10 +208,6 @@
 
 - domain: journal.gudulin.com
   url: https://journal.gudulin.com
-  size: 11.3
-
-- domain: oqolarte.github.io
-  url: https://oqolarte.github.io
   size: 11.3
 
 - domain: simplecss.org
