@@ -6,10 +6,6 @@
   url: https://lil.gay
   size: 0.37
 
-- domain: maczan.pl
-  url: https://maczan.pl/
-  size: 0.44
-
 - domain: peretz.xyz
   url: https://peretz.xyz/
   size: 0.44
@@ -57,6 +53,10 @@
 - domain: qtrnn.io
   url: https://qtrnn.io
   size: 3.2
+
+- domain: m-chrzan.xyz
+  url: https://m-chrzan.xyz
+  size: 3.3
 
 - domain: minwiz.com
   url: https://minwiz.com
@@ -378,6 +378,10 @@
   url: https://blog.bshah.in
   size: 29.2
 
+- domain: dvergamål.no
+  url: https://dvergamål.no
+  size: 29.4
+
 - domain: decentnet.github.io
   url: https://decentnet.github.io
   size: 30.6
@@ -621,6 +625,10 @@
 - domain: lyndon.codes
   url: https://lyndon.codes
   size: 94.9
+
+- domain: dejalavidavolar.org
+  url: https://dejalavidavolar.org
+  size: 96.1
 
 - domain: salixos.org
   url: https://salixos.org
