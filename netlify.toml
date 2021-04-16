@@ -1,0 +1,5 @@
+# Google FLoC opt out
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Permissions-Policy = "interest-cohort=()"
