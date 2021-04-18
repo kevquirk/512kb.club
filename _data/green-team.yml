@@ -1,3 +1,11 @@
+- domain: 1024b.club
+  url: https://1024b.club/
+  size: 1.1
+
+- domain: maczan.pl
+  url: https://maczan.pl/
+  size: 1.2
+
 - domain: tokiesan.github.io
   url: https://tokiesan.github.io
   size: 2
@@ -45,6 +53,10 @@
 - domain: sudosie.be
   url: https://sudosie.be
   size: 3.7
+
+- domain: si3t.ch
+  url: https://si3t.ch
+  size: 3.8
 
 - domain: leagueh.xyz
   url: https://leagueh.xyz/en/
@@ -226,6 +238,10 @@
   url: https://oh.mg
   size: 15.5
 
+- domain: ramenos.net
+  url: https://www.ramenos.net
+  size: 15.5
+
 - domain: mataroa.blog
   url: https://mataroa.blog
   size: 15.6
@@ -293,6 +309,14 @@
 - domain: pantsufan.github.io
   url: https://pantsufan.github.io
   size: 22.8
+
+- domain: ulpaulpa.de
+  url: https://ulpaulpa.de
+  size: 23.3
+
+- domain: bezoscalculator.com
+  url: https://bezoscalculator.com/
+  size: 24.3
 
 - domain: 100daystooffload.com
   url: https://100daystooffload.com
