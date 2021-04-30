@@ -398,6 +398,10 @@
   url: https://250kb.club
   size: 30.7
 
+- domain: matthew.science
+  url: https://matthew.science
+  size: 31
+
 - domain: amanasifkhalid.github.io
   url: https://amanasifkhalid.github.io
   size: 31.3
@@ -533,6 +537,10 @@
 - domain: littlezhang.com
   url: https://littlezhang.com
   size: 67.4
+
+- domain: zn80.net
+  url: https://zn80.net
+  size: 70.2
 
 - domain: sensorstation.co
   url: https://sensorstation.co
