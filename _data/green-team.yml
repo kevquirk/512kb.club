@@ -46,6 +46,10 @@
   url: https://minwiz.com
   size: 3.5
 
+  - domain: sugarfi.dev
+  url: https://sugarfi.dev
+  size: 3.5
+
 - domain: gsthnz.com
   url: https://gsthnz.com
   size: 3.7
@@ -113,6 +117,10 @@
 - domain: fossdd.codeberg.page
   url: https://fossdd.codeberg.page
   size: 5.9
+
+- domain: danielcuttridge.com
+  URL: https://danielcuttridge.com
+  size: 6
 
 - domain: dev-nonsense.com
   url: https://dev-nonsense.com
@@ -556,6 +564,10 @@
 
 - domain: docs.j7k6.org
   url: https://docs.j7k6.org
+  size: 73
+
+- domain: ttntm.me
+  url: https://ttntm.me
   size: 73
 
 - domain: tunesheavy.com
