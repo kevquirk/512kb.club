@@ -198,6 +198,10 @@
 - domain: stuts.uk
   url: http://stuts.uk
   size: 212
+  
+- domain: kevq.uk
+  url: https://kevq.uk
+  size: 216.1
 
 - domain: editions-du-26-octobre
   url: https://editions-du-26-octobre
