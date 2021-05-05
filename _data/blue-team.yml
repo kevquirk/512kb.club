@@ -14,10 +14,6 @@
   url: https://l3m.in
   size: 264.1
 
-- domain: sakrajda.eu
-  url: https://sakrajda.eu
-  size: 271.7
-
 - domain: wolfgang.lol
   url: https://wolfgang.lol
   size: 274.1
@@ -25,6 +21,10 @@
 - domain: qunitjs.com
   url: https://qunitjs.com
   size: 275
+
+- domain: phate6660.codeberg.page
+  url: https://phate6660.codeberg.page
+  size: 278.4
 
 - domain: justalecu.ro
   url: https://justalecu.ro/

@@ -34,6 +34,10 @@
   url: https://wittamore.com
   size: 3.1
 
+- domain: nihar.page
+  url: https://nihar.page
+  size: 3.2
+
 - domain: qtrnn.io
   url: https://qtrnn.io
   size: 3.2
@@ -225,6 +229,10 @@
 - domain: hunden.linuxkompis.se
   url: https://hunden.linuxkompis.se
   size: 13.5
+
+- domain: ianmuchina.com
+  url: https://ianmuchina.com
+  size: 13.6
 
 - domain: 60z.github.io
   url: https://60z.github.io
@@ -477,6 +485,10 @@
 - domain: cycloneblaze.net
   url: https://cycloneblaze.net
   size: 41.9
+
+- domain: sakrajda.eu
+  url: https://sakrajda.eu/
+  size: 43.4
 
 - domain: hejo.org
   url: https://hejo.org
