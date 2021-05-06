@@ -114,6 +114,10 @@
   url: https://jrballesteros05.codeberg.page
   size: 5.6
 
+- domain: sakrajda.eu
+  url: https://sakrajda.eu
+  size: 5.6
+
 - domain: jf17.ru
   url: https://jf17.ru
   size: 5.8
@@ -153,6 +157,10 @@
 - domain: spool-five.com
   url: https://spool-five.com
   size: 6.6
+
+- domain: i21k.de
+  url: https://i21k.de/
+  size: 6.7
 
 - domain: bebyx.co.ua
   url: https://bebyx.co.ua
@@ -485,10 +493,6 @@
 - domain: cycloneblaze.net
   url: https://cycloneblaze.net
   size: 41.9
-
-- domain: sakrajda.eu
-  url: https://sakrajda.eu/
-  size: 43.4
 
 - domain: hejo.org
   url: https://hejo.org
