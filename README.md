@@ -15,9 +15,9 @@ But we can make a difference - all it takes is some optimisation. Do you really 
 
 1. Fork this repository.
 2. Get the **UNCOMPRESSED** size of your website's homepage and work out which team it should be in.
-    a. Less than 100KB - **Green Team**
-    b. Less than 250KB - **Orange Team**
-    c. Less than 512KB - **Blue Team**
+    * Less than 100KB - **Green Team**
+    * Less than 250KB - **Orange Team**
+    * Less than 512KB - **Blue Team**
 3. Once you know which team you're in, navigate to `_data/<colour>-team.yml`
 4. Add your site to the list using the template below:
 
