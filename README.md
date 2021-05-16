@@ -18,8 +18,10 @@ But we can make a difference - all it takes is some optimisation. Do you really 
     * Less than 100KB - **Green Team**
     * Less than 250KB - **Orange Team**
     * Less than 512KB - **Blue Team**
-3. Once you know which team you're in, navigate to `_data/<colour>-team.yml`
-4. Add your site to the list using the template below:
+3. Once you know which team you're in, navigate to `_data/<colour>-team.yml` and add your site (template below).
+4.  **When creating the PR, please include a link to the GT Metrix results in the PR comment.**
+
+### Site template
 
 ```
 - domain: example.com
