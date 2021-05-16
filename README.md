@@ -27,4 +27,4 @@ But we can make a difference - all it takes is some optimisation. Do you really 
   size: 75.2
 ```
 
-**NOTE:** You site needs to be added to the list in **size order**, so please make sure your site is in the correct place within the list, or your PR will be rejected. If you site is the same size as someone else's in the list, please add yours before or after alphabetically.
+**NOTE:** Site need to be added to the list in **size order**, so please make sure your site is in the correct place within the list, or your PR will be rejected. If you site is the same size as someone else's in the list, please add yours before or after alphabetically.
