@@ -75,10 +75,6 @@
   url: https://oldirtyhacker.com
   size: 145.8
 
-- domain: about.crakila.moe
-  url: http://about.crakila.moe
-  size: 147.2
-
 - domain: mees.io
   url: https://mees.io
   size: 153.6
@@ -198,7 +194,7 @@
 - domain: stuts.uk
   url: http://stuts.uk
   size: 212
-  
+
 - domain: kevq.uk
   url: https://kevq.uk
   size: 216.1

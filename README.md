@@ -29,4 +29,20 @@ But we can make a difference - all it takes is some optimisation. Do you really 
   size: 75.2
 ```
 
-**NOTE:** Site need to be added to the list in **size order**, so please make sure your site is in the correct place within the list, or your PR will be rejected. If you site is the same size as someone else's in the list, please add yours before or after alphabetically.
+**NOTE:** Site need to be added to the list in **size order**, so please make sure your site is in the correct place within the list, or your PR will be rejected.
+
+If your site is the same size as someone else's in the list, please add yours before or after alphabetically. For example, like this:
+
+```
+- domain: adrsrv.duckdns.org
+  url: https://adrsrv.duckdns.org
+  size: 3.1
+
+- domain: kishvanchee.com
+  url: https://kishvanchee.com
+  size: 3.1
+
+- domain: wittamore.com
+  url: https://wittamore.com
+  size: 3.1
+```

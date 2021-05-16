@@ -8,11 +8,11 @@
 
 - domain: tokiesan.github.io
   url: https://tokiesan.github.io
-  size: 2
+  size: 1.5
 
 - domain: salejandro.me
   url: https://salejandro.me
-  size: 2.1
+  size: 2
 
 - domain: pbanks.net
   url: https://pbanks.net
@@ -28,6 +28,10 @@
 
 - domain: adrsrv.duckdns.org
   url: https://adrsrv.duckdns.org
+  size: 3.1
+
+- domain: kishvanchee.com
+  url: https://kishvanchee.com
   size: 3.1
 
 - domain: wittamore.com
@@ -209,6 +213,10 @@
 - domain: vladas.palubinskas.lt
   url: https://vladas.palubinskas.lt
   size: 9.7
+
+- domain: cyberarm.dev
+  url: https://cyberarm.dev
+  size: 10.9
 
 - domain: codevoid.de
   url: https://codevoid.de
