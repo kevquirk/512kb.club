@@ -1,5 +1,5 @@
 /* Global colour variables */
- :root {
+:root {
     --sans-font: -apple-system, BlinkMacSystemFont, "Avenir Next", Avenir, "Nimbus Sans L", Roboto, Noto, "Segoe UI", Arial, Helvetica, "Helvetica Neue", sans-serif;
     --mono-font: Consolas, Menlo, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
 
@@ -17,23 +17,23 @@
     --before-orange: #FBC02D;
     --after-orange: #FFF176;
     --before-green: #4CAF50;
-    --after-green:  #C8E6C9;
+    --after-green: #C8E6C9;
 
- }
+}
 
- /* Define colours for auto dark mode */
+/* Define colours for auto dark mode */
 @media (prefers-color-scheme: dark) {
     :root {
-      --bg: #212121;
-      --header-bg: #111;
-      --text: #EEE;
-      --link: #64B5F6;
-      --accent: #333;
-      --code: #F06292;
+        --bg: #212121;
+        --header-bg: #111;
+        --text: #EEE;
+        --link: #64B5F6;
+        --accent: #333;
+        --code: #F06292;
     }
 
     ul li {
-      opacity: .8;
+        opacity: .8;
     }
 }
 
@@ -42,7 +42,7 @@
 }
 
 html {
-  scroll-behavior: smooth;
+    scroll-behavior: smooth;
 }
 
 body {
@@ -54,37 +54,44 @@ body {
     color: var(--text);
 }
 
-header,main,footer {
+header,
+main,
+footer {
     margin: 0 auto;
     max-width: 50rem;
     width: 100%;
 }
 
 header {
-  background: var(--header-bg);
-  color: var(--header-text);
-  border-radius: 5px;
-  text-align: center;
-  padding: 3rem 0;
-  margin-top: .5rem;
+    background: var(--header-bg);
+    color: var(--header-text);
+    border-radius: 5px;
+    text-align: center;
+    padding: 3rem 0;
+    margin-top: .5rem;
 }
 
 header h1 {
-  margin: 0;
-  font-size: 3rem;
-  padding: 0 .5rem;
+    margin: 0;
+    font-size: 3rem;
+    padding: 0 .5rem;
 }
 
 .small {
-  font-size: .9rem;
+    font-size: .9rem;
 }
 
 .medium {
-  font-weight: bold;
-  font-size: 1.4rem;
+    font-weight: bold;
+    font-size: 1.4rem;
 }
 
-h1,h2,h3,h4,h5,h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     line-height: 1.2;
 }
 
@@ -93,47 +100,51 @@ h2 {
 }
 
 .jump li {
-  display: inline-block;
-  padding-right: 1rem;
+    display: inline-block;
+    padding-right: 1rem;
 }
 
-a, a:visited {
+a,
+a:visited {
     color: var(--link)
 }
 
-a:hover,a:focus {
-  text-decoration: none;
+a:hover,
+a:focus {
+    text-decoration: none;
 }
 
-a.site, a.site:visited {
+a.site,
+a.site:visited {
     color: currentColor;
     text-decoration: none;
 }
 
-a.site:hover,a.site:focus {
-  text-decoration: underline;
+a.site:hover,
+a.site:focus {
+    text-decoration: underline;
 }
 
 pre {
- font-family: var(--mono-font);
- background: var(--pre-bg) !important;
- border-radius: 5px;
- margin-bottom: 1.6em;
- max-width: 100%;
- white-space: pre-wrap;
- padding: 1.6em;
- max-height: 650px;
+    font-family: var(--mono-font);
+    background: var(--pre-bg) !important;
+    border-radius: 5px;
+    margin-bottom: 1.6em;
+    max-width: 100%;
+    white-space: pre-wrap;
+    padding: 1.6em;
+    max-height: 650px;
 }
 
 pre code {
-  font-size: 1.1rem;
-  font-family: var(--mono-font);
-  color: #ccc;
+    font-size: 1.1rem;
+    font-family: var(--mono-font);
+    color: #ccc;
 }
 
 code {
-  font-family: var(--mono-font);
-  color: var(--code);
+    font-family: var(--mono-font);
+    color: var(--code);
 }
 
 ul {
@@ -236,26 +247,26 @@ footer {
 
 /* Format the accordion */
 details {
-	padding: .6rem 1rem;
-	background: var(--accent);
-	border: 1px solid;
-	border-radius: 5px;
-  margin-bottom: 1rem;
+    padding: .6rem 1rem;
+    background: var(--accent);
+    border: 1px solid;
+    border-radius: 5px;
+    margin-bottom: 1rem;
 }
 
 summary {
-	cursor: pointer;
-	font-weight: bold;
+    cursor: pointer;
+    font-weight: bold;
 }
 
 details[open] {
-	padding-bottom: .75rem;
+    padding-bottom: .75rem;
 }
 
 details[open] summary {
-	margin-bottom: .5rem;
+    margin-bottom: .5rem;
 }
 
 details[open]>*:last-child {
-	margin-bottom: 0;
+    margin-bottom: 0;
 }
