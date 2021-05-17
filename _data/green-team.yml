@@ -443,6 +443,11 @@
   size: 24.5
   last_checked:
 
+- domain: matthewgraybosch.com
+  url: https://www.matthewgraybosch.com/
+  size: 24.6
+  last_checked: 2021-05-17
+
 - domain: noJS.club
   url: https://noJS.club
   size: 24.6
@@ -677,6 +682,11 @@
   url: https://miltsghostrehab.xyz
   size: 57.1
   last_checked:
+
+- domain: sebastian.graphics
+  url: https://sebastian.graphics
+  size: 58.5
+  last_checked: 2021-05-17
 
 - domain: tryhexadecimal.com
   url: https://tryhexadecimal.com
