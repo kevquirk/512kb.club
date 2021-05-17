@@ -208,11 +208,6 @@
   size: 7
   last_checked:
 
-- domain: zinzy.website
-  url: https://zinzy.website
-  size: 7.5
-  last_checked:
-
 - domain: sinax.be
   url: https://sinax.be
   size: 7.7
@@ -561,11 +556,6 @@
 - domain: jeremysarber.com
   url: https://jeremysarber.com
   size: 34
-  last_checked:
-
-- domain: zinzy.website
-  url: https://zinzy.website
-  size: 34.1
   last_checked:
 
 - domain: sontek.net
