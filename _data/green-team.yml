@@ -253,6 +253,11 @@
   size: 9.7
   last_checked:
 
+- domain: jeremysarber.com
+  url: https://jeremysarber.com
+  size: 10.5
+  last_checked: 2021-05-17
+
 - domain: cyberarm.dev
   url: https://cyberarm.dev
   size: 10.9
@@ -551,11 +556,6 @@
 - domain: timharek.no
   url: https://timharek.no
   size: 33.9
-  last_checked:
-
-- domain: jeremysarber.com
-  url: https://jeremysarber.com
-  size: 34
   last_checked:
 
 - domain: sontek.net
