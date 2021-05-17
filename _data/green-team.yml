@@ -668,6 +668,11 @@
   size: 54.6
   last_checked:
 
+- domain: lighthouse16.com
+  url: https://lighthouse16.com
+  size: 56.4
+  last_checked: 2021-05-17
+
 - domain: miltsghostrehab.xyz
   url: https://miltsghostrehab.xyz
   size: 57.1
@@ -771,11 +776,6 @@
 - domain: ethan.link
   url: https://ethan.link
   size: 88.7
-  last_checked:
-
-- domain: lighthouse16.com
-  url: https://lighthouse16.com
-  size: 89.3
   last_checked:
 
 - domain: freshnode.net
