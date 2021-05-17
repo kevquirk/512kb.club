@@ -78,11 +78,6 @@
   size: 3.7
   last_checked:
 
-- domain: sudosie.be
-  url: https://sudosie.be
-  size: 3.7
-  last_checked:
-
 - domain: si3t.ch
   url: https://si3t.ch
   size: 3.8
@@ -176,11 +171,6 @@
 - domain: lo.hn
   url: https://lo.hn
   size: 6.2
-  last_checked:
-
-- domain: sandboxgeneral.xyz
-  url: https://sandboxgeneral.xyz
-  size: 6.4
   last_checked:
 
 - domain: dotfilehub.com
@@ -746,11 +736,6 @@
 - domain: blog.dgold.eu
   url: https://blog.dgold.eu
   size: 78.5
-  last_checked:
-
-- domain: murtezayesil.me
-  url: https://murtezayesil.me
-  size: 80.1
   last_checked:
 
 - domain: roelwillems.com
