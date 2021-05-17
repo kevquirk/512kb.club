@@ -12,6 +12,7 @@ locale: en_GB
 url: "https://512kb.club"
 baseurl: ""
 permalink: :title
+timezone: Etc/GMT
 
 # Syntax Highlighting
 highlighter: rouge
