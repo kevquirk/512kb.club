@@ -1,5 +1,6 @@
 <ul class="orange">
-    {% for item in site.data.orange-team %}
+    {% assign site_domains = site.data.orange-team | sort: 'size' %}
+    {% for item in site_domains %}
     <li>
         <span class="before" style="--data-size:{{ item.size }};"></span>
         <span class="after">{{ item.size }} KB</span>
