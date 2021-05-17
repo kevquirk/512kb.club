@@ -48,11 +48,6 @@
   size: SSL ERROR
   last_checked: 2021-05-17
 
-- domain: nixnet.services
-  url: https://nixnet.services
-  size: 176.5
-  last_checked: 2021-05-17
-
 - domain: steamosaic.com
   url: https://steamosaic.com
   size: 305.2
@@ -78,11 +73,6 @@
   size: 318.9
   last_checked: 2021-05-17
 
-- domain: dusansimic.me
-  url: https://dusansimic.me
-  size: 226.4
-  last_checked: 2021-05-17
-
 - domain: theandrewbailey.com
   url: https://theandrewbailey.com/
   size: 479
@@ -91,11 +81,6 @@
 - domain: jpdb.io
   url: https://jpdb.io
   size: 337
-  last_checked: 2021-05-17
-
-- domain: zakr.es
-  url: https://zakr.es
-  size: 225.6
   last_checked: 2021-05-17
 
 - domain: havenweb.org
@@ -126,11 +111,6 @@
 - domain: pablosgweb.com
   url: https://pablosgweb.com
   size: 370.9
-  last_checked: 2021-05-17
-
-- domain: joshkasuboski.com
-  url: https://joshkasuboski.com
-  size: 163.5
   last_checked: 2021-05-17
 
 - domain: allaboutberlin.com
@@ -173,11 +153,6 @@
   size: 411.9
   last_checked: 2021-05-17
 
-- domain: block.sunappu.net
-  url: https://block.sunappu.net
-  size: 193
-  last_checked: 2021-05-17
-
 - domain: evantravers.com
   url: http://evantravers.com
   size: 455.2
@@ -186,11 +161,6 @@
 - domain: dariusz.wieckiewicz.org
   url: https://dariusz.wieckiewicz.org
   size: 257.5
-  last_checked: 2021-05-17
-
-- domain: blog.khaleelgibran.com
-  url: https://blog.khaleelgibran.com/
-  size: 216.9
   last_checked: 2021-05-17
 
 - domain: textpattern.com

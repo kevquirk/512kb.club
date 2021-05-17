@@ -104,6 +104,11 @@
   size: 162.2
   last_checked:
 
+- domain: joshkasuboski.com
+  url: https://joshkasuboski.com
+  size: 163.5
+  last_checked: 2021-05-17
+
 - domain: davidrutland.com
   url: https://davidrutland.com
   size: 164
@@ -133,6 +138,11 @@
   url: https://codetheweb.blog
   size: 174.7
   last_checked:
+
+- domain: nixnet.services
+  url: https://nixnet.services
+  size: 176.5
+  last_checked: 2021-05-17
 
 - domain: allien.work
   url: https://allien.work
@@ -173,6 +183,11 @@
   url: https://stefdawson.com
   size: 190
   last_checked:
+
+- domain: block.sunappu.net
+  url: https://block.sunappu.net
+  size: 193
+  last_checked: 2021-05-17
 
 - domain: klokmork.com
   url: https://klokmork.com
@@ -229,6 +244,11 @@
   size: 216.1
   last_checked:
 
+- domain: blog.khaleelgibran.com
+  url: https://blog.khaleelgibran.com/
+  size: 216.9
+  last_checked: 2021-05-17
+
 - domain: editions-du-26-octobre.com
   url: https://editions-du-26-octobre.com
   size: 218.4
@@ -244,10 +264,20 @@
   size: 221
   last_checked:
 
+- domain: dusansimic.me
+  url: https://dusansimic.me
+  size: 226.4
+  last_checked: 2021-05-17
+
 - domain: gud.one
   url: https://gud.one
   size: 225.2
   last_checked:
+
+- domain: zakr.es
+  url: https://zakr.es
+  size: 225.6
+  last_checked: 2021-05-17
 
 - domain: tek256.com
   url: https://tek256.com
