@@ -323,6 +323,11 @@
   size: 14.4
   last_checked:
 
+- domain: bala-frontdev.github.io
+  url: https://bala-frontdev.github.io/
+  size: 14.9
+  last_checked: 20210517
+
 - domain: donohoe.dev
   url: https://donohoe.dev
   size: 15
@@ -776,7 +781,7 @@
 - domain: Phate6660.codeberg.page
   url: https://Phate6660.codeberg.page
   size: 87.3
-  last_checked:
+  last_checked: 20210516
 
 - domain: beh.uk
   url: https://www.beh.uk/
