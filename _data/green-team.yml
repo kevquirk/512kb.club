@@ -33,11 +33,6 @@
   size: 2.8
   last_checked:
 
-- domain: adrsrv.duckdns.org
-  url: https://adrsrv.duckdns.org
-  size: 3.1
-  last_checked:
-
 - domain: kishvanchee.com
   url: https://kishvanchee.com
   size: 3.1
@@ -127,6 +122,10 @@
   url: https://aboutdavid.me
   size: 5
   last_checked:
+  
+- domain: groundzeno.net
+  url: https://groundzeno.net
+  size: 5.1TheOnAndOnlyZenomat/512kb.club
 
 - domain: bestmotherfucking.website
   url: https://bestmotherfucking.website
