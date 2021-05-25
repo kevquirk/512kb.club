@@ -122,10 +122,6 @@
   url: https://aboutdavid.me
   size: 5
   last_checked:
-  
-- domain: groundzeno.net
-  url: https://groundzeno.net
-  size: 5.1TheOnAndOnlyZenomat/512kb.club
 
 - domain: bestmotherfucking.website
   url: https://bestmotherfucking.website
@@ -221,6 +217,11 @@
   url: https://mizik.sk
   size: 8.1
   last_checked:
+
+- domain: groundzeno.net
+  url: https://groundzeno.net
+  size: 8.3
+  last_checked: 2021-05-25
 
 - domain: paritybit.ca
   url: https://paritybit.ca
