@@ -33,11 +33,6 @@
   size: 2.8
   last_checked:
 
-- domain: adrsrv.duckdns.org
-  url: https://adrsrv.duckdns.org
-  size: 3.1
-  last_checked:
-
 - domain: kishvanchee.com
   url: https://kishvanchee.com
   size: 3.1
@@ -222,6 +217,11 @@
   url: https://mizik.sk
   size: 8.1
   last_checked:
+
+- domain: groundzeno.net
+  url: https://groundzeno.net
+  size: 8.3
+  last_checked: 2021-05-25
 
 - domain: paritybit.ca
   url: https://paritybit.ca
