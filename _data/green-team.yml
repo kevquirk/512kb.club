@@ -412,7 +412,7 @@
   url: https://mogwai.be
   size: 21
   last_checked:
-  
+
 - domain: luana.cc
   url: https://luana.cc
   size: 22.1
@@ -703,6 +703,11 @@
   size: 58.7
   last_checked:
 
+- domain: xkon.dev
+  url: https://xkon.dev
+  size: 60.8
+  last_checked: 2021-05-25
+
 - domain: rav3ndust.xyz
   url: https://rav3ndust.xyz
   size: 65.1
@@ -797,7 +802,7 @@
   url: https://ethan.link
   size: 88.7
   last_checked:
-  
+
 - domain: purplebits.co.uk
   url: https://purplebits.co.uk
   size: 89.4
