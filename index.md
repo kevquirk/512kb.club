@@ -41,7 +41,7 @@ But we can make a difference - all it takes is some optimisation. Do you really 
 <ul class="green">
     {% assign site_domains = site.data.sites | sort: 'size' %}
     {% for item in site_domains %}
-        {% if item.size >=0 and item.size < 100 %}
+        {% if item.size >= 0 and item.size < 100 %}
             {% include teams.html %}
         {% endif %}
     {% endfor %}
@@ -51,7 +51,7 @@ But we can make a difference - all it takes is some optimisation. Do you really 
 <ul class="orange">
     {% assign site_domains = site.data.sites | sort: 'size' %}
     {% for item in site_domains %}
-        {% if item.size >=100 and item.size < 250 %}
+        {% if item.size >= 100 and item.size < 250 %}
             {% include teams.html %}
         {% endif %}
     {% endfor %}
@@ -61,7 +61,7 @@ But we can make a difference - all it takes is some optimisation. Do you really 
 <ul class="blue">
     {% assign site_domains = site.data.sites | sort: 'size' %}
     {% for item in site_domains %}
-        {% if item.size >=250 and item.size < 512 %}
+        {% if item.size >= 250 and item.size < 512 %}
             {% include teams.html %}
         {% endif %}
     {% endfor %}
