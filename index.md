@@ -38,10 +38,19 @@ But we can make a difference - all it takes is some optimisation. Do you really 
 * [Blue Team (<512KB)](#512)
 
 <h2 id="100">The Green Team (<100KB) <span class="small"><a href="#top">^ Top ^</a></span></h2>
-{% include green-team.html %}
+<ul class="green">
+    {% assign site_domains = site.data.green-team | sort: 'size' %}
+    {% include teams.html %}
+</ul>
 
 <h2 id="250">The Orange Team (<250KB) <span class="small"><a href="#top">^ Top ^</a></span></h2>
-{% include orange-team.html %}
+<ul class="orange">
+    {% assign site_domains = site.data.orange-team | sort: 'size' %}
+    {% include teams.html %}
+</ul>
 
 <h2 id="512">The Blue Team (<512KB) <span class="small"><a href="#top">^ Top ^</a></span></h2>
-{% include blue-team.html %}
+<ul class="blue">
+    {% assign site_domains = site.data.blue-team | sort: 'size' %}
+    {% include teams.html %}
+</ul>

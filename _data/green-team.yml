@@ -33,11 +33,6 @@
   size: 4.4
   last_checked: 2021-05-17
 
-- domain: adrsrv.duckdns.org
-  url: https://adrsrv.duckdns.org
-  size: 8.3
-  last_checked: 2021-05-17
-
 - domain: kishvanchee.com
   url: https://kishvanchee.com
   size: 4.7
@@ -173,6 +168,11 @@
   size: 6.2
   last_checked: 2021-05-18
 
+- domain: 0xedward.io
+  url: https://0xedward.io
+  size: 6.3
+  last_checked: 2021-05-25
+  
 - domain: dotfilehub.com
   url: https://dotfilehub.com
   size: 7.8
@@ -222,6 +222,11 @@
   url: https://mizik.sk
   size: 8.5
   last_checked: 2021-05-18
+
+- domain: groundzeno.net
+  url: https://groundzeno.net
+  size: 8.3
+  last_checked: 2021-05-25
 
 - domain: paritybit.ca
   url: https://paritybit.ca
@@ -412,6 +417,11 @@
   url: https://mogwai.be
   size: 25.4
   last_checked: 2021-05-18
+
+- domain: luana.cc
+  url: https://luana.cc
+  size: 22.1
+  last_checked: 2021-05-21
 
 - domain: ecliptik.com
   url: https://ecliptik.com
@@ -698,6 +708,11 @@
   size: 58.7
   last_checked:
 
+- domain: xkon.dev
+  url: https://xkon.dev
+  size: 60.8
+  last_checked: 2021-05-25
+
 - domain: rav3ndust.xyz
   url: https://rav3ndust.xyz
   size: 65.1
@@ -793,6 +808,11 @@
   size: 88.7
   last_checked:
 
+- domain: purplebits.co.uk
+  url: https://purplebits.co.uk
+  size: 89.4
+  last_checked: 2021-05-23
+
 - domain: freshnode.net
   url: https://freshnode.net
   size: 90.6
@@ -852,9 +872,3 @@
   url: https://mikebabb.com
   size: 99.6
   last_checked:
-
-- domain: purplebits.co.uk
-  url: https://purplebits.co.uk
-  size: 89.4
-  last_checked: 2021-05-23
-  
