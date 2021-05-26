@@ -83,11 +83,6 @@
   size: 9.4
   last_checked: 2021-05-18
 
-- domain: ccw.icu
-  url: https://www.ccw.icu
-  size: ERROR not an HTML Page
-  last_checked: 2021-05-18
-
 - domain: ohio.araw.xyz
   url: https://ohio.araw.xyz
   size: 3.8
@@ -283,11 +278,6 @@
   size: 12.6
   last_checked: 2021-05-18
 
-- domain: chaitanya.page
-  url: https://chaitanya.page
-  size: 3.5 MB
-  last_checked: 2021-05-18
-
 - domain: 0xff.nu
   url: https://0xff.nu
   size: 12.9
@@ -423,11 +413,6 @@
   size: 22.1
   last_checked: 2021-05-21
 
-- domain: ecliptik.com
-  url: https://ecliptik.com
-  size: SSL Error
-  last_checked: 2021-05-18
-
 - domain: nixnet.email
   url: https://nixnet.email
   size: 22.9
@@ -556,11 +541,6 @@
 - domain: amanasifkhalid.github.io
   url: https://amanasifkhalid.github.io
   size: 31.7
-  last_checked: 2021-05-23
-
-- domain: extinction.fyi
-  url: https://extinction.fyi
-  size: ERROR not an HTML Page
   last_checked: 2021-05-23
 
 - domain: tanami.org
