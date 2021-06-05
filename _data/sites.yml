@@ -147,7 +147,12 @@
   url: https://block.sunappu.net/
   size: 193
   last_checked: 2021-05-17
-
+  
+- domain: blog.abbix.me
+  url: https://blog.abbix.me/
+  size: 4.4
+  last_checked: 2021-06-05
+  
 - domain: blog.benoitj.ca
   url: https://blog.benoitj.ca/
   size: 8.3
@@ -1378,7 +1383,4 @@
   size: 27
   last_checked: 2021-05-18
   
-- domain: blog.abbix.me
-  url: https://blog.abbix.me/
-  size: 4.4
-  last_checked: 2021-06-05
+
