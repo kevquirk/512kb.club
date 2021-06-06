@@ -12,6 +12,7 @@
     --pre: #D0D0D0;
     --pre-bg: #1A1A1A;
     --accent: #e6e6e6;
+    --gh-hover: #D3D3D3;
     --before-blue: #64B5F6;
     --after-blue: #BBDEFB;
     --before-orange: #FBC02D;
@@ -29,6 +30,7 @@
         --text: #EEE;
         --link: #64B5F6;
         --accent: #333;
+        --gh-hover: #222;
         --code: #F06292;
     }
 
@@ -62,7 +64,25 @@ footer {
     width: 100%;
 }
 
-header {
+.gh-banner a {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: bold;
+  background: var(--accent);
+  margin-top: .5rem;
+  padding: .5rem 0;
+  border-radius: 5px;
+  border: 1px solid var(--text);
+  display: block;
+  text-decoration: none;
+  color: var(--text) !important;
+}
+
+.gh-banner a:hover {
+  background: var(--gh-hover);
+}
+
+.title-banner {
     background: var(--header-bg);
     color: var(--header-text);
     border-radius: 5px;
