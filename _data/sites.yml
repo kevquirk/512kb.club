@@ -1020,7 +1020,8 @@
 
 - domain: rnbunker.neocities.org
   url: https://rnbunker.neocities.org/
-  size: 1.5 
+  size: 1.5
+  last_checked: 2021-06-07
 
 - domain: robbie.antenesse.net
   url: https://robbie.antenesse.net/
