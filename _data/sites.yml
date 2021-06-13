@@ -287,7 +287,7 @@
   url: https://cycloneblaze.net/
   size: 41.9
   last_checked: N/A
-  
+
 - domain: dafne.cc
   url: https://dafne.cc/
   size: 16.5
@@ -983,6 +983,11 @@
   size: 131.4
   last_checked: N/A
 
+- domain: pukima.site
+  url: https://pukima.site/
+  size: 412.1
+  last_checked: 2021-06-13
+
 - domain: purplebits.co.uk
   url: https://purplebits.co.uk/
   size: 89.4
@@ -997,11 +1002,6 @@
   url: https://qtrnn.io/
   size: 3.1
   last_checked: 2021-05-18
-
-- domain: pukima.site
-  url: https://pukima.site/
-  size: 412.1
-  last_checked: 2021-06-13
 
 - domain: qunitjs.com
   url: https://qunitjs.com/
