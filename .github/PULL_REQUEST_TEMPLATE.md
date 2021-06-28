@@ -17,7 +17,7 @@ This PR is:
 - [ ] I have included a link to the GTMetrix report
 - [ ] The domain is in the correct alphabetical order
 - [ ] This site is not a ultra lightweight site
-- [ ] The following information is filled identical to the file changes
+- [ ] The following information is filled identical to the data file
 
 ```
 - domain:
