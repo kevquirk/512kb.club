@@ -33,11 +33,11 @@ But we can make a difference - all it takes is some optimisation. Do you really 
 
 {:.jump}
 * **Jump to:**
-* [Green Team (<100KB)](#100)
-* [Orange Team (<250KB)](#250)
-* [Blue Team (<512KB)](#512)
+* [Green Team (&lt;100KB)](#100)
+* [Orange Team (&lt;250KB)](#250)
+* [Blue Team (&lt;12KB)](#512)
 
-<h2 id="100">The Green Team (<100KB) <span class="small"><a href="#top">^ Top ^</a></span></h2>
+<h2 id="100">The Green Team (&lt;100KB) <span class="small"><a href="#top">^ Top ^</a></span></h2>
 <ul class="green">
     {% assign site_domains = site.data.sites | sort: 'size' %}
     {% for item in site_domains %}
@@ -47,7 +47,7 @@ But we can make a difference - all it takes is some optimisation. Do you really 
     {% endfor %}
 </ul>
 
-<h2 id="250">The Orange Team (<250KB) <span class="small"><a href="#top">^ Top ^</a></span></h2>
+<h2 id="250">The Orange Team (&lt;250KB) <span class="small"><a href="#top">^ Top ^</a></span></h2>
 <ul class="orange">
     {% assign site_domains = site.data.sites | sort: 'size' %}
     {% for item in site_domains %}
@@ -57,7 +57,7 @@ But we can make a difference - all it takes is some optimisation. Do you really 
     {% endfor %}
 </ul>
 
-<h2 id="512">The Blue Team (<512KB) <span class="small"><a href="#top">^ Top ^</a></span></h2>
+<h2 id="512">The Blue Team (&lt;512KB) <span class="small"><a href="#top">^ Top ^</a></span></h2>
 <ul class="blue">
     {% assign site_domains = site.data.sites | sort: 'size' %}
     {% for item in site_domains %}
