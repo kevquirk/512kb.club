@@ -737,6 +737,11 @@
   url: https://maczan.pl//
   size: 1.4
   last_checked: 2021-05-17
+  
+- domain: manuelmoreale.com
+  url: https://manuelmoreale.com/
+  size: 40.2
+  last_checked: 2021-07-02
 
 - domain: markosaric.com
   url: https://markosaric.com/
@@ -1417,8 +1422,3 @@
   url: https://zwieratko.sk/
   size: 27
   last_checked: 2021-05-18
-  
-- domain: manuelmoreale.com
-  url: https://manuelmoreale.com/
-  size: 40.2
-  last_checked: 2021-07-02
