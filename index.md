@@ -35,7 +35,7 @@ But we can make a difference - all it takes is some optimisation. Do you really 
 * **Jump to:**
 * [Green Team (&lt;100KB)](#100)
 * [Orange Team (&lt;250KB)](#250)
-* [Blue Team (&lt;12KB)](#512)
+* [Blue Team (&lt;512KB)](#512)
 
 <h2 id="100">The Green Team (&lt;100KB) <span class="small"><a href="#top">^ Top ^</a></span></h2>
 <ul class="green">
