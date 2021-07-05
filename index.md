@@ -10,23 +10,11 @@ But we can make a difference - all it takes is some optimisation. Do you really 
 
 **The 512KB Club** is a collection of performance-focused web pages from across the Internet. To qualify your website must satisfy **both** of the following requirements:
 
-1. It must be an actual site that contains a reasonable amount of information, not just a couple of links on a page ([more info here](#lightweight-notice)).
+1. It must be an actual site that contains a reasonable amount of information, not just a couple of links on a page ([more info here](/faq/#lightweight-notice)).
 2. Your total UNCOMPRESSED web resources must not exceed 512KB.
 
-
-{% include faq-01.html %}
-
-{% include faq-02.html %}
-
-{% include faq-03.html %}
-
-{% include faq-04.html %}
-
-{% include faq-05.html %}
-
-{% include faq-06.html %}
-
-{% include faq-07.html %}
+<br>
+<a class="button" href="/faq">View FAQ for more details</a>
 
 <br>
 <hr>

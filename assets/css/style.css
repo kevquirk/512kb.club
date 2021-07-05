@@ -64,37 +64,49 @@ footer {
     width: 100%;
 }
 
-.gh-banner a {
-  text-align: center;
-  font-size: 1.5rem;
-  font-weight: bold;
-  background: var(--accent);
-  margin-top: .5rem;
-  padding: .5rem 0;
-  border-radius: 5px;
+/* Format navigation */
+nav {
+  font-size: 1rem;
+  line-height: 2;
+  padding: 1rem 0;
+  margin-left: 1rem;
+}
+
+nav a {
   border: 1px solid var(--text);
-  display: block;
-  text-decoration: none;
+  border-radius: 5px;
   color: var(--text) !important;
+  display: inline-block;
+  padding: .1rem 1rem;
+  margin-right: 1rem;
+  text-decoration: none;
+  transition: .4s;
 }
 
-.gh-banner a:hover {
-  background: var(--gh-hover);
+nav a:hover,
+nav a.current {
+  color: var(--text) !important;
+  background: var(--accent);
 }
 
-.title-banner {
-    background: var(--header-bg);
-    color: var(--header-text);
-    border-radius: 5px;
-    text-align: center;
-    padding: 3rem 0;
-    margin-top: .5rem;
+nav a.current:hover {
+  text-decoration: none;
+}
+
+header {
+  padding-bottom: 2rem;
+  border-bottom: 2px solid var(--text);
 }
 
 header h1 {
     margin: 0;
     font-size: 3rem;
-    padding: 0 .5rem;
+    padding: 1rem 0 1rem 0;
+    text-align: center;
+}
+
+main {
+  margin-top: 3rem;
 }
 
 .small {
@@ -143,6 +155,19 @@ a.site:visited {
 a.site:hover,
 a.site:focus {
     text-decoration: underline;
+}
+
+.button {
+  background: var(--link);
+  color: var(--bg) !important;
+  margin: 1.5rem 0;
+  padding: 1rem 1.25rem;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.button:hover {
+  background: var(--text);
 }
 
 pre {
@@ -274,6 +299,16 @@ details {
     margin-bottom: 1rem;
 }
 
+details.red-notice {
+  background: #951818;
+  border-color: #951818;
+  color: white;
+}
+
+.red-notice h2 {
+  margin: 0;
+}
+
 summary {
     cursor: pointer;
     font-weight: bold;
@@ -289,4 +324,8 @@ details[open] summary {
 
 details[open]>*:last-child {
     margin-bottom: 0;
+}
+
+img {
+  max-width: 100%;
 }

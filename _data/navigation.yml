@@ -1,0 +1,8 @@
+- name: Home
+  link: /
+
+- name: FAQ
+  link: /faq
+
+- name: Github
+  link: https://github.com/kevquirk/512kb.club
