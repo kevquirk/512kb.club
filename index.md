@@ -14,7 +14,9 @@ But we can make a difference - all it takes is some optimisation. Do you really 
 2. Your total UNCOMPRESSED web resources must not exceed 512KB.
 
 <br>
-<a class="button" href="/faq">View FAQ for more details</a>
+<div class="centre">
+  <a class="button" href="/faq">View FAQ for more details</a>
+</div>
 
 <br>
 <hr>
