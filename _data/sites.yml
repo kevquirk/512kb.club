@@ -1338,6 +1338,11 @@
   size: 164.8
   last_checked: N/A
 
+- domain: web.koyu.space
+  url: https://web.koyu.space
+  size: 285.8
+  last_checked: 2021-07-11
+
 - domain: weinzierlweb.com
   url: https://weinzierlweb.com/
   size: 85.8
