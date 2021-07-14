@@ -1118,6 +1118,11 @@
   size: 98.1
   last_checked: N/A
 
+- domain: scf37.me
+  url: https://scf37.me/
+  size: 91
+  last_checked: 2021-07-14
+
 - domain: scyllasequence.com
   url: https://scyllasequence.com/
   size: 44.5
@@ -1437,9 +1442,3 @@
   url: https://zwieratko.sk/
   size: 27
   last_checked: 2021-05-18
-  
-- domain: scf37.me
-  url: https://scf37.me/
-  size: 91
-  last_checked: 2021-07-14
-
