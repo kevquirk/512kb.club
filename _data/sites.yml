@@ -238,6 +238,11 @@
   size: 84.6
   last_checked: N/A
 
+- domain: chtc.gitlab.io
+  url: https://chtc.gitlab.io/
+  size: 22.1
+  last_checked: 2021-07-24
+
 - domain: chriswiegman.com
   url: https://chriswiegman.com/
   size: 436
