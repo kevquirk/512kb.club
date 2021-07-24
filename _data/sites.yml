@@ -238,15 +238,15 @@
   size: 84.6
   last_checked: N/A
 
-- domain: chtc.gitlab.io
-  url: https://chtc.gitlab.io/
-  size: 22.1
-  last_checked: 2021-07-24
-
 - domain: chriswiegman.com
   url: https://chriswiegman.com/
   size: 436
   last_checked: 2021-07-21
+
+- domain: chtc.gitlab.io
+  url: https://chtc.gitlab.io/
+  size: 22.1
+  last_checked: 2021-07-24
 
 - domain: ciboulette.net
   url: https://ciboulette.net/
@@ -558,15 +558,15 @@
   size: 43.6
   last_checked: N/A
 
-- domain: hugo.md
-  url: https://hugo.md/
-  size: 54.6
-  last_checked: N/A
-
 - domain: hugo-mechiche.com
   url: https://hugo-mechiche.com/
   size: 97.1
   last_checked: 2021-07-11
+
+- domain: hugo.md
+  url: https://hugo.md/
+  size: 54.6
+  last_checked: N/A
 
 - domain: hunden.linuxkompis.se
   url: https://hunden.linuxkompis.se/
@@ -903,11 +903,6 @@
   size: 176.5
   last_checked: 2021-05-17
 
-- domain: nobodyspecial.neocities.org
-  url: https://nobodyspecial.neocities.org/
-  size: 4.9
-  last_checked: 2021-07-01
-
 - domain: noJS.club
   url: https://noJS.club/
   size: 26.7
@@ -917,6 +912,11 @@
   url: https://noblogo.org/
   size: 308.3
   last_checked: 2021-05-17
+
+- domain: nobodyspecial.neocities.org
+  url: https://nobodyspecial.neocities.org/
+  size: 4.9
+  last_checked: 2021-07-01
 
 - domain: nymbus.xyz
   url: https://nymbus.xyz/
