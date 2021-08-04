@@ -273,6 +273,11 @@
   size: 119.7
   last_checked: N/A
 
+- domain: cmdln.org
+  url: https://cmdln.org
+  size: 494
+  last_checked: 2021-08-04
+
 - domain: codetheweb.blog
   url: https://codetheweb.blog/
   size: 174.7
@@ -602,7 +607,7 @@
   url: https://ivanmet.netlify.app/
   size: 182.4
   last_checked: N/A
-  
+
 - domain: jamesmck.net
   url: https://jamesmck.net/
   size: 72.9
