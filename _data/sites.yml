@@ -948,6 +948,11 @@
   size: 4.9
   last_checked: 2021-07-01
 
+- domain: noulin.net
+  url: https://noulin.net/blog
+  size: 18.5
+  last_checked: 2021-08-07
+
 - domain: nymbus.xyz
   url: https://nymbus.xyz/
   size: 262.4
