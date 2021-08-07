@@ -522,7 +522,7 @@
   url: http://freyx.co/
   size: 260
   last_checked: 2021-08-06
-  
+
 - domain: funnylookinhat.com
   url: https://funnylookinhat.com/
   size: 4.9
@@ -942,6 +942,11 @@
   url: https://nobodyspecial.neocities.org/
   size: 4.9
   last_checked: 2021-07-01
+
+- domain: noulin.net
+  url: https://noulin.net/blog
+  size: 19.4
+  last_checked: 2021-08-07
 
 - domain: nymbus.xyz
   url: https://nymbus.xyz/
