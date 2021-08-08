@@ -70,7 +70,7 @@ def main():
 
     # number of sites left to check
     left = int(sys.argv[2])
-     
+
     print("Site | old size (team) | new size (team) | delta (%) | GTMetrix | note")
     print("---- | --------------- | --------------- | --------- | -------- | ----")
 
