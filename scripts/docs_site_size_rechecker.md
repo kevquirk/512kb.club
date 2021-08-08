@@ -27,11 +27,11 @@ The main purpose of `site_size_rechecker.py` script is to automate the checking 
     email='email@example.com'
     api_key='96bcab1060d838723701010387159086'
     ```
-    1. email: is the one used in creating GTmetrix account
+    1. email: is the one used in creating a GTmetrix account
     1. api_key: is what was generated in step 1.1
 1. Copy the `site_size_rechecker.py` and `myauth.py` into the `python-gtmetrix` cloned in step 3
 
-_Note:_  Under the new plan you will first recive 100 credits from GTmetrix for testing. after which you will get a refil of 10 credits everyday at `8:45 PM +0000`. This script uses 0.7 credits for each site check. which is about 14 site reports per day per person
+_Note:_  Under the new plan you will first receive 100 credits from GTmetrix for testing. after which you will get a refill of 10 credits every day at `8:45 PM +0000`. This script uses 0.7 credits for each site check. which is about 14 site reports per day per person
 ## Usage
 
 while in the `python-gtmetrix` folder run:
@@ -43,7 +43,7 @@ _Note:_ XY stands for the number of sites to be checked
 
 ### Successful Output
 
-A successfull output will generate table in markdown file such as
+Successful output will generate a table in markdown file such as
 ```md
 Site | old size (team) | new size (team) | delta (%) | GTmetrix | note
 ---- | --------------- | --------------- | --------- | -------- | ----
@@ -51,7 +51,7 @@ Site | old size (team) | new size (team) | delta (%) | GTmetrix | note
 ```
 _Note:_ In the middle of each line it takes about 30 seconds in wait-time to output the rest of the line. This is due to the time it takes to finish the GTmetrix scan
 
-This can be benifial to know if a site has a problem which can be used to check the site or remove it from the checking.
+This can be beneficial to know if a site has a problem that can be used to check the site or remove it from the checking.
 
 
 If everything goes right, you should get a table-like output which you can just paste into Github PR:
@@ -86,7 +86,7 @@ By default in interface.py file is set to 30 seconds.
 
 ### Excluding site from checks
 
-To exclude a site from checks you can either remove the site or change the `last_checked` Key-Pair to todays date or a date in the future to make it last in the list.
+To exclude a site from checks you can either remove the site or change the `last_checked` Key-Pair to today's date or a date in the future to make it last in the list.
 
 ## Troubleshooting
 
@@ -94,7 +94,7 @@ In case you encounter an issue with this script open a [New Issue](https://githu
 
 Please provide as much information as possible such as:
 * All Output
-* Current state of `sites.yml` if its from the `master` branch, or has been modified
+* Current state of `sites.yml` if it's from the `master` branch, or has been modified
 
 To debug why the script "hangs" when checking some site, edit the [ python-gtmetrix/gtmetrix/interface.py](https://github.com/aisayko/python-GTmetrix/blob/master/GTmetrix/interface.py#L86) file
 and a new 87th line which would looke like this:
