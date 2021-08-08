@@ -43,7 +43,7 @@ _Note:_ XY stands for the number of sites to be checked
 
 ### Successful Output
 
-Successful output will generate a table in markdown file which _**Must**_ be put in the PR such as #450
+Successful output will generate a table in markdown file which _**Must**_ be put in the PR such as [#450](https://github.com/kevquirk/512kb.club/pull/450)
 ```md
 Site | old size (team) | new size (team) | delta (%) | GTmetrix | note
 ---- | --------------- | --------------- | --------- | -------- | ----
