@@ -50,7 +50,7 @@ If everything goes right, you should get a table-like output which you can just 
 
     Site | old size (team) | new size (team) | delta (%) | GTMetrix | note
     ---- | --------------- | --------------- | --------- | -------- | ----
-    [docs.j7k6.org](https://docs.j7k6.org/) | 73.0kb (green) | 72.9kb (green) | -0.1kb (-0%) | [report](https://gtmetrix.com/reports/docs.j7k6.org/PkIra4ns/#waterfall) | 
+    [docs.j7k6.org](https://docs.j7k6.org/) | 73.0kb (green) | 72.9kb (green) | -0.1kb (-0%) | [report](https://gtmetrix.com/reports/docs.j7k6.org/PkIra4ns/#waterfall) |
 
 Note that it "hangs" for about 30 seconds in the middle of each line except first two,
 because first it prints site name and old size,
@@ -68,11 +68,11 @@ To decrease waiting time,
 edit the [gtmetrix/interface.py][int] file in python-gtmetrix repo,
 and change the number `30` in line 85 to something smaller - for example, change this line from
 
-	time.sleep(30)
+    time.sleep(30)
 
 to
 
-	time.sleep(3)
+    time.sleep(3)
 
 This will decrease the delay between each check when the script is waiting for gtmetrix scan to finish.
 
@@ -99,20 +99,20 @@ To debug why the script "hangs" when checking some site,
 edit the [gtmetrix/interface.py][int2] file in python-gtmetrix repo,
 and add new line after line 86 - change this:
 
-	response_data = self._request(self.poll_state_url)
-	self.state = response_data['state']
+    response_data = self._request(self.poll_state_url)
+    self.state = response_data['state']
 
 to this:
 
-	response_data = self._request(self.poll_state_url)
-	print(response_data)
-	self.state = response_data['state']
+    response_data = self._request(self.poll_state_url)
+    print(response_data)
+    self.state = response_data['state']
 
 This will break nicely formatted table output,
 but you will see raw response from gtmetrix API.
 In my case, I had a site for which gtmetrix API responses looked like this:
 
-	{'resources': {}, 'error': 'An error occurred fetching the page: HTTPS error: hostname verification failed', 'results': {}, 'state': 'error'}
+    {'resources': {}, 'error': 'An error occurred fetching the page: HTTPS error: hostname verification failed', 'results': {}, 'state': 'error'}
 
 and didn't change, but the script was waiting for 'state' to become 'completed', which obviously was not going to happen.
 
@@ -122,4 +122,3 @@ Future plans
 ------------
 
 Currently this script doesn't check any errors returned by gtmetrix.com API. That's next item on my list. Moreover, I will get rid of python-gtmetrix dependency, since it adds more troubles than benefits.
-
