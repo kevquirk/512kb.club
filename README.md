@@ -38,3 +38,7 @@ But we can make a difference - all it takes is some optimisation. Do you really 
 ```
 
 **NOTE:** Site need to be added to the list in **alphabetical order**, so please make sure your site is in the correct place within the list, or your PR will be rejected.
+
+## Automation of site size check
+
+You can find [instuructions](scripts/docs_site_size_rechecker.md) on how to get the GTmetrix size using a script in the [scripts](scripts/) folder

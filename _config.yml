@@ -20,3 +20,6 @@ highlighter: rouge
 # Netlify redirects
 include:
   - _redirects
+
+exclude:
+  - scripts/
