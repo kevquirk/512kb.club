@@ -87,23 +87,23 @@ def main():
         # print first half of the row (with old data)
         oldsize = float(site['size'])
         oldteam = sizeToTeam(oldsize)
-        print(f"[{site['domain']}]({site['url']}) | {oldsize:.1f}kb ({oldteam}) | ", end='', flush=True)
+        print("[%s](%s) | %.1fkb (%s) | " % (site['domain'], site['url'], oldsize, oldteam), end='', flush=True)
         # get new data
         result = countPageBytes(site['url'])
         # analyze the result
         newsize = result['kb']
         newteam = sizeToTeam(newsize)
         delta = newsize-oldsize
-        size_diff = (newsize-oldsize)/oldsize
+        size_diff = round((newsize-oldsize)/oldsize*100)
         note = ''
-        if abs(size_diff)>=0.1:
+        if abs(size_diff)>10:
             note = "big size change!"
         if oldteam != newteam:
             note = "team changed!!"
         if newsize>512:
             note = "too big for 512kb.club!!!"
         # print the second half of the row
-        print(f"{newsize:.1f}kb ({newteam}) | {delta:+.1f}kb ({size_diff:+.0%}) | [report]({result['url']}#waterfall) | {note}")
+        print(f"%.1fkb (%s) | %+.1fkb (%+d) | [report](%s#waterfall) | %s" % (newsize, newteam, delta, size_diff, result['url'], note))
         # save the result
         site['size'] = newsize
         site['last_checked'] = datetime.date.today()
