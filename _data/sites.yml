@@ -490,13 +490,13 @@
 
 - domain: fedi.dev
   url: https://fedi.dev/
-  size: 230.1
-  last_checked: N/A
+  size: 237
+  last_checked: 2021-08-08
 
 - domain: format-express.dev
   url: https://format-express.dev/
-  size: 100.6
-  last_checked: N/A
+  size: 148
+  last_checked: 2021-08-08
 
 - domain: fossdd.codeberg.page
   url: https://fossdd.codeberg.page/
@@ -510,8 +510,8 @@
 
 - domain: freshnode.net
   url: https://freshnode.net/
-  size: 90.6
-  last_checked: N/A
+  size: 90.7
+  last_checked: 2021-08-08
 
 - domain: freyx.co
   url: http://freyx.co/
@@ -525,18 +525,18 @@
 
 - domain: gabnotes.org
   url: https://gabnotes.org/
-  size: 51.4
-  last_checked: N/A
+  size: 60.5
+  last_checked: 2021-08-08
 
 - domain: gadonias.com
   url: https://gadonias.com/
-  size: 220.4
-  last_checked: N/A
+  size: 220.
+  last_checked: 2021-08-08
 
 - domain: goel.io
   url: http://goel.io/
-  size: 43.9
-  last_checked: N/A
+  size: 57.9
+  last_checked: 2021-08-08
 
 - domain: groundzeno.net
   url: https://groundzeno.net/
@@ -555,13 +555,13 @@
 
 - domain: gud.one
   url: https://gud.one/
-  size: 225.2
-  last_checked: N/A
+  size: 155
+  last_checked: 2021-08-08
 
 - domain: guts.plus
   url: https://guts.plus/
-  size: 72.5
-  last_checked: N/A
+  size: 73.5
+  last_checked: 2021-08-08
 
 - domain: havenweb.org
   url: https://havenweb.org/
@@ -570,8 +570,8 @@
 
 - domain: hejo.org
   url: https://hejo.org/
-  size: 43.6
-  last_checked: N/A
+  size: 63.5
+  last_checked: 2021-08-08
 
 - domain: homburg.xyz
   url: https://homburg.xyz
@@ -585,8 +585,8 @@
 
 - domain: hugo.md
   url: https://hugo.md/
-  size: 54.6
-  last_checked: N/A
+  size: 66.8
+  last_checked: 2021-08-08
 
 - domain: hunden.linuxkompis.se
   url: https://hunden.linuxkompis.se/
@@ -610,8 +610,8 @@
 
 - domain: ivanmet.netlify.app
   url: https://ivanmet.netlify.app/
-  size: 182.4
-  last_checked: N/A
+  size: 183
+  last_checked: 2021-08-08
 
 - domain: jamesmck.net
   url: https://jamesmck.net/
@@ -636,12 +636,12 @@
 - domain: jloh.co
   url: https://jloh.co/
   size: 108
-  last_checked: N/A
+  last_checked: 2021-08-08
 
 - domain: jmtd.net
   url: https://jmtd.net/
-  size: 205.6
-  last_checked: N/A
+  size: 206
+  last_checked: 2021-08-08
 
 - domain: joelchrono12.netlify.app
   url: https://joelchrono12.netlify.app/
@@ -655,8 +655,8 @@
 
 - domain: jonhnnyweslley.net
   url: https://jonhnnyweslley.net/
-  size: 125.9
-  last_checked: N/A
+  size: 272
+  last_checked: 2021-08-08
 
 - domain: jorp.xyz
   url: https://jorp.xyz/
