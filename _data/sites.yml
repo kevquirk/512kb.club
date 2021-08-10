@@ -58,11 +58,6 @@
   size: 160
   last_checked: 2021-08-07
 
-- domain: airikr.me
-  url: https://airikr.me/
-  size: 789
-  last_checked: 2021-08-10
-
 - domain: alexey.shpakovsky.ru
   url: http://alexey.shpakovsky.ru/
   size: 91.6
@@ -823,11 +818,6 @@
   size: 183
   last_checked: 2021-08-10
 
-- domain: mcgillij.dev
-  url: https://mcgillij.dev/
-  size: 516
-  last_checked: 2021-08-10
-
 - domain: mees.io
   url: https://mees.io/
   size: 160
@@ -1283,11 +1273,6 @@
   size: 52.8
   last_checked: 2021-08-10
 
-- domain: theandrewbailey.com
-  url: https://theandrewbailey.com/
-  size: 527
-  last_checked: 2021-08-10
-
 - domain: thelion.website
   url: https://thelion.website/
   size: 43.7
@@ -1413,20 +1398,10 @@
   size: 60.8
   last_checked: 2021-05-25
 
-- domain: xpil.eu
-  url: https://xpil.eu/
-  size: 696
-  last_checked: 2021-08-10
-
 - domain: ybad.name
   url: https://ybad.name/
   size: 4.3
   last_checked: 2021-05-18
-
-- domain: yeetpc.com
-  url: https://www.yeetpc.com/
-  size: 532
-  last_checked: 2021-08-10
 
 - domain: yne.fr
   url: https://yne.fr/
