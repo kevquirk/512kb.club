@@ -306,12 +306,12 @@
 - domain: cosmo.red
   url: https://cosmo.red/
   size: 16.5
-  last_checked: 2021-05-18
+  last_checked: 2021-08-14
 
 - domain: cri.dev
   url: https://cri.dev/
-  size: 30.1
-  last_checked: 2021-05-18
+  size: 60.0
+  last_checked: 2021-08-14
 
 - domain: cyber-diocletian.github.io
   url: https://cyber-diocletian.github.io/
@@ -320,8 +320,8 @@
 
 - domain: cyberarm.dev
   url: https://cyberarm.dev/
-  size: 10.7
-  last_checked: 2021-05-18
+  size: 11.4
+  last_checked: 2021-08-14
 
 - domain: cycloneblaze.net
   url: https://cycloneblaze.net/
@@ -335,8 +335,8 @@
 
 - domain: danielcuttridge.com
   url: https://danielcuttridge.com/
-  size: 26.1
-  last_checked: 2021-05-18
+  size: 18.0
+  last_checked: 2021-08-14
 
 - domain: dariusz.wieckiewicz.org
   url: https://dariusz.wieckiewicz.org/
@@ -356,12 +356,12 @@
 - domain: dev-nonsense.com
   url: https://dev-nonsense.com/
   size: 5.5
-  last_checked: 2021-05-18
+  last_checked: 2021-08-14
 
 - domain: devosmium.xyz
   url: https://devosmium.xyz/
   size: 13.9
-  last_checked: 2021-05-18
+  last_checked: 2021-08-14
 
 - domain: dn15.de
   url: https://dn15.de/
@@ -380,13 +380,13 @@
 
 - domain: donohoe.dev
   url: https://donohoe.dev/
-  size: 14.8
-  last_checked: 2021-05-18
+  size: 14.9
+  last_checked: 2021-08-14
 
 - domain: dotfilehub.com
   url: https://dotfilehub.com/
   size: 7.8
-  last_checked: 2021-05-18
+  last_checked: 2021-08-14
 
 - domain: drgomesp.dev
   url: https://drgomesp.dev/
@@ -435,8 +435,8 @@
 
 - domain: eink.link
   url: https://eink.link/
-  size: 7.2
-  last_checked: 2021-05-18
+  size: 7.5
+  last_checked: 2021-08-14
 
 - domain: emanuelpina.pt
   url: https://emanuelpina.pt/
@@ -450,8 +450,8 @@
 
 - domain: erikjohannes.no
   url: https://erikjohannes.no/
-  size: 5.5
-  last_checked: 2021-05-18
+  size: 5.8
+  last_checked: 2021-08-14
 
 - domain: ethan.link
   url: https://ethan.link/
@@ -460,8 +460,8 @@
 
 - domain: ethanyoo.com
   url: https://www.ethanyoo.com/
-  size: 20.4
-  last_checked: 2021-05-18
+  size: 32.7
+  last_checked: 2021-08-15
 
 - domain: evantravers.com
   url: http://evantravers.com/
@@ -480,8 +480,8 @@
 
 - domain: fdisk.space
   url: https://fdisk.space/
-  size: 11.4
-  last_checked: 2021-05-18
+  size: 11.5
+  last_checked: 2021-08-15
 
 - domain: federateme.nymbus.xyz
   url: https://federateme.nymbus.xyz/
@@ -500,8 +500,8 @@
 
 - domain: fossdd.codeberg.page
   url: https://fossdd.codeberg.page/
-  size: 5.9
-  last_checked: 2021-05-18
+  size: 6.0
+  last_checked: 2021-08-15
 
 - domain: fossphones.com
   url: https://fossphones.com/
@@ -520,8 +520,8 @@
 
 - domain: funnylookinhat.com
   url: https://funnylookinhat.com/
-  size: 4.9
-  last_checked: 2021-05-18
+  size: 5.4
+  last_checked: 2021-08-15
 
 - domain: gabnotes.org
   url: https://gabnotes.org/
@@ -545,8 +545,8 @@
 
 - domain: gsthnz.com
   url: https://gsthnz.com/
-  size: 3
-  last_checked: 2021-05-18
+  size: 3.0
+  last_checked: 2021-08-15
 
 - domain: gtrr.artemislena.eu
   url: https://gtrr.artemislena.eu/
@@ -591,17 +591,17 @@
 - domain: hunden.linuxkompis.se
   url: https://hunden.linuxkompis.se/
   size: 14.8
-  last_checked: 2021-05-18
+  last_checked: 2021-08-15
 
 - domain: i21k.de
   url: https://i21k.de/
-  size: 6.7
-  last_checked: 2021-05-18
+  size: 6.8
+  last_checked: 2021-08-15
 
 - domain: ianmuchina.com
   url: https://ianmuchina.com/
-  size: 13.6
-  last_checked: 2021-05-18
+  size: 15.0
+  last_checked: 2021-08-15
 
 - domain: idotmaster1.neocities.org
   url: https://idotmaster1.neocities.org/
@@ -620,8 +620,8 @@
 
 - domain: jds.work
   url: https://jds.work/
-  size: 31.2
-  last_checked: 2021-05-18
+  size: 47.0
+  last_checked: 2021-08-15
 
 - domain: jeremysarber.com
   url: https://jeremysarber.com/
@@ -631,7 +631,7 @@
 - domain: jf17.ru
   url: https://jf17.ru/
   size: 6.3
-  last_checked: 2021-05-18
+  last_checked: 2021-08-15
 
 - domain: jloh.co
   url: https://jloh.co/
@@ -645,13 +645,13 @@
 
 - domain: joelchrono12.netlify.app
   url: https://joelchrono12.netlify.app/
-  size: 85.3
-  last_checked: 2021-05-18
+  size: 89.2
+  last_checked: 2021-08-15
 
 - domain: john-doe.neocities.org
   url: https://john-doe.neocities.org/
-  size: 24.8
-  last_checked: 2021-05-18
+  size: 24.0
+  last_checked: 2021-08-15
 
 - domain: jonhnnyweslley.net
   url: https://jonhnnyweslley.net/
@@ -676,7 +676,7 @@
 - domain: journal.gudulin.com
   url: https://journal.gudulin.com/
   size: 11.4
-  last_checked: 2021-05-18
+  last_checked: 2021-08-15
 
 - domain: jpdb.io
   url: https://jpdb.io/
@@ -686,7 +686,7 @@
 - domain: jrballesteros05.codeberg.page
   url: https://jrballesteros05.codeberg.page/
   size: 2.3
-  last_checked: 2021-05-18
+  last_checked: 2021-08-15
 
 - domain: jscd.pw
   url: https://jscd.pw/
@@ -727,7 +727,7 @@
   url: https://klokmork.com/
   size: 204
   last_checked: 2021-08-08
-  
+
 - domain: lazy-gamer.net
   url: https://lazy-gamer.net/
   size: 70.7
@@ -735,8 +735,8 @@
 
 - domain: leagueh.xyz
   url: https://leagueh.xyz/en/
-  size: 9.4
-  last_checked: 2021-05-18
+  size: 20.5
+  last_checked: 2021-08-15
 
 - domain: lectupedia.com
   url: https://lectupedia.com/
