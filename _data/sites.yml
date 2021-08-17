@@ -752,8 +752,8 @@
   url: https://lexicon.ga/
   size: 314
   last_checked: 2021-08-10
-  
-  - domain: lichess.org
+
+- domain: lichess.org
   url: https://lichess.org/
   size: 282
   last_checked: 2021-08-17
