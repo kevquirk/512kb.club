@@ -753,6 +753,11 @@
   size: 314
   last_checked: 2021-08-10
 
+- domain: lichess.org
+  url: https://lichess.org/
+  size: 282
+  last_checked: 2021-08-17
+
 - domain: lighthouse16.com
   url: https://lighthouse16.com/
   size: 48.1
