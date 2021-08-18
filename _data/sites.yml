@@ -290,8 +290,8 @@
 
 - domain: codingbobby.xyz
   url: https://codingbobby.xyz/
-  size: 160.9
-  last_checked: 2021-05-19
+  size: 163
+  last_checked: 2021-08-19
 
 - domain: codingotaku.com
   url: https://codingotaku.com/
@@ -775,8 +775,8 @@
 
 - domain: luana.cc
   url: https://luana.cc/
-  size: 22.1
-  last_checked: 2021-05-21
+  size: 11.3
+  last_checked: 2021-08-19
 
 - domain: lukesempire.com
   url: https://lukesempire.com/
@@ -1235,8 +1235,8 @@
 
 - domain: stapy.magentix.fr
   url: https://stapy.magentix.fr/
-  size: 18.7
-  last_checked: 2021-05-18
+  size: 18.8
+  last_checked: 2021-08-19
 
 - domain: steamosaic.com
   url: https://steamosaic.com/
@@ -1250,8 +1250,8 @@
 
 - domain: sugarfi.dev
   url: https://sugarfi.dev/
-  size: 32.2
-  last_checked: 2021-05-18
+  size: 468
+  last_checked: 2021-08-19
 
 - domain: tanami.org
   url: https://tanami.org/
@@ -1270,8 +1270,8 @@
 
 - domain: temp.sh
   url: https://temp.sh/
-  size: 25.5
-  last_checked: 2021-05-18
+  size: 28.3
+  last_checked: 2021-08-19
 
 - domain: textpattern.com
   url: https://textpattern.com/
@@ -1296,7 +1296,7 @@
 - domain: thewismit.com
   url: https://thewismit.com/
   size: 19.1
-  last_checked: 2021-05-18
+  last_checked: 2021-08-19
 
 - domain: thomas.me
   url: https://thomas.me/
@@ -1305,18 +1305,13 @@
 
 - domain: thomaspark.co
   url: https://thomaspark.co/
-  size: 413.9
-  last_checked: 2021-05-19
+  size: 440
+  last_checked: 2021-08-19
 
 - domain: timharek.no
   url: https://timharek.no/
   size: 39.1
   last_checked: 2021-05-23
-  
-- domain: timog.org
-  url: https://timog.org/
-  size: 40.5
-  last_checked: 2021-08-18
 
 - domain: timotijhof.net
   url: https://timotijhof.net/
@@ -1355,8 +1350,8 @@
 
 - domain: ulpaulpa.de
   url: https://ulpaulpa.de/
-  size: 24.5
-  last_checked: 2021-05-18
+  size: 24.4
+  last_checked: 2021-08-19
 
 - domain: vitcerny.xyz
   url: https://vitcerny.xyz/
@@ -1366,7 +1361,7 @@
 - domain: vladas.palubinskas.lt
   url: https://vladas.palubinskas.lt/
   size: 9.7
-  last_checked: 2021-05-18
+  last_checked: 2021-08-19
 
 - domain: vreeman.com
   url: https://vreeman.com/
@@ -1421,12 +1416,12 @@
 - domain: ybad.name
   url: https://ybad.name/
   size: 4.3
-  last_checked: 2021-05-18
+  last_checked: 2021-08-19
 
 - domain: yne.fr
   url: https://yne.fr/
   size: 4.5
-  last_checked: 2021-05-18
+  last_checked: 2021-08-19
 
 - domain: zakr.es
   url: https://zakr.es/
@@ -1451,9 +1446,9 @@
 - domain: zserge.com
   url: https://zserge.com/
   size: 19.2
-  last_checked: 2021-05-18
+  last_checked: 2021-08-19
 
 - domain: zwieratko.sk
   url: https://zwieratko.sk/
-  size: 27
-  last_checked: 2021-05-18
+  size: 27.1
+  last_checked: 2021-08-19
