@@ -1213,6 +1213,11 @@
   size: 400
   last_checked: 2021-08-10
 
+- domain: solfisher.com
+  url: https://solfisher.com/
+  size: 12.3
+  last_checked: 2021-08-18
+
 - domain: sontek.net
   url: https://sontek.net/
   size: 34.2
