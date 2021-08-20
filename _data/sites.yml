@@ -1263,6 +1263,11 @@
   size: 468
   last_checked: 2021-08-19
 
+- domain: www.stylix.ynh.fr
+  url: http://www.stylix.ynh.fr/
+  size: 150
+  last_checked: 2021-08-20
+
 - domain: tanami.org
   url: https://tanami.org/
   size: 32.6
