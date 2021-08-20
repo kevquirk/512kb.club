@@ -353,6 +353,11 @@
   size: 31.2
   last_checked: 2021-05-23
 
+- domain: degruchy.org
+  url: https://degruchy.org/
+  size: 255
+  last_checked: 2021-08-20
+
 - domain: dev-nonsense.com
   url: https://dev-nonsense.com/
   size: 5.5
