@@ -240,7 +240,7 @@
 
 - domain: canwe.dev
   url: https://canwe.dev/
-  size: 87.0
+  size: 87
   last_checked: 2021-08-07
 
 - domain: chriswiegman.com
@@ -260,7 +260,7 @@
 
 - domain: citizen428.net
   url: https://citizen428.net/
-  size: 19.0
+  size: 19
   last_checked: 2021-08-10
 
 - domain: closedgl.xyz
@@ -310,7 +310,7 @@
 
 - domain: cri.dev
   url: https://cri.dev/
-  size: 60.0
+  size: 60
   last_checked: 2021-08-14
 
 - domain: cyber-diocletian.github.io
@@ -335,7 +335,7 @@
 
 - domain: danielcuttridge.com
   url: https://danielcuttridge.com/
-  size: 18.0
+  size: 18
   last_checked: 2021-08-14
 
 - domain: dariusz.wieckiewicz.org
@@ -505,7 +505,7 @@
 
 - domain: fossdd.codeberg.page
   url: https://fossdd.codeberg.page/
-  size: 6.0
+  size: 6
   last_checked: 2021-08-15
 
 - domain: fossphones.com
@@ -550,7 +550,7 @@
 
 - domain: gsthnz.com
   url: https://gsthnz.com/
-  size: 3.0
+  size: 3
   last_checked: 2021-08-15
 
 - domain: gtrr.artemislena.eu
@@ -579,7 +579,7 @@
   last_checked: 2021-08-08
 
 - domain: homburg.xyz
-  url: https://homburg.xyz
+  url: https://homburg.xyz/
   size: 53.2
   last_checked: 2021-08-07
 
@@ -605,7 +605,7 @@
 
 - domain: ianmuchina.com
   url: https://ianmuchina.com/
-  size: 15.0
+  size: 15
   last_checked: 2021-08-15
 
 - domain: idotmaster1.neocities.org
@@ -625,7 +625,7 @@
 
 - domain: jds.work
   url: https://jds.work/
-  size: 47.0
+  size: 47
   last_checked: 2021-08-15
 
 - domain: jeremysarber.com
@@ -655,7 +655,7 @@
 
 - domain: john-doe.neocities.org
   url: https://john-doe.neocities.org/
-  size: 24.0
+  size: 24
   last_checked: 2021-08-15
 
 - domain: jonhnnyweslley.net
@@ -915,7 +915,7 @@
 
 - domain: ndanes.com
   url: https://ndanes.com/
-  size: 41.0
+  size: 41
   last_checked: 2021-08-17
 
 - domain: nest.jakl.one
@@ -1110,7 +1110,7 @@
 
 - domain: rhapsode.adrian.geek.nz
   url: http://rhapsode.adrian.geek.nz/
-  size: 148.0
+  size: 148
   last_checked: 2021-08-10
 
 - domain: richj.co
@@ -1175,7 +1175,7 @@
 
 - domain: scyllasequence.com
   url: https://scyllasequence.com/
-  size: 3.0
+  size: 3
   last_checked: 2021-08-10
 
 - domain: searchforplanet.org
@@ -1195,7 +1195,7 @@
 
 - domain: seirdy.one
   url: https://seirdy.one/
-  size: 10.0
+  size: 10
   last_checked: 2021-08-18
 
 - domain: sensorstation.co
@@ -1245,7 +1245,7 @@
 
 - domain: spool-five.com
   url: https://spool-five.com/
-  size: 7.0
+  size: 7
   last_checked: 2021-08-18
 
 - domain: stapy.magentix.fr
@@ -1263,15 +1263,15 @@
   size: 191
   last_checked: 2021-08-10
 
+- domain: stylix.ynh.fr
+  url: http://www.stylix.ynh.fr/
+  size: 150
+  last_checked: 2021-08-20
+
 - domain: sugarfi.dev
   url: https://sugarfi.dev/
   size: 468
   last_checked: 2021-08-19
-
-- domain: www.stylix.ynh.fr
-  url: http://www.stylix.ynh.fr/
-  size: 150
-  last_checked: 2021-08-20
 
 - domain: t0.vc
   url: https://t0.vc/
