@@ -732,6 +732,11 @@
   url: https://klokmork.com/
   size: 204
   last_checked: 2021-08-08
+ 
+- domain: krzysckh.org
+  url: http://krzysckh.org/
+  size: 0.8
+  last_checked: 2021-08-21
 
 - domain: lazy-gamer.net
   url: https://lazy-gamer.net/
