@@ -243,11 +243,6 @@
   size: 436
   last_checked: 2021-07-21
 
-- domain: chtc.gitlab.io
-  url: https://chtc.gitlab.io/
-  size: 2.7
-  last_checked: 2021-08-04
-
 - domain: ciboulette.net
   url: https://ciboulette.net/
   size: 204
@@ -683,11 +678,6 @@
   size: 342
   last_checked: 2021-08-10
 
-- domain: jrballesteros05.codeberg.page
-  url: https://jrballesteros05.codeberg.page/
-  size: 2.3
-  last_checked: 2021-08-15
-
 - domain: jscd.pw
   url: https://jscd.pw/
   size: 71.6
@@ -1102,11 +1092,6 @@
   url: https://richj.co/
   size: 48
   last_checked: 2021-08-10
-
-- domain: rnbunker.neocities.org
-  url: https://rnbunker.neocities.org/
-  size: 1.8
-  last_checked: 2021-08-22
 
 - domain: robbie.antenesse.net
   url: https://robbie.antenesse.net/
