@@ -183,11 +183,6 @@
   size: 219
   last_checked: 2021-08-10
 
-- domain: blog.larsgerber.ch
-  url: https://blog.larsgerber.ch/
-  size: 279
-  last_checked: 2021-08-22
-
 - domain: blog.mooreanalysis.com
   url: https://blog.mooreanalysis.com/
   size: 30.5
@@ -1213,11 +1208,6 @@
   size: 150
   last_checked: 2021-08-20
 
-- domain: sugarfi.dev
-  url: https://sugarfi.dev/
-  size: 468
-  last_checked: 2021-08-19
-
 - domain: t0.vc
   url: https://t0.vc/
   size: 1.1
@@ -1371,11 +1361,6 @@
 - domain: wor.do
   url: https://wor.do/
   size: 348
-  last_checked: 2021-08-10
-
-- domain: xanny.family
-  url: https://xanny.family/
-  size: 257
   last_checked: 2021-08-10
 
 - domain: xkon.dev
