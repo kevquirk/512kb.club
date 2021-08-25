@@ -48,6 +48,11 @@
   size: 5.4
   last_checked: 2021-08-10
 
+- domain: stilic.ynh.fr
+  url: https://about.stilic.ynh.fr
+  size: 54.5
+  last_checked: 2021-08-26
+
 - domain: adrian.geek.nz
   url: https://adrian.geek.nz/
   size: 160
@@ -1207,11 +1212,6 @@
   url: https://stefdawson.com/
   size: 191
   last_checked: 2021-08-10
-
-- domain: stilic.ynh.fr
-  url: http://stilic.ynh.fr/
-  size: 56.2
-  last_checked: 2021-08-25
 
 - domain: t0.vc
   url: https://t0.vc/
