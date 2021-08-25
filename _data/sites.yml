@@ -43,15 +43,15 @@
   size: 22.2
   last_checked: 2021-08-10
 
+- domain: about.stilic.ynh.fr
+  url: https://about.stilic.ynh.fr
+  size: 56.9
+  last_checked: 2021-08-26
+
 - domain: aboutdavid.me
   url: https://aboutdavid.me/
   size: 5.4
   last_checked: 2021-08-10
-
-- domain: stilic.ynh.fr
-  url: https://about.stilic.ynh.fr
-  size: 54.5
-  last_checked: 2021-08-26
 
 - domain: adrian.geek.nz
   url: https://adrian.geek.nz/
@@ -192,7 +192,7 @@
   url: https://blog.mooreanalysis.com/
   size: 30.5
   last_checked: 2021-08-10
-  
+
 - domain: blog.xaloc.space
   url: https://blog.xaloc.space/
   size: 39.4
