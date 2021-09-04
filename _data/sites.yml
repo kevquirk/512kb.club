@@ -618,11 +618,6 @@
   size: 183
   last_checked: 2021-08-08
 
-- domain: jamesmck.net
-  url: https://jamesmck.net/
-  size: 57.5
-  last_checked: 2021-08-28
-
 - domain: jds.work
   url: https://jds.work/
   size: 47
@@ -817,6 +812,11 @@
   url: https://www.matthewgraybosch.com/
   size: 183
   last_checked: 2021-08-10
+  
+- domain: mck.is
+  url: https://mck.is/
+  size: 55.6
+  last_checked: 2021-09-03
 
 - domain: mees.io
   url: https://mees.io/
