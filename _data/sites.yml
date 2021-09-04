@@ -1378,6 +1378,11 @@
   size: 348
   last_checked: 2021-08-10
 
+- domain: xigoi.neocities.org
+  url: https://xigoi.neocities.org/
+  size: 7.1
+  last_checked: 2021-09-04
+
 - domain: xkon.dev
   url: https://xkon.dev/
   size: 60.8
