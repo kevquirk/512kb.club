@@ -1308,6 +1308,11 @@
   size: 35.8
   last_checked: 2021-08-21
 
+- domain: trinity.moe
+  url: http://www.trinity.moe
+  size: 35.4
+  last_checked: 2021-09-19
+
 - domain: tryhexadecimal.com
   url: https://tryhexadecimal.com/
   size: 34.7
