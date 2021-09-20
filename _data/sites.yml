@@ -1003,6 +1003,11 @@
   size: 92.2
   last_checked: 2021-09-08
 
+- domain: pimoore.ca
+  url: https://pimoore.ca
+  size: 223
+  last_checked: 2021-09-19
+  
 - domain: plausible.io
   url: https://plausible.io/
   size: 218
