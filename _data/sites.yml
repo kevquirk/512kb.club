@@ -1107,6 +1107,11 @@
   url: https://richj.co/
   size: 48.0
   last_checked: 2021-09-19
+  
+- domain: rickrollblog.blogspot.com
+  url: http://rickrollblog.blogspot.com/
+  size: 7.65
+  last_checked: 2021-09-22
 
 - domain: robbie.antenesse.net
   url: https://robbie.antenesse.net/
