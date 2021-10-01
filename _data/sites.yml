@@ -43,11 +43,6 @@
   size: 22.2
   last_checked: 2021-09-14
 
-- domain: about.stilic.ynh.fr
-  url: https://about.stilic.ynh.fr
-  size: 56.9
-  last_checked: 2021-08-26
-
 - domain: aboutdavid.me
   url: https://aboutdavid.me/
   size: 5.4
@@ -1232,6 +1227,11 @@
   url: https://stefdawson.com/
   size: 205
   last_checked: 2021-09-23
+  
+- domain: stilic.ynh.fr
+  url: https://stilic.ynh.fr/
+  size: 60
+  last_checked: 2021-09-01
 
 - domain: t0.vc
   url: https://t0.vc/
