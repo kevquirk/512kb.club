@@ -643,6 +643,11 @@
   size: 90.8
   last_checked: 2021-09-30
 
+- domain: johanv.xyz
+  url: https://johanv.xyz/
+  size: 416
+  last_checked: 2021-10-02
+
 - domain: john-doe.neocities.org
   url: https://john-doe.neocities.org/
   size: 24.0
