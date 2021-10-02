@@ -8,7 +8,7 @@ This PR is:
 - [ ] Updating existing domain **size**
 - [ ] Changing domain name
 - [ ] Removing existing domain from list
-- [ ] Website code changes
+- [ ] Website code changes (512kb.club site)
 - [ ] Other not listed
 
 *Do not tick a checkbox if you haven’t performed its action.* Honesty is indispensable for a smooth review process.
