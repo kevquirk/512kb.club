@@ -276,7 +276,7 @@
 - domain: codingbobby.xyz
   url: https://codingbobby.xyz/
   size: 163
-  last_checked: 2021-08-19
+  last_checked: 2021-10-02
 
 - domain: codingotaku.com
   url: https://codingotaku.com/
@@ -505,8 +505,8 @@
 
 - domain: fossdd.codeberg.page
   url: https://fossdd.codeberg.page/
-  size: 6
-  last_checked: 2021-08-15
+  size: 6.0
+  last_checked: 2021-09-30
 
 - domain: fossphones.com
   url: https://fossphones.com/
@@ -525,8 +525,8 @@
 
 - domain: funnylookinhat.com
   url: https://funnylookinhat.com/
-  size: 5.4
-  last_checked: 2021-08-15
+  size: 7.0
+  last_checked: 2021-09-30
 
 - domain: gabnotes.org
   url: https://gabnotes.org/
@@ -550,8 +550,8 @@
 
 - domain: gsthnz.com
   url: https://gsthnz.com/
-  size: 3
-  last_checked: 2021-08-15
+  size: 3.0
+  last_checked: 2021-09-30
 
 - domain: gtrr.artemislena.eu
   url: https://gtrr.artemislena.eu/
@@ -596,17 +596,17 @@
 - domain: hunden.linuxkompis.se
   url: https://hunden.linuxkompis.se/
   size: 14.8
-  last_checked: 2021-08-15
+  last_checked: 2021-09-30
 
 - domain: i21k.de
   url: https://i21k.de/
   size: 6.8
-  last_checked: 2021-08-15
+  last_checked: 2021-09-30
 
 - domain: ianmuchina.com
   url: https://ianmuchina.com/
-  size: 15
-  last_checked: 2021-08-15
+  size: 15.0
+  last_checked: 2021-09-30
 
 - domain: idotmaster1.neocities.org
   url: https://idotmaster1.neocities.org/
@@ -620,8 +620,8 @@
 
 - domain: jds.work
   url: https://jds.work/
-  size: 47
-  last_checked: 2021-08-15
+  size: 47.0
+  last_checked: 2021-09-30
 
 - domain: jeremysarber.com
   url: https://jeremysarber.com/
@@ -630,8 +630,8 @@
 
 - domain: jf17.ru
   url: https://jf17.ru/
-  size: 6.3
-  last_checked: 2021-08-15
+  size: 6.7
+  last_checked: 2021-09-30
 
 - domain: jloh.co
   url: https://jloh.co/
@@ -645,13 +645,13 @@
 
 - domain: joelchrono12.netlify.app
   url: https://joelchrono12.netlify.app/
-  size: 89.2
-  last_checked: 2021-08-15
+  size: 90.8
+  last_checked: 2021-09-30
 
 - domain: john-doe.neocities.org
   url: https://john-doe.neocities.org/
-  size: 24
-  last_checked: 2021-08-15
+  size: 24.0
+  last_checked: 2021-09-30
 
 - domain: jonhnnyweslley.net
   url: https://jonhnnyweslley.net/
@@ -675,8 +675,8 @@
 
 - domain: journal.gudulin.com
   url: https://journal.gudulin.com/
-  size: 11.4
-  last_checked: 2021-08-15
+  size: 11.2
+  last_checked: 2021-09-30
 
 - domain: jpdb.io
   url: https://jpdb.io/
@@ -725,13 +725,13 @@
 
 - domain: leagueh.xyz
   url: https://leagueh.xyz/en/
-  size: 20.5
-  last_checked: 2021-08-15
+  size: 20.4
+  last_checked: 2021-09-30
 
 - domain: lectupedia.com
   url: https://lectupedia.com/
-  size: 42.1
-  last_checked: 2021-08-17
+  size: 27.4
+  last_checked: 2021-09-30
 
 - domain: leedsbabybank.org
   url: https://leedsbabybank.org/
@@ -745,8 +745,8 @@
 
 - domain: lichess.org
   url: https://lichess.org/
-  size: 282
-  last_checked: 2021-08-17
+  size: 362
+  last_checked: 2021-09-30
 
 - domain: lighthouse16.com
   url: https://lighthouse16.com/
@@ -765,8 +765,8 @@
 
 - domain: luana.cc
   url: https://luana.cc/
-  size: 11.3
-  last_checked: 2021-08-19
+  size: 10.4
+  last_checked: 2021-10-02
 
 - domain: lukesempire.com
   url: https://lukesempire.com/
@@ -780,8 +780,8 @@
 
 - domain: m-chrzan.xyz
   url: https://m-chrzan.xyz/
-  size: 3.3
-  last_checked: 2021-08-17
+  size: 3.9
+  last_checked: 2021-09-30
 
 - domain: manuelmoreale.com
   url: https://manuelmoreale.com/
@@ -801,7 +801,7 @@
 - domain: mataroa.blog
   url: https://mataroa.blog/
   size: 21.4
-  last_checked: 2021-08-17
+  last_checked: 2021-10-01
 
 - domain: matthew.science
   url: https://matthew.science/
@@ -831,7 +831,7 @@
 - domain: midnight.pub
   url: https://midnight.pub/
   size: 7.2
-  last_checked: 2021-08-17
+  last_checked: 2021-10-01
 
 - domain: mikebabb.com
   url: https://mikebabb.com/
@@ -840,8 +840,8 @@
 
 - domain: mikestone.me
   url: https://mikestone.me/
-  size: 23.1
-  last_checked: 2021-08-17
+  size: 22.9
+  last_checked: 2021-10-01
 
 - domain: miltsghostrehab.xyz
   url: https://miltsghostrehab.xyz/
@@ -851,17 +851,17 @@
 - domain: minwiz.com
   url: https://minwiz.com/
   size: 4.1
-  last_checked: 2021-08-17
+  last_checked: 2021-10-01
 
 - domain: mizik.sk
   url: https://mizik.sk/
   size: 9.7
-  last_checked: 2021-08-17
+  last_checked: 2021-10-01
 
 - domain: mogwai.be
   url: https://mogwai.be/
   size: 25.4
-  last_checked: 2021-08-17
+  last_checked: 2021-10-01
 
 - domain: momi.ca
   url: https://momi.ca/
@@ -890,8 +890,8 @@
 
 - domain: mzumquadrat.de
   url: https://mzumquadrat.de/
-  size: 5.6
-  last_checked: 2021-08-17
+  size: 5.3
+  last_checked: 2021-10-01
 
 - domain: na20a.neocities.org
   url: https://na20a.neocities.org/
@@ -900,8 +900,8 @@
 
 - domain: ndanes.com
   url: https://ndanes.com/
-  size: 41
-  last_checked: 2021-08-17
+  size: 112
+  last_checked: 2021-10-01
 
 - domain: nest.jakl.one
   url: https://nest.jakl.one/
@@ -910,13 +910,13 @@
 
 - domain: nihar.page
   url: https://nihar.page/
-  size: 3.8
-  last_checked: 2021-08-17
+  size: 3.7
+  last_checked: 2021-10-01
 
 - domain: nixnet.email
   url: https://nixnet.email/
   size: 252
-  last_checked: 2021-08-17
+  last_checked: 2021-10-01
 
 - domain: nixnet.services
   url: https://nixnet.services/
@@ -926,7 +926,7 @@
 - domain: noJS.club
   url: https://noJS.club/
   size: 26.7
-  last_checked: 2021-08-17
+  last_checked: 2021-10-01
 
 - domain: noblogo.org
   url: https://noblogo.org/
@@ -955,8 +955,8 @@
 
 - domain: oh.mg
   url: https://oh.mg/
-  size: 21.4
-  last_checked: 2021-08-17
+  size: 85.1
+  last_checked: 2021-10-01
 
 - domain: oldirtyhacker.com
   url: https://oldirtyhacker.com/
@@ -966,7 +966,7 @@
 - domain: oscarforner.com
   url: https://oscarforner.com/
   size: 19.7
-  last_checked: 2021-08-18
+  last_checked: 2021-10-01
 
 - domain: pablosgweb.com
   url: https://pablosgweb.com/
@@ -975,8 +975,8 @@
 
 - domain: pantsufan.github.io
   url: https://pantsufan.github.io/
-  size: 21.3
-  last_checked: 2021-08-18
+  size: 21.2
+  last_checked: 2021-10-01
 
 - domain: paramdeo.com
   url: https://paramdeo.com/
@@ -985,13 +985,13 @@
 
 - domain: paritybit.ca
   url: https://paritybit.ca/
-  size: 8.4
-  last_checked: 2021-08-18
+  size: 8.1
+  last_checked: 2021-10-01
 
 - domain: paulwilde.uk
   url: https://paulwilde.uk/
   size: 32.9
-  last_checked: 2021-08-18
+  last_checked: 2021-10-02
 
 - domain: pawelgrzybek.com
   url: https://pawelgrzybek.com/
@@ -1025,8 +1025,8 @@
 
 - domain: portable.fyi
   url: https://portable.fyi/
-  size: 94.4
-  last_checked: 2021-08-18
+  size: 95.9
+  last_checked: 2021-10-02
 
 - domain: pothix.com
   url: https://pothix.com/
@@ -1061,7 +1061,7 @@
 - domain: qtrnn.io
   url: https://qtrnn.io/
   size: 3.8
-  last_checked: 2021-08-18
+  last_checked: 2021-10-02
 
 - domain: quinncasey.com
   url: https://quinncasey.com/
@@ -1076,12 +1076,12 @@
 - domain: radosavljevic.dev
   url: https://radosavljevic.dev/
   size: 15.7
-  last_checked: 2021-08-18
+  last_checked: 2021-10-02
 
 - domain: ramenos.net
   url: https://www.ramenos.net/
   size: 15.5
-  last_checked: 2021-08-18
+  last_checked: 2021-10-02
 
 - domain: rav3ndust.xyz
   url: https://rav3ndust.xyz/
@@ -1131,7 +1131,7 @@
 - domain: sakrajda.eu
   url: https://sakrajda.eu/
   size: 231
-  last_checked: 2021-08-18
+  last_checked: 2021-10-02
 
 - domain: saladhax.site
   url: https://saladhax.site/
@@ -1170,8 +1170,8 @@
 
 - domain: seirdy.one
   url: https://seirdy.one/
-  size: 10
-  last_checked: 2021-08-18
+  size: 10.0
+  last_checked: 2021-10-02
 
 - domain: sensorstation.co
   url: https://sensorstation.co/
@@ -1185,8 +1185,8 @@
 
 - domain: si3t.ch
   url: https://si3t.ch/
-  size: 3.8
-  last_checked: 2021-08-18
+  size: 3.9
+  last_checked: 2021-10-02
 
 - domain: simpleblogs.org
   url: https://simpleblogs.org/
@@ -1196,7 +1196,7 @@
 - domain: simplecss.org
   url: https://simplecss.org/
   size: 11.1
-  last_checked: 2021-08-18
+  last_checked: 2021-10-02
 
 - domain: slashdev.space
   url: https://slashdev.space/
@@ -1205,8 +1205,8 @@
 
 - domain: solfisher.com
   url: https://solfisher.com/
-  size: 12.3
-  last_checked: 2021-08-18
+  size: 12.2
+  last_checked: 2021-10-02
 
 - domain: sp-codes.de
   url: https://sp-codes.de/
@@ -1215,13 +1215,13 @@
 
 - domain: spool-five.com
   url: https://spool-five.com/
-  size: 7
-  last_checked: 2021-08-18
+  size: 6.2
+  last_checked: 2021-10-02
 
 - domain: stapy.magentix.fr
   url: https://stapy.magentix.fr/
   size: 18.8
-  last_checked: 2021-08-19
+  last_checked: 2021-10-02
 
 - domain: steamosaic.com
   url: https://steamosaic.com/
@@ -1255,8 +1255,8 @@
 
 - domain: temp.sh
   url: https://temp.sh/
-  size: 28.3
-  last_checked: 2021-08-19
+  size: 29.1
+  last_checked: 2021-10-02
 
 - domain: textpattern.com
   url: https://textpattern.com/
