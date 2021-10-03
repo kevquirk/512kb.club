@@ -333,6 +333,11 @@
   size: 508
   last_checked: 2021-09-17
 
+- domain: dataswamp.org
+  url: https://dataswamp.org/~solene/
+  size: 74.5
+  last_checked: 2021-10-03
+
 - domain: davidrutland.com
   url: https://davidrutland.com/
   size: 167
@@ -1388,6 +1393,11 @@
   size: 7.5
   last_checked: 2021-09-24
 
+- domain: webzine.puffy.cafe
+  url: https://webzine.puffy.cafe
+  size: 6.58
+  last_checked: 2021-10-02
+
 - domain: weinzierlweb.com
   url: https://weinzierlweb.com/
   size: 310
@@ -1457,8 +1467,3 @@
   url: https://zwieratko.sk/
   size: 27.1
   last_checked: 2021-08-19
-
-- domain: webzine.puffy.cafe
-  url: https://webzine.puffy.cafe
-  size: 6.58
-  last_checked: 2021-10-02
