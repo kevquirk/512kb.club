@@ -1023,6 +1023,11 @@
   size: 32.9
   last_checked: 2021-10-02
 
+- domain: sam.pavot.ca
+  url: https://sam.pavot.ca
+  size: 74.4
+  last_checked: 2021-10-11
+
 - domain: pawelgrzybek.com
   url: https://pawelgrzybek.com/
   size: 41.0
