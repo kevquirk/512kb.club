@@ -722,6 +722,11 @@
   url: https://julian.ttm.sh/
   size: 376
   last_checked: 2021-09-04
+  
+- domain: kaalatrie.github.io
+  url: https://kaalatrie.github.io/
+  size: 292
+  last_checked: 2021-10-20
 
 - domain: karamoff.dev
   url: https://karamoff.dev/
