@@ -838,6 +838,11 @@
   size: 21.4
   last_checked: 2021-10-01
 
+- domain: matt-smiley.com
+  url: https://matt-smiley.com/
+  size: 358
+  last_checked: 2021-10-21
+
 - domain: matthew.science
   url: https://matthew.science/
   size: 407
