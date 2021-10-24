@@ -1,6 +1,7 @@
 ---
 permalink: /
 layout: default
+hasRandomBtn: true
 ---
 The internet has become a <b>bloated mess</b>. Massive JavaScript libraries, countless client-side queries and overly complex frontend frameworks are par for the course these days.
 
@@ -20,6 +21,11 @@ But we can make a difference - all it takes is some optimisation. Do you really 
 
 <br>
 <hr>
+
+<br>
+<div class="centre">
+  <a class="button random" href="#100" onclick="randomSite(); return false;">Visit a Random Site</a>
+</div>
 
 {:.jump}
 * **Jump to:**
