@@ -335,3 +335,11 @@ img {
   display: block;
   margin: 0 auto;
 }
+
+.divrandom {
+  margin: 2rem 0 4rem 0;
+}
+
+.random {
+  background: var(--before-green);
+}

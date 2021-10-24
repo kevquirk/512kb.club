@@ -23,7 +23,7 @@ But we can make a difference - all it takes is some optimisation. Do you really 
 <hr>
 
 <br>
-<div class="centre">
+<div class="divrandom centre">
   <a class="button random" href="#100" onclick="randomSite(); return false;">Visit a Random Site</a>
 </div>
 
