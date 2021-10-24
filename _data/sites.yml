@@ -188,11 +188,6 @@
   size: 42.7
   last_checked: 2021-10-19
 
-- domain: bnolet.me
-  url: https://bnolet.me/
-  size: 180
-  last_checked: 2021-08-28
-
 - domain: brainbaking.com
   url: https://brainbaking.com/
   size: 250
@@ -722,7 +717,7 @@
   url: https://julian.ttm.sh/
   size: 376
   last_checked: 2021-09-04
-  
+
 - domain: kaalatrie.github.io
   url: https://kaalatrie.github.io/
   size: 292
@@ -1452,7 +1447,7 @@
   url: https://wilde-it.co.uk/
   size: 157
   last_checked: 2021-09-24
-  
+
 - domain: will.cx
   url: https://will.cx/
   size: 39.2
