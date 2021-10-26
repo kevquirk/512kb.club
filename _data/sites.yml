@@ -1312,6 +1312,11 @@
   url: https://t0.vc/
   size: 1.0
   last_checked: 2021-10-03
+  
+- domain: t12.ichi.city
+  url: https://t12.ichi.city/
+  size: 376
+  last_checked: 2021-10-26
 
 - domain: tanami.org
   url: https://tanami.org/
