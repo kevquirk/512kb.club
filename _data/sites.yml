@@ -292,6 +292,11 @@
   url: https://cri.dev/
   size: 60.0
   last_checked: 2021-09-25
+  
+- domain: curiositry.com/blog.txt
+  url: https://www.curiositry.com/blog.txt
+  size: 8.97
+  last_checked: 2021-10-29
 
 - domain: cyber-diocletian.github.io
   url: https://cyber-diocletian.github.io/
