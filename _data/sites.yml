@@ -428,6 +428,11 @@
   size: 501
   last_checked: 2021-09-18
 
+- domain: ecliptik.com
+  url: https://www.ecliptik.com/
+  size: 26.7
+  last_checked: 2021-10-28
+
 - domain: eddiex.se
   url: https://eddiex.se/
   size: 33.4
