@@ -187,6 +187,11 @@
   url: https://blog.khaleelgibran.com/
   size: 218
   last_checked: 2021-09-17
+  
+- domain: blog.sulairris.com
+  url: https://blog.sulairris.com/
+  size: 326
+  last_checked: 2021-10-26
 
 - domain: blog.xaloc.space
   url: https://blog.xaloc.space/
@@ -297,6 +302,11 @@
   url: https://cri.dev/
   size: 60.0
   last_checked: 2021-09-25
+  
+- domain: curiositry.com
+  url: https://www.curiositry.com/
+  size: 189
+  last_checked: 2021-10-29
 
 - domain: cyber-diocletian.github.io
   url: https://cyber-diocletian.github.io/
@@ -427,6 +437,11 @@
   url: https://ebass.uk/
   size: 501
   last_checked: 2021-09-18
+
+- domain: ecliptik.com
+  url: https://www.ecliptik.com/
+  size: 26.7
+  last_checked: 2021-10-28
 
 - domain: eddiex.se
   url: https://eddiex.se/
@@ -963,6 +978,11 @@
   size: 11.1
   last_checked: 2021-10-04
 
+- domain: nequalsonelifestyle.com
+  url: https://nequalsonelifestyle.com/
+  size: 356
+  last_checked: 2021-10-25
+
 - domain: nihar.page
   url: https://nihar.page/
   size: 3.7
@@ -992,6 +1012,11 @@
   url: https://nobodyspecial.neocities.org/
   size: 8.2
   last_checked: 2021-10-19
+  
+- domain: notionbackups.com
+  url: https://notionbackups.com/
+  size: 43.6
+  last_checked: 2021-10-28
 
 - domain: noulin.net
   url: https://noulin.net/blog
@@ -1317,6 +1342,11 @@
   url: https://t0.vc/
   size: 1.0
   last_checked: 2021-10-03
+  
+- domain: t122222.github.io
+  url: https://t122222.github.io/
+  size: 2.38
+  last_checked: 2021-10-26
 
 - domain: tanami.org
   url: https://tanami.org/
@@ -1493,6 +1523,11 @@
   size: 61.0
   last_checked: 2021-10-19
 
+- domain: xslendi.xyz
+  url: https://xslendi.xyz/
+  size: 2.7
+  last_checked: 2021-10-26
+
 - domain: ybad.name
   url: https://ybad.name/
   size: 4.4
@@ -1527,3 +1562,5 @@
   url: https://zwieratko.sk/
   size: 27.1
   last_checked: 2021-10-03
+  
+
