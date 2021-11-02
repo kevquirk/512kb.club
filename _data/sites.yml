@@ -43,16 +43,11 @@
   size: 22.2
   last_checked: 2021-09-14
 
-- domain: aboutdavid.me
-  url: https://aboutdavid.me/
-  size: 5.4
-  last_checked: 2021-09-14
-
 - domain: adrian.geek.nz
   url: https://adrian.geek.nz/
   size: 161
   last_checked: 2021-10-24
-  
+
 - domain: aggy.cloud
   url: https://aggy.cloud/
   size: 377
@@ -101,11 +96,6 @@
 - domain: aryan.app
   url: https://aryan.app/
   size: 356
-  last_checked: 2021-09-14
-
-- domain: astrophena.name
-  url: https://astrophena.name/
-  size: 16.0
   last_checked: 2021-09-14
 
 - domain: az.on.lt
@@ -187,7 +177,7 @@
   url: https://blog.khaleelgibran.com/
   size: 218
   last_checked: 2021-09-17
-  
+
 - domain: blog.sulairris.com
   url: https://blog.sulairris.com/
   size: 326
@@ -293,16 +283,11 @@
   size: 343
   last_checked: 2021-09-17
 
-- domain: cosmo.red
-  url: https://cosmo.red/
-  size: 16.5
-  last_checked: 2021-09-25
-
 - domain: cri.dev
   url: https://cri.dev/
   size: 60.0
   last_checked: 2021-09-25
-  
+
 - domain: curiositry.com
   url: https://www.curiositry.com/
   size: 189
@@ -317,7 +302,7 @@
   url: https://cyberarm.dev/
   size: 11.4
   last_checked: 2021-09-25
-  
+
 - domain: cyberfarmer.xyz
   url: https://cyberfarmer.xyz/
   size: 11.5
@@ -354,7 +339,7 @@
   last_checked: 2021-10-03
 
 - domain: davidovski.xyz
-  url: http://davidovski.xyz/ 
+  url: http://davidovski.xyz/
   size: 200
   last_checked: 2021-11-02
 
@@ -362,7 +347,7 @@
   url: https://davidrutland.com/
   size: 352
   last_checked: 2021-10-25
-  
+
 - domain: decentnet.github.io
   url: https://decentnet.github.io/
   size: 31.2
@@ -377,11 +362,6 @@
   url: https://dendiz.github.io
   size: 17.3
   last_checked: 2021-10-10
-
-- domain: dev-nonsense.com
-  url: https://dev-nonsense.com/
-  size: 5.5
-  last_checked: 2021-09-25
 
 - domain: devosmium.xyz
   url: https://devosmium.xyz/
@@ -653,11 +633,6 @@
   size: 15.0
   last_checked: 2021-09-30
 
-- domain: idotmaster1.neocities.org
-  url: https://idotmaster1.neocities.org/
-  size: 4.4
-  last_checked: 2021-10-05
-
 - domain: ivanmet.netlify.app
   url: https://ivanmet.netlify.app/
   size: 183
@@ -892,7 +867,7 @@
   url: https://www.matthewgraybosch.com/
   size: 33.0
   last_checked: 2021-09-18
-  
+
 - domain: mattwthomas.com
   url: https://mattwthomas.com/
   size: 93.2
@@ -1027,7 +1002,7 @@
   url: https://nobodyspecial.neocities.org/
   size: 8.2
   last_checked: 2021-10-19
-  
+
 - domain: notionbackups.com
   url: https://notionbackups.com/
   size: 43.6
@@ -1178,11 +1153,6 @@
   size: 289
   last_checked: 2021-09-19
 
-- domain: radosavljevic.dev
-  url: https://radosavljevic.dev/
-  size: 15.7
-  last_checked: 2021-10-02
-
 - domain: ramenos.net
   url: https://www.ramenos.net/
   size: 15.5
@@ -1226,11 +1196,6 @@
 - domain: roelwillems.com
   url: https://roelwillems.com/
   size: 243
-  last_checked: 2021-09-19
-
-- domain: rullan.cat
-  url: http://rullan.cat/
-  size: 39.3
   last_checked: 2021-09-19
 
 - domain: sakrajda.eu
@@ -1292,7 +1257,7 @@
   url: https://sergeysh.com/
   size: 295
   last_checked: 2021-09-06
-  
+
 - domain: shom.dev
   url: https://shom.dev/
   size: 38.2
@@ -1362,7 +1327,7 @@
   url: https://t0.vc/
   size: 1.0
   last_checked: 2021-10-03
-  
+
 - domain: t122222.github.io
   url: https://t122222.github.io/
   size: 2.38
@@ -1577,10 +1542,3 @@
   url: https://zserge.com/
   size: 19.2
   last_checked: 2021-10-03
-
-- domain: zwieratko.sk
-  url: https://zwieratko.sk/
-  size: 27.1
-  last_checked: 2021-10-03
-  
-
