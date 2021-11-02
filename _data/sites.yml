@@ -778,6 +778,11 @@
   size: 70.9
   last_checked: 2021-09-25
 
+- domain: leaknet.org
+  url: https://leaknet.org/
+  size: 197
+  last_checked: 2021-11-02
+
 - domain: leagueh.xyz
   url: https://leagueh.xyz/en/
   size: 20.4
@@ -1557,5 +1562,3 @@
   url: https://zwieratko.sk/
   size: 27.1
   last_checked: 2021-10-03
-  
-
