@@ -348,11 +348,16 @@
   size: 74.5
   last_checked: 2021-10-03
 
+- domain: davidovski.xyz
+  url: http://davidovski.xyz/ 
+  size: 200
+  last_checked: 2021-11-02
+
 - domain: davidrutland.com
   url: https://davidrutland.com/
   size: 352
   last_checked: 2021-10-25
-
+  
 - domain: decentnet.github.io
   url: https://decentnet.github.io/
   size: 31.2
