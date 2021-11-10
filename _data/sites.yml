@@ -1232,6 +1232,11 @@
   url: https://scyllasequence.com/
   size: 3.5
   last_checked: 2021-09-23
+  
+- domain: searchcandy.uk
+  url: https://www.searchcandy.uk/
+  size: 172
+  last_checked: 2021-11-10
 
 - domain: searchforplanet.org
   url: https://searchforplanet.org/
