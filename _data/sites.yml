@@ -903,6 +903,11 @@
   size: 161
   last_checked: 2021-09-04
 
+- domain: meribold.org
+  url: https://meribold.org/
+  size: 18.4
+  last_checked: 2021-11-09
+
 - domain: michel-slm.name
   url: https://michel-slm.name/
   size: 248
