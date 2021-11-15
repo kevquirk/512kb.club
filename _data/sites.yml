@@ -228,6 +228,11 @@
   size: 87.5
   last_checked: 2021-10-25
 
+- domain: ccsleep.net
+  url: http://ccsleep.net/
+  size: 5.09
+  last_checked: 2021-11-15
+
 - domain: chriswiegman.com
   url: https://chriswiegman.com/
   size: 499
