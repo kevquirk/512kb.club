@@ -1228,6 +1228,11 @@
   size: 243
   last_checked: 2021-09-19
 
+- domain: s1.flatpackapps.com
+  url: https://s1.flatpackapps.com/app.php?appId=22
+  size: 130
+  last_checked: 2021-11-15
+
 - domain: sakrajda.eu
   url: https://sakrajda.eu/
   size: 231
