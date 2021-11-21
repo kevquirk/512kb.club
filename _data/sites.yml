@@ -688,6 +688,11 @@
   size: 35.3
   last_checked: 2021-10-02
 
+- domain: jarv.is
+  url: https://jarv.is/
+  size: 219
+  last_checked: 2021-11-21
+
 - domain: jds.work
   url: https://jds.work/
   size: 47.0
