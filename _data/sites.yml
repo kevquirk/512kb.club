@@ -683,6 +683,11 @@
   size: 15.0
   last_checked: 2021-09-30
 
+- domain: imreallybored.xyz
+  url: http://imreallybored.xyz/
+  size: 15.0
+  last_checked: 2021-11-25
+
 - domain: ivanmet.netlify.app
   url: https://ivanmet.netlify.app/
   size: 717
@@ -1617,11 +1622,6 @@
   url: https://zserge.com/
   size: 19.2
   last_checked: 2021-10-03
-
-- domain: imreallybored.xyz
-  url: http://imreallybored.xyz/
-  size: 14.1
-  last_checked: 2021-11-03
 
 - domain: roly.neocities.org
   url: https://roly.neocities.org/
