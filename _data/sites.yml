@@ -547,6 +547,16 @@
   url: https://fedi.dev/
   size: 236
   last_checked: 2021-11-05
+  
+- domain: filbertsalim.codeberg.page
+  url: https://filbertsalim.codeberg.page/
+  size: 232
+  last_checked: 2021-11-26
+
+- domain: filbertsalim.codeberg.page/id/
+  url: https://filbertsalim.codeberg.page/id/
+  size: 267
+  last_checked: 2021-11-26
 
 - domain: format-express.dev
   url: https://format-express.dev/
