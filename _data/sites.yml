@@ -1543,6 +1543,11 @@
   size: 7.5
   last_checked: 2021-09-24
 
+- domain: weblibre.org
+  url: https://weblibre.org
+  size: 6.11
+  last_checked: 2021-11-26
+
 - domain: webzine.puffy.cafe
   url: https://webzine.puffy.cafe
   size: 6.58
