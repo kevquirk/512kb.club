@@ -23,6 +23,11 @@
   size: 177
   last_checked: 2021-10-03
 
+- domain: 47nil.com
+  url: https://47nil.com/
+  size: 111
+  last_checked: 2021-11-22
+
 - domain: 60z.github.io
   url: https://60z.github.io/
   size: 16.2
@@ -218,11 +223,6 @@
   size: 86
   last_checked: 2021-11-03
 
-- domain: thatcatdrout.codeberg.page
-  url: https://thatcatdrout.codeberg.page/
-  size: 249
-  last_checked: 2021-11-24
-
 - domain: caliandro.de
   url: https://caliandro.de/
   size: 213
@@ -260,7 +260,7 @@
 
 - domain: citizen428.net
   url: https://citizen428.net/
-  size: 19.0
+  size: 19
   last_checked: 2021-09-17
 
 - domain: closedgl.xyz
@@ -310,12 +310,12 @@
 
 - domain: cri.dev
   url: https://cri.dev/
-  size: 60.0
+  size: 60
   last_checked: 2021-09-25
 
 - domain: culp.dev
   url: https://culp.dev/
-  size: 14.0
+  size: 14
   last_checked: 2021-11-10
 
 - domain: curiositry.com
@@ -555,7 +555,7 @@
 
 - domain: fossdd.codeberg.page
   url: https://fossdd.codeberg.page/
-  size: 6.0
+  size: 6
   last_checked: 2021-09-30
 
 - domain: fossphones.com
@@ -580,7 +580,7 @@
 
 - domain: funnylookinhat.com
   url: https://funnylookinhat.com/
-  size: 7.0
+  size: 7
   last_checked: 2021-09-30
 
 - domain: gabnotes.org
@@ -605,7 +605,7 @@
 
 - domain: goel.io
   url: http://goel.io/
-  size: 58.0
+  size: 58
   last_checked: 2021-11-05
 
 - domain: goestathomas.de
@@ -615,12 +615,12 @@
 
 - domain: groundzeno.net
   url: https://groundzeno.net/
-  size: 9.0
+  size: 9
   last_checked: 2021-10-05
 
 - domain: gsthnz.com
   url: https://gsthnz.com/
-  size: 3.0
+  size: 3
   last_checked: 2021-09-30
 
 - domain: gtrr.artemislena.eu
@@ -685,12 +685,12 @@
 
 - domain: ianmuchina.com
   url: https://ianmuchina.com/
-  size: 15.0
+  size: 15
   last_checked: 2021-09-30
 
 - domain: imreallybored.xyz
   url: http://imreallybored.xyz/
-  size: 15.0
+  size: 15
   last_checked: 2021-11-25
 
 - domain: ivanmet.netlify.app
@@ -698,15 +698,15 @@
   size: 717
   last_checked: 2021-11-05
 
-- domain: jameskupke.com
-  url: https://www.jameskupke.com/
-  size: 476.0
-  last_checked: 2021-11-14
-
 - domain: jakobbouchard.dev
   url: https://jakobbouchard.dev/
   size: 35.3
   last_checked: 2021-10-02
+
+- domain: jameskupke.com
+  url: https://www.jameskupke.com/
+  size: 476
+  last_checked: 2021-11-14
 
 - domain: jarv.is
   url: https://jarv.is/
@@ -715,7 +715,7 @@
 
 - domain: jds.work
   url: https://jds.work/
-  size: 47.0
+  size: 47
   last_checked: 2021-09-30
 
 - domain: jeffhuang.com
@@ -755,7 +755,7 @@
 
 - domain: john-doe.neocities.org
   url: https://john-doe.neocities.org/
-  size: 24.0
+  size: 24
   last_checked: 2021-09-30
 
 - domain: jonhnnyweslley.net
@@ -935,7 +935,7 @@
 
 - domain: matthewgraybosch.com
   url: https://www.matthewgraybosch.com/
-  size: 33.0
+  size: 33
   last_checked: 2021-09-18
 
 - domain: mattwthomas.com
@@ -1020,7 +1020,7 @@
 
 - domain: mylight.website
   url: https://mylight.website/
-  size: 85.0
+  size: 85
   last_checked: 2021-11-13
 
 - domain: mzumquadrat.de
@@ -1030,7 +1030,7 @@
 
 - domain: na20a.neocities.org
   url: https://na20a.neocities.org/
-  size: 11.0
+  size: 11
   last_checked: 2021-09-18
 
 - domain: ndanes.com
@@ -1038,15 +1038,15 @@
   size: 112
   last_checked: 2021-10-01
 
-- domain: nest.jakl.one
-  url: https://nest.jakl.one/
-  size: 11.1
-  last_checked: 2021-10-04
-
 - domain: nequalsonelifestyle.com
   url: https://nequalsonelifestyle.com/
   size: 356
   last_checked: 2021-10-25
+
+- domain: nest.jakl.one
+  url: https://nest.jakl.one/
+  size: 11.1
+  last_checked: 2021-10-04
 
 - domain: nihar.page
   url: https://nihar.page/
@@ -1143,11 +1143,6 @@
   size: 32.9
   last_checked: 2021-10-02
 
-- domain: sam.pavot.ca
-  url: https://sam.pavot.ca
-  size: 74.4
-  last_checked: 2021-10-11
-
 - domain: pawelgrzybek.com
   url: https://pawelgrzybek.com/
   size: 27.6
@@ -1205,7 +1200,7 @@
 
 - domain: purplebits.co.uk
   url: https://purplebits.co.uk/
-  size: 83.0
+  size: 83
   last_checked: 2021-10-04
 
 - domain: qcard.link
@@ -1250,7 +1245,7 @@
 
 - domain: richj.co
   url: https://richj.co/
-  size: 48.0
+  size: 48
   last_checked: 2021-09-19
 
 - domain: rickrollblog.blogspot.com
@@ -1278,6 +1273,11 @@
   size: 243
   last_checked: 2021-09-19
 
+- domain: roly.neocities.org
+  url: https://roly.neocities.org/
+  size: 32
+  last_checked: 2021-11-19
+
 - domain: sakrajda.eu
   url: https://sakrajda.eu/
   size: 231
@@ -1293,6 +1293,11 @@
   size: 73.8
   last_checked: 2021-09-23
 
+- domain: sam.pavot.ca
+  url: https://sam.pavot.ca
+  size: 74.4
+  last_checked: 2021-10-11
+
 - domain: scf37.me
   url: https://scf37.me/
   size: 92.2
@@ -1300,7 +1305,7 @@
 
 - domain: schmidbauer.cz
   url: https://www.schmidbauer.cz/
-  size: 94.0
+  size: 94
   last_checked: 2021-10-16
 
 - domain: scyllasequence.com
@@ -1330,7 +1335,7 @@
 
 - domain: seirdy.one
   url: https://seirdy.one/
-  size: 10.0
+  size: 10
   last_checked: 2021-10-02
 
 - domain: sensorstation.co
@@ -1343,15 +1348,15 @@
   size: 295
   last_checked: 2021-11-13
 
-- domain: shom.dev
-  url: https://shom.dev/
-  size: 38.2
-  last_checked: 2021-10-24
-
 - domain: sexiarz.pl
   url: https://sexiarz.pl/
   size: 166
   last_checked: 2021-11-03
+
+- domain: shom.dev
+  url: https://shom.dev/
+  size: 38.2
+  last_checked: 2021-10-24
 
 - domain: si3t.ch
   url: https://si3t.ch/
@@ -1405,12 +1410,12 @@
 
 - domain: stilic.ynh.fr
   url: https://stilic.ynh.fr/
-  size: 60.0
+  size: 60
   last_checked: 2021-10-01
 
 - domain: t0.vc
   url: https://t0.vc/
-  size: 1.0
+  size: 1
   last_checked: 2021-10-03
 
 - domain: t122222.github.io
@@ -1443,6 +1448,11 @@
   size: 483
   last_checked: 2021-09-23
 
+- domain: thatcatdrout.codeberg.page
+  url: https://thatcatdrout.codeberg.page/
+  size: 249
+  last_checked: 2021-11-24
+
 - domain: thatdaria.com
   url: https://thatdaria.com/
   size: 94.4
@@ -1450,7 +1460,7 @@
 
 - domain: thaumatorium.com
   url: https://thaumatorium.com/
-  size: 53.0
+  size: 53
   last_checked: 2021-09-23
 
 - domain: thejollyteapot.com
@@ -1643,12 +1653,3 @@
   size: 19.2
   last_checked: 2021-10-03
 
-- domain: roly.neocities.org
-  url: https://roly.neocities.org/
-  size: 32
-  last_checked: 2021-11-19
-
-- domain: 47nil.com
-  url: https://47nil.com/
-  size: 111
-  last_checked: 2021-11-22
