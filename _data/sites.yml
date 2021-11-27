@@ -157,7 +157,7 @@
   url: https://blmayer.dev/
   size: 6.02
   last_checked: 2021-11-25
-  
+
 - domain: block.sunappu.net
   url: https://block.sunappu.net/
   size: 195
@@ -642,7 +642,7 @@
   url: https://www.gwaymark.co.uk
   size: 7.7
   last_checked: 2021-11-24
-  
+
 - domain: hashtagueule.fr
   url: https://hashtagueule.fr
   size: 59.5
@@ -1232,6 +1232,11 @@
   url: https://www.ramenos.net/
   size: 15.5
   last_checked: 2021-10-02
+
+- domain: ranvier.net
+  url: https://ranvier.net/
+  size: 64.5
+  last_checked: 2021-11-22
 
 - domain: rav3ndust.xyz
   url: https://rav3ndust.xyz/
