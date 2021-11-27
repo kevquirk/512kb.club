@@ -153,6 +153,11 @@
   size: 80.7
   last_checked: 2021-10-24
 
+- domain: blmayer.dev
+  url: https://blmayer.dev/
+  size: 6.02
+  last_checked: 2021-11-25
+  
 - domain: block.sunappu.net
   url: https://block.sunappu.net/
   size: 195
@@ -212,6 +217,11 @@
   url: https://buchh.org/
   size: 86
   last_checked: 2021-11-03
+
+- domain: thatcatdrout.codeberg.page
+  url: https://thatcatdrout.codeberg.page/
+  size: 249
+  last_checked: 2021-11-24
 
 - domain: caliandro.de
   url: https://caliandro.de/
@@ -628,6 +638,11 @@
   size: 71.5
   last_checked: 2021-11-05
 
+- domain: gwaymark.co.uk
+  url: https://www.gwaymark.co.uk
+  size: 7.7
+  last_checked: 2021-11-24
+  
 - domain: hashtagueule.fr
   url: https://hashtagueule.fr
   size: 59.5
@@ -672,6 +687,11 @@
   url: https://ianmuchina.com/
   size: 15.0
   last_checked: 2021-09-30
+
+- domain: imreallybored.xyz
+  url: http://imreallybored.xyz/
+  size: 15.0
+  last_checked: 2021-11-25
 
 - domain: ivanmet.netlify.app
   url: https://ivanmet.netlify.app/
@@ -1528,6 +1548,11 @@
   size: 7.5
   last_checked: 2021-09-24
 
+- domain: weblibre.org
+  url: https://weblibre.org
+  size: 6.11
+  last_checked: 2021-11-26
+
 - domain: webzine.puffy.cafe
   url: https://webzine.puffy.cafe
   size: 6.58
@@ -1613,12 +1638,12 @@
   size: 19.2
   last_checked: 2021-10-03
 
-- domain: imreallybored.xyz
-  url: http://imreallybored.xyz/
-  size: 14.1
-  last_checked: 2021-11-03
-
 - domain: roly.neocities.org
   url: https://roly.neocities.org/
   size: 32
   last_checked: 2021-11-19
+
+- domain: 47nil.com
+  url: https://47nil.com/
+  size: 111
+  last_checked: 2021-11-22
