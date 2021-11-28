@@ -103,6 +103,11 @@
   size: 345
   last_checked: 2021-11-20
 
+- domain: autotutor.com.au
+  url: https://autotutor.com.au
+  size: 262
+  last_checked: 2021-11-28
+
 - domain: az.on.lt
   url: https://az.on.lt/
   size: 24.8
