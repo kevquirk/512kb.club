@@ -1597,6 +1597,11 @@
   url: https://wor.do/
   size: 348
   last_checked: 2021-09-24
+  
+- domain: xidoc.nim.town
+  url: http://xidoc.nim.town/
+  size: 73.2
+  last_checked: 2021-11-29
 
 - domain: xigoi.neocities.org
   url: https://xigoi.neocities.org/
