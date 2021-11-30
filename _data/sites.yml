@@ -227,6 +227,11 @@
   url: https://buchh.org/
   size: 86
   last_checked: 2021-11-03
+  
+  - domain: catdrout.pages.dev
+  url: https://catdrout.pages.dev/
+  size: 10.9
+  last_checked: 2021-11-28
 
 - domain: caliandro.de
   url: https://caliandro.de/
