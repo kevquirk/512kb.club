@@ -143,11 +143,6 @@
   size: 101
   last_checked: 2021-10-24
 
-- domain: benpro.fr
-  url: https://benpro.fr/
-  size: 1289
-  last_checked: 2021-10-24
-
 - domain: benrosenberg.info
   url: http://benrosenberg.info/
   size: 4.7
@@ -367,11 +362,6 @@
   url: https://danielcuttridge.com/
   size: 18.5
   last_checked: 2021-09-25
-
-- domain: dariusz.wieckiewicz.org
-  url: https://dariusz.wieckiewicz.org/
-  size: 643
-  last_checked: 2021-11-27
 
 - domain: dataswamp.org
   url: https://dataswamp.org/~solene/
@@ -708,11 +698,6 @@
   size: 15
   last_checked: 2021-11-25
 
-- domain: ivanmet.netlify.app
-  url: https://ivanmet.netlify.app/
-  size: 717
-  last_checked: 2021-11-05
-
 - domain: jakobbouchard.dev
   url: https://jakobbouchard.dev/
   size: 35.3
@@ -867,11 +852,6 @@
   url: https://lectupedia.com/
   size: 27.4
   last_checked: 2021-09-30
-
-- domain: leedsbabybank.org
-  url: https://leedsbabybank.org/
-  size: 774
-  last_checked: 2021-12-03
 
 - domain: lexicon.ga
   url: https://lexicon.ga/
