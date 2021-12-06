@@ -1158,11 +1158,6 @@
   size: 8.3
   last_checked: 2021-11-13
 
-- domain: pimoore.ca
-  url: https://pimoore.ca/
-  size: 7498
-  last_checked: 2021-12-06
-
 - domain: plausible.io
   url: https://plausible.io/
   size: 217
@@ -1447,11 +1442,6 @@
   url: https://temp.sh/
   size: 29.1
   last_checked: 2021-10-02
-
-- domain: textpattern.com
-  url: https://textpattern.com/
-  size: 527
-  last_checked: 2021-12-07
 
 - domain: thatcatdrout.codeberg.page
   url: https://thatcatdrout.codeberg.page/
