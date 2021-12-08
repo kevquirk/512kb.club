@@ -1173,6 +1173,11 @@
   size: 321
   last_checked: 2021-12-06
 
+- domain: port53.me
+  url: https://port53.me/
+  size: 28.8
+  last_checked: 2021-12-08
+
 - domain: portable.fyi
   url: https://portable.fyi/
   size: 95.9
