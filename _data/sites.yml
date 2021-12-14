@@ -1483,6 +1483,11 @@
   size: 33.7
   last_checked: 2021-12-07
 
+- domain: thewebisfucked.com
+  url: https://thewebisfucked.com
+  size: 135
+  last_checked: 2021-12-14
+
 - domain: thewismit.com
   url: https://thewismit.com/
   size: 19.1
@@ -1672,4 +1677,3 @@
   url: https://zserge.com/
   size: 19.2
   last_checked: 2021-10-03
-
