@@ -405,7 +405,8 @@
 
 - domain: devosmium.xyz
   url: https://devosmium.xyz/
-  size: 13.9
+  size: 13.9When creating the PR, please include a link to the GT Metrix results in the PR comment.
+
   last_checked: 2021-12-09
 
 - domain: diicorp95.neonarod.com
@@ -952,6 +953,11 @@
   url: https://mattwthomas.com/
   size: 93.2
   last_checked: 2021-10-24
+  
+- domain: mawoka.eu
+  url: https://mawoka.eu/
+  size: 104
+  last_checked: 2021-12-16
 
 - domain: mck.is
   url: https://mck.is/
