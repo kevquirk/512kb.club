@@ -238,6 +238,11 @@
   size: 86
   last_checked: 2021-11-03
 
+- domain: bvnf.space
+  url: https://bvnf.space/
+  size: 3.06
+  last_checked: 2021-12-18
+
 - domain: caliandro.de
   url: https://caliandro.de/
   size: 213
