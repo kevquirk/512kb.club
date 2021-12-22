@@ -60,8 +60,8 @@
 
 - domain: alexey.shpakovsky.ru
   url: http://alexey.shpakovsky.ru/
-  size: 92.2
-  last_checked: 2021-10-19
+  size: 95.6
+  last_checked: 2021-12-23
 
 - domain: allaboutberlin.com
   url: https://allaboutberlin.com/
@@ -95,8 +95,8 @@
 
 - domain: artemislena.eu
   url: https://artemislena.eu/
-  size: 38.3
-  last_checked: 2021-10-19
+  size: 37.8
+  last_checked: 2021-12-23
 
 - domain: aryan.app
   url: https://aryan.app/
@@ -830,8 +830,8 @@
 
 - domain: kidl.at
   url: https://kidl.at/
-  size: 11.2
-  last_checked: 2021-10-13
+  size: 11.5
+  last_checked: 2021-12-23
 
 - domain: kishvanchee.com
   url: https://kishvanchee.com/
@@ -932,11 +932,6 @@
   url: https://mataroa.blog/
   size: 21.4
   last_checked: 2021-12-14
-
-- domain: matt-smiley.com
-  url: https://matt-smiley.com/
-  size: 358
-  last_checked: 2021-10-21
 
 - domain: matthew.science
   url: https://matthew.science/
@@ -1070,18 +1065,13 @@
 
 - domain: nixnet.email
   url: https://nixnet.email/
-  size: 252
-  last_checked: 2021-10-01
+  size: 270
+  last_checked: 2021-12-23
 
 - domain: nixnet.services
   url: https://nixnet.services/
   size: 175
   last_checked: 2021-12-05
-
-- domain: noJS.club
-  url: https://noJS.club/
-  size: 26.7
-  last_checked: 2021-10-01
 
 - domain: noblogo.org
   url: https://noblogo.org/
@@ -1132,11 +1122,6 @@
   url: https://osiux.com/
   size: 16.7
   last_checked: 2021-12-23
-
-- domain: pablosgweb.com
-  url: https://pablosgweb.com/
-  size: 371
-  last_checked: 2021-09-19
 
 - domain: pantsufan.github.io
   url: https://pantsufan.github.io/
@@ -1261,7 +1246,7 @@
 - domain: rhapsode.adrian.geek.nz
   url: http://rhapsode.adrian.geek.nz/
   size: 148
-  last_checked: 2021-09-19
+  last_checked: 2021-12-23
 
 - domain: richj.co
   url: https://richj.co/
@@ -1320,8 +1305,8 @@
 
 - domain: schmidbauer.cz
   url: https://www.schmidbauer.cz/
-  size: 94
-  last_checked: 2021-10-16
+  size: 93.4
+  last_checked: 2021-12-23
 
 - domain: scyllasequence.com
   url: https://scyllasequence.com/
