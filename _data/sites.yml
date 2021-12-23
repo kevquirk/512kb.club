@@ -118,15 +118,15 @@
   size: 213
   last_checked: 2021-12-12
 
-- domain: az.on.lt
-  url: https://az.on.lt/
-  size: 24.8
-  last_checked: 2021-11-27
-
 - domain: awesomesheep48.me
   url: https://awesomesheep48.me/
   size: 23.3
   last_checked: 2021-12-21
+
+- domain: az.on.lt
+  url: https://az.on.lt/
+  size: 24.8
+  last_checked: 2021-11-27
 
 - domain: bala-frontdev.github.io
   url: https://bala-frontdev.github.io/
