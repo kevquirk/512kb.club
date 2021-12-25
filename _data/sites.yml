@@ -82,6 +82,11 @@
   url: https://anibalsolon.com/
   size: 450
   last_checked: 2021-11-20
+  
+- domain: anonimno.codeberg.page
+  url: https://anononimno.codeberg.page/
+  size: 289
+  last_checked: 2021-12-25
 
 - domain: appbeat.io
   url: https://appbeat.io/
