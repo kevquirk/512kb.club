@@ -682,7 +682,12 @@
   url: https://havenweb.org/
   size: 314
   last_checked: 2021-12-03
-
+  
+- domain: hitarththummar.xyz
+  url: https://hitarththummar.xyz/ (Make sure you keep the trailing slash)
+  size: 32.8
+  last_checked: 2021-12-31
+  
 - domain: hmbrg.xyz
   url: https://hmbrg.xyz/
   size: 2.2
