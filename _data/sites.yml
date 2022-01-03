@@ -338,6 +338,11 @@
   size: 33.8
   last_checked: 2021-12-09
 
+- domain: Ctrl-C.club
+  url: https://ctrl-c.club/
+  size: 115
+  last_checked: 2022-01-02
+  
 - domain: culp.dev
   url: https://culp.dev/
   size: 14
