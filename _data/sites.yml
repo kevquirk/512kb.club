@@ -56,7 +56,7 @@
 - domain: aggy.cloud
   url: https://aggy.cloud/
   size: 189
-  last_checked: 2021-11-04
+  last_checked: 2022-01-03
 
 - domain: alexey.shpakovsky.ru
   url: http://alexey.shpakovsky.ru/
@@ -250,8 +250,8 @@
 
 - domain: buchh.org
   url: https://buchh.org/
-  size: 86
-  last_checked: 2021-11-03
+  size: 1.6
+  last_checked: 2022-01-03
 
 - domain: bvnf.space
   url: https://bvnf.space/
@@ -342,7 +342,7 @@
   url: https://ctrl-c.club/
   size: 115
   last_checked: 2022-01-02
-  
+
 - domain: culp.dev
   url: https://culp.dev/
   size: 14
@@ -516,7 +516,7 @@
 - domain: ericgardner.info
   url: https://ericgardner.info/
   size: 73.7
-  last_checked: 2021-11-03
+  last_checked: 2022-01-03
 
 - domain: eridan.me
   url: https://eridan.me/
@@ -545,8 +545,8 @@
 
 - domain: ezra.website
   url: https://ezra.website/
-  size: 183
-  last_checked: 2021-11-03
+  size: 184
+  last_checked: 2022-01-03
 
 - domain: fanael.github.io
   url: https://fanael.github.io/
@@ -561,12 +561,12 @@
 - domain: federateme.nymbus.xyz
   url: https://federateme.nymbus.xyz/
   size: 197
-  last_checked: 2021-11-03
+  last_checked: 2022-01-03
 
 - domain: fedi.dev
   url: https://fedi.dev/
   size: 236
-  last_checked: 2021-11-05
+  last_checked: 2022-01-03
 
 - domain: filbertsalim.codeberg.page
   url: https://filbertsalim.codeberg.page/
@@ -580,8 +580,8 @@
 
 - domain: format-express.dev
   url: https://format-express.dev/
-  size: 159
-  last_checked: 2021-11-05
+  size: 160
+  last_checked: 2022-01-03
 
 - domain: fossdd.codeberg.page
   url: https://fossdd.codeberg.page/
@@ -601,7 +601,7 @@
 - domain: freshnode.net
   url: https://freshnode.net/
   size: 107
-  last_checked: 2021-11-05
+  last_checked: 2022-01-03
 
 - domain: freyx.co
   url: http://freyx.co/
@@ -615,13 +615,13 @@
 
 - domain: gabnotes.org
   url: https://gabnotes.org/
-  size: 60.5
-  last_checked: 2021-11-05
+  size: 61.2
+  last_checked: 2022-01-03
 
 - domain: gadonias.com
   url: https://gadonias.com/
   size: 220
-  last_checked: 2021-11-05
+  last_checked: 2022-01-03
 
 - domain: gaikanomer9.com
   url: https://gaikanomer9.com/
@@ -640,8 +640,8 @@
 
 - domain: goel.io
   url: http://goel.io/
-  size: 58
-  last_checked: 2021-11-05
+  size: 58.2
+  last_checked: 2022-01-03
 
 - domain: goestathomas.de
   url: http://goestathomas.de/
@@ -666,12 +666,12 @@
 - domain: gud.one
   url: https://gud.one/
   size: 155
-  last_checked: 2021-11-05
+  last_checked: 2022-01-03
 
 - domain: guts.plus
   url: https://guts.plus/
-  size: 71.5
-  last_checked: 2021-11-05
+  size: 73.5
+  last_checked: 2022-01-03
 
 - domain: gwaymark.co.uk
   url: https://www.gwaymark.co.uk
@@ -1197,7 +1197,7 @@
   url: https://probably.co.uk/
   size: 13.9
   last_checked: 2021-12-30
-  
+
 - domain: processwire.dev
   url: https://processwire.dev/
   size: 58.7
@@ -1365,8 +1365,8 @@
 
 - domain: sexiarz.pl
   url: https://sexiarz.pl/
-  size: 166
-  last_checked: 2021-11-03
+  size: 163
+  last_checked: 2022-01-03
 
 - domain: shom.dev
   url: https://shom.dev/
