@@ -1663,6 +1663,11 @@
   size: 2.5
   last_checked: 2021-12-29
 
+- domain: xwx.moe
+  url: https://xwx.moe/
+  size: 324
+  last_checked: 2022-01-04
+
 - domain: yaroslav-i.ru
   url: https://yaroslav-i.ru/
   size: 475
