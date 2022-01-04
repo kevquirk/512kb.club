@@ -982,6 +982,11 @@
   url: https://meribold.org/
   size: 18.4
   last_checked: 2021-11-09
+  
+- domain: mha.fi
+  url: https://mha.fi/
+  size: 58.8
+  last_checked: 2022-01-04
 
 - domain: michel-slm.name
   url: https://michel-slm.name/
