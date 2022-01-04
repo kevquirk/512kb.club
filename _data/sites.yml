@@ -232,6 +232,11 @@
   url: https://blog.xaloc.space/
   size: 42.7
   last_checked: 2021-12-23
+  
+- domain: boehs.org
+  url: http://boehs.org/
+  size: 13.1
+  last_checked: 2022-01-04
 
 - domain: brainbaking.com
   url: https://brainbaking.com/
