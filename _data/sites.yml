@@ -1,8 +1,3 @@
-- domain: control.org
-  url: https://control.org/
-  size: 148
-  last_checked: 2022-01-04
-
 - domain: 0chris.com
   url: https://www.0chris.com/
   size: 4.3
@@ -332,6 +327,11 @@
   url: https://consoom.soy/
   size: 5.2
   last_checked: 2021-12-09
+  
+- domain: control.org
+  url: https://control.org/
+  size: 148
+  last_checked: 2022-01-04
 
 - domain: coopermatt.com
   url: https://coopermatt.com/
