@@ -633,6 +633,11 @@
   size: 7.0
   last_checked: 2021-12-09
 
+- domain: g.rmxgrp.dev
+  url: https://g.rmxgrp.dev/
+  size: 211
+  last_checked: 2022-1-14
+
 - domain: gabnotes.org
   url: https://gabnotes.org/
   size: 61.2
