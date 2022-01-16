@@ -552,6 +552,11 @@
   url: https://ethan.link/
   size: 20.8
   last_checked: 2021-12-28
+  
+  -domain: ethandewey.com
+   url: https://ethandewey.com/
+   size: 181
+   last_checked: 2022-1-15
 
 - domain: ethanyoo.com
   url: https://www.ethanyoo.com/
