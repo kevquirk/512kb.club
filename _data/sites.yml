@@ -1333,6 +1333,11 @@
   size: 32
   last_checked: 2021-11-19
 
+- domain: rutar.org
+  url: https://rutar.org/
+  size: 9.9
+  last_checked: 2022-01-16
+  
 - domain: saladhax.site
   url: https://saladhax.site/
   size: 21.7
