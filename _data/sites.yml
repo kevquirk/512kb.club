@@ -858,11 +858,6 @@
   size: 293
   last_checked: 2021-12-23
 
-- domain: karamoff.dev
-  url: https://karamoff.dev/
-  size: 50.8
-  last_checked: 2021-12-20
-
 - domain: karl.berlin
   url: https://www.karl.berlin/
   size: 2.7
@@ -892,6 +887,11 @@
   url: https://klokmork.com/
   size: 194
   last_checked: 2021-11-12
+
+- domain: kytta.dev
+  url: https://www.kytta.dev/
+  size: 12.2
+  last_checked: 2022-01-13
 
 - domain: lazy-gamer.net
   url: https://lazy-gamer.net/
