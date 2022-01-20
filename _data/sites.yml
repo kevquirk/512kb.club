@@ -1453,6 +1453,11 @@
   size: 400
   last_checked: 2021-12-07
 
+- domain: slitdecision.com
+  url: https://slitdecision.com/
+  size: 14.8
+  last_checked: 2022-01-16
+
 - domain: solfisher.com
   url: https://solfisher.com/
   size: 63.7
