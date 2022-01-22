@@ -12,11 +12,16 @@
   url: https://0xff.nu/
   size: 7.2
   last_checked: 2021-11-20
-
+  
 - domain: 100daystooffload.com
   url: https://100daystooffload.com/
   size: 25.1
   last_checked: 2021-11-20
+
+- domain: alefvanoon.xyz
+  url: https://alefvanoon.xyz/
+  size: 52.9
+  last_checked: 2022-1-22
 
 - domain: 250kb.club
   url: https://250kb.club/
