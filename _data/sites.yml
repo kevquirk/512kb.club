@@ -1158,6 +1158,11 @@
   size: 8.2
   last_checked: 2021-12-23
 
+- domain: notusknot.com
+  url: https://notusknot.com/
+  size: 3.5
+  last_checked: 2022-1-23
+
 - domain: noulin.net
   url: https://noulin.net/blog
   size: 20.7
