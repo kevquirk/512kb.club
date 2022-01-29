@@ -443,6 +443,11 @@
   size: 342
   last_checked: 2021-12-28
 
+- domain: deathcult.fun
+  url: https://www.deathcult.fun/ 
+  size: 8.0
+  last_checked: 2022-01-29
+
 - domain: decentnet.github.io
   url: https://decentnet.github.io/
   size: 31.2
