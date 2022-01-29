@@ -918,6 +918,11 @@
   size: 12.2
   last_checked: 2022-01-13
 
+- domain: krzysztofjankowski.com
+  url: https://krzysztofjankowski.com/
+  size: 264
+  last_checked: 2022-01-29
+
 - domain: lazy-gamer.net
   url: https://lazy-gamer.net/
   size: 74.5
@@ -1792,14 +1797,4 @@
   url: https://zserge.com/
   size: 20.2
   last_checked: 2021-12-19
-  
 
-- domain: zserge.com
-  url: https://zserge.com/
-  size: 20.2
-  last_checked: 2021-12-19
-  
-- domain: krzysztofjankowski.com
-  url: https://krzysztofjankowski.com/
-  size: 264
-  last_checked: 2022-01-29
