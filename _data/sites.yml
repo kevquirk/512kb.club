@@ -1792,3 +1792,8 @@
   url: https://zserge.com/
   size: 20.2
   last_checked: 2021-12-19
+
+- domain: golang.cafe
+  url: https://golang.cafe/
+  size: 247
+  last_checked: 2022-01-29
