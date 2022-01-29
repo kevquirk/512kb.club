@@ -698,6 +698,11 @@
   size: 56.4
   last_checked: 2021-11-16
 
+- domain: golang.cafe
+  url: https://golang.cafe/
+  size: 247
+  last_checked: 2022-01-29
+
 - domain: groundzeno.net
   url: https://groundzeno.net/
   size: 9.1
@@ -1793,7 +1798,3 @@
   size: 20.2
   last_checked: 2021-12-19
 
-- domain: golang.cafe
-  url: https://golang.cafe/
-  size: 247
-  last_checked: 2022-01-29
