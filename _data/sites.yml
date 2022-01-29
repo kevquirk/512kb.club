@@ -738,6 +738,11 @@
   size: 314
   last_checked: 2021-12-03
 
+- domain: healthchecks.io
+  url: https://healthchecks.io/
+  size: 502
+  last_checked: 2022-01-29
+
 - domain: hmbrg.xyz
   url: https://hmbrg.xyz/
   size: 2.2
