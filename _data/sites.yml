@@ -1538,6 +1538,11 @@
   size: 0.9
   last_checked: 2021-12-19
 
+- domain: tabokie.github.io
+  url: https://tabokie.github.io/
+  size: 164
+  last_checked: 2022-01-30
+
 - domain: tanami.org
   url: https://tanami.org/
   size: 32.7
