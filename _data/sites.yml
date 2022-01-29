@@ -568,6 +568,11 @@
   size: 6.2
   last_checked: 2021-12-09
 
+- domain: ersei.saggis.com
+  url: https://ersei.saggis.com/    
+  size: 67.7
+  last_checked: 2022-01-29
+
 - domain: ethandewey.com
   url: https://ethandewey.com/
   size: 181
@@ -1793,7 +1798,3 @@
   size: 20.2
   last_checked: 2021-12-19
 
-- domain: ersei.saggis.com
-  url: https://ersei.saggis.com
-  size: 67.7
-  last_checked: 2022-01-29
