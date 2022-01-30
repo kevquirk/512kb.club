@@ -1138,6 +1138,11 @@
   size: 10.5
   last_checked: 2021-12-05
 
+- domain: nayuki.io
+  url: https://www.nayuki.io/
+  size: 426
+  last_checked: 2022-01-30
+
 - domain: ndanes.com
   url: https://ndanes.com/
   size: 334
