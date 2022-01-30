@@ -62,6 +62,11 @@
   url: http://alexey.shpakovsky.ru/
   size: 95.6
   last_checked: 2021-12-23
+  
+- domain: alfie.wtf
+  url: http://www.alfie.wtf
+  size: 20.4
+  last_checked: 2022-01-29
 
 - domain: allaboutberlin.com
   url: https://allaboutberlin.com/
