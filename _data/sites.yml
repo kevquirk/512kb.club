@@ -248,6 +248,11 @@
   size: 103
   last_checked: 2021-11-27
 
+- domain: blog.setale.me
+  url: https://blog.setale.me/
+  size: 375
+  last_checked: 2022-01-31
+
 - domain: blog.sulairris.com
   url: https://blog.sulairris.com/
   size: 326
