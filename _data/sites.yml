@@ -723,6 +723,11 @@
   size: 21.1
   last_checked: 2021-12-29
 
+- domain: getwheat.com
+  url: https://getwheat.ca/
+  size: 343
+  last_checked: 2022-01-30
+
 - domain: goel.io
   url: http://goel.io/
   size: 58.2
