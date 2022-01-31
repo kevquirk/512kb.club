@@ -62,6 +62,11 @@
   url: http://alexey.shpakovsky.ru/
   size: 95.6
   last_checked: 2021-12-23
+  
+- domain: alfie.wtf
+  url: http://www.alfie.wtf
+  size: 20.4
+  last_checked: 2022-01-29
 
 - domain: allaboutberlin.com
   url: https://allaboutberlin.com/
@@ -148,6 +153,11 @@
   size: 139
   last_checked: 2021-11-27
 
+- domain: bastian.rieck.me
+  url: https://bastian.rieck.me/
+  size: 502
+  last_checked: 2022-01-30
+
 - domain: bbbhltz.srht.site
   url: https://bbbhltz.srht.site/
   size: 12.3
@@ -223,6 +233,11 @@
   size: 31.1
   last_checked: 2021-12-20
 
+- domain: blog.danieljanus.pl
+  url: https://blog.danieljanus.pl/
+  size: 197
+  last_checked: 2022-01–29
+
 - domain: blog.dgold.eu
   url: https://blog.dgold.eu/
   size: 11.6
@@ -283,6 +298,11 @@
   size: 162
   last_checked: 2021-12-27
 
+- domain: camaro96.neocities.org
+  url: https://camaro96.neocities.org/
+  size: 10.9
+  last_checked: 2022-01-16
+
 - domain: cameron.otsuka.haus
   url: https://cameron.otsuka.haus/
   size: 105
@@ -297,6 +317,11 @@
   url: https://canwe.dev/
   size: 87.5
   last_checked: 2021-12-28
+
+- domain: cbrueggenolte.de
+  url: https://cbrueggenolte.de/
+  size: 174
+  last_checked: 2022-01-26
 
 - domain: ccsleep.net
   url: http://ccsleep.net/
@@ -573,6 +598,11 @@
   size: 6.2
   last_checked: 2021-12-09
 
+- domain: ersei.saggis.com
+  url: https://ersei.saggis.com/    
+  size: 67.7
+  last_checked: 2022-01-29
+
 - domain: ethandewey.com
   url: https://ethandewey.com/
   size: 181
@@ -703,6 +733,11 @@
   size: 56.4
   last_checked: 2021-11-16
 
+- domain: golang.cafe
+  url: https://golang.cafe/
+  size: 167
+  last_checked: 2022-01-30
+
 - domain: groundzeno.net
   url: https://groundzeno.net/
   size: 9.1
@@ -743,6 +778,11 @@
   size: 314
   last_checked: 2021-12-03
 
+- domain: healthchecks.io
+  url: https://healthchecks.io/
+  size: 502
+  last_checked: 2022-01-29
+
 - domain: hmbrg.xyz
   url: https://hmbrg.xyz/
   size: 2.2
@@ -757,6 +797,11 @@
   url: https://hugo.md/
   size: 598
   last_checked: 2022-01-07
+
+- domain: hugocisneros.com
+  url: https://hugocisneros.com/
+  size: 75.9
+  last_checked: 2022-01-29
 
 - domain: hunden.linuxkompis.se
   url: https://hunden.linuxkompis.se/
@@ -783,6 +828,11 @@
   size: 60.5
   last_checked: 2021-12-16
 
+- domain: jakobmaier.at
+  url: https://www.jakobmaier.at
+  size: 5.13
+  last_checked: 2022-01-29
+
 - domain: jameskupke.com
   url: https://www.jameskupke.com/
   size: 476
@@ -792,6 +842,11 @@
   url: https://jarv.is/
   size: 219
   last_checked: 2021-11-21
+
+- domain: jcelerier.name
+  url: https://jcelerier.name/
+  size: 72.5
+  last_checked: 2022-01-29
 
 - domain: jds.work
   url: https://jds.work/
@@ -923,6 +978,11 @@
   size: 12.2
   last_checked: 2022-01-13
 
+- domain: krzysztofjankowski.com
+  url: https://krzysztofjankowski.com/
+  size: 131
+  last_checked: 2022-01-30
+
 - domain: lazy-gamer.net
   url: https://lazy-gamer.net/
   size: 74.5
@@ -972,6 +1032,11 @@
   url: https://www.lucienbill.fr
   size: 228
   last_checked: 2021-12-29
+  
+- domain: lukerissacher.com
+  url: https://lukerissacher.com/blog
+  size: 161
+  last_checked: 2022-01-30
 
 - domain: lukesempire.com
   url: https://lukesempire.com/
@@ -1138,6 +1203,11 @@
   size: 10.5
   last_checked: 2021-12-05
 
+- domain: nayuki.io
+  url: https://www.nayuki.io/
+  size: 426
+  last_checked: 2022-01-30
+
 - domain: ndanes.com
   url: https://ndanes.com/
   size: 334
@@ -1237,6 +1307,11 @@
   url: https://paulwilde.uk/
   size: 33.4
   last_checked: 2021-12-16
+
+- domain: pavel-main.github.io
+  url: https://pavel-main.github.io/
+  size: 58.5
+  last_checked: 2022-01-30
 
 - domain: pawelgrzybek.com
   url: https://pawelgrzybek.com/
@@ -1392,6 +1467,11 @@
   url: https://roly.neocities.org/
   size: 32
   last_checked: 2021-11-19
+  
+- domain: ronitray.xyz
+  url: https://ronitray.xyz/
+  size: 21.6
+  last_checked: 2022-01-29
 
 - domain: rutar.org
   url: https://rutar.org/
@@ -1462,6 +1542,11 @@
   url: https://sergeysh.com/
   size: 295
   last_checked: 2021-11-13
+  
+- domain: serhack.me
+  url: http://serhack.me/
+  size: 461
+  last_checked: 2022-01-29
 
 - domain: sexiarz.pl
   url: https://sexiarz.pl/
@@ -1537,6 +1622,11 @@
   url: https://stilic.ml/
   size: 53.5
   last_checked: 2021-12-10
+
+- domain: support.tfwnogf.nl
+  url: https://support.tfwnogf.nl
+  size: 24.6
+  last_checked: 2022-01-29
 
 - domain: t0.vc
   url: https://t0.vc/
@@ -1618,10 +1708,20 @@
   size: 28.5
   last_checked: 2021-12-22
 
+- domain: tjout.com
+  url: https://tjout.com/
+  size: 159
+  last_checked: 2022-01-29
+
 - domain: topik.natenorthway.com
   url: http://topik.natenorthway.com/
   size: 211
   last_checked: 2021-12-08
+
+- domain: topikettunen.com
+  url: https://topikettunen.com
+  size: 27.7
+  last_checked: 2022-30-01
 
 - domain: tradingcode.net
   url: https://tradingcode.net/
@@ -1682,6 +1782,11 @@
   url: https://vladas.palubinskas.lt/
   size: 9.7
   last_checked: 2021-12-19
+
+- domain: volleyball-baustetten.de
+  url: https://volleyball-baustetten.de/
+  size: 210
+  last_checked: 2022-01-30
 
 - domain: vreeman.com
   url: https://vreeman.com/
@@ -1788,12 +1893,8 @@
   size: 175
   last_checked: 2021-12-08
 
-- domain: zn80.net
-  url: https://zn80.net/
-  size: 236
-  last_checked: 2021-12-23
-
 - domain: zserge.com
   url: https://zserge.com/
   size: 20.2
   last_checked: 2021-12-19
+
