@@ -19,6 +19,10 @@ This PR is:
 - [ ] This site is not a ultra lightweight site
 - [ ] The following information is filled identical to the data file
 
+***I confirm that I have read the FAQ section, particularly the two red items around minimal pages and inappropriate content and I attest that this site is neither of these things.***
+
+[ ] Check to confirm
+
 ```
 - domain:
   url:
