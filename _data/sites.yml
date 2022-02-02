@@ -282,6 +282,11 @@
   url: https://bruton.tech/
   size: 6.4
   last_checked: 2021-12-23
+  
+- domain: brycewray.com
+  url: https://brycewray.com/
+  size: 128
+  last_checked: 2022-01-31
 
 - domain: buchh.org
   url: https://buchh.org/
