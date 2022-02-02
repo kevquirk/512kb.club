@@ -297,6 +297,11 @@
   url: https://bvnf.space/
   size: 3.06
   last_checked: 2021-12-18
+  
+- domain: c1.fi
+  url: https://c1.fi/
+  size: 38.5
+  last_checked: 2022-02-02
 
 - domain: caliandro.de
   url: https://caliandro.de/
