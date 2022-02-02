@@ -832,7 +832,12 @@
   url: http://imreallybored.xyz/
   size: 15
   last_checked: 2021-11-25
-
+  
+- domain: jagatsoker.blogspot.com
+  url: https://jagatsoker.blogspot.com/
+  size: 171
+  last_checked: 2022-02-02 (YYYY-MM-DD)
+  
 - domain: jakobbouchard.dev
   url: https://jakobbouchard.dev/
   size: 60.5
