@@ -282,6 +282,11 @@
   url: https://bruton.tech/
   size: 6.4
   last_checked: 2021-12-23
+  
+- domain: brycewray.com
+  url: https://brycewray.com/
+  size: 128
+  last_checked: 2022-01-31
 
 - domain: buchh.org
   url: https://buchh.org/
@@ -443,6 +448,11 @@
   size: 317
   last_checked: 2022-01-07
 
+- domain: danaross.dev
+  url: https://danaross.dev/
+  size: 336
+  last_checked: 2022-02-01
+  
 - domain: daniel-siepmann.de
   url: https://daniel-siepmann.de/
   size: 57.8
@@ -1182,6 +1192,11 @@
   url: https://momi.ca/
   size: 250
   last_checked: 2021-11-13
+
+- domain: mulph.ie
+  url: https://mulph.ie/
+  size: 196
+  last_checked: 2022-01-31
 
 - domain: mutahar.me
   url: https://www.mutahar.me/
