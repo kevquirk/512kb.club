@@ -843,6 +843,11 @@
   size: 15
   last_checked: 2021-11-25
 
+- domain: jagatsoker.blogspot.com
+  url: https://jagatsoker.blogspot.com/
+  size: 179
+  last_checked: 2022-02-03 (YYYY-MM-DD)
+  
 - domain: jakobbouchard.dev
   url: https://jakobbouchard.dev/
   size: 60.5
