@@ -1483,6 +1483,11 @@
   size: 370
   last_checked: 2021-12-06
 
+- domain: robot.unipv.it
+  url: https://robot.unipv.it/toolleeo/
+  size: 27.8
+  last_checked: 2022-02-04
+
 - domain: roelbazuin.nl
   url: https://roelbazuin.nl/
   size: 407
