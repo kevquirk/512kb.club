@@ -508,6 +508,11 @@
   size: 13.9
   last_checked: 2021-12-09
 
+- domain: diggingdown.com
+  url: http://diggingdown.com/
+  size: 25.5
+  last_checked: 2022-02-03
+
 - domain: diicorp95.neonarod.com
   url: http://diicorp95.neonarod.com/
   size: 17.4
@@ -1927,4 +1932,3 @@
   url: https://zserge.com/
   size: 20.2
   last_checked: 2021-12-19
-
