@@ -858,6 +858,11 @@
   size: 15
   last_checked: 2021-11-25
 
+- domain: jae.fi
+  url: https://jae.fi/
+  size: 54.1
+  last_checked: 2022-02-04
+
 - domain: jakobbouchard.dev
   url: https://jakobbouchard.dev/
   size: 60.5
@@ -1947,4 +1952,3 @@
   url: https://zserge.com/
   size: 20.2
   last_checked: 2021-12-19
-
