@@ -13,6 +13,11 @@
   size: 7.2
   last_checked: 2021-11-20
 
+- domain: 0xv31an5a1i5.xyz
+  url: https://0xv31an5a1i5.xyz/
+  size: 167
+  last_checked: 2022-02-03
+
 - domain: 100daystooffload.com
   url: https://100daystooffload.com/
   size: 25.1
@@ -1382,6 +1387,11 @@
   url: https://pothix.com/
   size: 183
   last_checked: 2021-11-13
+
+- domain: privatebin.info
+  url: https://privatebin.info/
+  size: 355
+  last_checked: 2022-02-05
 
 - domain: probably.co.uk
   url: https://probably.co.uk/
