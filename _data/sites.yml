@@ -243,6 +243,11 @@
   size: 31.1
   last_checked: 2021-12-20
 
+- domain: blog.craftyguy.net
+  url: https://blog.craftyguy.net/
+  size: 22.4
+  last_checked: 2022-02-13
+
 - domain: blog.danieljanus.pl
   url: https://blog.danieljanus.pl/
   size: 197
