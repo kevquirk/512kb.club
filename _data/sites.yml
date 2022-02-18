@@ -13,6 +13,11 @@
   size: 7.2
   last_checked: 2021-11-20
 
+- domain: 0xv31an5a1i5.xyz
+  url: https://0xv31an5a1i5.xyz/
+  size: 167
+  last_checked: 2022-02-03
+
 - domain: 100daystooffload.com
   url: https://100daystooffload.com/
   size: 25.1
@@ -22,6 +27,11 @@
   url: https://250kb.club/
   size: 186
   last_checked: 2021-12-18
+  
+- domain: 3000.chat
+  url: https://3000.chat/
+  size: 142
+  last_checked: 2022-02-03
 
 - domain: 47nil.com
   url: https://47nil.com/
@@ -233,6 +243,11 @@
   size: 31.1
   last_checked: 2021-12-20
 
+- domain: blog.craftyguy.net
+  url: https://blog.craftyguy.net/
+  size: 22.4
+  last_checked: 2022-02-13
+
 - domain: blog.danieljanus.pl
   url: https://blog.danieljanus.pl/
   size: 197
@@ -247,6 +262,11 @@
   url: https://blog.khaleelgibran.com/
   size: 103
   last_checked: 2021-11-27
+
+- domain: blog.setale.me
+  url: https://blog.setale.me/
+  size: 427
+  last_checked: 2022-01-31
 
 - domain: blog.sulairris.com
   url: https://blog.sulairris.com/
@@ -282,6 +302,11 @@
   url: https://bruton.tech/
   size: 6.4
   last_checked: 2021-12-23
+  
+- domain: brycewray.com
+  url: https://brycewray.com/
+  size: 128
+  last_checked: 2022-01-31
 
 - domain: buchh.org
   url: https://buchh.org/
@@ -292,6 +317,11 @@
   url: https://bvnf.space/
   size: 3.06
   last_checked: 2021-12-18
+  
+- domain: c1.fi
+  url: https://c1.fi/v/512kb/about/en
+  size: 43.9
+  last_checked: 2022-02-08
 
 - domain: caliandro.de
   url: https://caliandro.de/
@@ -317,6 +347,11 @@
   url: https://canwe.dev/
   size: 87.5
   last_checked: 2021-12-28
+
+- domain: caraudioinc.com
+  url: http://caraudioinc.com/
+  size: 338
+  last_checked: 2022-02-11
 
 - domain: cbrueggenolte.de
   url: https://cbrueggenolte.de/
@@ -443,6 +478,11 @@
   size: 317
   last_checked: 2022-01-07
 
+- domain: danaross.dev
+  url: https://danaross.dev/
+  size: 336
+  last_checked: 2022-02-01
+  
 - domain: daniel-siepmann.de
   url: https://daniel-siepmann.de/
   size: 57.8
@@ -482,6 +522,11 @@
   url: https://dendiz.github.io
   size: 11.9
   last_checked: 2021-12-22
+
+- domain: detektywi.it
+  url: https://detektywi.it
+  size: 460
+  last_checked: 2021-01-30
 
 - domain: devosmium.xyz
   url: https://devosmium.xyz/
@@ -577,6 +622,11 @@
   url: https://eink.link/
   size: 7.5
   last_checked: 2021-12-09
+
+- domain: elrido.dssr.ch
+  url: https://elrido.dssr.ch/
+  size: 137.5
+  last_checked: 2022-02-05
 
 - domain: emanuelpina.pt
   url: https://emanuelpina.pt/
@@ -827,6 +877,11 @@
   url: http://imreallybored.xyz/
   size: 15
   last_checked: 2021-11-25
+
+- domain: jae.fi
+  url: https://jae.fi/
+  size: 54.1
+  last_checked: 2022-02-04
 
 - domain: jakobbouchard.dev
   url: https://jakobbouchard.dev/
@@ -1092,6 +1147,11 @@
   url: https://mousdown.netlify.app/
   size: 371
   last_checked: 2022-01-06
+  
+- domain: mathijs.vgorcum.com
+  url: https://mathijs.vgorcum.com/
+  size: 312
+  last_checked: 2022-02-11
 
 - domain: matthewgraybosch.com
   url: https://www.matthewgraybosch.com/
@@ -1177,6 +1237,11 @@
   url: https://momi.ca/
   size: 250
   last_checked: 2021-11-13
+
+- domain: mulph.ie
+  url: https://mulph.ie/
+  size: 196
+  last_checked: 2022-01-31
 
 - domain: mutahar.me
   url: https://www.mutahar.me/
@@ -1358,6 +1423,11 @@
   size: 183
   last_checked: 2021-11-13
 
+- domain: privatebin.info
+  url: https://privatebin.info/
+  size: 355
+  last_checked: 2022-02-05
+
 - domain: probably.co.uk
   url: https://probably.co.uk/
   size: 39.0
@@ -1457,6 +1527,11 @@
   url: https://robert.winter.ink/
   size: 370
   last_checked: 2021-12-06
+
+- domain: robot.unipv.it/toolleeo/
+  url: https://robot.unipv.it/toolleeo/
+  size: 27.8
+  last_checked: 2022-02-04
 
 - domain: roelbazuin.nl
   url: https://roelbazuin.nl/
@@ -1718,6 +1793,11 @@
   size: 159
   last_checked: 2022-01-29
 
+- domain: toby3d.me
+  url: https://toby3d.me/
+  size: 195
+  last_checked: 2022-02-13
+
 - domain: topik.natenorthway.com
   url: http://topik.natenorthway.com/
   size: 211
@@ -1902,4 +1982,3 @@
   url: https://zserge.com/
   size: 20.2
   last_checked: 2021-12-19
-
