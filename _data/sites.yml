@@ -1498,6 +1498,11 @@
   size: 64.5
   last_checked: 2021-11-22
 
+- domain: ratfactor.com
+  url: https://ratfactor.com/
+  size: 60.6
+  last_checked: 2022-02-24
+
 - domain: rav3ndust.xyz
   url: https://rav3ndust.xyz/
   size: 72.2
