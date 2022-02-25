@@ -19,7 +19,8 @@
     --after-orange: #FFF176;
     --before-green: #4CAF50;
     --after-green: #C8E6C9;
-
+    --notice-red-bg: #FFE4E1;
+    --notice-red-border: #951818;
 }
 
 /* Define colours for auto dark mode */
@@ -32,6 +33,8 @@
         --accent: #333;
         --gh-hover: #222;
         --code: #F06292;
+        --notice-red-bg: #951818;
+        --notice-red-border: #EFD3CF;
     }
 
     ul li {
@@ -304,9 +307,8 @@ details {
 }
 
 details.red-notice {
-  background: #951818;
-  border-color: #951818;
-  color: white;
+  background: var(--notice-red-bg);
+  border-color: var(--notice-red-border);
 }
 
 .red-notice h2 {
@@ -334,4 +336,12 @@ img {
   max-width: 100%;
   display: block;
   margin: 0 auto;
+}
+
+.divrandom {
+  margin: 2rem 0 4rem 0;
+}
+
+.random {
+  background: var(--before-green);
 }

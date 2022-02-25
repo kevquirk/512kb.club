@@ -41,4 +41,4 @@ But we can make a difference - all it takes is some optimisation. Do you really 
 
 ## Automation of site size check
 
-You can find [instuructions](scripts/docs_site_size_rechecker.md) on how to get the GTmetrix size using a script in the [scripts](scripts/) folder
+You can find [instructions](scripts/docs_site_size_rechecker.md) on how to get the GTmetrix size using a script in the [scripts](scripts/) folder
