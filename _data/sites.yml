@@ -1578,6 +1578,11 @@
   size: 77.6
   last_checked: 2021-12-22
 
+- domain: example.com
+  url: https://sandyuraz.com/
+  size: 115
+  last_checked: 2022-02-26
+  
 - domain: scf37.me
   url: https://scf37.me/
   size: 93.5
