@@ -823,6 +823,12 @@
   size: 11.3
   last_checked: 2021-11-27
 
+- domain: haxi.viw.se
+  url: http://haxi.viw.se/
+  size: 51.2
+
+  last_checked: 2021-02-26 
+
 - domain: hashtagueule.fr
   url: https://hashtagueule.fr
   size: 59.5
