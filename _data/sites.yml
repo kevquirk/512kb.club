@@ -825,7 +825,7 @@
 
 - domain: haxi.viw.se
   url: http://haxi.viw.se/
-  size: 51.2
+  size: 51.6
 
   last_checked: 2021-02-26 
 
@@ -1743,11 +1743,6 @@
   url: https://temp.sh/
   size: 3.9
   last_checked: 2021-12-18
-
-- domain: thatcatdrout.codeberg.page
-  url: https://thatcatdrout.codeberg.page/
-  size: 249
-  last_checked: 2021-11-24
 
 - domain: thatdaria.com
   url: https://thatdaria.com/
