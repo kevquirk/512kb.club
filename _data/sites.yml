@@ -1677,7 +1677,12 @@
   url: https://silviamaggidesign.com/
   size: 311
   last_checked: 2022-01-24
-
+  
+- domain: simbly.me
+  url: https://simbly.me/
+  size: 61.5
+  last_checked: 2022-03-02
+  
 - domain: simpleblogs.org
   url: https://simpleblogs.org/
   size: 364
