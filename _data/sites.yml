@@ -437,7 +437,12 @@
   url: https://coopermatt.com/
   size: 342
   last_checked: 2021-11-27
-
+  
+- domain: cri.cl
+  url: https://cri.cl/
+  size: 72.0
+  last_checked: 2022-03-03
+  
 - domain: cri.dev
   url: https://cri.dev/
   size: 33.8
