@@ -1778,6 +1778,11 @@
   size: 53.2
   last_checked: 2021-12-07
 
+- domain: thedoctor.codeberg.page
+  url: https://thedoctor.codeberg.page/
+  size: 33.5
+  last_checked: 2022-03-04
+    
 - domain: thejollyteapot.com
   url: https://thejollyteapot.com/
   size: 6.79
