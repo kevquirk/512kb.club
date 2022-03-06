@@ -1893,6 +1893,11 @@
   size: 54.5
   last_checked: 2022-02-24
 
+- domain: vfast.co.uk
+  url: https://www.vfast.co.uk/
+  size: 430
+  last_checked: 2022-03-06
+
 - domain: vitcerny.xyz
   url: https://vitcerny.xyz/
   size: 121
