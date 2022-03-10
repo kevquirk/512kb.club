@@ -102,6 +102,11 @@
   url: https://anibalsolon.com/
   size: 450
   last_checked: 2021-11-20
+  
+- domain: anna.wieckiewicz.org
+  url: https://anna.wieckiewicz.org/
+  size: 33.8
+  last_checked: 2022-02-19
 
 - domain: anonimno.codeberg.page
   url: https://anonimno.codeberg.page/
@@ -251,7 +256,7 @@
 - domain: blog.danieljanus.pl
   url: https://blog.danieljanus.pl/
   size: 197
-  last_checked: 2022-01–29
+  last_checked: 2022-01-29
 
 - domain: blog.dgold.eu
   url: https://blog.dgold.eu/
@@ -362,6 +367,11 @@
   url: http://ccsleep.net/
   size: 5.09
   last_checked: 2021-11-15
+
+- domain: chriswiegman.com
+  url: https://chriswiegman.com/
+  size: 72.8
+  last_checked: 2022-02-20
 
 - domain: citizen428.net
   url: https://citizen428.net/
@@ -600,8 +610,8 @@
 
 - domain: ecliptik.com
   url: https://www.ecliptik.com/
-  size: 27.7
-  last_checked: 2021-12-29
+  size: 230
+  last_checked: 2022-02-21
 
 - domain: eddiex.se
   url: https://eddiex.se/
@@ -656,7 +666,7 @@
 - domain: ethandewey.com
   url: https://ethandewey.com/
   size: 181
-  last_checked: 2022-1-15
+  last_checked: 2022-01-15
 
 - domain: ethan.link
   url: https://ethan.link/
@@ -746,7 +756,7 @@
 - domain: g.rmxgrp.dev
   url: https://g.rmxgrp.dev/
   size: 212
-  last_checked: 2022-1-14
+  last_checked: 2022-01-14
 
 - domain: gabnotes.org
   url: https://gabnotes.org/
@@ -775,8 +785,8 @@
 
 - domain: getwheat.com
   url: https://getwheat.ca/
-  size: 343
-  last_checked: 2022-01-30
+  size: 373
+  last_checked: 2022-02-18
 
 - domain: goel.io
   url: http://goel.io/
@@ -830,8 +840,8 @@
 
 - domain: havenweb.org
   url: https://havenweb.org/
-  size: 314
-  last_checked: 2021-12-03
+  size: 60.1
+  last_checked: 2022-02-24
 
 - domain: healthchecks.io
   url: https://healthchecks.io/
@@ -1017,6 +1027,11 @@
   url: https://kidl.at/
   size: 11.5
   last_checked: 2021-12-23
+  
+- domain: kieran.rmxgrp.dev
+  url: https://kieran.rmxgrp.dev/
+  size: 121
+  last_checked: 2022-02-28 
 
 - domain: kishvanchee.com
   url: https://kishvanchee.com/
@@ -1321,7 +1336,7 @@
 - domain: notusknot.com
   url: https://notusknot.com/
   size: 3.5
-  last_checked: 2022-1-23
+  last_checked: 2022-01-23
 
 - domain: noulin.net
   url: https://noulin.net/blog
@@ -1398,6 +1413,11 @@
   size: 8.3
   last_checked: 2021-11-13
 
+- domain: plaindrops.de
+  url: https://plaindrops.de/
+  size: 47.1
+  last_checked: 2022-02-21
+  
 - domain: plausible.io
   url: https://plausible.io/
   size: 217
@@ -1498,6 +1518,11 @@
   size: 64.5
   last_checked: 2021-11-22
 
+- domain: ratfactor.com
+  url: https://ratfactor.com/
+  size: 60.6
+  last_checked: 2022-02-24
+
 - domain: rav3ndust.xyz
   url: https://rav3ndust.xyz/
   size: 72.2
@@ -1517,6 +1542,11 @@
   url: http://rickrollblog.blogspot.com/
   size: 46.4
   last_checked: 2021-12-19
+
+- domain: rishigoomar.com
+  url: https://rishigoomar.com/
+  size: 474
+  last_checked: 2022-02-16
 
 - domain: robbie.antenesse.net
   url: https://robbie.antenesse.net/
@@ -1665,8 +1695,8 @@
 
 - domain: slitdecision.com
   url: https://slitdecision.com/
-  size: 14.8
-  last_checked: 2022-01-16
+  size: 29.9
+  last_checked: 2022-02-21
 
 - domain: solfisher.com
   url: https://solfisher.com/
@@ -1806,7 +1836,7 @@
 - domain: topikettunen.com
   url: https://topikettunen.com
   size: 27.7
-  last_checked: 2022-30-01
+  last_checked: 2022-01-30
 
 - domain: tradingcode.net
   url: https://tradingcode.net/
@@ -1845,8 +1875,8 @@
 
 - domain: unitoo.it
   url: https://unitoo.it/
-  size: 369
-  last_checked: 2021-12-27
+  size: 463
+  last_checked: 2022-02-25
 
 - domain: unsolicitedadvise.com
   url: https://unsolicitedadvise.com/
@@ -1857,6 +1887,11 @@
   url: https://www.usecue.com/
   size: 51.1
   last_checked: 2021-12-28
+
+- domain: vegard.net
+  url: https://www.vegard.net/
+  size: 54.5
+  last_checked: 2022-02-24
 
 - domain: vitcerny.xyz
   url: https://vitcerny.xyz/
