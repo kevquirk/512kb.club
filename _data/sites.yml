@@ -43,11 +43,6 @@
   size: 16.2
   last_checked: 2021-11-20
 
-- domain: Phate6660.codeberg.page
-  url: https://Phate6660.codeberg.page/
-  size: 87.3
-  last_checked: 2021-12-23
-
 - domain: a1cy0n.xyz
   url: https://a1cy0n.xyz/
   size: 78.3
@@ -242,6 +237,11 @@
   url: https://blog.benoitj.ca/
   size: 8.4
   last_checked: 2021-11-27
+
+- domain: blog.bfloeser.de
+  url: https://blog.bfloeser.de
+  size: 33.4
+  last_checked: 2022-03-08
 
 - domain: blog.bshah.in
   url: https://blog.bshah.in/
@@ -668,15 +668,15 @@
   size: 67.7
   last_checked: 2022-01-29
 
-- domain: ethandewey.com
-  url: https://ethandewey.com/
-  size: 181
-  last_checked: 2022-01-15
-
 - domain: ethan.link
   url: https://ethan.link/
   size: 20.8
   last_checked: 2021-12-28
+
+- domain: ethandewey.com
+  url: https://ethandewey.com/
+  size: 181
+  last_checked: 2022-01-15
 
 - domain: ethanyoo.com
   url: https://www.ethanyoo.com/
@@ -1013,15 +1013,15 @@
   size: 71.6
   last_checked: 2021-11-12
 
-- domain: julian.ttm.sh
-  url: https://julian.ttm.sh/
-  size: 493
-  last_checked: 2021-11-12
-
 - domain: julb.es
   url: https://julb.es/
   size: 64.8
   last_checked: 2022-01-08
+
+- domain: julian.ttm.sh
+  url: https://julian.ttm.sh/
+  size: 493
+  last_checked: 2021-11-12
 
 - domain: kaalatrie.github.io
   url: https://kaalatrie.github.io/
@@ -1063,15 +1063,15 @@
   size: 194
   last_checked: 2021-11-12
 
-- domain: kytta.dev
-  url: https://www.kytta.dev/
-  size: 12.2
-  last_checked: 2022-01-13
-
 - domain: krzysztofjankowski.com
   url: https://krzysztofjankowski.com/
   size: 131
   last_checked: 2022-01-30
+
+- domain: kytta.dev
+  url: https://www.kytta.dev/
+  size: 12.2
+  last_checked: 2022-01-13
 
 - domain: lazy-gamer.net
   url: https://lazy-gamer.net/
@@ -1173,20 +1173,15 @@
   size: 21.4
   last_checked: 2021-12-14
 
-- domain: matthew.science
-  url: https://matthew.science/
-  size: 276
-  last_checked: 2021-12-19
-
-- domain: mousdown.netlify.app
-  url: https://mousdown.netlify.app/
-  size: 371
-  last_checked: 2022-01-06
-
 - domain: mathijs.vgorcum.com
   url: https://mathijs.vgorcum.com/
   size: 312
   last_checked: 2022-02-11
+
+- domain: matthew.science
+  url: https://matthew.science/
+  size: 276
+  last_checked: 2021-12-19
 
 - domain: matthewgraybosch.com
   url: https://www.matthewgraybosch.com/
@@ -1272,6 +1267,11 @@
   url: https://momi.ca/
   size: 250
   last_checked: 2021-11-13
+
+- domain: mousdown.netlify.app
+  url: https://mousdown.netlify.app/
+  size: 371
+  last_checked: 2022-01-06
 
 - domain: mrmarketingmustache.com
   url: https://mrmarketingmustache.com/
@@ -1438,6 +1438,11 @@
   size: 2.4
   last_checked: 2021-12-06
 
+- domain: Phate6660.codeberg.page
+  url: https://Phate6660.codeberg.page/
+  size: 87.3
+  last_checked: 2021-12-23
+
 - domain: phreedom.club
   url: https://phreedom.club/
   size: 8.3
@@ -1533,11 +1538,6 @@
   size: 290
   last_checked: 2021-12-06
 
-- domain: rc-lite.xyz
-  url: https://rc-lite.xyz/
-  size: 14.6
-  last_checked: 2022-01-03
-
 - domain: ramenos.net
   url: https://www.ramenos.net/
   size: 15.5
@@ -1557,6 +1557,11 @@
   url: https://rav3ndust.xyz/
   size: 72.2
   last_checked: 2021-11-20
+
+- domain: rc-lite.xyz
+  url: https://rc-lite.xyz/
+  size: 14.6
+  last_checked: 2022-01-03
 
 - domain: rhapsode.adrian.geek.nz
   url: http://rhapsode.adrian.geek.nz/
@@ -1807,11 +1812,6 @@
   url: https://thaumatorium.com/
   size: 53.2
   last_checked: 2021-12-07
-
-- domain: blog.bfloeser.de
-  url: https://blog.bfloeser.de
-  size: 33.4
-  last_checked: 2022-03-08
 
 - domain: thejollyteapot.com
   url: https://thejollyteapot.com/
