@@ -173,6 +173,11 @@
   size: 502
   last_checked: 2022-01-30
 
+- domain: bbbhltz.codeberg.page
+  url: https://bbbhltz.codeberg.page
+  size: 29.1
+  last_checked: 2022-03-11
+
 - domain: bduck.xyz
   url: https://bduck.xyz/
   size: 159
