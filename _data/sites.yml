@@ -27,7 +27,7 @@
   url: https://250kb.club/
   size: 186
   last_checked: 2021-12-18
-  
+
 - domain: 3000.chat
   url: https://3000.chat/
   size: 142
@@ -72,7 +72,7 @@
   url: http://alexey.shpakovsky.ru/
   size: 95.6
   last_checked: 2021-12-23
-  
+
 - domain: alfie.wtf
   url: http://www.alfie.wtf
   size: 20.4
@@ -102,7 +102,7 @@
   url: https://anibalsolon.com/
   size: 450
   last_checked: 2021-11-20
-  
+
 - domain: anna.wieckiewicz.org
   url: https://anna.wieckiewicz.org/
   size: 33.8
@@ -282,7 +282,7 @@
   url: https://blog.xaloc.space/
   size: 42.7
   last_checked: 2021-12-23
-  
+
 - domain: bluederv.net
   url: https://bluederv.net/
   size: 2.49
@@ -307,7 +307,7 @@
   url: https://bruton.tech/
   size: 6.4
   last_checked: 2021-12-23
-  
+
 - domain: brycewray.com
   url: https://brycewray.com/
   size: 128
@@ -322,7 +322,7 @@
   url: https://bvnf.space/
   size: 3.06
   last_checked: 2021-12-18
-  
+
 - domain: c1.fi
   url: https://c1.fi/v/512kb/about/en
   size: 43.9
@@ -492,7 +492,7 @@
   url: https://danaross.dev/
   size: 336
   last_checked: 2022-02-01
-  
+
 - domain: daniel-siepmann.de
   url: https://daniel-siepmann.de/
   size: 57.8
@@ -502,7 +502,7 @@
   url: https://danielcuttridge.com/
   size: 18.5
   last_checked: 2021-12-09
-  
+
 - domain: dariusz.wieckiewicz.org
   url: https://dariusz.wieckiewicz.org/
   size: 392
@@ -659,7 +659,7 @@
   last_checked: 2021-12-09
 
 - domain: ersei.saggis.com
-  url: https://ersei.saggis.com/    
+  url: https://ersei.saggis.com/
   size: 67.7
   last_checked: 2022-01-29
 
@@ -683,15 +683,20 @@
   size: 466
   last_checked: 2021-12-03
 
-- domain: ezra.website
-  url: https://ezra.website/
-  size: 184
-  last_checked: 2022-01-03
-  
 - domain: extension.ninja
   url: https://www.extension.ninja/
   size: 78
   last_checked: 2022-03-06
+
+- domain: ezra.website
+  url: https://ezra.website/
+  size: 184
+  last_checked: 2022-01-03
+
+- domain: fahim.pages.dev
+  url: https://fahim.pages.dev/
+  size: 378
+  last_checked: 2022-03-06  
 
 - domain: fanael.github.io
   url: https://fanael.github.io/
@@ -1032,11 +1037,11 @@
   url: https://kidl.at/
   size: 11.5
   last_checked: 2021-12-23
-  
+
 - domain: kieran.rmxgrp.dev
   url: https://kieran.rmxgrp.dev/
   size: 121
-  last_checked: 2022-02-28 
+  last_checked: 2022-02-28
 
 - domain: kishvanchee.com
   url: https://kishvanchee.com/
@@ -1112,7 +1117,7 @@
   url: https://www.lucienbill.fr
   size: 228
   last_checked: 2021-12-29
-  
+
 - domain: lukerissacher.com
   url: https://lukerissacher.com/blog
   size: 161
@@ -1167,7 +1172,7 @@
   url: https://mousdown.netlify.app/
   size: 371
   last_checked: 2022-01-06
-  
+
 - domain: mathijs.vgorcum.com
   url: https://mathijs.vgorcum.com/
   size: 312
@@ -1232,11 +1237,11 @@
   url: https://miltsghostrehab.xyz/
   size: 56.5
   last_checked: 2021-11-13
-  
+
 - domain: minutestomidnight.co.uk
   url: https://minutestomidnight.co.uk
   size: 167
-  last_checked: 2022-01-24  
+  last_checked: 2022-01-24
 
 - domain: minwiz.com
   url: https://minwiz.com/
@@ -1257,6 +1262,11 @@
   url: https://momi.ca/
   size: 250
   last_checked: 2021-11-13
+
+- domain: mrmarketingmustache.com
+  url: https://mrmarketingmustache.com/
+  size: 66.4
+  last_checked: 2022-03-05
 
 - domain: mulph.ie
   url: https://mulph.ie/
@@ -1422,7 +1432,7 @@
   url: https://plaindrops.de/
   size: 47.1
   last_checked: 2022-02-21
-  
+
 - domain: plausible.io
   url: https://plausible.io/
   size: 217
@@ -1582,7 +1592,7 @@
   url: https://roly.neocities.org/
   size: 32
   last_checked: 2021-11-19
-  
+
 - domain: ronitray.xyz
   url: https://ronitray.xyz/
   size: 21.6
@@ -1592,7 +1602,7 @@
   url: https://rutar.org/
   size: 10.1
   last_checked: 2022-01-20
-  
+
 - domain: saladhax.site
   url: https://saladhax.site/
   size: 21.7
@@ -1657,7 +1667,7 @@
   url: https://sergeysh.com/
   size: 295
   last_checked: 2021-11-13
-  
+
 - domain: serhack.me
   url: http://serhack.me/
   size: 461
@@ -1677,7 +1687,7 @@
   url: https://si3t.ch/
   size: 2.36
   last_checked: 2021-11-17
-  
+
 - domain: silviamaggidesign.com
   url: https://silviamaggidesign.com/
   size: 311
@@ -1783,6 +1793,11 @@
   size: 53.2
   last_checked: 2021-12-07
 
+- domain: blog.bfloeser.de
+  url: https://blog.bfloeser.de
+  size: 33.4
+  last_checked: 2022-03-08
+    
 - domain: thejollyteapot.com
   url: https://thejollyteapot.com/
   size: 6.79
@@ -1897,6 +1912,11 @@
   url: https://www.vegard.net/
   size: 54.5
   last_checked: 2022-02-24
+
+- domain: vfast.co.uk
+  url: https://www.vfast.co.uk/
+  size: 430
+  last_checked: 2022-03-06
 
 - domain: vitcerny.xyz
   url: https://vitcerny.xyz/
