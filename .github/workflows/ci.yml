@@ -4,7 +4,7 @@ name: Continuous integration
 
 jobs:
   ci:
-    name: Check domains
+    name: Check if domains are sorted alphabetically
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
