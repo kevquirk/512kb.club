@@ -173,11 +173,6 @@
   size: 502
   last_checked: 2022-01-30
 
-- domain: bbbhltz.srht.site
-  url: https://bbbhltz.srht.site/
-  size: 12.3
-  last_checked: 2021-11-13
-
 - domain: bduck.xyz
   url: https://bduck.xyz/
   size: 159
@@ -696,7 +691,7 @@
 - domain: fahim.pages.dev
   url: https://fahim.pages.dev/
   size: 378
-  last_checked: 2022-03-06  
+  last_checked: 2022-03-06
 
 - domain: fanael.github.io
   url: https://fanael.github.io/
@@ -1797,7 +1792,7 @@
   url: https://blog.bfloeser.de
   size: 33.4
   last_checked: 2022-03-08
-    
+
 - domain: thejollyteapot.com
   url: https://thejollyteapot.com/
   size: 6.79
