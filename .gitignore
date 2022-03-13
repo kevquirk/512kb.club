@@ -5,3 +5,5 @@ _site
 .DS_Store
 
 python-gtmetrix
+
+node_modules
