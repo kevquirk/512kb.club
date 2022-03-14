@@ -15,7 +15,7 @@ But we can make a difference - all it takes is some optimisation. Do you really 
 
 1. Fork this repository.
 2. Get the **UNCOMPRESSED** size of your website's homepage.
-    1. Do a <a target="blank" href="https://gtmetrix.com">GTMetrix scan</a> on your website.
+    1. Do a <a target="_blank" href="https://gtmetrix.com">GTMetrix scan</a> on your website.
     2. Once complete, click on the **Waterfall** tab to make sure the **uncompressed** size of your site is less than 512KB.
 3. Navigate to [`_data/sites.yml`](./_data/sites.yml) and add your site (template below).
 4.  **When creating the PR, please include a link to the GT Metrix results in the PR comment.**
