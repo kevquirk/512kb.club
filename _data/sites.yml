@@ -373,6 +373,11 @@
   size: 5.09
   last_checked: 2021-11-15
 
+- domain: celeste.exposed
+  url: https://celeste.exposed/
+  size: 293
+  last_checked: 2022-03-16
+
 - domain: chriswiegman.com
   url: https://chriswiegman.com/
   size: 72.8
