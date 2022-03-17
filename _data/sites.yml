@@ -38,6 +38,11 @@
   size: 111
   last_checked: 2021-11-22
 
+- domain: 512kb.club
+  url: https://512kb.club/
+  size: 91.5
+  last_checked: 2022-03-06
+
 - domain: 60z.github.io
   url: https://60z.github.io/
   size: 16.2
@@ -458,7 +463,7 @@
   size: 33.8
   last_checked: 2021-12-09
 
-- domain: Ctrl-C.club
+- domain: ctrl-c.club
   url: https://ctrl-c.club/
   size: 115
   last_checked: 2022-01-02
@@ -902,7 +907,7 @@
   url: https://ianmuchina.com/
   size: 15.0
   last_checked: 2021-12-13
-  
+
 - domain: ihsaan.glitch.me
   url: http://ihsaan.glitch.me/
   size: 110
@@ -1438,8 +1443,8 @@
   size: 2.4
   last_checked: 2021-12-06
 
-- domain: Phate6660.codeberg.page
-  url: https://Phate6660.codeberg.page/
+- domain: phate6660.codeberg.page
+  url: https://phate6660.codeberg.page/
   size: 87.3
   last_checked: 2021-12-23
 
@@ -2057,8 +2062,3 @@
   url: https://zserge.com/
   size: 20.2
   last_checked: 2021-12-19
-
-- domain: 512kb.club
-  url: https://512kb.club/
-  size: 91.5
-  last_checked: 2022-03-06
