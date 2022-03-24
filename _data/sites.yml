@@ -747,6 +747,11 @@
   url: https://fedi.dev/
   size: 236
   last_checked: 2022-01-03
+  
+- domain: ferib.dev
+  url: https://ferib.dev/
+  size: 197
+  last_checked: 2022-03-24
 
 - domain: filbertsalim.codeberg.page
   url: https://filbertsalim.codeberg.page/
@@ -2082,9 +2087,3 @@
   url: https://zserge.com/
   size: 20.2
   last_checked: 2021-12-19
-
-- domain: ferib.dev
-  url: https://ferib.dev/
-  size: 197
-  last_checked: 2022-03-24
-  
