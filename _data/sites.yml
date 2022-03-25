@@ -35,8 +35,8 @@
 
 - domain: 47nil.com
   url: https://47nil.com/
-  size: 111
-  last_checked: 2021-11-22
+  size: 155
+  last_checked: 2022-03-25
 
 - domain: 512kb.club
   url: https://512kb.club/
@@ -47,7 +47,7 @@
   url: https://60z.github.io/
   size: 16.2
   last_checked: 2022-03-20
-  
+
 - domain: 64b.it
   url: https://64b.it/
   size: 204
@@ -62,7 +62,7 @@
   url: https://aaron.place/
   size: 21.9
   last_checked: 2022-03-20
-  
+
 - domain: abdus.net
   url: https://www.abdus.net/
   size: 164
@@ -165,18 +165,18 @@
 
 - domain: az.on.lt
   url: https://az.on.lt/
-  size: 24.8
-  last_checked: 2021-11-27
+  size: 25.3
+  last_checked: 2022-03-25
 
 - domain: bala-frontdev.github.io
   url: https://bala-frontdev.github.io/
   size: 14.9
-  last_checked: 2021-11-27
+  last_checked: 2022-03-25
 
 - domain: baltuta.eu
   url: https://baltuta.eu/
-  size: 139
-  last_checked: 2021-11-27
+  size: 80.1
+  last_checked: 2022-03-25
 
 - domain: bastian.rieck.me
   url: https://bastian.rieck.me/
@@ -235,8 +235,8 @@
 
 - domain: blmayer.dev
   url: https://blmayer.dev/
-  size: 6.02
-  last_checked: 2021-11-25
+  size: 20.4
+  last_checked: 2022-03-25
 
 - domain: block.sunappu.net
   url: https://block.sunappu.net/
@@ -737,7 +737,7 @@
   url: https://fedi.dev/
   size: 236
   last_checked: 2022-01-03
-  
+
 - domain: ferib.dev
   url: https://ferib.dev/
   size: 197
@@ -913,11 +913,6 @@
   size: 15.0
   last_checked: 2021-12-13
 
-- domain: imreallybored.xyz
-  url: http://imreallybored.xyz/
-  size: 15
-  last_checked: 2021-11-25
-
 - domain: jae.fi
   url: https://jae.fi/
   size: 54.1
@@ -932,16 +927,6 @@
   url: https://www.jakobmaier.at
   size: 5.13
   last_checked: 2022-01-29
-
-- domain: jameskupke.com
-  url: https://www.jameskupke.com/
-  size: 619
-  last_checked: 2022-03-19
-
-- domain: jarv.is
-  url: https://jarv.is/
-  size: 219
-  last_checked: 2021-11-21
 
 - domain: jcelerier.name
   url: https://jcelerier.name/
@@ -1357,7 +1342,7 @@
   url: https://nobodyspecial.neocities.org/
   size: 8.2
   last_checked: 2021-12-23
-  
+
 - domain: notionbackups.com
   url: https://notionbackups.com
   size: 48.3
@@ -1505,8 +1490,8 @@
 
 - domain: proseandconst.xyz
   url: https://proseandconst.xyz/
-  size: 305
-  last_checked: 2021-11-20
+  size: 311
+  last_checked: 2022-03-25
 
 - domain: purplebits.co.uk
   url: https://purplebits.co.uk/
@@ -1521,7 +1506,7 @@
 - domain: qcard.link
   url: https://qcard.link/
   size: 101
-  last_checked: 2021-11-20
+  last_checked: 2022-03-25
 
 - domain: qtrnn.io
   url: https://qtrnn.io/
@@ -1550,8 +1535,8 @@
 
 - domain: ranvier.net
   url: https://ranvier.net/
-  size: 64.5
-  last_checked: 2021-11-22
+  size: 67.7
+  last_checked: 2022-03-25
 
 - domain: ratfactor.com
   url: https://ratfactor.com/
@@ -1560,8 +1545,8 @@
 
 - domain: rav3ndust.xyz
   url: https://rav3ndust.xyz/
-  size: 72.2
-  last_checked: 2021-11-20
+  size: 72.1
+  last_checked: 2022-03-25
 
 - domain: rc-lite.xyz
   url: https://rc-lite.xyz/
@@ -1813,11 +1798,6 @@
   size: 3.9
   last_checked: 2021-12-18
 
-- domain: thatcatdrout.codeberg.page
-  url: https://thatcatdrout.codeberg.page/
-  size: 249
-  last_checked: 2021-11-24
-
 - domain: thatdaria.com
   url: https://thatdaria.com/
   size: 92.6
@@ -1892,11 +1872,6 @@
   url: https://tradingcode.net/
   size: 35.0
   last_checked: 2021-12-22
-
-- domain: travelforlife.xyz
-  url: https://travelforlife.xyz/
-  size: 7.77
-  last_checked: 2021-11-25
 
 - domain: trinity.moe
   url: http://www.trinity.moe
