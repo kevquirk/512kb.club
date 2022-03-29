@@ -288,6 +288,11 @@
   size: 427
   last_checked: 2022-01-31
 
+- domain: blog.stoerdebegga.org
+  url: https://blog.stoerdebegga.org
+  size: 3.8 
+  last_checked: 2022-03-29
+
 - domain: blog.sulairris.com
   url: https://blog.sulairris.com/
   size: 326
