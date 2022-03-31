@@ -1718,6 +1718,11 @@
   size: 97.1
   last_checked: 2022-01-07
 
+- domain: sglazov.ru
+  url: https://sglazov.ru/
+  size: 285
+  last_checked: 2022-03-31
+
 - domain: shom.dev
   url: https://shom.dev/
   size: 38.2
