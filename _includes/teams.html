@@ -2,5 +2,5 @@
     <span class="before" style="--data-size:{{ item.size }};"></span>
     {% comment %} "precision" is a custom filter can be found in "_plugins/precision_filter.rb" {% endcomment %}
     <span class="after">{{ item.size | precision: 2 }} KB</span>
-    <a class="site" target="blank" href="{{ item.url }}">{{ item.domain }}</a>
+    <a class="site" target="_blank" rel="nofollow" href="{{ item.url }}">{{ item.domain }}</a>
 </li>
