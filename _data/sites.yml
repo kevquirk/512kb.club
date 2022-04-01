@@ -357,7 +357,12 @@
   url: https://caliandro.de/
   size: 162
   last_checked: 2021-12-27
-
+  
+- domain: calotte.ca
+  url: https://calotte.ca/
+  size: 308
+  last_checked: 2022-04-01
+  
 - domain: camaro96.neocities.org
   url: https://camaro96.neocities.org/
   size: 10.9
