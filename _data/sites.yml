@@ -1608,6 +1608,11 @@
   size: 325
   last_checked: 2021-12-06
 
+- domain: robbie.deighton.be
+  url: http://robbie.deighton.be/ 
+  size: 12.6
+  last_checked: 2022-04-01
+
 - domain: robert.winter.ink
   url: https://robert.winter.ink/
   size: 370
