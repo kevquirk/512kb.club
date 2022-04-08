@@ -73,6 +73,11 @@
   size: 161
   last_checked: 2021-12-24
 
+- domain: afhub.dev
+  url: https://afhub.dev/
+  size: 25.5
+  last_checked: 2022-04-08
+
 - domain: aggy.cloud
   url: https://aggy.cloud/
   size: 189
