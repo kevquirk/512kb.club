@@ -58,15 +58,15 @@
   size: 97.2
   last_checked: 2022-03-20
 
-- domain: aaronjeskie.com
-  url: https://aaronjeskie.com/
-  size: 35.4
-  last_checked: 2022-04-08
-
 - domain: aaron.place
   url: https://aaron.place/
   size: 21.9
   last_checked: 2022-03-20
+  
+- domain: aaronjeskie.com
+  url: https://aaronjeskie.com/
+  size: 35.4
+  last_checked: 2022-04-08
 
 - domain: abdus.net
   url: https://www.abdus.net/
