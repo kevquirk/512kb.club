@@ -943,6 +943,11 @@
   size: 15.0
   last_checked: 2021-12-13
 
+- domain: indiachat.netlify.app
+  url: https://indiachat.netlify.app/
+  size: 213.0
+  last_checked: 2022-04-08
+  
 - domain: jae.fi
   url: https://jae.fi/
   size: 54.1
