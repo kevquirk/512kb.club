@@ -62,6 +62,11 @@
   url: https://aaron.place/
   size: 21.9
   last_checked: 2022-03-20
+  
+- domain: aaronjeskie.com
+  url: https://aaronjeskie.com/
+  size: 35.4
+  last_checked: 2022-04-08
 
 - domain: abdus.net
   url: https://www.abdus.net/
@@ -72,6 +77,11 @@
   url: https://adrian.geek.nz/
   size: 161
   last_checked: 2021-12-24
+
+- domain: afhub.dev
+  url: https://afhub.dev/
+  size: 25.5
+  last_checked: 2022-04-08
 
 - domain: aggy.cloud
   url: https://aggy.cloud/
@@ -357,7 +367,12 @@
   url: https://caliandro.de/
   size: 162
   last_checked: 2021-12-27
-
+  
+- domain: calotte.ca
+  url: https://calotte.ca/
+  size: 308
+  last_checked: 2022-04-01
+  
 - domain: camaro96.neocities.org
   url: https://camaro96.neocities.org/
   size: 10.9
@@ -617,6 +632,11 @@
   url: https://drwho.virtadpt.net/
   size: 454
   last_checked: 2021-12-03
+
+- domain: duplitech.fr
+  url: https://www.duplitech.fr/
+  size: 359
+  last_checked: 2022-04-01
 
 - domain: dusanmitrovic.xyz
   url: https://dusanmitrovic.xyz/
@@ -892,6 +912,11 @@
   url: https://hmbrg.xyz/
   size: 2.2
   last_checked: 2022-03-17
+  
+- domain: holory.fr
+  url: https://holory.fr/
+  size: 446
+  last_checked: 2022-04-05
 
 - domain: hugo-mechiche.com
   url: https://hugo-mechiche.com/
@@ -918,6 +943,11 @@
   size: 15.0
   last_checked: 2021-12-13
 
+- domain: indiachat.netlify.app
+  url: https://indiachat.netlify.app/
+  size: 213.0
+  last_checked: 2022-04-08
+  
 - domain: jae.fi
   url: https://jae.fi/
   size: 54.1
@@ -1260,8 +1290,8 @@
 
 - domain: minutestomidnight.co.uk
   url: https://minutestomidnight.co.uk
-  size: 183
-  last_checked: 2022-03-20
+  size: 169
+  last_checked: 2022-04-08
 
 - domain: minwiz.com
   url: https://minwiz.com/
@@ -1458,6 +1488,11 @@
   size: 8.5
   last_checked: 2022-03-18
 
+- domain: plabayo.tech
+  url: https://plabayo.tech/
+  size: 19.6
+  last_checked: 2022-04-06
+
 - domain: plaindrops.de
   url: https://plaindrops.de/
   size: 47.1
@@ -1572,6 +1607,11 @@
   url: https://rc-lite.xyz/
   size: 14.6
   last_checked: 2022-01-03
+  
+- domain: rectangles.app
+  url: https://rectangles.app/
+  size: 6.93
+  last_checked: 2022-04-01
 
 - domain: rhapsode.adrian.geek.nz
   url: http://rhapsode.adrian.geek.nz/
@@ -1602,6 +1642,11 @@
   url: https://robbie.antenesse.net/
   size: 325
   last_checked: 2021-12-06
+
+- domain: robbie.deighton.be
+  url: http://robbie.deighton.be/ 
+  size: 12.6
+  last_checked: 2022-04-01
 
 - domain: robert.winter.ink
   url: https://robert.winter.ink/
