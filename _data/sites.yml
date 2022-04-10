@@ -1613,6 +1613,11 @@
   size: 6.93
   last_checked: 2022-04-01
 
+- domain: revuo-xmr.com
+  url: https://revuo-xmr.com/
+  size: 444
+  last_checked: 2022-04-10
+
 - domain: rhapsode.adrian.geek.nz
   url: http://rhapsode.adrian.geek.nz/
   size: 148
