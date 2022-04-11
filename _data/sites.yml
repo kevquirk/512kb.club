@@ -1438,6 +1438,11 @@
   size: 16.7
   last_checked: 2021-12-23
 
+- domain: otgt.us.eu.org
+  url: https://otgt.us.eu.org/
+  size: 57.3
+  last_checked: 2022-04-10
+
 - domain: palashbauri.in
   url: https://palashbauri.in
   size: 32.8
