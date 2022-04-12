@@ -182,6 +182,11 @@
   url: https://az.on.lt/
   size: 25.3
   last_checked: 2022-03-25
+  
+- domain: b0ba.dev
+  url: https://b0ba.dev/
+  size: 504
+  last_checked: 2022-04-12
 
 - domain: bala-frontdev.github.io
   url: https://bala-frontdev.github.io/
