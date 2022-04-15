@@ -1713,6 +1713,11 @@
   size: 89.9
   last_checked: 2021-12-06
 
+- domain: samic.org
+  url: https://samic.org/
+  size: 18.4
+  last_checked: 2022-04-15
+  
 - domain: sam.pavot.ca
   url: https://sam.pavot.ca
   size: 77.6
