@@ -1953,6 +1953,11 @@
   size: 460
   last_checked: 2021-12-19
 
+- domain: timespreader.com
+  url: https://timespreader.com/
+  size: 341
+  last_checked: 2022-04-21 (YYYY-MM-DD)
+
 - domain: timharek.no
   url: https://timharek.no/
   size: 23.6
