@@ -677,6 +677,11 @@
   url: https://eddiex.se/
   size: 33.8
   last_checked: 2021-12-19
+  
+- domain: edizyurdakul.com
+  url: https://edizyurdakul.com/
+  size: 442
+  last_checked: 2022-04-24
 
 - domain: editions-du-26-octobre.com
   url: https://editions-du-26-octobre.com/
@@ -717,11 +722,6 @@
   url: https://ersei.saggis.com/
   size: 67.7
   last_checked: 2022-01-29
-  
-- domain: edizyurdakul.com
-  url: https://edizyurdakul.com/
-  size: 442
-  last_checked: 2022-04-24
 
 - domain: ethan.link
   url: https://ethan.link/
