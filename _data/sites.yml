@@ -1378,6 +1378,11 @@
   size: 9.8
   last_checked: 2022-04-26
 
+- domain: nasdaq-dividend-search-api.herokuapp.com
+  url: https://nasdaq-dividend-search-api.herokuapp.com/
+  size: 363
+  last_checked: 2022-04-29
+
 - domain: nayuki.io
   url: https://www.nayuki.io/
   size: 426
