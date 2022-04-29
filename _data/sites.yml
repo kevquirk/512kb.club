@@ -1380,7 +1380,7 @@
 
 - domain: nasdaq-dividend-search-api.herokuapp.com
   url: https://nasdaq-dividend-search-api.herokuapp.com/
-  size: 350
+  size: 363
   last_checked: 2022-04-29
 
 - domain: nayuki.io
