@@ -1,8 +1,3 @@
-- domain: sudoedit.com
-  url: https://sudoedit.com/
-  size: 317
-  last_checked: 2022-04-29
-
 - domain: 0chris.com
   url: https://www.0chris.com/
   size: 4.3
@@ -1907,6 +1902,11 @@
   url: https://stilic.ml/
   size: 53.5
   last_checked: 2021-12-10
+
+- domain: sudoedit.com
+  url: https://sudoedit.com/
+  size: 317
+  last_checked: 2022-04-29
 
 - domain: support.tfwnogf.nl
   url: https://support.tfwnogf.nl
