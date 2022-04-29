@@ -1418,6 +1418,11 @@
   size: 175
   last_checked: 2022-04-26
 
+- domain: no-js.club
+  url: https://no-js.club/
+  size: 25.6
+  last_checked: 2022-05-26 (2022-04-29)
+  
 - domain: noblogo.org
   url: https://noblogo.org/
   size: 314
