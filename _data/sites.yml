@@ -923,6 +923,11 @@
   size: 502
   last_checked: 2022-01-29
 
+- domain: heavymetalmusic.reviews
+  url: https://heavymetalmusic.reviews/
+  size: 21.8
+  last_checked: 2022-04-29
+
 - domain: hmbrg.xyz
   url: https://hmbrg.xyz/
   size: 2.2
