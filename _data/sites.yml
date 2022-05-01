@@ -923,9 +923,14 @@
   size: 502
   last_checked: 2022-01-29
 
+- domain: heavymetalmusic.reviews
+  url: https://heavymetalmusic.reviews/
+  size: 21.8
+  last_checked: 2022-04-29
+  
 - domain: hmbrg.org
   url: https://hmbrg.org/
-  size: 2.2
+  size: 2.43
   last_checked: 2022-04-30
 
 - domain: holory.fr
@@ -1985,9 +1990,9 @@
 
 - domain: timespreader.com
   url: https://timespreader.com/
-  size: 341
-  last_checked: 2022-04-21
-
+  size: 344
+  last_checked: 2022-04-30
+  
 - domain: timharek.no
   url: https://timharek.no/
   size: 23.6
