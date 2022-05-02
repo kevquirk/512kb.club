@@ -318,6 +318,11 @@
   size: 326
   last_checked: 2021-12-28
 
+- domain: blog.trieoflogs.com
+  url: https://blog.trieoflogs.com
+  size: 78.3
+  last_checked: 2022-05-01
+
 - domain: blog.xaloc.space
   url: https://blog.xaloc.space/
   size: 42.7
