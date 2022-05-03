@@ -1293,6 +1293,11 @@
   size: 152
   last_checked: 2022-03-17
 
+- domain: melroy.org
+  url: https://melroy.org
+  size: 38.4
+  last_checked: 2022-05-04
+
 - domain: meribold.org
   url: https://meribold.org/
   size: 19.7
