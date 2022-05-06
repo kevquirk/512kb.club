@@ -703,6 +703,11 @@
   size: 7.5
   last_checked: 2022-05-05
 
+- domain: elinvention.ovh
+  url: https://elinvention.ovh/
+  size: 396
+  last_checked: 2022-05-06
+
 - domain: elrido.dssr.ch
   url: https://elrido.dssr.ch/
   size: 137.5
