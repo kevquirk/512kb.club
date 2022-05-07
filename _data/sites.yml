@@ -1462,6 +1462,11 @@
   size: 8.2
   last_checked: 2021-12-23
 
+- domain: notes.whoibrar.com
+  url: https://notes.whoibrar.com
+  size: 9.48
+  last_checked: 2022-05-07
+
 - domain: notionbackups.com
   url: https://notionbackups.com
   size: 48.3
