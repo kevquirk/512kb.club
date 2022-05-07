@@ -153,6 +153,11 @@
   size: 451
   last_checked: 2022-03-20
 
+- domain: aroace.space
+  url: https://aroace.space/
+  size: 186
+  last_checked: 2022-05-05
+  
 - domain: artemislena.eu
   url: https://artemislena.eu/
   size: 37.8
@@ -2221,3 +2226,4 @@
   url: https://zserge.com/
   size: 20.2
   last_checked: 2021-12-19
+ 
