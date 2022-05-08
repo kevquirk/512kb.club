@@ -1981,6 +1981,11 @@
   url: https://thaumatorium.com/
   size: 53.3
   last_checked: 2022-04-26
+  
+- domain: theanonymouse.xyz
+  url: https://theanonymouse.xyz/
+  size: 267
+  last_checked: 2022-05-07
 
 - domain: thejollyteapot.com
   url: https://thejollyteapot.com/
