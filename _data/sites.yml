@@ -157,7 +157,7 @@
   url: https://aroace.space/
   size: 186
   last_checked: 2022-05-05
-  
+
 - domain: artemislena.eu
   url: https://artemislena.eu/
   size: 37.8
@@ -207,6 +207,11 @@
   url: https://baltuta.eu/
   size: 80.1
   last_checked: 2022-03-25
+
+- domain: barryvanveen.nl
+  url: https://barryvanveen.nl/
+  size: 29.0
+  last_checked: 2022-05-11
 
 - domain: bastian.rieck.me
   url: https://bastian.rieck.me/
@@ -1981,7 +1986,7 @@
   url: https://thaumatorium.com/
   size: 53.3
   last_checked: 2022-04-26
-  
+
 - domain: theanonymouse.xyz
   url: https://theanonymouse.xyz/
   size: 267
@@ -2241,4 +2246,4 @@
   url: https://zserge.com/
   size: 20.2
   last_checked: 2021-12-19
- 
+
