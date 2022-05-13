@@ -6,7 +6,7 @@
 - domain: 0xedward.io
   url: https://0xedward.io/
   size: 6.2
-  last_checked: 2021-12-20
+  last_checked: 2022-05-13
 
 - domain: 0xff.nu
   url: https://0xff.nu/
@@ -296,7 +296,7 @@
 - domain: blog.bshah.in
   url: https://blog.bshah.in/
   size: 31.1
-  last_checked: 2021-12-20
+  last_checked: 2022-05-13
 
 - domain: blog.craftyguy.net
   url: https://blog.craftyguy.net/
@@ -550,8 +550,8 @@
 
 - domain: dafne.cc
   url: https://dafne.cc/
-  size: 172
-  last_checked: 2021-12-20
+  size: 195
+  last_checked: 2022-05-13
 
 - domain: daltoncraven.com
   url: https://daltoncraven.com/
@@ -901,7 +901,7 @@
 - domain: groundzeno.net
   url: https://groundzeno.net/
   size: 9.1
-  last_checked: 2021-12-20
+  last_checked: 2022-05-14
 
 - domain: gsthnz.com
   url: https://gsthnz.com/
@@ -1230,8 +1230,8 @@
 
 - domain: lukesempire.com
   url: https://lukesempire.com/
-  size: 77.5
-  last_checked: 2021-12-20
+  size: 77.4
+  last_checked: 2022-05-14
 
 - domain: lushka.al
   url: https://lushka.al/
@@ -2016,7 +2016,7 @@
 - domain: thewismit.com
   url: https://thewismit.com/
   size: 19.1
-  last_checked: 2021-12-19
+  last_checked: 2022-05-13
 
 - domain: thomas.me
   url: https://thomas.me/
@@ -2090,8 +2090,8 @@
 
 - domain: ulpaulpa.de
   url: https://ulpaulpa.de/
-  size: 27.1
-  last_checked: 2021-12-19
+  size: 27.7
+  last_checked: 2022-05-13
 
 - domain: unitoo.it
   url: https://unitoo.it/
@@ -2125,8 +2125,8 @@
 
 - domain: vladas.palubinskas.lt
   url: https://vladas.palubinskas.lt/
-  size: 9.7
-  last_checked: 2021-12-19
+  size: 9.0
+  last_checked: 2022-05-13
 
 - domain: volleyball-baustetten.de
   url: https://volleyball-baustetten.de/
@@ -2226,7 +2226,7 @@
 - domain: yne.fr
   url: https://yne.fr/
   size: 4.5
-  last_checked: 2021-12-19
+  last_checked: 2022-05-13
 
 - domain: youkwhd.vercel.app
   url: https://youkwhd.vercel.app/
@@ -2250,6 +2250,5 @@
 
 - domain: zserge.com
   url: https://zserge.com/
-  size: 20.2
-  last_checked: 2021-12-19
-
+  size: 20.6
+  last_checked: 2022-05-13
