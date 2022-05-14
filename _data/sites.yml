@@ -1687,7 +1687,12 @@
   url: https://qunitjs.com/
   size: 303
   last_checked: 2022-04-26
-
+  
+- domain: raikas.dev
+  url: https://raikas.dev/
+  size: 4.85
+  last_checked: 2022-05-08
+  
 - domain: ramenos.net
   url: https://www.ramenos.net/
   size: 15.5
