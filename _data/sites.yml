@@ -143,6 +143,11 @@
   size: 126
   last_checked: 2022-05-15
 
+  - domain: anthonydeguzman.com
+  url: https://anthonydeguzman.com/
+  size: 362
+  last_checked: 2022-05-16
+
 - domain: appbeat.io
   url: https://appbeat.io/
   size: 201
