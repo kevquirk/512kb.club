@@ -448,6 +448,11 @@
   size: 22.9
   last_checked: 2022-04-26
 
+- domain: cleberg.io
+  url: http://cleberg.io/
+  size: 30.0
+  last_checked: 2022-05-17
+
 - domain: closedgl2.github.io
   url: https://closedgl2.github.io/
   size: 8.2
