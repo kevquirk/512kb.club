@@ -522,6 +522,11 @@
   url: https://cri.dev/
   size: 30.2
   last_checked: 2022-04-26
+  
+- domain: crooked.ink
+  url: https://crooked.ink
+  size: 428
+  last_checked: 2022-05-20
 
 - domain: ctrl-c.club
   url: https://ctrl-c.club/
