@@ -522,7 +522,7 @@
   url: https://cri.dev/
   size: 30.2
   last_checked: 2022-04-26
-  
+
 - domain: crooked.ink
   url: https://crooked.ink
   size: 428
@@ -722,7 +722,7 @@
   url: https://elinvention.ovh/
   size: 396
   last_checked: 2022-05-06
-  
+
 - domain: elisttm.space
   url: https://elisttm.space/
   size: 66.8
@@ -1722,6 +1722,11 @@
   url: https://rectangles.app/
   size: 6.93
   last_checked: 2022-04-01
+
+- domain: reorx.com
+  url: https://reorx.com/
+  size: 123
+  last_checked: 2022-05-22
 
 - domain: revuo-xmr.com
   url: https://revuo-xmr.com/
