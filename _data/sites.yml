@@ -1013,11 +1013,6 @@
   size: 194.0
   last_checked: 2022-04-21
 
-- domain: index.yogas.eu.org
-  url: https://index.yogas.eu.org/
-  size: 86.2
-  last_checked: 2022-05-11
-
 - domain: indiachat.netlify.app
   url: https://indiachat.netlify.app/
   size: 213.0
@@ -2262,6 +2257,11 @@
   url: https://yne.fr/
   size: 4.5
   last_checked: 2022-05-13
+  
+- domain: yogas.eu.org
+  url: https://yogas.eu.org/
+  size: 67.1
+  last_checked: 2022-05-25
 
 - domain: youkwhd.vercel.app
   url: https://youkwhd.vercel.app/
