@@ -438,6 +438,11 @@
   size: 5.0
   last_checked: 2022-03-19
 
+- domain: catdrout.xyz
+  url: https://catdrout.xyz/
+  size: 506
+  last_checked: 2022-05-28 
+
 - domain: celeste.exposed
   url: https://celeste.exposed/
   size: 293
