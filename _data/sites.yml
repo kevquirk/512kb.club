@@ -162,12 +162,12 @@
   url: https://arghyadeep.in/
   size: 451
   last_checked: 2022-03-20
- 
+
 - domain: aroace.space
   url: https://aroace.space/
   size: 186
   last_checked: 2022-05-05
-  
+
 - domain: artemislena.eu
   url: https://artemislena.eu/
   size: 40.0
@@ -807,6 +807,11 @@
   url: https://federateme.nymbus.xyz/
   size: 197
   last_checked: 2022-05-15
+
+- domain: federicoleva.eu
+  url: https://federicoleva.eu/
+  size: 273
+  last_checked: 2022-05-29
 
 - domain: fedi.dev
   url: https://fedi.dev/
@@ -1512,7 +1517,7 @@
   url: https://noulin.net/blog
   size: 22.2
   last_checked: 2022-05-15
-  
+
 - domain: nurminen.xyz
   url: https://www.nurminen.xyz/
   size: 38.3
@@ -2267,7 +2272,7 @@
   url: https://yne.fr/
   size: 4.5
   last_checked: 2022-05-13
-  
+
 - domain: yogas.eu.org
   url: https://yogas.eu.org/
   size: 67.1
