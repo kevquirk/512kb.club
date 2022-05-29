@@ -1563,6 +1563,11 @@
   size: 138
   last_checked: 2022-04-19
 
+- domain: papojari.codeberg.page
+  url: https://papojari.codeberg.page/
+  size: 30.8
+  last_check: 2022-05-29
+
 - domain: paramdeo.com
   url: https://paramdeo.com/
   size: 150
