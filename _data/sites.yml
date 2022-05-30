@@ -993,6 +993,11 @@
   size: 75.9
   last_checked: 2022-01-29
 
+- domain: huma.id
+  url: https://huma.id/
+  size: 9.43
+  last_checked: 2022-05-31
+
 - domain: hund.tty1.se
   url: https://hund.tty1.se/
   size: 17.8
