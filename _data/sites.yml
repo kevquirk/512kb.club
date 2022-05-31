@@ -323,6 +323,11 @@
   size: 213
   last_checked: 2022-04-26
 
+- domain: blog.ononoki.org
+  url: https://blog.ononoki.org/
+  size: 104
+  last_checked: 2022-05-30
+
 - domain: blog.setale.me
   url: https://blog.setale.me/
   size: 427
