@@ -638,6 +638,11 @@
   size: 447
   last_checked: 2022-03-12
 
+- domain: devcara.com
+  url: https://devcara.com
+  size: 4.62
+  last_checked: 2022-06-02
+
 - domain: diicorp95.neonarod.com
   url: http://diicorp95.neonarod.com/
   size: 19.1
