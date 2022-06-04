@@ -1553,6 +1553,11 @@
   size: 262
   last_checked: 2022-04-26
 
+- domain: oh.mg
+  url: https://www.oh.mg/
+  size: 25.8
+  last_checked: 2022-06-24
+
 - domain: oldirtyhacker.com
   url: https://oldirtyhacker.com/
   size: 119
