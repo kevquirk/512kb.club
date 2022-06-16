@@ -1,8 +1,3 @@
-- domain: www.yidajiabei.xyz
-  url: https://www.yidajiabei.xyz/
-  size: 103
-  last_checked: 2022-06-16
-
 - domain: 0chris.com
   url: https://www.0chris.com/
   size: 4.3
@@ -2292,6 +2287,11 @@
   url: https://wor.do/
   size: 349
   last_checked: 2022-04-26
+
+- domain: www.yidajiabei.xyz
+  url: https://www.yidajiabei.xyz/
+  size: 103
+  last_checked: 2022-06-16
 
 - domain: xidoc.nim.town
   url: http://xidoc.nim.town/
