@@ -1643,6 +1643,11 @@
   size: 2.4
   last_checked: 2022-04-26
 
+- domain: pdp.dev
+  url: https://pdp.dev
+  size: 38.0
+  last_checked: 2022-06-16
+
 - domain: person-al.github.io
   url: https://person-al.github.io/
   size: 66.3
