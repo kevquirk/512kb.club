@@ -2378,6 +2378,11 @@
   size: 175
   last_checked: 2022-04-26
 
+- domain: zhangjet.com
+  url: https://zhangjet.com/
+  size: 17.7
+  last_checked: 2022-06-24
+  
 - domain: zoia.org
   url: https://zoia.org
   size: 22.1
