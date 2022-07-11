@@ -2407,3 +2407,8 @@
   url: https://zserge.com/
   size: 20.6
   last_checked: 2022-05-13
+
+- domain: palora.vercel.app
+  url: https://palora.vercel.app/
+  size: 403
+  last_checked: 2021-7-11
