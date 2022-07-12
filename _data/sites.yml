@@ -203,6 +203,11 @@
   size: 10.6
   last_checked: 2022-05-15
 
+- domain: notavarnex.github.io
+  url: https://notavarnex.github.io/
+  size: 1.37
+  last_checked: 2022-07-12
+
 - domain: az.on.lt
   url: https://az.on.lt/
   size: 25.3
