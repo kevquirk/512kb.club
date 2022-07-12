@@ -203,11 +203,6 @@
   size: 10.6
   last_checked: 2022-05-15
 
-- domain: notavarnex.github.io
-  url: https://notavarnex.github.io/
-  size: 1.37
-  last_checked: 2022-07-12
-
 - domain: az.on.lt
   url: https://az.on.lt/
   size: 25.3
@@ -1552,6 +1547,11 @@
   url: https://nobodyspecial.neocities.org/
   size: 8.2
   last_checked: 2022-05-15
+
+- domain: notavarnex.github.io
+  url: https://notavarnex.github.io/
+  size: 1.37
+  last_checked: 2022-07-12
 
 - domain: notes.whoibrar.com
   url: https://notes.whoibrar.com
