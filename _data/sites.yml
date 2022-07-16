@@ -28,6 +28,11 @@
   size: 59.6
   last_checked: 2022-05-06
 
+- domain: 2hash.ru
+  url: https://2hash.ru/
+  size: 1.82
+  last_checked: 2022-07-16
+
 - domain: 3000.chat
   url: https://3000.chat/
   size: 142
