@@ -978,6 +978,11 @@
   size: 9.1
   last_checked: 2022-05-14
 
+- domain: gryffyn.io
+  url: https://gryffyn.io
+  size: 57.2
+  last_checked: 2022-07-16
+
 - domain: gsthnz.com
   url: https://gsthnz.com/
   size: 4.2
