@@ -163,6 +163,11 @@
   size: 362
   last_checked: 2022-05-16
 
+- domain: apex.ac
+  url: https://apex.ac/
+  size: 13.5
+  last_checked: 2022-07-18
+
 - domain: appbeat.io
   url: https://appbeat.io/
   size: 201
