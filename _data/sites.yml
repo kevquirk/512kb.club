@@ -638,6 +638,11 @@
   size: 69.5
   last_checked: 2022-05-06
 
+- domain: david.ae
+  url: https://david.ae/
+  size: 364
+  last_checked: 2022-07-18
+
 - domain: davidovski.xyz
   url: http://davidovski.xyz/
   size: 202
