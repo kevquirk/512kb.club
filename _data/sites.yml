@@ -153,6 +153,11 @@
   size: 33.8
   last_checked: 2022-02-19
 
+- domain: annaaurora.eu
+  url: https://annaaurora.eu/
+  size: 29.4
+  last_check: 2022-07-20
+
 - domain: anonimno.codeberg.page
   url: https://anonimno.codeberg.page/
   size: 126
@@ -1672,11 +1677,6 @@
   url: https://paola.work/
   size: 138
   last_checked: 2022-04-19
-
-- domain: papojari.codeberg.page
-  url: https://papojari.codeberg.page/
-  size: 30.8
-  last_check: 2022-05-29
 
 - domain: paramdeo.com
   url: https://paramdeo.com/
