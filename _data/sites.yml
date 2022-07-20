@@ -413,6 +413,11 @@
   size: 103.0
   last_checked: 2022-06-27
 
+- domain: bubble.email
+  url: https://bubble.email
+  size: 421.0
+  last_checked: 2022-07-20
+
 - domain: buchh.org
   url: https://buchh.org/
   size: 4.7
