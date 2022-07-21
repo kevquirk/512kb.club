@@ -14,6 +14,12 @@ But we can make a difference - all it takes is some optimisation. Do you really 
 1. It must be an actual site that contains a reasonable amount of information, not just a couple of links on a page ([more info here](/faq/#lightweight-notice)).
 2. Your total UNCOMPRESSED web resources must not exceed 512KB.
 
+<div class="notice">
+<p>
+    <b><span style="font-size: 1.4rem">Help support the 512KB Club</span></b><br><br>
+    It takes a lot of work to run the 512KB Club. We rely on the kind work of a couple of great volunteers. If you want to support the 512KB Club, please do think about <a target="blank" href="https://ko-fi.com/kevquirk">buying us a coffee</a>.
+</p>
+</div>
 <br>
 <div class="centre">
   <a class="button" href="/faq">View FAQ for more details</a>
