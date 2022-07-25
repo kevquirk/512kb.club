@@ -2103,6 +2103,11 @@
   size: 54.3
   last_checked: 2022-05-15
 
+- domain: spearfishcap.cap
+  url: https://www.spearfishcap.com/
+  size: 415
+  last_checked: 2022-07-25
+
 - domain: spool-five.com
   url: https://spool-five.com/
   size: 6.6
