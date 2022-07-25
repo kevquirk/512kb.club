@@ -2053,6 +2053,11 @@
   size: 463
   last_checked: 2022-05-22
 
+- domain: sherrieg.com
+  url: https://sherrieg.com/
+  size: 25.5
+  last_checked: 2022-07-24
+
 - domain: shom.dev
   url: https://shom.dev/
   size: 37.3
@@ -2097,6 +2102,11 @@
   url: https://sp-codes.de/
   size: 54.3
   last_checked: 2022-05-15
+
+- domain: spearfishcap.cap
+  url: https://www.spearfishcap.com/
+  size: 415
+  last_checked: 2022-07-25
 
 - domain: spool-five.com
   url: https://spool-five.com/
