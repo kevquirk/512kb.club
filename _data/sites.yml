@@ -363,11 +363,6 @@
   size: 427
   last_checked: 2022-01-31
 
-- domain: blog.sulairris.com
-  url: https://blog.sulairris.com/
-  size: 326
-  last_checked: 2021-12-28
-
 - domain: blog.trieoflogs.com
   url: https://blog.trieoflogs.com
   size: 78.3
@@ -2142,6 +2137,11 @@
   url: https://sudoedit.com/
   size: 317
   last_checked: 2022-04-29
+  
+- domain: sulairris.com
+  url: https://sulairris.com/
+  size: 328
+  last_checked: 2022-08-01
 
 - domain: support.tfwnogf.nl
   url: https://support.tfwnogf.nl
