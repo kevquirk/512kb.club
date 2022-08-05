@@ -309,9 +309,9 @@
   last_checked: 2022-05-15
 
 - domain: blmayer.dev
-  url: https://blmayer.dev/
-  size: 20.4
-  last_checked: 2022-03-25
+  url: https://www.blmayer.dev/
+  size: 7.53
+  last_checked: 2022-08-02
 
 - domain: block.sunappu.net
   url: https://block.sunappu.net/
@@ -2013,6 +2013,11 @@
   size: 91.1
   last_checked: 2022-03-21
 
+- domain: saucecode.bar
+  url: https://saucecode.bar/
+  size: 5.61
+  last_checked: 2022-08-02
+  
 - domain: scf37.me
   url: https://scf37.me/
   size: 93.5
