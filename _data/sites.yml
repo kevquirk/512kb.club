@@ -1148,6 +1148,11 @@
   size: 8.28
   last_checked: 2022-07-03
 
+- domain: jaxson.neocities.org
+  url: https://jaxson.neocities.org/
+  size: 7.67
+  last_checked: 2022-08-06
+
 - domain: jcelerier.name
   url: https://jcelerier.name/
   size: 72.5
