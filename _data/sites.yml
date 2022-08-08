@@ -87,12 +87,12 @@
   url: https://aboutdavid.me/
   size: 7.33
   last_checked: 2022-04-21
-  
+
 - domain: adityatelange.in
   url: https://adityatelange.in/
   size: 267
   last_checked: 2022-06-11
-  
+
 - domain: adrian.geek.nz
   url: https://adrian.geek.nz/
   size: 161
@@ -357,7 +357,7 @@
   url: https://blog.omgmog.net/
   size: 85.1
   last_checked: 2022-05-14
-  
+
 - domain: blog.ononoki.org
   url: https://blog.ononoki.org/
   size: 90.6
@@ -432,7 +432,7 @@
   url: https://c1.fi/v/512kb/about/en
   size: 43.9
   last_checked: 2022-02-08
-  
+
 - domain: cahaba-ts.com
   url: https://cahaba-ts.com/
   size: 167
@@ -467,11 +467,11 @@
   url: http://caraudioinc.com/
   size: 338
   last_checked: 2022-02-11
-  
+
 - domain: catdrout.xyz
   url: https://catdrout.xyz/
   size: 111
-  last_checked: 2022-06-04 
+  last_checked: 2022-06-04
 
 - domain: cbrueggenolte.de
   url: https://cbrueggenolte.de/
@@ -502,7 +502,7 @@
   url: http://cleberg.io/
   size: 10.0
   last_checked: 2022-05-26
-  
+
 - domain: cli.club
   url: https://cli.club/
   size: 25.5
@@ -542,12 +542,12 @@
   url: https://codingotaku.com/
   size: 22.6
   last_checked: 2022-05-06
-  
+
 - domain: col2in.ml
   url: https://col2in.ml/
   size: 10.8
   last_checked: 2022-06-20
-  
+
 - domain: conorknowles.com
   url: https://conorknowles.com/
   size: 5.08
@@ -807,7 +807,7 @@
   url: https://emanuelpina.pt/
   size: 95.8
   last_checked: 2022-06-05
- 
+
 - domain: epersonalinjurylawyers.com
   url: https://www.epersonalinjurylawyers.com/
   size: 465
@@ -822,7 +822,7 @@
   url: https://erikjohannes.no/
   size: 6.5
   last_checked: 2022-05-05
-  
+
 - domain: error434.xyz
   url: https://error434.xyz/
   size: 447
@@ -837,7 +837,7 @@
   url: https://en.esmailelbob.xyz/
   size: 34.3
   last_checked: 2022-08-02
-  
+
 - domain: ethan.link
   url: https://ethan.link/
   size: 20.8
@@ -952,7 +952,7 @@
   url: https://funnylookinhat.com/
   size: 7.1
   last_checked: 2022-05-05
-  
+
 - domain: funs.life
   url: https://funs.life/
   size: 37.6
@@ -1113,11 +1113,16 @@
   size: 194.0
   last_checked: 2022-04-21
 
+- domain: imsky.co
+  url: https://imsky.co/
+  size: 63.7
+  last_checked: 2022-08-08
+
 - domain: indiachat.netlify.app
   url: https://indiachat.netlify.app/
   size: 213.0
   last_checked: 2022-04-08
-  
+
 - domain: ironveil.cloud
   url: https://ironveil.cloud/
   size: 138
@@ -1142,7 +1147,7 @@
   url: https://www.jamontheroad.com/
   size: 18.8
   last_checked: 2022-03-31
-  
+
 - domain: jasonthai.me
   url: https://jasonthai.me/
   size: 8.28
@@ -1357,7 +1362,7 @@
   url: https://www.lucienbill.fr
   size: 157
   last_checked: 2022-05-15
-  
+
 - domain: lukealexdavis.co.uk
   url: https://lukealexdavis.co.uk/
   size: 42.6
@@ -1667,7 +1672,7 @@
   url: https://oldirtyhacker.com/
   size: 119
   last_checked: 2022-03-17
-  
+
 - domain: ononoki.org
   url: https://ononoki.org/
   size: 89.0
@@ -1692,7 +1697,7 @@
   url: https://palashbauri.in
   size: 32.8
   last_checked: 2022-03-07
-  
+
 - domain: palora.vercel.app
   url: https://palora.vercel.app/
   size: 403
@@ -1757,7 +1762,7 @@
   url: https://phreedom.club/
   size: 8.5
   last_checked: 2022-03-18
-  
+
 - domain: piccioni.london
   url: https://piccioni.london/
   size: 374
@@ -2022,7 +2027,7 @@
   url: https://saucecode.bar/
   size: 5.61
   last_checked: 2022-08-02
-  
+
 - domain: scf37.me
   url: https://scf37.me/
   size: 93.5
@@ -2082,7 +2087,7 @@
   url: https://sglazov.ru/
   size: 285
   last_checked: 2022-03-31
-  
+
 - domain: shatteredpalisa.de
   url: https://shatteredpalisa.de
   size: 60.0
@@ -2177,7 +2182,7 @@
   url: https://sudoedit.com/
   size: 317
   last_checked: 2022-04-29
-  
+
 - domain: sulairris.com
   url: https://sulairris.com/
   size: 328
@@ -2507,7 +2512,7 @@
   url: https://zhangjet.com/
   size: 17.7
   last_checked: 2022-06-24
-  
+
 - domain: zoia.org
   url: https://zoia.org
   size: 22.1
