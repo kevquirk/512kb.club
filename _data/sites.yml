@@ -88,6 +88,11 @@
   size: 7.33
   last_checked: 2022-04-21
 
+- domain: abridge.netlify.app
+  url: https://abridge.netlify.app/
+  size: 56
+  last_checked: 2022-08-22
+
 - domain: adityatelange.in
   url: https://adityatelange.in/
   size: 267
