@@ -792,6 +792,11 @@
   url: https://eink.link/
   size: 7.5
   last_checked: 2022-05-05
+  
+- domain: ekuttan.me
+  url: http://ekuttan.me/
+  size: 192
+  last_checked: 2022/08/24
 
 - domain: elinvention.ovh
   url: https://elinvention.ovh/
@@ -2532,8 +2537,3 @@
   url: https://zwbetz.com/
   size: 67.8
   last_checked: 2022-07-20
-  
-  - domain: ekuttan.me
-  url: http://ekuttan.me/
-  size: 192
-  last_checked: 2022-08-24
