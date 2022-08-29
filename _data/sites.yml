@@ -392,6 +392,11 @@
   url: http://boehs.org/
   size: 86.0
   last_checked: 2022-05-15
+  
+- domain: bortox.it
+  url: https://bortox.it/en
+  size: 172
+  last_checked: 2022-08-20
 
 - domain: brainbaking.com
   url: https://brainbaking.com/
