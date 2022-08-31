@@ -312,6 +312,11 @@
   url: http://bjhess.com/
   size: 10.0
   last_checked: 2022-05-15
+  
+- domain: blakehawkins.com
+  url: https://blakehawkins.com/blog
+  size: 123
+  last_checked: 2022-08-31
 
 - domain: blmayer.dev
   url: https://www.blmayer.dev/
