@@ -363,6 +363,11 @@
   size: 213
   last_checked: 2022-04-26
 
+- domain: blog.libove.org
+  url: https://blog.libove.org
+  size: 103
+  last_checked: 2022-08-31
+
 - domain: blog.omgmog.net
   url: https://blog.omgmog.net/
   size: 85.1
