@@ -312,7 +312,7 @@
   url: http://bjhess.com/
   size: 10.0
   last_checked: 2022-05-15
-  
+
 - domain: blakehawkins.com
   url: https://blakehawkins.com/blog
   size: 123
@@ -402,7 +402,7 @@
   url: http://boehs.org/
   size: 86.0
   last_checked: 2022-05-15
-  
+
 - domain: bortox.it
   url: https://bortox.it/en
   size: 172
@@ -802,7 +802,7 @@
   url: https://eink.link/
   size: 7.5
   last_checked: 2022-05-05
-  
+
 - domain: ekuttan.me
   url: http://ekuttan.me/
   size: 192
@@ -1087,7 +1087,7 @@
   url: https://heavymetalmusic.reviews/
   size: 21.8
   last_checked: 2022-04-29
-  
+
 - domain: her.st
   url: https://her.st/
   size: 128
@@ -2153,6 +2153,11 @@
   size: 17.3
   last_checked: 2022-05-06
 
+- domain: simplesearch.org
+  url: https://simplesearch.org/
+  size: 1.6
+  last_checked: 2022-09-09
+
 - domain: slashdev.space
   url: https://slashdev.space/
   size: 400
@@ -2442,7 +2447,7 @@
   url: https://will.cx/
   size: 40.8
   last_checked: 2022-05-15
- 
+
 - domain: wilw.dev
   url: https://wilw.dev/
   size: 18.3
