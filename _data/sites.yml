@@ -1308,6 +1308,11 @@
   size: 95.3
   last_checked: 2022-03-10
 
+- domain: kinduff.com
+  url: https://kinduff.com/
+  size: 199
+  last_checked: 2022-09-12
+
 - domain: kishvanchee.com
   url: https://kishvanchee.com/
   size: 11.5
@@ -2572,8 +2577,3 @@
   url: https://zwbetz.com/
   size: 67.8
   last_checked: 2022-07-20
-
-- domain: kinduff.com
-  url: https://kinduff.com/
-  size: 199
-  last_checked: 2022-09-12
