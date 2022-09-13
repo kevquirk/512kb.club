@@ -1637,6 +1637,11 @@
   url: https://nest.jakl.one/
   size: 11.7
   last_checked: 2022-05-15
+  
+- domain: newsasfacts.com
+  url: https://newsasfacts.com/
+  size: 378
+  last_checked: 2022-09-12
 
 - domain: nikhilhenry.vercel.app
   url: https://nikhilhenry.vercel.app/
