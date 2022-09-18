@@ -13,11 +13,6 @@
   size: 7.2
   last_checked: 2022-03-20
 
-- domain: 0xv31an5a1i5.xyz
-  url: https://0xv31an5a1i5.xyz/
-  size: 167
-  last_checked: 2022-02-03
-
 - domain: 100daystooffload.com
   url: https://100daystooffload.com/
   size: 25.6
@@ -32,11 +27,6 @@
   url: https://2hash.ru/
   size: 1.86
   last_checked: 2022-07-17
-
-- domain: 3000.chat
-  url: https://3000.chat/
-  size: 142
-  last_checked: 2022-02-03
 
 - domain: 46692.dev
   url: https://46692.dev/
@@ -423,11 +413,6 @@
   size: 33.7
   last_checked: 2022-03-14
 
-- domain: bruton.tech
-  url: https://bruton.tech/
-  size: 6.4
-  last_checked: 2022-05-15
-
 - domain: brycewray.com
   url: https://www.brycewray.com/
   size: 103.0
@@ -447,11 +432,6 @@
   url: https://bvnf.space/
   size: 2.8
   last_checked: 2022-05-06
-
-- domain: c1.fi
-  url: https://c1.fi/v/512kb/about/en
-  size: 43.9
-  last_checked: 2022-02-08
 
 - domain: cahaba-ts.com
   url: https://cahaba-ts.com/
@@ -517,6 +497,11 @@
   url: https://citizen428.net/
   size: 22.9
   last_checked: 2022-04-26
+  
+- domain: classquiz.de
+  url: https://classquiz.de/
+  size: 470
+  last_checked: 2022-09-17
 
 - domain: cleberg.io
   url: http://cleberg.io/
@@ -723,11 +708,6 @@
   size: 296
   last_checked: 2022-09-13
 
-- domain: dndd.space
-  url: https://dndd.space/
-  size: 317
-  last_checked: 2021-12-23
-
 - domain: docs.j7k6.org
   url: https://docs.j7k6.org/
   size: 75.5
@@ -843,6 +823,11 @@
   size: 73.7
   last_checked: 2022-05-15
 
+- domain: erickouassi.com
+  url: https://erickouassi.com/
+  size: 50.7
+  last_checked: 2022-09-17
+
 - domain: erikjohannes.no
   url: https://erikjohannes.no/
   size: 6.5
@@ -867,11 +852,6 @@
   url: https://ethan.link/
   size: 20.8
   last_checked: 2022-05-15
-
-- domain: ethandewey.com
-  url: https://ethandewey.com/
-  size: 181
-  last_checked: 2022-01-15
 
 - domain: ethanyoo.com
   url: https://www.ethanyoo.com/
@@ -968,11 +948,6 @@
   size: 36.0
   last_checked: 2022-05-06
 
-- domain: freshnode.net
-  url: https://freshnode.net/
-  size: 107
-  last_checked: 2022-05-15
-
 - domain: freyx.co
   url: http://freyx.co/
   size: 421
@@ -987,11 +962,6 @@
   url: https://funs.life/
   size: 37.6
   last_checked: 2022-08-01
-
-- domain: g.rmxgrp.dev
-  url: https://g.rmxgrp.dev/
-  size: 42.2
-  last_checked: 2022-03-08
 
 - domain: gabnotes.org
   url: https://gabnotes.org/
@@ -1098,6 +1068,11 @@
   size: 21.8
   last_checked: 2022-04-29
 
+- domain: her.esy.fun
+  url: https://her.esy.fun/
+  size: 24.3
+  last_checked: 2022-09-17
+
 - domain: her.st
   url: https://her.st/
   size: 128
@@ -1163,11 +1138,6 @@
   size: 213.0
   last_checked: 2022-04-08
 
-- domain: ironveil.cloud
-  url: https://ironveil.cloud/
-  size: 138
-  last_checked: 2022-06-03
-
 - domain: jae.fi
   url: https://jae.fi/
   size: 32.2
@@ -1187,11 +1157,6 @@
   url: https://jamesst.one
   size: 4.36
   last_checked: 2022-09-11
-
-- domain: jamontheroad.com
-  url: https://www.jamontheroad.com/
-  size: 18.8
-  last_checked: 2022-03-31
 
 - domain: jasonthai.me
   url: https://jasonthai.me/
@@ -1288,25 +1253,20 @@
   size: 71.6
   last_checked: 2022-03-12
 
-- domain: julb.es
-  url: https://julb.es/
-  size: 64.8
-  last_checked: 2022-01-08
-
 - domain: jundimubarok.com
   url: https://jundimubarok.com/
   size: 58.8
   last_checked: 2022-05-05
 
-- domain: kaalatrie.github.io
-  url: https://kaalatrie.github.io/
-  size: 293
-  last_checked: 2022-05-15
-
 - domain: karl.berlin
   url: https://www.karl.berlin/
   size: 3.0
   last_checked: 2022-04-26
+
+- domain: kealanparr.com
+  url: https://kealanparr.com/
+  size: 388
+  last_checked: 2022-09-17
 
 - domain: kevquirk.com
   url: https://kevquirk.com
@@ -1583,11 +1543,6 @@
   size: 264
   last_checked: 2022-03-17
 
-- domain: mousdown.netlify.app
-  url: https://mousdown.netlify.app/
-  size: 371
-  last_checked: 2022-01-06
-
 - domain: mrmarketingmustache.com
   url: https://mrmarketingmustache.com/
   size: 66.4
@@ -1707,11 +1662,6 @@
   url: https://noulin.net/blog
   size: 22.2
   last_checked: 2022-05-15
-
-- domain: nurminen.xyz
-  url: https://www.nurminen.xyz/
-  size: 38.3
-  last_checked: 2022-05-22
 
 - domain: nymbus.xyz
   url: https://nymbus.xyz/
@@ -2143,11 +2093,6 @@
   size: 461
   last_checked: 2022-01-29
 
-- domain: sexiarz.pl
-  url: https://sexiarz.pl/
-  size: 97.1
-  last_checked: 2022-01-07
-
 - domain: sglazov.ru
   url: https://sglazov.ru/
   size: 285
@@ -2205,8 +2150,8 @@
 
 - domain: soeren.codes
   url: https://soeren.codes/
-  size: 43.4
-  last_checked: 2022-09-13
+  size: 10.0
+  last_checked: 2022-09-17
 
 - domain: solfisher.com
   url: https://solfisher.com/
@@ -2358,20 +2303,10 @@
   size: 28.5
   last_checked: 2022-05-15
 
-- domain: tjout.com
-  url: https://tjout.com/
-  size: 159
-  last_checked: 2022-01-29
-
 - domain: toby3d.me
   url: https://toby3d.me/
   size: 195
   last_checked: 2022-02-13
-
-- domain: topik.natenorthway.com
-  url: http://topik.natenorthway.com/
-  size: 211
-  last_checked: 2022-04-26
 
 - domain: topikettunen.com
   url: https://topikettunen.com
@@ -2432,11 +2367,6 @@
   url: https://www.vegard.net/
   size: 54.5
   last_checked: 2022-02-24
-
-- domain: vfast.co.uk
-  url: https://www.vfast.co.uk/
-  size: 430
-  last_checked: 2022-03-06
 
 - domain: vitcerny.xyz
   url: https://vitcerny.xyz/
