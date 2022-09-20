@@ -818,6 +818,11 @@
   size: 95.8
   last_checked: 2022-06-05
 
+- domain: enesergun.net
+  url: https://enesergun.net
+  size: 205
+  last_checked: 2022-09-19
+
 - domain: epersonalinjurylawyers.com
   url: https://www.epersonalinjurylawyers.com/
   size: 465
@@ -2562,3 +2567,4 @@
   url: https://zwbetz.com/
   size: 67.8
   last_checked: 2022-07-20
+  
