@@ -307,7 +307,12 @@
   url: http://bjhess.com/
   size: 10.0
   last_checked: 2022-05-15
-  
+
+- domain: bjornf.dev
+  url: https://bjornf.dev/
+  size: 72.1
+  last_checked: 2022-09-18
+
 - domain: blakehawkins.com
   url: https://blakehawkins.com/blog
   size: 123
@@ -392,7 +397,7 @@
   url: http://boehs.org/
   size: 86.0
   last_checked: 2022-05-15
-  
+
 - domain: bortox.it
   url: https://bortox.it/en
   size: 172
@@ -497,7 +502,7 @@
   url: https://citizen428.net/
   size: 22.9
   last_checked: 2022-04-26
-  
+
 - domain: classquiz.de
   url: https://classquiz.de/
   size: 470
@@ -575,7 +580,7 @@
 
 - domain: cri.cl
   url: https://cri.cl/
-  size: 72.0
+  size: 72
   last_checked: 2022-03-03
 
 - domain: cri.dev
@@ -702,7 +707,7 @@
   url: http://diicorp95.neonarod.com/
   size: 19.1
   last_checked: 2022-05-15
-  
+
 - domain: divriots.com
   url: https://divriots.com/
   size: 296
@@ -787,7 +792,7 @@
   url: https://eink.link/
   size: 7.5
   last_checked: 2022-05-05
-  
+
 - domain: ekuttan.me
   url: http://ekuttan.me/
   size: 192
@@ -812,6 +817,11 @@
   url: https://emanuelpina.pt/
   size: 95.8
   last_checked: 2022-06-05
+
+- domain: enesergun.net
+  url: https://enesergun.net
+  size: 205
+  last_checked: 2022-09-19
 
 - domain: epersonalinjurylawyers.com
   url: https://www.epersonalinjurylawyers.com/
@@ -1077,7 +1087,7 @@
   url: https://her.st/
   size: 128
   last_checked: 2022-08-29
-  
+
 - domain: herman.bearblog.dev
   url: https://herman.bearblog.dev/
   size: 6.5
@@ -1607,7 +1617,7 @@
   url: https://nest.jakl.one/
   size: 11.7
   last_checked: 2022-05-15
-  
+
 - domain: newsasfacts.com
   url: https://newsasfacts.com/
   size: 378
@@ -1727,7 +1737,7 @@
   url: https://paritybit.ca/
   size: 8.4
   last_checked: 2022-05-06
-  
+
 - domain: patrickwu.space
   url: https://patrickwu.space/
   size: 47.4
@@ -1785,7 +1795,7 @@
 
 - domain: plaindrops.de
   url: https://plaindrops.de/
-  size: 47.1
+  size: 27.1
   last_checked: 2022-02-21
 
 - domain: plausible.io
@@ -1917,6 +1927,11 @@
   url: https://rectangles.app/
   size: 6.93
   last_checked: 2022-04-01
+
+- domain: reim.ar
+  url: https://reim.ar/
+  size: 32.1
+  last_checked: 2022-09-18
 
 - domain: reorx.com
   url: https://reorx.com/
@@ -2427,7 +2442,7 @@
   url: https://will.cx/
   size: 40.8
   last_checked: 2022-05-15
- 
+
 - domain: wilw.dev
   url: https://wilw.dev/
   size: 18.3
@@ -2472,7 +2487,7 @@
   url: https://xlthlx.com/
   size: 434
   last_checked: 2022-06-27
-  
+
 - domain: xnacly.me
   url: https://xnacly.me/
   size: 37.9
@@ -2552,3 +2567,4 @@
   url: https://zwbetz.com/
   size: 67.8
   last_checked: 2022-07-20
+  
