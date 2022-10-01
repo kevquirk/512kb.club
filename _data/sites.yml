@@ -1893,6 +1893,11 @@
   size: 303
   last_checked: 2022-04-26
 
+- domain: radiocanadamini.ca
+  url: https://radiocanadamini.ca
+  size: 27.3
+  last_checked: 2022-09-30
+
 - domain: raikas.dev
   url: https://raikas.dev/
   size: 4.85
@@ -1922,11 +1927,6 @@
   url: https://rav3ndust.xyz/
   size: 72.1
   last_checked: 2022-03-25
-
-- domain: rc-lite.xyz
-  url: https://rc-lite.xyz/
-  size: 17.6
-  last_checked: 2022-05-15
 
 - domain: rectangles.app
   url: https://rectangles.app/
