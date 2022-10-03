@@ -978,6 +978,11 @@
   size: 37.6
   last_checked: 2022-08-01
 
+- domain: fz1.space
+  url: https://fz1.space/
+  size: 4.5
+  last_checked: 2022-10-03
+
 - domain: gabnotes.org
   url: https://gabnotes.org/
   size: 453
