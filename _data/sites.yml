@@ -1868,6 +1868,11 @@
   size: 62.3
   last_checked: 2022-01-11
 
+- domain: pzel.name
+  url: https://pzel.name/
+  size: 15.1
+  last_checked: 2022-10-03
+
 - domain: qcard.link
   url: https://qcard.link/
   size: 101
