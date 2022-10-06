@@ -823,6 +823,11 @@
   size: 95.8
   last_checked: 2022-06-05
 
+- domain: emman.dev
+  url: https://emman.dev
+  size: 481
+  last_checked: 2022-10-05
+
 - domain: enesergun.net
   url: https://enesergun.net
   size: 205
