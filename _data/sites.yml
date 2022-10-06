@@ -2383,6 +2383,11 @@
   size: 39.2
   last_checked: 2022-09-14
 
+- domain: unli.xyz
+  url: https://unli.xyz/
+  size: 102
+  last_checked: 2022-10-05
+
 - domain: unsolicitedadvise.com
   url: https://unsolicitedadvise.com/
   size: 454
