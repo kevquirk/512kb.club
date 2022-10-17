@@ -1428,6 +1428,11 @@
   size: 3.9
   last_checked: 2022-05-06
 
+- domain: madelinepritchard.net
+  url: https://madelinepritchard.net/ (Make sure you keep the trailing slash)
+  size: 144
+  last_checked: 2022-10-14
+
 - domain: manuelmoreale.com
   url: https://manuelmoreale.com/
   size: 45.4
