@@ -380,8 +380,8 @@
 
 - domain: blog.setale.me
   url: https://blog.setale.me/
-  size: 427
-  last_checked: 2022-01-31
+  size: 294
+  last_checked: 2022-10-17
 
 - domain: blog.trieoflogs.com
   url: https://blog.trieoflogs.com
@@ -492,12 +492,12 @@
   url: https://celeste.exposed/
   size: 293
   last_checked: 2022-03-16
-  
+
 - domain: chibilinks.com
   url: https://chibilinks.com/
   size: 17.1
   last_checked: 2022-09-28
-  
+
 - domain: chriswiegman.com
   url: https://chriswiegman.com/
   size: 72.8
@@ -882,7 +882,7 @@
   url: http://evantravers.com/
   size: 474
   last_checked: 2022-04-26
-  
+
 - domain: excus.eu
   url: https://excus.eu/
   size: 93.7
@@ -1077,7 +1077,7 @@
   url: https://www.habedieeh.re/
   size: 26.6
   last_checked: 2022-10-08
- 
+
 - domain: hashtagueule.fr
   url: https://hashtagueule.fr
   size: 59.5
@@ -2602,4 +2602,4 @@
   url: https://zwbetz.com/
   size: 67.8
   last_checked: 2022-07-20
-  
+
