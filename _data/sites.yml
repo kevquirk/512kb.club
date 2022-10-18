@@ -318,11 +318,6 @@
   size: 123
   last_checked: 2022-08-31
 
-- domain: blmayer.dev
-  url: https://www.blmayer.dev/
-  size: 7.53
-  last_checked: 2022-08-02
-
 - domain: block.sunappu.net
   url: https://block.sunappu.net/
   size: 193
@@ -433,11 +428,6 @@
   size: 4.7
   last_checked: 2022-05-15
 
-- domain: bvnf.space
-  url: https://bvnf.space/
-  size: 2.8
-  last_checked: 2022-05-06
-
 - domain: cahaba-ts.com
   url: https://cahaba-ts.com/
   size: 167
@@ -452,11 +442,6 @@
   url: https://calotte.ca/
   size: 308
   last_checked: 2022-04-01
-
-- domain: camaro96.neocities.org
-  url: https://camaro96.neocities.org/
-  size: 10.9
-  last_checked: 2022-01-16
 
 - domain: canistop.net
   url: https://canistop.net/
@@ -692,11 +677,6 @@
   url: https://decentnet.github.io/
   size: 31.2
   last_checked: 2022-05-06
-
-- domain: dendiz.github.io
-  url: https://dendiz.github.io
-  size: 14.1
-  last_checked: 2022-05-15
 
 - domain: detektywi.it
   url: https://detektywi.it
@@ -1447,11 +1427,6 @@
   url: https://martin.baillie.id/
   size: 127
   last_checked: 2022-03-17
-
-- domain: masysma.lima-city.de
-  url: https://masysma.lima-city.de/31/web_main.xhtml
-  size: 9.46
-  last_checked: 2022-01-22
 
 - domain: mataroa.blog
   url: https://mataroa.blog/
@@ -2527,11 +2502,6 @@
   url: https://xnacly.me/
   size: 37.9
   last_checked: 2022-09-13
-
-- domain: xslendi.xyz
-  url: https://xslendi.xyz/
-  size: 2.5
-  last_checked: 2022-05-15
 
 - domain: xwx.moe
   url: https://xwx.moe/
