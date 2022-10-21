@@ -357,7 +357,12 @@
   url: https://blog.dgold.eu/
   size: 12.6
   last_checked: 2022-05-15
-
+ 
+- domain: blog.ethandewey.com
+  url: https://blog.ethandewey.com
+  size: 199
+  last_checked: 2022-10-21
+ 
 - domain: blog.khaleelgibran.com
   url: https://blog.khaleelgibran.com/
   size: 213
