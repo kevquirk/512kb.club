@@ -2563,6 +2563,11 @@
   size: 221
   last_checked: 2022-03-25
 
+- domain: yuv.al
+  url: https://yuv.al/
+  size: 255
+  last_checked: 2022-10-28
+
 - domain: zakr.es
   url: https://zakr.es/
   size: 231
