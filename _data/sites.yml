@@ -972,7 +972,12 @@
   url: http://freyx.co/
   size: 421
   last_checked: 2022-05-15
-
+  
+- domain: fullbl.it
+  url: https//fullbl.it
+  size: 12.1
+  last_checked: 2022-11-02
+  
 - domain: funnylookinhat.com
   url: https://funnylookinhat.com/
   size: 7.1
