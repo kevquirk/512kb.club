@@ -1858,6 +1858,11 @@
   size: 183
   last_checked: 2022-03-18
 
+- domain: privacydev.net
+  url: https://privacydev.net/
+  size: 34.0
+  last_checked: 2022-11-09
+
 - domain: privatebin.info
   url: https://privatebin.info/
   size: 355
