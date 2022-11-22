@@ -88,6 +88,11 @@
   size: 56
   last_checked: 2022-08-17
 
+- domain: adam.sr
+  url: https://adam.sr/
+  size: 109
+  last_checked: 2022-11-22
+
 - domain: adityatelange.in
   url: https://adityatelange.in/
   size: 267
