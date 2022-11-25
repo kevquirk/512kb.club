@@ -2567,6 +2567,11 @@
   url: https://wor.do/
   size: 349
   last_checked: 2022-04-26
+ 
+- domain: wrzeczak.net
+  url: https://wrzeczak.net/
+  size: 35.4
+  last_checked: 2022-11-24
 
 - domain: xidoc.nim.town
   url: http://xidoc.nim.town/
