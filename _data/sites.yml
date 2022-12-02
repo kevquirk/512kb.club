@@ -2442,6 +2442,11 @@
   url: http://www.trinity.moe
   size: 39.6
   last_checked: 2022-04-26
+  
+  - domain: troylusty.com
+  url: https://troylusty.com/
+  size: 7.67
+  last_checked: 2022-12-02
 
 - domain: tryhexadecimal.com
   url: https://tryhexadecimal.com/
