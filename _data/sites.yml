@@ -412,6 +412,11 @@
   url: https://blog.xaloc.space/
   size: 42.7
   last_checked: 2022-05-15
+  
+- domain: blush-beaver-tam.cyclic.app
+  url: https://blush-beaver-tam.cyclic.app
+  size: 365
+  last_checked: 2022-09-12
 
 - domain: boehs.org
   url: http://boehs.org/
@@ -1652,11 +1657,6 @@
   url: https://na20a.neocities.org/
   size: 9.8
   last_checked: 2022-04-26
-
-- domain: nasdaq-dividend-search-api.herokuapp.com
-  url: https://nasdaq-dividend-search-api.herokuapp.com/
-  size: 363
-  last_checked: 2022-04-29
 
 - domain: nayuki.io
   url: https://www.nayuki.io/
