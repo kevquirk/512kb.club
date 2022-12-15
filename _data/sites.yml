@@ -1107,6 +1107,11 @@
   url: https://gud.one/
   size: 155
   last_checked: 2022-05-15
+  
+- domain: gunnar.se
+  url: https://gunnar.se/
+  size: 48.1
+  last_checked: 2022-12-15
 
 - domain: guts.plus
   url: https://guts.plus/
