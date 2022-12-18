@@ -2578,6 +2578,11 @@
   size: 310
   last_checked: 2022-04-26
 
+- domain: whoisyoges.eu.org
+  url: https://whoisyoges.eu.org/
+  size: 61.7
+  last_checked: 2022-12-19
+
 - domain: why-openbsd.rocks
   url: https://why-openbsd.rocks/fact/
   size: 35.4
