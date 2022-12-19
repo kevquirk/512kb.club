@@ -1107,6 +1107,11 @@
   url: https://gud.one/
   size: 155
   last_checked: 2022-05-15
+  
+- domain: gunnar.se
+  url: https://gunnar.se/
+  size: 48.1
+  last_checked: 2022-12-15
 
 - domain: guts.plus
   url: https://guts.plus/
@@ -2567,6 +2572,11 @@
   url: https://weinzierlweb.com/
   size: 310
   last_checked: 2022-04-26
+
+- domain: whoisyoges.eu.org
+  url: https://whoisyoges.eu.org/
+  size: 94.3
+  last_checked: 2022-12-19
 
 - domain: why-openbsd.rocks
   url: https://why-openbsd.rocks/fact/
