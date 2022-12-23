@@ -2147,6 +2147,11 @@
   size: 10.1
   last_checked: 2022-01-20
 
+- domain: s9a.me
+  url: https://s9a.me/
+  size: 162
+  last_checked: 2022-12-23
+
 - domain: saladhax.site
   url: https://saladhax.site/
   size: 21.7
