@@ -1217,7 +1217,12 @@
   url: https://ibra.github.io/
   size: 194.0
   last_checked: 2022-04-21
-  
+
+- domain: ichi.do
+  url: https://ichi.do/?theme=plain
+  size: 179.0
+  last_checked: 2023-01-02
+
 - domain: ihsaan.au
   url: http://ihsaan.au/
   size: 394.0
