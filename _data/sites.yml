@@ -977,6 +977,11 @@
   url: https://ferib.dev/
   size: 197
   last_checked: 2022-03-24
+  
+- domain: figcat.com
+  url: https://figcat.com/
+  size: 96
+  last_checked: 2023-01-05  
 
 - domain: filbertsalim.codeberg.page
   url: https://filbertsalim.codeberg.page/
