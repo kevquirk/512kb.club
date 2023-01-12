@@ -1352,6 +1352,11 @@
   size: 11.4
   last_checked: 2022-05-06
 
+- domain: jouissance.net
+  url: https://www.jouissance.net
+  size: 25.5
+  last_checked: 2023-01-11
+
 - domain: jpdb.io
   url: https://jpdb.io/
   size: 348
@@ -2776,4 +2781,3 @@
   url: https://zwbetz.com/
   size: 67.8
   last_checked: 2022-07-20
-
