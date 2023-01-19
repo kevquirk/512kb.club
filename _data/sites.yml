@@ -463,6 +463,11 @@
   size: 4.7
   last_checked: 2022-05-15
 
+- domain: c1.fi
+  url: https://c1.fi/about?lang=en
+  size: 79.0
+  last_checked: 2023-01-19
+
 - domain: cahaba-ts.com
   url: https://cahaba-ts.com/
   size: 167
