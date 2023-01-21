@@ -658,6 +658,11 @@
   size: 189
   last_checked: 2022-05-15
 
+- domain: cweagans.net
+  url: https://www.cweagans.net/
+  size: 245
+  last_checked: 2023-01-20
+
 - domain: cyber-diocletian.github.io
   url: https://cyber-diocletian.github.io/
   size: 47.3
