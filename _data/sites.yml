@@ -983,6 +983,11 @@
   url: https://ferib.dev/
   size: 197
   last_checked: 2022-03-24
+
+- domain: ff99cc.art
+  url: https://ff99cc.art/
+  size: 55.8
+  last_checked: 2023-02-02
   
 - domain: figcat.com
   url: https://figcat.com/
