@@ -2773,6 +2773,11 @@
   size: 231
   last_checked: 2022-04-26
 
+- domain: zapisnik.skladka.net
+  url: https://zapisnik.skladka.net/
+  size: 14.7
+  last_checked: 2023-02-07
+
 - domain: zeriax.com
   url: https://zeriax.com/
   size: 91.3
