@@ -18,11 +18,15 @@
   size: 25.6
   last_checked: 2022-03-20
 
+- domain: 10maurycy10.github.io
+  url: https://10maurycy10.github.io/
+  size: 20.2
+  last_checked: 2023-02-17
+
 - domain: 1984.ninja
   url: https://1984.ninja/
   size: 20.3
   last_checked: 2023-01-23
-
 
 - domain: 250kb.club
   url: https://250kb.club/
@@ -2853,7 +2857,4 @@
   size: 67.8
   last_checked: 2022-07-20
 
-- domain: 10maurycy10.github.io
-  url: https://10maurycy10.github.io/
-  size: 20.2
-  last_checked: 2023-02-17
+
