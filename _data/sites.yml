@@ -1191,8 +1191,8 @@
 
 - domain: healthchecks.io
   url: https://healthchecks.io/
-  size: 502
-  last_checked: 2022-01-29
+  size: 435
+  last_checked: 2023-02-18
 
 - domain: heavymetalmusic.reviews
   url: https://heavymetalmusic.reviews/
