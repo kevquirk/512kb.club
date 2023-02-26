@@ -482,6 +482,11 @@
   url: https://buchh.org/
   size: 4.7
   last_checked: 2022-05-15
+  
+- domain: burak.mulayim.app
+  url: https://burak.mulayim.app/
+  size: 88
+  last_checked: 2023-02-26
 
 - domain: c1.fi
   url: https://c1.fi/about?lang=en
@@ -2866,4 +2871,3 @@
   url: https://zwbetz.com/
   size: 67.8
   last_checked: 2022-07-20
-
