@@ -1777,6 +1777,11 @@
   size: 51.5
   last_checked: 2022-05-06
 
+- domain: neilgrogan.com
+  url: https://www.neilgrogan.com/
+  size: 418
+  last_checked: 2023-03-01
+
 - domain: nelson.cloud
   url: https://nelson.cloud/
   size: 38.1
