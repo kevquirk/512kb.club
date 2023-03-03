@@ -2827,6 +2827,11 @@
   size: 475
   last_checked: 2022-05-15
 
+- domain: yaslamblog.netlify.app
+  url: https://yaslamblog.netlify.app/
+  size: 131
+  last_checked: 2023-03-02
+
 - domain: yne.fr
   url: https://yne.fr/
   size: 4.5
