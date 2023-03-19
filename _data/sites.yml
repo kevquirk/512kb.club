@@ -572,11 +572,6 @@
   url: https://celeste.exposed/
   size: 293
   last_checked: 2022-03-16
-
-- domain: cheng.bearblog.dev
-  url: https://cheng.bearblog.dev/
-  size: 5.71
-  last_checked: 2023-03-11
   
 - domain: chibilinks.com
   url: https://chibilinks.com/
@@ -1537,6 +1532,11 @@
   size: 111
   last_checked: 2022-05-05
 
+- domain: lchenghui.com
+  url: https://lchenghui.com/
+  size: 21.8
+  last_checked: 2023-03-19
+  
 - domain: leagueh.xyz
   url: https://leagueh.xyz/en/
   size: 4.4
