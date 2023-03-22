@@ -448,11 +448,6 @@
   size: 42.7
   last_checked: 2022-05-15
 
-- domain: savajava-one.vercel.app
-  url: https://savajava-one.vercel.app/
-  size: 373
-  last_checked: 2023-03-23
-
 - domain: boehs.org
   url: http://boehs.org/
   size: 86.0
@@ -2347,6 +2342,11 @@
   size: 5.61
   last_checked: 2022-08-02
 
+- domain: savajava-one.vercel.app
+  url: https://savajava-one.vercel.app/
+  size: 373
+  last_checked: 2023-03-23
+  
 - domain: scf37.me
   url: https://scf37.me/
   size: 93.5
