@@ -2747,6 +2747,11 @@
   size: 52.7
   last_checked: 2022-04-26
 
+- domain: vili.dev
+  url: https://vili.dev/
+  size: 502
+  last_checked: 2023-03-27
+
 - domain: vladas.palubinskas.lt
   url: https://vladas.palubinskas.lt/
   size: 9.0
@@ -2766,11 +2771,6 @@
   url: https://vvulpes0.github.io/
   size: 7.6
   last_checked: 2022-04-26
-
-- domain: vili.dev
-  url: https://vili.dev/
-  size: 502
-  last_checked: 2023-03-27
 
 - domain: webmusic.pages.dev
   url: https://webmusic.pages.dev/
