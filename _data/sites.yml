@@ -1272,10 +1272,10 @@
   url: https://hjr265.me/
   size: 111
   last_checked: 2022-11-24
-  
+
 - domain: hobospider132.github.io
   url: https://hobospider132.github.io/
-  size: 35.4 
+  size: 35.4
   last_checked: 2023-03-15
 
 - domain: holory.fr
@@ -2741,6 +2741,11 @@
   url: https://vidhukant.xyz/
   size: 217
   last_checked: 2022-10-02
+
+- domain: vili.dev
+  url: https://vili.dev/
+  size: 502
+  last_checked: 2023-03-27
 
 - domain: vitcerny.xyz
   url: https://vitcerny.xyz/
