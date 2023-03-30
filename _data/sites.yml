@@ -1418,6 +1418,11 @@
   size: 239
   last_checked: 2022-03-12
 
+- domain: joanybuclon.com
+  url: https://joanybuclon.com/
+  size: 433
+  last_checked: 2023-03-30
+
 - domain: joelchrono12.xyz
   url: https://joelchrono12.xyz/
   size: 41.6
@@ -2951,8 +2956,3 @@
   url: https://zwbetz.com/
   size: 67.8
   last_checked: 2022-07-20
-
-- domain: joanybuclon.com
-  url: https://joanybuclon.com/
-  size: 433
-  last_checked: 2023-03-30
