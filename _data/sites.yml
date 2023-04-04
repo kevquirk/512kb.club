@@ -243,6 +243,11 @@
   size: 10.2
   last_checked: 2022-07-26
 
+- domain: auroraoutlook.com
+  url: https://auroraoutlook.com/
+  size: 86.3
+  last_checked: 2023-04-03
+
 - domain: autotutor.com.au
   url: https://autotutor.com.au
   size: 261
