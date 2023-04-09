@@ -738,6 +738,11 @@
   size: 45.0
   last_checked: 2022-05-15
 
+- domain: d-s.sh
+  url: http://d-s.sh/
+  size: 115
+  last_checked: 2023-03-24
+
 - domain: dafne.cc
   url: https://dafne.cc/
   size: 195
@@ -883,11 +888,6 @@
   size: 41.6
   last_checked: 2022-05-06
   
-- domain: d-s.sh
-  url: http://d-s.sh/
-  size: 115
-  last_checked: 2023-03-24
-
 - domain: ebass.uk
   url: https://ebass.uk/
   size: 501
@@ -2919,7 +2919,7 @@
 
 - domain: zeriax.com
   url: https://zeriax.com/
-  size: 91.3
+  size: 91.3michael lucas bsd
   last_checked: 2022-07-24
 
 - domain: zerokspot.com
@@ -2952,4 +2952,3 @@
   size: 67.8
   last_checked: 2022-07-20
   
-
