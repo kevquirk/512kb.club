@@ -2394,8 +2394,8 @@
 
 - domain: searchcandy.uk
   url: https://www.searchcandy.uk/
-  size: 102
-  last_checked: 2022-05-15
+  size: 290
+  last_checked: 2023-04-14
 
 - domain: searchforplanet.org
   url: https://searchforplanet.org/
@@ -2986,3 +2986,8 @@
   url: https://zwbetz.com/
   size: 67.8
   last_checked: 2022-07-20
+  
+- domain: pubindexapi.com
+  url: https://www.pubindexapi.com/
+  size: 103
+  last_checked: 2023-04-14
