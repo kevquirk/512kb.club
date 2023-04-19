@@ -2612,6 +2612,11 @@
   size: 53.3
   last_checked: 2022-04-26
 
+- domain: theblapse.me
+  url: https://theblapse.me/
+  size: 123
+  last_checked: 2023-04-19
+  
 - domain: thejollyteapot.com
   url: https://thejollyteapot.com/
   size: 3.65
@@ -2816,6 +2821,12 @@
   url: https://vvulpes0.github.io/
   size: 7.6
   last_checked: 2022-04-26
+  
+- domain: wayfarers.space
+  url: https://wayfarers.space/
+  size: 364
+  last_checked: 2023-04-19
+
 
 - domain: webmusic.pages.dev
   url: https://webmusic.pages.dev/
