@@ -2727,6 +2727,11 @@
   size: 42.9
   last_checked: 2022-05-15
 
+- domain: txt.fabio.com.ar
+  url: https://txt.fabio.com.ar/ 
+  size: 312
+  last_checked: 2023-04-19
+
 - domain: unindented.org
   url: https://www.unindented.org/
   size: 105
@@ -2991,3 +2996,4 @@
   url: https://zwbetz.com/
   size: 67.8
   last_checked: 2022-07-20
+
