@@ -463,6 +463,11 @@
   size: 365
   last_checked: 2022-09-12
 
+- domain: bmoat.com
+  url: https://bmoat.com/
+  size: 90.1
+  last_checked: 2023-04-22
+
 - domain: boehs.org
   url: http://boehs.org/
   size: 86.0
@@ -2141,7 +2146,7 @@
   url: https://proseandconst.xyz/
   size: 311
   last_checked: 2022-03-25
-  
+
 - domain: pubindexapi.com
   url: https://www.pubindexapi.com/
   size: 103
@@ -2156,7 +2161,7 @@
   url: https://purplebits.co.uk/
   size: 83.0
   last_checked: 2022-05-15
-  
+
 - domain: puxped.ddns.net
   url: https://puxped.ddns.net/
   size: 293
@@ -2621,7 +2626,7 @@
   url: https://theblapse.me/
   size: 123
   last_checked: 2023-04-19
-  
+
 - domain: thejollyteapot.com
   url: https://thejollyteapot.com/
   size: 3.65
@@ -2738,7 +2743,7 @@
   last_checked: 2022-05-15
 
 - domain: txt.fabio.com.ar
-  url: https://txt.fabio.com.ar/ 
+  url: https://txt.fabio.com.ar/
   size: 312
   last_checked: 2023-04-19
 
@@ -2831,7 +2836,7 @@
   url: https://vvulpes0.github.io/
   size: 7.6
   last_checked: 2022-04-26
-  
+
 - domain: wayfarers.space
   url: https://wayfarers.space/
   size: 364
