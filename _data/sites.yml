@@ -2978,6 +2978,11 @@
   size: 94.7
   last_checked: 2022-11-02
 
+- domain: youtube-playlist-timer.mmap.page
+  url: https://youtube-playlist-timer.mmap.page
+  size: 124
+  last_checked: 2023-04-27
+
 - domain: yuv.al
   url: https://yuv.al/
   size: 255
