@@ -473,6 +473,11 @@
   size: 86.0
   last_checked: 2022-05-15
 
+- domain: bonetflix.com
+  url: https://bonetflix.com/
+  size: 71.9
+  last_checked: 2023-04-27
+
 - domain: bortox.it
   url: https://bortox.it/en
   size: 172
@@ -2912,7 +2917,7 @@
   url: https://xameren.repl.co/
   size: 156
   last_checked: 2023-04-26
-  
+
 - domain: xidoc.nim.town
   url: http://xidoc.nim.town/
   size: 73.2
