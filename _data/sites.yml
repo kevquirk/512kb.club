@@ -473,6 +473,11 @@
   size: 86.0
   last_checked: 2022-05-15
 
+- domain: bonetflix.com
+  url: https://bonetflix.com/
+  size: 71.9
+  last_checked: 2023-04-27
+
 - domain: bortox.it
   url: https://bortox.it/en
   size: 172
@@ -2977,6 +2982,11 @@
   url: https://youssefy.com/
   size: 94.7
   last_checked: 2022-11-02
+
+- domain: youtube-playlist-timer.mmap.page
+  url: https://youtube-playlist-timer.mmap.page
+  size: 124
+  last_checked: 2023-04-27
 
 - domain: yuv.al
   url: https://yuv.al/
