@@ -943,6 +943,11 @@
   size: 238
   last_checked: 2022-05-15
 
+- domain: eg-zine.cf
+  url: https://eg-zine.cf/
+  size: 13.1
+  last_checked: 2023-05-02
+
 - domain: eink.link
   url: https://eink.link/
   size: 7.5
