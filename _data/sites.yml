@@ -1603,8 +1603,8 @@
   last_checked: 2022-01-13
 
 - domain: laker.tech
-  url: http://laker.tech/ (Make sure you keep the trailing slash)
-  size: 131
+  url: http://laker.tech/
+  size: 133
   last_checked: 2023-05-08
 
 - domain: lazy-gamer.net
