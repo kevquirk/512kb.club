@@ -2732,6 +2732,11 @@
   size: 26.0
   last_checked: 2022-06-03
 
+- domain: tty1.blog
+  url: https://tty1.blog/
+  size: 19.5
+  last_checked 2023-05-07
+
 - domain: tradingcode.net
   url: https://tradingcode.net/
   size: 33.8
@@ -3062,8 +3067,3 @@
   url: https://zwbetz.com/
   size: 67.8
   last_checked: 2022-07-20
-
-- domain: tty1.blog
-  url: https://tty1.blog/
-  size: 19.5
-  last_checked 2023-05-07
