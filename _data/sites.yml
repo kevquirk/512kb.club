@@ -2767,6 +2767,11 @@
   size: 72.2
   last_checked: 2022-04-26
 
+- domain: tty1.blog
+  url: https://tty1.blog/
+  size: 19.5
+  last_checked: 2023-05-07
+
 - domain: tunesheavy.com
   url: https://tunesheavy.com/
   size: 42.9
@@ -3067,4 +3072,3 @@
   url: https://zwbetz.com/
   size: 67.8
   last_checked: 2022-07-20
-
