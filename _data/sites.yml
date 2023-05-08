@@ -2765,7 +2765,7 @@
 - domain: tty1.blog
   url: https://tty1.blog/
   size: 19.5
-  last_checked 2023-05-07
+  last_checked: 2023-05-07
 
 - domain: tunesheavy.com
   url: https://tunesheavy.com/
