@@ -1597,11 +1597,6 @@
   size: 131
   last_checked: 2022-01-30
 
-- domain: vidhukant.com
-  url: https://vidhukant.com/
-  size: 131
-  last_checked: 2023-05-10
-
 - domain: kytta.dev
   url: https://www.kytta.dev/
   size: 12.2
@@ -2841,6 +2836,11 @@
   url: https://vern.cc/
   size: 21.7
   last_checked: 2022-12-10
+
+- domain: vidhukant.com
+  url: https://vidhukant.com/
+  size: 131
+  last_checked: 2023-05-10
 
 - domain: vili.dev
   url: https://vili.dev/
