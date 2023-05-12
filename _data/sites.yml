@@ -448,11 +448,6 @@
   size: 294
   last_checked: 2022-10-17
 
-- domain: blog.skiserv.eu
-  url: https://blog.skiserv.eu/
-  size: 3.57
-  last_checked: 2023-02-24
-
 - domain: blog.trieoflogs.com
   url: https://blog.trieoflogs.com
   size: 78.3
@@ -1961,11 +1956,6 @@
   url: https://notionbackups.com
   size: 48.3
   last_checked: 2022-03-21
-
-- domain: notusknot.com
-  url: https://notusknot.com/
-  size: 3.5
-  last_checked: 2022-01-23
 
 - domain: noulin.net
   url: https://noulin.net/blog
