@@ -738,6 +738,11 @@
   size: 115
   last_checked: 2022-05-15
 
+- domain: cujo.casa
+  url: https://cujo.casa/
+  size: 55.4
+  last_checked: 2023-05-25
+
 - domain: culp.dev
   url: https://culp.dev/
   size: 48.1
