@@ -937,6 +937,11 @@
   url: https://www.ecliptik.com/
   size: 120
   last_checked: 2022-03-08
+ 
+- domain: ecotone.selftitled.de
+  url: https://ecotone.selftitled.de/
+  size: 451
+  last_checked: 2023-05-26
 
 - domain: eddiex.se
   url: https://eddiex.se/
