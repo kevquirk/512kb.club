@@ -408,6 +408,11 @@
   size: 197
   last_checked: 2022-01-29
 
+- domain: blog.dejavu.moe
+  url: https://blog.dejavu.moe/
+  size: 107
+  last_checked: 2023-05-27
+
 - domain: blog.dgold.eu
   url: https://blog.dgold.eu/
   size: 12.6
