@@ -1957,15 +1957,15 @@
   size: 11.7
   last_checked: 2022-05-15
 
-- domain: newsasfacts.com
-  url: https://newsasfacts.com/
-  size: 378
-  last_checked: 2022-09-12
-
 - domain: news.tatooine.club
   url: https://news.tatooine.club
   size: 31.5
   last_checked: 2023-06-09
+
+- domain: newsasfacts.com
+  url: https://newsasfacts.com/
+  size: 378
+  last_checked: 2022-09-12
 
 - domain: nih.ar
   url: https://nih.ar/
