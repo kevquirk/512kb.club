@@ -1962,6 +1962,11 @@
   size: 378
   last_checked: 2022-09-12
 
+- domain: news.tatooine.club
+  url: https://news.tatooine.club
+  size: 31.5
+  last_checked: 2023-06-09
+
 - domain: nih.ar
   url: https://nih.ar/
   size: 3.9
@@ -3127,7 +3132,3 @@
   url: https://zwbetz.com/
   size: 67.8
   last_checked: 2022-07-20
-
-- domain: news.tatooine.club
-  url: https://news.tatooine.club
-  size: 31.5
