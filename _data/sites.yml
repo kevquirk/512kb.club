@@ -1163,6 +1163,11 @@
   size: 143
   last_checked: 2022-03-13
 
+- domain: forgetful.dev
+  url: https://forgetful.dev/
+  size: 74.3
+  last_checked: 2023-06-12
+
 - domain: format-express.dev
   url: https://format-express.dev/
   size: 180
