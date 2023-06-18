@@ -2452,15 +2452,15 @@
   size: 89.4
   last_checked: 2022-05-03
 
-- domain: rutar.org
-  url: https://rutar.org/
-  size: 10.1
-  last_checked: 2022-01-20
-
 - domain: ru.order332.com
   url: https://ru.order332.com/
   size: 375
   last_checked: 2023-06-18
+
+- domain: rutar.org
+  url: https://rutar.org/
+  size: 10.1
+  last_checked: 2022-01-20
 
 - domain: s9a.me
   url: https://s9a.me/
