@@ -2062,6 +2062,11 @@
   size: 89.0
   last_checked: 2022-06-25
 
+- domain: order332.com
+  url: https://order332.com/
+  size: 372
+  last_checked: 2023-06-18
+
 - domain: oscarforner.com
   url: https://oscarforner.com/
   size: 19.7
@@ -2446,6 +2451,11 @@
   url: https://roytakanen.github.io/
   size: 89.4
   last_checked: 2022-05-03
+
+- domain: ru.order332.com
+  url: https://ru.order332.com/
+  size: 375
+  last_checked: 2023-06-18
 
 - domain: rutar.org
   url: https://rutar.org/
