@@ -1652,6 +1652,11 @@
   size: 23.8
   last_checked: 2023-04-29
 
+- domain: kru.run
+  url: https://kru.run/
+  size: 11.8
+  last_checked: 2023-06-20
+
 - domain: krzysztofjankowski.com
   url: https://krzysztofjankowski.com/
   size: 131
