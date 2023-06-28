@@ -1393,6 +1393,11 @@
   size: 9.43
   last_checked: 2022-05-31
 
+- domain: hytracer.ink
+  url: https://hytracer.ink
+  size: 316
+  last_checked: 2023-06-28
+
 - domain: hund.tty1.se
   url: https://hund.tty1.se/
   size: 17.8
@@ -3177,8 +3182,3 @@
   url: https://zwbetz.com/
   size: 67.8
   last_checked: 2022-07-20
-
-- domain: hytracer.ink
-  url: https://hytracer.ink
-  size: 316
-  last_checked: 2023-06-28
