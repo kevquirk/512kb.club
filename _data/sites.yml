@@ -2237,6 +2237,12 @@
   size: 355
   last_checked: 2022-02-05
 
+  
+- domain: privacyfreak84.github.io
+  url: http://privacyfreak84.github.io/ 
+  size: 12.9
+  last_checked: 2023-06-28
+
 - domain: probably.co.uk
   url: https://probably.co.uk/
   size: 73.4
@@ -3177,8 +3183,3 @@
   url: https://zwbetz.com/
   size: 67.8
   last_checked: 2022-07-20
-
-- domain: example.com
-  url: http://privacyfreak84.github.io/ 
-  size: 12.9
-  last_checked: 2023-06-28
