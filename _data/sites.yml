@@ -1702,6 +1702,11 @@
   size: 232
   last_checked: 2022-03-28
 
+- domain: log.pfad.fr
+  url: https://log.pfad.fr/
+  size: 6
+  last_checked: 2023-07-06
+
 - domain: loganmarchione.com
   url: https://loganmarchione.com/
   size: 98
