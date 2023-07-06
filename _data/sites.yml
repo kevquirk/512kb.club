@@ -1707,6 +1707,11 @@
   size: 98
   last_checked: 2022-04-15
 
+- domain: log.pfad.fr
+  url: https://log.pfad.fr/
+  size: 6
+  last_checked: 2023-07-06
+
 - domain: luana.cc
   url: https://luana.cc/
   size: 12.4
