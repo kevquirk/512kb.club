@@ -1423,6 +1423,11 @@
   size: 179.0
   last_checked: 2023-01-02
 
+- domain: ig.emnace.org
+  url: https://ig.emnace.org/
+  size: 3.5
+  last_checked: 2023-07-07
+
 - domain: ig.kaki87.net
   url: https://ig.kaki87.net/
   size: 353
