@@ -1996,7 +1996,12 @@
   url: https://nest.jakl.one/
   size: 11.7
   last_checked: 2022-05-15
-
+  
+- domain: neutral.translate.lol
+  url: https://neutral.translate.lol/
+  size: 355
+  last_checked: 2023-07-09
+  
 - domain: news.tatooine.club
   url: https://news.tatooine.club
   size: 31.5
