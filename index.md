@@ -3,9 +3,9 @@ permalink: /
 layout: default
 hasRandomBtn: true
 ---
-The internet has become a <b>bloated mess</b>. Massive JavaScript libraries, countless client-side queries and overly complex frontend frameworks are par for the course these days.
+The internet has become a <b>bloated mess</b>. Huge JavaScript libraries, countless client-side queries and overly complex frontend frameworks are par for the course these days.
 
-When popular website like [The New York Times](https://www.nytimes.com/) are **[over 15MB in size](https://gtmetrix.com/reports/www.nytimes.com/Dz1IEZl0/)** (nearly 50% of which is JavaScript!), you know there's a problem. Why does any site need to be that huge? It's crazy.
+When popular website like [The New York Times](https://www.nytimes.com/) are **[multiple MB in size](/assets/images/nytimes-report.pdf)** (nearly 50% of which is JavaScript!), you know there's a problem. Why does any site need to be that huge? It's crazy.
 
 But we can make a difference - all it takes is some optimisation. Do you really need that extra piece of JavaScript? Does your WordPress site need a theme that adds lots of functionality you're never going to use? Are those huge custom fonts really needed? Are your images optimised for the web?
 
