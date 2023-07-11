@@ -2767,6 +2767,11 @@
   size: 123
   last_checked: 2023-04-19
 
+- domain: theden.sh
+  url: https://theden.sh/
+  size: 132
+  last_checked: 2023-07-11
+
 - domain: thejollyteapot.com
   url: https://thejollyteapot.com/
   size: 3.65
