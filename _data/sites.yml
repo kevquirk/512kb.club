@@ -2997,6 +2997,11 @@
   size: 7.6
   last_checked: 2022-04-26
 
+- domain: v-glb.github.io
+  url: https://v-glb.github.io/
+  size: 88.8
+  last_checked: 2023-07-11
+
 - domain: wayfarers.space
   url: https://wayfarers.space/
   size: 364
