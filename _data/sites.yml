@@ -1577,6 +1577,11 @@
   size: 163
   last_checked: 2022-04-26
 
+  - domain: joshualiu.org
+  url: https://www.joshualiu.org/
+  size: 110
+  last_checked: 2020-07-12
+
 - domain: josias.dev
   url: https://josias.dev/
   size: 38.8
@@ -3197,8 +3202,3 @@
   url: https://zwbetz.com/
   size: 67.8
   last_checked: 2022-07-20
-
-- domain: joshualiu.org
-  url: https://www.joshualiu.org/
-  size: 110
-  last_checked: 2020-07-12
