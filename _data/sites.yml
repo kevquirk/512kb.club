@@ -1692,6 +1692,11 @@
   size: 12.4
   last_checked: 2022-05-06
 
+- domain: lunar.icu
+  url: https://lunar.icu/
+  size: 218
+  last_checked: 2023-07-13 (YYYY-MM-DD)
+
 - domain: lucienbill.fr
   url: https://www.lucienbill.fr
   size: 157
@@ -3112,8 +3117,3 @@
   url: https://zwbetz.com/
   size: 67.8
   last_checked: 2022-07-20
-
-- domain: lunar.icu
-  url: https://lunar.icu/
-  size: 218
-  last_checked: 2023-07-13 (YYYY-MM-DD)
