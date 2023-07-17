@@ -728,6 +728,11 @@
   size: 360
   last_checked: 2022-04-26
 
+- domain: covacha.net.ar
+  url: http://covacha.net.ar/
+  size: 56.1
+  last_checked: 2023-07-17
+
 - domain: cri.cl
   url: https://cri.cl/
   size: 72
