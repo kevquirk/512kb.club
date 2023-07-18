@@ -123,15 +123,15 @@
   size: 13.4
   last_checked: 2023-02-28
 
-- domain: alexmolas.com
-  url: https://www.alexmolas.com
-  size: 230
-  last_checked: 2023-07-18
-
 - domain: alexey.shpakovsky.ru
   url: http://alexey.shpakovsky.ru/
   size: 91.2
   last_checked: 2022-05-15
+
+- domain: alexmolas.com
+  url: https://www.alexmolas.com
+  size: 230
+  last_checked: 2023-07-18
 
 - domain: alfie.wtf
   url: http://www.alfie.wtf
