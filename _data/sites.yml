@@ -128,6 +128,11 @@
   size: 91.2
   last_checked: 2022-05-15
 
+- domain: alexmolas.com
+  url: https://www.alexmolas.com
+  size: 230
+  last_checked: 2023-07-18
+
 - domain: alfie.wtf
   url: http://www.alfie.wtf
   size: 20.4
