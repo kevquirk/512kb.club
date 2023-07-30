@@ -458,6 +458,11 @@
   size: 90.6
   last_checked: 2022-06-03
 
+- domain: blog.plusmid.dev
+  url: https://blog.plusmid.dev
+  size: 50.4
+  last_checked: 2023-07-30
+
 - domain: blog.setale.me
   url: https://blog.setale.me/
   size: 294
