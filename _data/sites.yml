@@ -652,7 +652,7 @@
   url: https://cipirit.netlify.app
   size: 246
   last_checked: 2023-05-21
-  
+
 - domain: citizen428.net
   url: https://citizen428.net/
   size: 22.9
@@ -712,7 +712,7 @@
   url: https://col2in.ml/
   size: 10.8
   last_checked: 2022-06-20
- 
+
 - domain: colincogle.name
   url: https://colincogle.name/
   size: 29.9
@@ -967,7 +967,7 @@
   url: https://www.ecliptik.com/
   size: 120
   last_checked: 2022-03-08
- 
+
 - domain: ecotone.selftitled.de
   url: https://ecotone.selftitled.de/
   size: 451
@@ -1413,6 +1413,11 @@
   size: 17.8
   last_checked: 2022-03-11
 
+- domain: hybras.dev
+  url: https://hybras.dev/
+  size: 302
+  last_checked: 2023-07-28
+
 - domain: hytracer.ink
   url: https://hytracer.ink
   size: 185
@@ -1492,7 +1497,7 @@
   url: https://www.jakobmaier.at
   size: 5.13
   last_checked: 2022-01-29
-  
+
 - domain: jamesgreenblue.com
   url: https://jamesgreenblue.com/
   size: 102
@@ -2026,12 +2031,12 @@
   url: https://nest.jakl.one/
   size: 11.7
   last_checked: 2022-05-15
-  
+
 - domain: neutral.translate.lol
   url: https://neutral.translate.lol/
   size: 355
   last_checked: 2023-07-09
-  
+
 - domain: news.tatooine.club
   url: https://news.tatooine.club
   size: 31.5
@@ -2916,7 +2921,7 @@
   url: https://tradingcode.net/
   size: 33.8
   last_checked: 2022-05-15
-  
+
 - domain: translucide.net
   url: https://translucide.net/
   size: 270
@@ -2941,7 +2946,7 @@
   url: https://tsk.bearblog.dev/
   size: 112
   last_checked: 2022-09-28
-  
+
 - domain: tsukuraku.github.io
   url: https://tsukuraku.github.io/
   size: 354
@@ -3227,7 +3232,7 @@
   url: https://zakrzewski.click
   size: 463
   last_checked: 2023-06-05
-  
+
 - domain: zapisnik.skladka.net
   url: https://zapisnik.skladka.net/
   size: 14.7
