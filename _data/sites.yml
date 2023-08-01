@@ -623,6 +623,11 @@
   size: 5.71
   last_checked: 2023-03-11
 
+- domain: cheziceman.fr
+  url: https://cheziceman.fr/
+  size: 25.6
+  last_checked: 2023-08-01
+
 - domain: chibilinks.com
   url: https://chibilinks.com/
   size: 17.1
@@ -3272,3 +3277,5 @@
   url: https://zwbetz.com/
   size: 67.8
   last_checked: 2022-07-20
+
+
