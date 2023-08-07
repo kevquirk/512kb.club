@@ -3243,6 +3243,11 @@
   size: 124
   last_checked: 2023-04-27
 
+- domain: yulian.kuncheff.com
+  url: https://yulian.kuncheff.com/
+  size: 257
+  last_checked: 2023-08-07
+  
 - domain: yuv.al
   url: https://yuv.al/
   size: 255
