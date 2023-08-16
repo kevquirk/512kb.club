@@ -1493,6 +1493,11 @@
   size: 8.2
   last_checked: 2023-04-29
 
+- domain: itsnothing.net
+  url: https://itsnothing.net/
+  size: 485
+  last_checked: 2023-08-16
+
 - domain: ivyfanchiang.ca
   url: https://ivyfanchiang.ca/
   size: 191
