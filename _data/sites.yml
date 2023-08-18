@@ -418,6 +418,11 @@
   size: 197
   last_checked: 2022-01-29
 
+- domain: blog.darylsun.page
+  url: https://blog.darylsun.page/
+  size: 120
+  last_checked: 2023-08-18
+
 - domain: blog.dejavu.moe
   url: https://blog.dejavu.moe/
   size: 107
