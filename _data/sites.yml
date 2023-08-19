@@ -2177,6 +2177,11 @@
   size: 119
   last_checked: 2022-03-17
 
+- domain: onekiji.com
+  url: https://onekiji.com/
+  size: 13.4
+  last_checked: 2023-08-18
+
 - domain: ononoki.org
   url: https://ononoki.org/
   size: 89.0
