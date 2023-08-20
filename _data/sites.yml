@@ -2732,6 +2732,11 @@
   size: 17.3
   last_checked: 2022-05-06
 
+- domain: simpleshopinglist.com
+  url: https://simpleshopinglist.com/
+  size: 1.45
+  last_checked: 2023-08-20
+
 - domain: slashdev.space
   url: https://slashdev.space/
   size: 400
@@ -3347,5 +3352,4 @@
   url: https://zwbetz.com/
   size: 67.8
   last_checked: 2022-07-20
-
 
