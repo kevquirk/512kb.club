@@ -1210,8 +1210,8 @@
 
 - domain: forgetful.dev
   url: https://forgetful.dev/
-  size: 74.3
-  last_checked: 2023-06-12
+  size: 406
+  last_checked: 2023-08-24
 
 - domain: format-express.dev
   url: https://format-express.dev/
@@ -1956,6 +1956,11 @@
   url: https://midnight.pub/
   size: 9.9
   last_checked: 2022-05-06
+
+- domain: miguelpimentel.do
+  url: https://miguelpimentel.do/
+  size: 88.1
+  last_checked: 2023-08-24
 
 - domain: mikebabb.com
   url: https://mikebabb.com/
