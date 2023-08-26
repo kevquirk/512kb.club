@@ -191,7 +191,7 @@
 - domain: annaaurora.eu
   url: https://annaaurora.eu/
   size: 29.4
-  last_check: 2022-07-20
+  last_checked: 2022-07-20
 
 - domain: anonimno.codeberg.page
   url: https://anonimno.codeberg.page/
@@ -1046,7 +1046,7 @@
 - domain: ekuttan.me
   url: http://ekuttan.me/
   size: 192
-  last_checked: 2022/08/24
+  last_checked: 2022-08-24
 
 - domain: eliakr.github.io
   url: https://eliakr.github.io/moriacalc/thetiki.html
@@ -1660,7 +1660,7 @@
 - domain: jothiprasath.com
   url: https://jothiprasath.com
   size: 376
-  last_check: 2022-07-09
+  last_checked: 2022-07-09
 
 - domain: jouissance.net
   url: https://www.jouissance.net
@@ -2235,7 +2235,7 @@
 - domain: palora.vercel.app
   url: https://palora.vercel.app/
   size: 403
-  last_checked: 2022-7-11
+  last_checked: 2022-07-11
 
 - domain: pantsufan.github.io
   url: https://pantsufan.github.io/
