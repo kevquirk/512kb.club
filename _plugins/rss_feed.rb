@@ -51,7 +51,7 @@ module RSSGenerator
         item.add_element(pub_date)
 
         description = Element.new('description')
-        description.text = "512KB Club: #{website['domain']}"
+        description.text = "#{website['domain']} was added to the 512KB Club, or the entry was updated.\nSize: #{website['size']}"
         item.add_element(description)
       end
 
