@@ -1088,6 +1088,11 @@
   size: 83.9
   last_checked: 2022-11-21
 
+- domain: eportfoliot.redu.fi/eportfoliot/juusokekonen/
+  url: https://eportfoliot.redu.fi/eportfoliot/juusokekonen/
+  size: 317
+  last_checked: 2022-08-29
+  
 - domain: ericgardner.info
   url: https://ericgardner.info/
   size: 73.7
