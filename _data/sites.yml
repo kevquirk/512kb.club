@@ -1428,6 +1428,11 @@
   size: 446
   last_checked: 2022-04-05
 
+- domain: httpguides.com
+  url: https://httpguides.com
+  size: 10.4
+  last_checked: 2023-08-30
+
 - domain: hugo-mechiche.com
   url: https://hugo-mechiche.com/
   size: 55.2
