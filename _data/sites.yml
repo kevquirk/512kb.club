@@ -898,11 +898,6 @@
   size: 150
   last_checked: 2023-08-17
 
-- domain: drgomesp.dev
-  url: https://drgomesp.dev/
-  size: 112
-  last_checked: 2022-05-15
-
 - domain: drkhsh.at
   url: https://drkhsh.at/
   size: 61.0
@@ -1058,21 +1053,6 @@
   size: 6.5
   last_checked: 2022-05-05
 
-- domain: error434.xyz
-  url: https://error434.xyz/
-  size: 447
-  last_checked: 2022-07-08
-
-- domain: ersei.saggis.com
-  url: https://ersei.saggis.com/
-  size: 67.7
-  last_checked: 2022-01-29
-
-- domain: esmailelbob.xyz
-  url: https://en.esmailelbob.xyz/
-  size: 34.3
-  last_checked: 2022-08-02
-
 - domain: esta.la
   url: https://esta.la/
   size: 471
@@ -1122,11 +1102,6 @@
   url: https://fdisk.space/
   size: 11.5
   last_checked: 2022-05-05
-
-- domain: federateme.nymbus.xyz
-  url: https://federateme.nymbus.xyz/
-  size: 197
-  last_checked: 2022-05-15
 
 - domain: federicoleva.eu
   url: https://federicoleva.eu/
@@ -1189,11 +1164,6 @@
   last_checked: 2022-04-26
 
 - domain: freebee.fun
-  url: https://frano.ga/
-  size: 465.0
-  last_checked: 2023-05-07
-
-- domain: freebee.fun
   url: https://freebee.fun/play/
   size: 36.0
   last_checked: 2022-05-06
@@ -1204,7 +1174,7 @@
   last_checked: 2022-05-15
 
 - domain: fullbl.it
-  url: https//fullbl.it
+  url: https://fullbl.it
   size: 12.1
   last_checked: 2022-11-02
 
@@ -1343,11 +1313,6 @@
   size: 435
   last_checked: 2023-02-18
 
-- domain: heavymetalmusic.reviews
-  url: https://heavymetalmusic.reviews/
-  size: 21.8
-  last_checked: 2022-04-29
-
 - domain: her.esy.fun
   url: https://her.esy.fun/
   size: 24.3
@@ -1432,11 +1397,6 @@
   url: https://ibra.github.io/
   size: 194.0
   last_checked: 2022-04-21
-
-- domain: ichi.do
-  url: https://ichi.do/?theme=plain
-  size: 179.0
-  last_checked: 2023-01-02
 
 - domain: ig.emnace.org
   url: https://ig.emnace.org/
@@ -1726,11 +1686,6 @@
   url: https://lectupedia.com/
   size: 42.3
   last_checked: 2022-05-06
-
-- domain: lexicon.ga
-  url: https://lexicon.ga/
-  size: 314
-  last_checked: 2022-04-26
 
 - domain: lichess.org
   url: https://lichess.org/
@@ -2047,11 +2002,6 @@
   size: 11.7
   last_checked: 2022-05-15
 
-- domain: neutral.translate.lol
-  url: https://neutral.translate.lol/
-  size: 355
-  last_checked: 2023-07-09
-
 - domain: news.tatooine.club
   url: https://news.tatooine.club
   size: 31.5
@@ -2176,11 +2126,6 @@
   url: https://otgt.us.eu.org/
   size: 70.7
   last_checked: 2022-04-11
-
-- domain: overlisted.net
-  url: https://overlisted.net/
-  size: 132
-  last_checked: 2022-11-12
 
 - domain: paheko.cloud
   url: https://paheko.cloud/
@@ -2592,11 +2537,6 @@
   size: 21.7
   last_checked: 2022-04-26
 
-- domain: saleve.cf
-  url: https://saleve.cf/
-  size: 437
-  last_checked: 2022-05-25
-
 - domain: salixos.org
   url: https://salixos.org/
   size: 85.8
@@ -2722,11 +2662,6 @@
   size: 400
   last_checked: 2022-04-26
 
-- domain: slitdecision.com
-  url: https://slitdecision.com/
-  size: 29.9
-  last_checked: 2022-02-21
-
 - domain: sm6kne.amprnet.se
   url: https://sm6kne.amprnet.se/
   size: 8.9
@@ -2746,11 +2681,6 @@
   url: https://solar.milangaelectronica.com.ar/
   size: 67.6
   last_checked: 2022-10-31
-
-- domain: solfisher.com
-  url: https://solfisher.com/
-  size: 13.0
-  last_checked: 2022-05-06
 
 - domain: sousali.com
   url: https://sousali.com/
@@ -2797,20 +2727,10 @@
   size: 188
   last_checked: 2022-04-26
 
-- domain: stilic.ml
-  url: https://stilic.ml/
-  size: 73.6
-  last_checked: 2022-05-05
-
 - domain: sudoedit.com
   url: https://sudoedit.com/
   size: 317
   last_checked: 2022-04-29
-
-- domain: sulairris.com
-  url: https://sulairris.com/
-  size: 181
-  last_checked: 2022-10-04
 
 - domain: support.tfwnogf.nl
   url: https://support.tfwnogf.nl
@@ -2867,11 +2787,6 @@
   size: 53.3
   last_checked: 2022-04-26
 
-- domain: theblapse.me
-  url: https://theblapse.me/
-  size: 123
-  last_checked: 2023-04-19
-
 - domain: theden.sh
   url: https://theden.sh/
   size: 132
@@ -2896,11 +2811,6 @@
   url: https://thewebisfucked.com
   size: 135
   last_checked: 2022-05-06
-
-- domain: thewismit.com
-  url: https://thewismit.com/
-  size: 19.1
-  last_checked: 2022-05-13
 
 - domain: thomas.me
   url: https://thomas.me/
@@ -2991,11 +2901,6 @@
   url: https://troylusty.com/
   size: 7.49
   last_checked: 2022-12-03
-
-- domain: tryhexadecimal.com
-  url: https://tryhexadecimal.com/
-  size: 34.7
-  last_checked: 2022-04-26
 
 - domain: tsk.bearblog.dev
   url: https://tsk.bearblog.dev/
@@ -3173,11 +3078,6 @@
   size: 18.3
   last_checked: 2022-08-28
 
-- domain: wiseweb.works
-  url: https://wiseweb.works/
-  size: 44.5
-  last_checked: 2022-04-26
-
 - domain: wolfgang.lol
   url: https://wolfgang.lol/
   size: 335
@@ -3242,11 +3142,6 @@
   url: https://yaroslav-i.ru/
   size: 475
   last_checked: 2022-05-15
-
-- domain: yaslamblog.netlify.app
-  url: https://yaslamblog.netlify.app/
-  size: 131
-  last_checked: 2023-03-02
 
 - domain: yne.fr
   url: https://yne.fr/
