@@ -4,5 +4,8 @@
 - name: FAQ
   link: /faq
 
+- name: RSS
+  link: /feed.xml
+
 - name: GitHub
   link: https://github.com/kevquirk/512kb.club
