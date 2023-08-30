@@ -2352,6 +2352,11 @@
   size: 339
   last_checked: 2022-04-26
 
+- domain: popov.link
+  url: https://popov.link/
+  size: 11.5
+  last_checked: 2023-08-30
+
 - domain: port53.me
   url: https://port53.me/
   size: 42.6
