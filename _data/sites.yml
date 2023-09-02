@@ -358,6 +358,11 @@
   size: 123
   last_checked: 2022-08-31
 
+- domain: bleach.dev
+  url: https://bleach.dev/
+  size: 179
+  last_checked: 2023-09-02
+
 - domain: block.sunappu.net
   url: https://block.sunappu.net/
   size: 193
