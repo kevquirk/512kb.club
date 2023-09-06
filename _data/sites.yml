@@ -2502,6 +2502,11 @@
   size: 10
   last_checked: 2022-11-14
 
+- domain: rollc.at
+  url: https://www.rollc.at/
+  size: 10.3
+  last_checked: 2023-09-06
+
 - domain: roly.neocities.org
   url: https://roly.neocities.org/
   size: 158
