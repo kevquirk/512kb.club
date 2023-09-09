@@ -1042,7 +1042,7 @@
   url: https://eportfoliot.redu.fi/eportfoliot/juusokekonen/
   size: 317
   last_checked: 2022-08-29
-  
+
 - domain: ericgardner.info
   url: https://ericgardner.info/
   size: 73.7
@@ -1631,6 +1631,11 @@
   url: https://kidl.at/
   size: 11.5
   last_checked: 2022-05-15
+
+- domain: kimchiii.space
+  url: https://kimchiii.space/
+  size: 483
+  last_checked: 2023-09-08
 
 - domain: kinduff.com
   url: https://kinduff.com/
