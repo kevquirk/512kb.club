@@ -983,6 +983,11 @@
   size: 13.1
   last_checked: 2023-05-02
 
+- domain: eilles.xyz
+  url: https://eilles.xyz/
+  size: 2.6
+  last_checked: 2023-09-14
+
 - domain: eink.link
   url: https://eink.link/
   size: 7.5
