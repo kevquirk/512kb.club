@@ -1667,6 +1667,11 @@
   size: 197
   last_checked: 2022-03-12
 
+- domain: konstantintutsch.de
+  url: https://konstantintutsch.de/
+  size: 73.7
+  last_checked: 2023-09-16
+
 - domain: kraktoos.com
   url: https://kraktoos.com/
   size: 23.8
@@ -2656,7 +2661,7 @@
   url: https://shayanaqvi.github.io/
   size: 299
   last_checked: 2023-09-16
-  
+
 - domain: sheepdev.xyz
   url: https://sheepdev.xyz
   size: 105
