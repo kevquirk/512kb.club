@@ -723,6 +723,11 @@
   size: 5.3
   last_checked: 2022-04-26
 
+- domain: contest-hive.vercel.app
+  url: https://contest-hive.vercel.app/
+  size: 13.4
+  last_checked: 2023-09-05
+
 - domain: control.org
   url: https://control.org/
   size: 154
