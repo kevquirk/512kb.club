@@ -363,6 +363,11 @@
   size: 179
   last_checked: 2023-09-02
 
+- domain: blebon.com
+  url: https://blebon.com/
+  size: 65.1
+  last_checked: 2023-10-08
+
 - domain: block.sunappu.net
   url: https://block.sunappu.net/
   size: 193
