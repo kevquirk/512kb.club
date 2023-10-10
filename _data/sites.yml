@@ -1897,6 +1897,11 @@
   size: 485
   last_checked: 2022-05-06
 
+- domain: mccd.space
+  url: https://mccd.space
+  size: 2.4
+  last_checked: 2023-10-10
+
 - domain: mck.is
   url: https://mck.is/
   size: 47.9
@@ -3336,3 +3341,4 @@
   url: https://zwbetz.com/
   size: 67.8
   last_checked: 2022-07-20
+
