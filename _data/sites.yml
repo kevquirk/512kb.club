@@ -1,8 +1,3 @@
-- domain: libreivan.com
-  url: http://libreivan.com/
-  size: 26.1
-  last_checked: 2023-11-01
-
 - domain: 0chris.com
   url: https://www.0chris.com/
   size: 4.3
@@ -1761,6 +1756,11 @@
   url: https://lectupedia.com/
   size: 42.3
   last_checked: 2022-05-06
+
+- domain: libreivan.com
+  url: http://libreivan.com/
+  size: 26.1
+  last_checked: 2023-11-01
 
 - domain: lichess.org
   url: https://lichess.org/
