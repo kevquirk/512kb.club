@@ -1548,6 +1548,11 @@
   size: 72.5
   last_checked: 2022-01-29
 
+- domain: jdrm.info
+  url: https://jdrm.info
+  size: 309
+  last_checked: 2023-11-03
+  
 - domain: jds.work
   url: https://jds.work/
   size: 47.0
