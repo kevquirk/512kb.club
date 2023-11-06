@@ -33,6 +33,11 @@
   size: 59.6
   last_checked: 2022-05-06
 
+- domain: 2600.madrid
+  url: https://2600.madrid
+  size: 1.64
+  last_checked: 2023-11-06
+  
 - domain: 46692.dev
   url: https://46692.dev/
   size: 8.9
@@ -1427,7 +1432,12 @@
   url: https://hund.tty1.se/
   size: 17.8
   last_checked: 2022-03-11
-
+  
+- domain: hispagatos.org
+  url: https://hispagatos.org
+  size: 256
+  last_checked: 2023-11-06
+  
 - domain: hybras.dev
   url: https://hybras.dev/
   size: 302
@@ -1676,6 +1686,11 @@
   url: https://jundimubarok.com/
   size: 58.8
   last_checked: 2022-05-05
+
+- domain: rek2.hispagatos.org
+  url: https://rek2.hispagatos.org
+  size: 2.21
+  last_checked: 2023-11-06
 
 - domain: kaki87.net
   url: https://kaki87.net/
@@ -3406,18 +3421,3 @@
   url: https://zwbetz.com/
   size: 67.8
   last_checked: 2022-07-20
-  
-- domain: hispagatos.org
-  url: https://hispagatos.org
-  size: 256
-  last_checked: 2023-11-06
-  
-- domain: 2600.madrid
-  url: https://2600.madrid
-  size: 1.64
-  last_checked: 2023-11-06
-
-- domain: rek2.hispagatos.org
-  url: https://rek2.hispagatos.org
-  size: 2.21
-  last_checked: 2023-11-06
