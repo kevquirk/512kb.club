@@ -2827,6 +2827,11 @@
   size: 16.7
   last_checked: 2023-08-15
 
+- domain: social.blogpocket.com
+  url: https://social.blogpocket.com/
+  size: 103
+  last_checked: 2023-11-06
+
 - domain: soeren.codes
   url: https://soeren.codes/
   size: 10.0
