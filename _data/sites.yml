@@ -1392,6 +1392,11 @@
   url: https://hjr265.me/
   size: 111
   last_checked: 2022-11-24
+  
+- domain: hispagatos.org
+  url: https://hispagatos.org
+  size: 256
+  last_checked: 2023-11-06
 
 - domain: hobospider132.github.io
   url: https://hobospider132.github.io/
@@ -1432,11 +1437,6 @@
   url: https://hund.tty1.se/
   size: 17.8
   last_checked: 2022-03-11
-  
-- domain: hispagatos.org
-  url: https://hispagatos.org
-  size: 256
-  last_checked: 2023-11-06
   
 - domain: hybras.dev
   url: https://hybras.dev/
