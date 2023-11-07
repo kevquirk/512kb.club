@@ -35,9 +35,9 @@
 
 - domain: 2600.madrid
   url: https://2600.madrid
-  size: 1.64
+  size: 4.97
   last_checked: 2023-11-06
-  
+
 - domain: 46692.dev
   url: https://46692.dev/
   size: 8.9
@@ -1387,10 +1387,10 @@
   url: https://herman.bearblog.dev/
   size: 6.5
   last_checked: 2022-09-12
-  
+
 - domain: hispagatos.org
   url: https://hispagatos.org
-  size: 256
+  size: 405
   last_checked: 2023-11-06
 
 - domain: hjr265.me
@@ -1437,7 +1437,7 @@
   url: https://hund.tty1.se/
   size: 17.8
   last_checked: 2022-03-11
-  
+
 - domain: hybras.dev
   url: https://hybras.dev/
   size: 302
@@ -1572,7 +1572,7 @@
   url: https://jdrm.info
   size: 309
   last_checked: 2023-11-03
-  
+
 - domain: jds.work
   url: https://jds.work/
   size: 47.0
@@ -1686,7 +1686,7 @@
   url: https://jundimubarok.com/
   size: 58.8
   last_checked: 2022-05-05
-  
+
 - domain: kaki87.net
   url: https://kaki87.net/
   size: 346
@@ -1871,12 +1871,12 @@
   url: https://madelinepritchard.net/
   size: 144
   last_checked: 2022-10-14
-  
+
 - domain: maestrapaladin.es
   url: https://maestrapaladin.es/
   size: 6.6
   last_checked: 2023-11-05
-  
+
 - domain: magicznylas.pl
   url: https://www.magicznylas.pl/
   size: 42.1
@@ -2549,9 +2549,9 @@
 
 - domain: rek2.hispagatos.org
   url: https://rek2.hispagatos.org
-  size: 2.21
+  size: 7.93
   last_checked: 2023-11-06
-  
+
 - domain: reorx.com
   url: https://reorx.com/
   size: 123
@@ -2561,6 +2561,7 @@
   url: https://revuo-xmr.com/
   size: 444
   last_checked: 2022-04-10
+
 - domain: rezhajul.io
   url: https://rezhajul.io/
   size: 28.4
@@ -3115,12 +3116,12 @@
   url: https://txt.fabio.com.ar/
   size: 312
   last_checked: 2023-04-19
-  
+
 - domain: tyron.alwaysdata.net
   url: https://tyron.alwaysdata.net/
   size: 157
   last_checked: 2023-11-05
-  
+
 - domain: unindented.org
   url: https://www.unindented.org/
   size: 105
