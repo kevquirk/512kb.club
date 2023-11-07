@@ -33,6 +33,11 @@
   size: 59.6
   last_checked: 2022-05-06
 
+- domain: 2600.madrid
+  url: https://2600.madrid
+  size: 4.97
+  last_checked: 2023-11-06
+
 - domain: 46692.dev
   url: https://46692.dev/
   size: 8.9
@@ -1383,6 +1388,11 @@
   size: 6.5
   last_checked: 2022-09-12
 
+- domain: hispagatos.org
+  url: https://hispagatos.org
+  size: 405
+  last_checked: 2023-11-06
+
 - domain: hjr265.me
   url: https://hjr265.me/
   size: 111
@@ -1562,7 +1572,7 @@
   url: https://jdrm.info
   size: 309
   last_checked: 2023-11-03
-  
+
 - domain: jds.work
   url: https://jds.work/
   size: 47.0
@@ -1866,12 +1876,12 @@
   url: https://madelinepritchard.net/
   size: 144
   last_checked: 2022-10-14
-  
+
 - domain: maestrapaladin.es
   url: https://maestrapaladin.es/
   size: 6.6
   last_checked: 2023-11-05
-  
+
 - domain: magicznylas.pl
   url: https://www.magicznylas.pl/
   size: 42.1
@@ -2542,6 +2552,11 @@
   size: 32.1
   last_checked: 2022-09-18
 
+- domain: rek2.hispagatos.org
+  url: https://rek2.hispagatos.org
+  size: 7.93
+  last_checked: 2023-11-06
+
 - domain: reorx.com
   url: https://reorx.com/
   size: 123
@@ -3106,12 +3121,12 @@
   url: https://txt.fabio.com.ar/
   size: 312
   last_checked: 2023-04-19
-  
+
 - domain: tyron.alwaysdata.net
   url: https://tyron.alwaysdata.net/
   size: 157
   last_checked: 2023-11-05
-  
+
 - domain: unindented.org
   url: https://www.unindented.org/
   size: 105
