@@ -37,7 +37,7 @@ But we can make a difference - all it takes is some optimisation. Do you really 
   last_checked:
 ```
 
-**NOTE:** Site need to be added to the list in **alphabetical order**, so please make sure your site is in the correct place within the list, or your PR will be rejected.
+**NOTE:** Entries are automatically sorted by domain name. Please add your site to the list without worrying about the alphabetical order. Our continuous integration process will handle the sorting for you. Just ensure that the details for your site are correctly formatted as per the existing entries.
 
 ## Automation of site size check
 
