@@ -2543,6 +2543,11 @@
   size: 72.1
   last_checked: 2022-03-25
 
+- domain: rb.ax
+  url: https://rb.ax/
+  size: 5.51
+  last_checked: 2023-11-10
+  
 - domain: rectangles.app
   url: https://rectangles.app/
   size: 6.93
