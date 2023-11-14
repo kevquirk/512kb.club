@@ -2948,6 +2948,11 @@
   size: 32.6
   last_checked: 2022-05-15
 
+- domain: tast.fi
+  url: https://www.tast.fi/
+  size: 23.9
+  last_checked: 2023-11-14
+
 - domain: taylantatli.com
   url: https://taylantatli.com/
   size: 155
