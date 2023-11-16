@@ -2923,8 +2923,8 @@
   size: 188
   last_checked: 2022-04-26
 
-- domain: sudocss.com
-  url: https://sudocss.com/
+- domain: sudocss.vercel.app
+  url: https://sudocss.vercel.app/
   size: 108
   last_checked: 2023-08-31
 
