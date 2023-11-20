@@ -68,6 +68,11 @@
   size: 204
   last_checked: 2022-03-22
 
+- domain: ARC-X.org
+  url: https://ARC-X.org/
+  size: 14.7
+  last_checked: 2023-11-15
+
 - domain: aaron.place
   url: https://aaron.place/
   size: 21.9
@@ -3462,8 +3467,3 @@
   url: https://zwbetz.com/
   size: 67.8
   last_checked: 2022-07-20
-
-- domain: ARC-X.org
-  url: https://ARC-X.org/
-  size: 14.7
-  last_checked: 2023-11-15
