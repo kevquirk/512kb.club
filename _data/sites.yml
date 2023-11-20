@@ -1373,6 +1373,11 @@
   size: 26.6
   last_checked: 2022-10-08
 
+- domain: hans.gerwitz.com
+  url: https://hans.gerwitz.com
+  size: 347
+  last_checked: 2023-11-20
+
 - domain: hashtagueule.fr
   url: https://hashtagueule.fr
   size: 59.5
