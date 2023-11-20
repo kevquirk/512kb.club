@@ -533,6 +533,11 @@
   size: 33.7
   last_checked: 2022-03-14
 
+- domain: brunofontes.net
+  url: https://brunofontes.net/
+  size: 271
+  last_checked: 2023-11-12
+
 - domain: brycewray.com
   url: https://www.brycewray.com/
   size: 103.0
@@ -3447,8 +3452,3 @@
   url: https://zwbetz.com/
   size: 67.8
   last_checked: 2022-07-20
-
-- domain: brunofontes.net
-  url: https://brunofontes.net/
-  size: 271
-  last_checked: 2023-11-12
