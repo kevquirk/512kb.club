@@ -1,8 +1,3 @@
-- domain: wonger.dev
-  url: https://wonger.dev/
-  size: 49.4
-  last_checked: 2023-11-24
-  
 - domain: 0chris.com
   url: https://www.0chris.com/
   size: 4.3
@@ -3332,6 +3327,11 @@
   url: https://wolfgang.lol/
   size: 335
   last_checked: 2022-04-26
+
+- domain: wonger.dev
+  url: https://wonger.dev/
+  size: 49.4
+  last_checked: 2023-11-24
 
 - domain: wor.do
   url: https://wor.do/
