@@ -1228,6 +1228,11 @@
   size: 29.9
   last_checked: 2022-04-26
 
+- domain: flavigula.net
+  url: https://flavigula.net/
+  size: 296
+  last_checked: 2023-12-02
+
 - domain: fmartingr.com
   url: https://fmartingr.com
   size: 143
@@ -3487,8 +3492,3 @@
   url: https://zwbetz.com/
   size: 67.8
   last_checked: 2022-07-20
-
-- domain: flavigula.net
-  url: https://flavigula.net/
-  size: 296
-  last_checked: 2023-12-02
