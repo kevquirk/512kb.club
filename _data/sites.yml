@@ -228,6 +228,11 @@
   size: 451
   last_checked: 2022-03-20
 
+- domain: ari.lt
+  url: https://ari.lt/
+  size: 88.6
+  last_checked: 2023-12-17
+
 - domain: arizonabankruptcylawyer.org
   url: https://www.arizonabankruptcylawyer.org/
   size: 478
@@ -247,11 +252,6 @@
   url: https://artemislena.eu/
   size: 40.0
   last_checked: 2022-05-15
-
-- domain: ari.lt
-  url: https://ari.lt/
-  size: 88.6
-  last_checked: 2023-12-17
 
 - domain: aryan.app
   url: https://aryan.app/
