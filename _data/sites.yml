@@ -238,6 +238,11 @@
   size: 478
   last_checked: 2022-08-04
 
+- domain: arkensys.dedyn.io
+  url: https://arkensys.dedyn.io
+  size: 23.7
+  last_checked: 2023-12-11
+
 - domain: arkives.in
   url: https://arkives.in/
   size: 61.9
@@ -3507,8 +3512,3 @@
   url: https://zwbetz.com/
   size: 67.8
   last_checked: 2022-07-20
-
-- domain: arkensys.dedyn.io
-  url: https://arkensys.dedyn.io
-  size: 23.7
-  last_checked: 2023-12-11
