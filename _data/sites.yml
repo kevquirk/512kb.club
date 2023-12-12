@@ -408,6 +408,11 @@
   size: 65.1
   last_checked: 2023-10-08
 
+- domain: blitzw.in
+  url: https://www.blitzw.in
+  size: 21
+  last_checked: 2023-12-11
+
 - domain: block.sunappu.net
   url: https://block.sunappu.net/
   size: 193
@@ -3512,8 +3517,3 @@
   url: https://zwbetz.com/
   size: 67.8
   last_checked: 2022-07-20
-
-- domain: blitzw.in
-  url: https://www.blitzw.in
-  size: 21
-  last_checked: 2023-12-11
