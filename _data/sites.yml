@@ -488,6 +488,11 @@
   size: 90.6
   last_checked: 2022-06-03
 
+- domain: blog.plr.moe
+  url: https://blog.plr.moe/
+  size: 498
+  last_checked: 2023-12-16
+
 - domain: blog.plusmid.dev
   url: https://blog.plusmid.dev
   size: 50.4
@@ -3517,8 +3522,3 @@
   url: https://zwbetz.com/
   size: 67.8
   last_checked: 2022-07-20
-
-- domain: blog.plr.moe
-  url: https://blog.plr.moe/
-  size: 498
-  last_checked: 2023-12-16
