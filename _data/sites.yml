@@ -478,6 +478,11 @@
   size: 103
   last_checked: 2022-08-31
 
+- domain: blog.muzzug.com
+  url: https://blog.muzzug.com/
+  size: 63.9
+  last_checked: 2023-12-17
+
 - domain: blog.omgmog.net
   url: https://blog.omgmog.net/
   size: 85.1
