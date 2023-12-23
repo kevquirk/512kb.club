@@ -3403,6 +3403,11 @@
   size: 35.4
   last_checked: 2022-11-24
 
+- domain: www.nmichaels.org
+  url: https://www.nmichaels.org
+  size: 6.45
+  last_checked: 2023-12-22
+
 - domain: xameren.repl.co
   url: https://xameren.repl.co/
   size: 56.6
@@ -3537,8 +3542,3 @@
   url: https://zwbetz.com/
   size: 67.8
   last_checked: 2022-07-20
-
-- domain: www.nmichaels.org
-  url: https://www.nmichaels.org
-  size: 6.45
-  last_checked: 2023-12-22
