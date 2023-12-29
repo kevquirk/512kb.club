@@ -823,6 +823,11 @@
   size: 360
   last_checked: 2022-04-26
 
+- domain: creme.envs.net
+  url: https://creme.envs.net/
+  size: 221
+  last_checked: 2023-12-29
+
 - domain: cri.dev
   url: https://cri.dev/
   size: 30.2
@@ -1147,6 +1152,11 @@
   url: https://enesergun.net
   size: 38.7
   last_checked: 2023-10-27
+
+- domain: envs.net
+  url: https://envs.net
+  size: 216
+  last_checked: 2023-12-29
 
 - domain: eportfoliot.redu.fi/eportfoliot/juusokekonen/
   url: https://eportfoliot.redu.fi/eportfoliot/juusokekonen/
