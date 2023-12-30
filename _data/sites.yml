@@ -2192,11 +2192,6 @@
   url: https://na20a.neocities.org/
   size: 9.8
   last_checked: 2022-04-26
-  
-- domain: nthp.me
-  url: https://nthp.me
-  size: 92.9
-  last_checked: 2023-12-29
 
 - domain: nayuki.io
   url: https://www.nayuki.io/
@@ -2302,6 +2297,11 @@
   url: https://noulin.net/blog
   size: 22.2
   last_checked: 2022-05-15
+
+- domain: nthp.me
+  url: https://nthp.me
+  size: 92.9
+  last_checked: 2023-12-29
 
 - domain: obviy.us
   url: https://obviy.us/
