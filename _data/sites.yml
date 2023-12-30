@@ -443,6 +443,11 @@
   size: 31.1
   last_checked: 2022-05-13
 
+- domain: blog.cloudti.de
+  url: https://blog.cloudti.de
+  size: 467
+  last_checked: 2023-12-30
+
 - domain: blog.cosipa.omg.lol
   url: https://blog.cosipa.omg.lol
   size: 30.4
@@ -2387,11 +2392,6 @@
   url: https://paritybit.ca/
   size: 8.4
   last_checked: 2022-05-06
-
-- domain: blog.cloudti.de
-  url: https://blog.cloudti.de
-  size: 467
-  last_checked: 2023-12-30
 
 - domain: patrickwu.space
   url: https://patrickwu.space/
