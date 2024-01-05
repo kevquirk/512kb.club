@@ -14,11 +14,11 @@ But we can make a difference - all it takes is some optimisation. Do you really 
 ## How to create a PR to add your site to the 512KB Club
 
 1. Fork this repository.
-2. Get the **UNCOMPRESSED** size of your website's homepage.
-    1. Do a <a target="_blank" href="https://gtmetrix.com">GTMetrix scan</a> on your website.
-    2. Once complete, click on the **Waterfall** tab to make sure the **uncompressed** size of your site is less than 512KB.
+2. Get the size of your website's homepage.
+    1. Do a <a target="_blank" href="https://radar.cloudflare.com/scan">Cloudflare URL Scan</a> on your website.
+    2. Once complete, check the "Bytes Total" stat in the "Network" card to make sure the **uncompressed** size of your site is less than 512KB.
 3. Navigate to [`_data/sites.yml`](./_data/sites.yml) and add your site (template below).
-4.  **When creating the PR, please include a link to the GT Metrix results in the PR comment.**
+4.  **When creating the PR, please include a link to the Cloudflare scan results in the PR description.**
 
 ### Site template
 
@@ -38,7 +38,3 @@ But we can make a difference - all it takes is some optimisation. Do you really 
 ```
 
 **NOTE:** Entries are automatically sorted by domain name. Please add your site to the list without worrying about the alphabetical order. Our continuous integration process will handle the sorting for you. Just ensure that the details for your site are correctly formatted as per the existing entries.
-
-## Automation of site size check
-
-You can find [instructions](scripts/docs_site_size_rechecker.md) on how to get the GTmetrix size using a script in the [scripts](scripts/) folder

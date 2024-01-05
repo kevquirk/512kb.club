@@ -1,5 +1,7 @@
 # Site Size Rechecker Script Documentation
 
+> **🚨 IMPORTANT 🚨**: This document is out of date, as we're no longer using GTMetrix. We since migrated to Cloudflare. More information can be found [here](https://github.com/kevquirk/512kb.club/issues/1366).
+
 ## Purpose
 The main purpose of `site_size_rechecker.py` script is to automate the checking of older sites that are listed in the 512kb.club and ensuring that the size is updated.
 
