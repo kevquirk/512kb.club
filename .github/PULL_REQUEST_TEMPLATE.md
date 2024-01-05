@@ -18,7 +18,7 @@ This PR is:
 -->
 
 - [ ] I used the uncompressed size of the site
-- [ ] I have included a link to the GTMetrix report
+- [ ] I have included a link to the Cloudflare report
 - [ ] This site is not an ultra lightweight site
 - [ ] The following information is filled identical to the data file
 
@@ -33,4 +33,4 @@ This PR is:
   last_checked:
 ```
 
-GTMetrix Report: 
+Cloudflare Report: 
