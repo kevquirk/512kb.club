@@ -6,13 +6,13 @@
 import datetime
 import os
 import sys
+import requests
+import time
 
 # create a file myauth.py with details of your gtmetrix account, like this:
 # email='email@example.com'
 # api_key='96bcab1060d838723701010387159086'
 import myauth
-# https://github.com/aisayko/python-gtmetrix
-from gtmetrix import *
 # https://pypi.org/project/ruamel.yaml/
 from ruamel.yaml import YAML
 
@@ -20,26 +20,57 @@ def summarizeHar(har):
     """Given a har file (parsed json object), returns total size of all responses, in bytes."""
     return sum((entry["response"]["content"]["size"] for entry in har["log"]["entries"]))
 
+def request_URL_scan(URL_to_scan):
+    cloudflare_scan_request_url = "https://api.cloudflare.com/client/v4/accounts/" + myauth.cloudflare_accountId + "/urlscanner/scan" # https://api.cloudflare.com/client/v4/accounts/{accountId}/urlscanner/scan
+    payload = "{\"url\": \" " + URL_to_scan + " \"}"
+    headers = {
+        "Content-Type": "application/json",
+        "Authorization": "Bearer " + myauth.cloudflare_API_TOKEN
+    }
+    response = requests.request("POST", cloudflare_scan_request_url, headers=headers, data=payload)
+    response_JSON = response.json()
+    if response_JSON["success"] == True: 
+        if response_JSON["messages"][0]["message"] == "Submission successful": return response_JSON["result"]["uuid"]
+        elif response_JSON["messages"][0]["message"] == "Submission unsuccessful: website was recently scanned": return response_JSON["result"]["tasks"][0]["uuid"]
+        else: return "error"
+    else: return "error"
+
+def get_URL_scan_har(scan_uuid, retry_attempts=2):
+    time.sleep(20)
+    cloudflare_scan_har_url = "https://api.cloudflare.com/client/v4/accounts/" + myauth.cloudflare_accountId + "/urlscanner/scan/" + scan_uuid + "/har" #https://api.cloudflare.com/client/v4/accounts/{accountId}/urlscanner/scan/{scanId}/har
+    headers = {
+        "Content-Type": "application/json",
+        "Authorization": "Bearer " + myauth.cloudflare_API_TOKEN
+    }
+    response = requests.request("GET", cloudflare_scan_har_url, headers=headers)
+    response_JSON = response.json()
+    if response_JSON["success"] == False: return "error"
+    if len(response_JSON["result"]) > 0: return response_JSON["result"]["har"]
+    if retry_attempts > 0: return get_URL_scan_har(scan_uuid, retry_attempts-1)
+    return "error"
+
 def countPageBytes(url):
-    """Submits URL to gtmetrix, waits for analysis to complete, and returns dict of:
-      {'kb': size in kilobytes rounded according to gtmetrix standard,
-       'url': link to gtmetrix report (human-readable webpage)
+    """Submits URL to Cloudflare URL Scanner, waits for analysis to complete, and returns dict of:
+      {'kb': size in kilobytes rounded according to Cloudflare standard,
+       'url': link to Cloudflare report (human-readable webpage)
       }"""
-    # TODO: error checking in the following 4 lines
-    my_test = gt.start_test(url)
-    result = my_test.fetch_results(0)
-    har = my_test._request(my_test.har)
-    size = summarizeHar(har)/1024
+    scan_uuid = request_URL_scan(url)
+    if scan_uuid == "error": return {'kb': 1000, 'url': 'error'}
+    scan_har = get_URL_scan_har(scan_uuid)
+    if scan_har == "error": return {'kb': 1000, 'url': 'error'}
+    size = summarizeHar(scan_har)/1000 #Cloudflare uses 1000 vs GTMetrix which uses 1024
     if size<100:
         size = round(size,1)
     else:
         size = round(size)
-    return {'kb': size, 'url':result['results']['report_url']}
+    return {'kb': size, 'url': "https://radar.cloudflare.com/scan/" + scan_uuid + "/summary"}
 
 def sizeToTeam(size):
     """Given a size in kilobytes, returns the 512kb.club team (green/orange/blue),
        or "N/A" if size is too big for 512kb.club"""
-    if size<100:
+    if size==0:
+        return "N/A"
+    elif size<100:
         return "green"
     elif size<250:
         return "orange"
@@ -62,17 +93,11 @@ def main():
     yaml.default_flow_style = False
     sites = yaml.load(open(filename,'r'))
 
-    global gt
-    # workaround to allow "+" symbol in email
-    # see also https://github.com/aisayko/python-gtmetrix/pull/18
-    gt = GTmetrixInterface('a@b.cd','123')
-    gt.auth=(myauth.email, myauth.api_key)
-
     # number of sites left to check
     left = int(sys.argv[2])
 
-    print("Site | old size (team) | new size (team) | delta (%) | GTMetrix | note")
-    print("---- | --------------- | --------------- | --------- | -------- | ----")
+    print("Site | old size (team) | new size (team) | delta (%) | Cloudflare | note")
+    print("---- | --------------- | --------------- | --------- | ---------- | ----")
 
     while left > 0:
         # find minimum (earliest) last_checked date
@@ -103,7 +128,7 @@ def main():
         if newsize>512:
             note = "too big for 512kb.club!!!"
         # print the second half of the row
-        print(f"%.1fkb (%s) | %+.1fkb (%+d) | [report](%s#waterfall) | %s" % (newsize, newteam, delta, size_diff, result['url'], note))
+        print(f"%.1fkb (%s) | %+.1fkb (%+d) | [report](%s) | %s" % (newsize, newteam, delta, size_diff, result['url'], note))
         # save the result
         site['size'] = newsize
         site['last_checked'] = datetime.date.today()
