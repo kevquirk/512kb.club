@@ -88,6 +88,11 @@
   size: 164
   last_checked: 2022-03-20
 
+- domain: abf.li
+  url: https://abf.li
+  size: 34.49
+  last_checked: 2024-01-06
+
 - domain: aboutdavid.me
   url: https://aboutdavid.me/
   size: 7.33
@@ -3577,8 +3582,3 @@
   url: https://zwbetz.com/
   size: 67.8
   last_checked: 2022-07-20
-
-- domain: abf.li
-  url: https://abf.li
-  size: 34.49
-  last_checked: 2024-01-06
