@@ -68,9 +68,7 @@ def countPageBytes(url):
 def sizeToTeam(size):
     """Given a size in kilobytes, returns the 512kb.club team (green/orange/blue),
        or "N/A" if size is too big for 512kb.club"""
-    if size==0:
-        return "N/A"
-    elif size<100:
+    if size<100:
         return "green"
     elif size<250:
         return "orange"
@@ -79,25 +77,38 @@ def sizeToTeam(size):
     else:
         return "N/A"
 
+def append_line_to_md_table(md_filepath, data_to_append, newline=True):
+    if not newline:
+        with open(md_filepath, 'a') as f:
+            f.write(data_to_append)
+    else:
+        with open(md_filepath, 'a') as f:
+            f.write( "\n" + data_to_append)
+
 def main():
     if len(sys.argv) != 3:
         print("Usage: %s /path/to/sites.yml number_of_oldest_sites_to_check" % sys.argv[0])
         exit(1)
 
     # load yaml
-    filename = sys.argv[1]
-    if not os.path.isfile(filename):
-        print("Invalid filename: %s" % filename)
+    yaml_sites_filepath = sys.argv[1]
+    if not os.path.isfile(yaml_sites_filepath):
+        print("Invalid filename: %s" % yaml_sites_filepath)
         exit(2)
     yaml=YAML()
     yaml.default_flow_style = False
-    sites = yaml.load(open(filename,'r'))
+    sites = yaml.load(open(yaml_sites_filepath,'r'))
 
     # number of sites left to check
     left = int(sys.argv[2])
 
+    # table_of_updates_filepath = sys.argv[3]
+    table_of_updates_filepath = os.path.dirname(os.path.realpath(__file__)) + "/updates.md"
+    if os.path.isfile(table_of_updates_filepath): os.remove(table_of_updates_filepath)
     print("Site | old size (team) | new size (team) | delta (%) | Cloudflare | note")
     print("---- | --------------- | --------------- | --------- | ---------- | ----")
+    append_line_to_md_table(table_of_updates_filepath, "Site | old size (team) | new size (team) | delta (%) | Cloudflare | note", False)
+    append_line_to_md_table(table_of_updates_filepath, "---- | --------------- | --------------- | --------- | ---------- | ----")
 
     while left > 0:
         # find minimum (earliest) last_checked date
@@ -113,8 +124,12 @@ def main():
         oldsize = float(site['size'])
         oldteam = sizeToTeam(oldsize)
         print("[%s](%s) | %.1fkb (%s) | " % (site['domain'], site['url'], oldsize, oldteam), end='', flush=True)
+        append_line_to_md_table(table_of_updates_filepath, "[%s](%s) | %.1fkb (%s) | " % (site['domain'], site['url'], oldsize, oldteam))
         # get new data
         result = countPageBytes(site['url'])
+        if result['url'] == "error":
+            left -= 1
+            pass
         # analyze the result
         newsize = result['kb']
         newteam = sizeToTeam(newsize)
@@ -132,7 +147,8 @@ def main():
         # save the result
         site['size'] = newsize
         site['last_checked'] = datetime.date.today()
-        yaml.dump(sites,open(filename,'w'))
+        yaml.dump(sites,open(yaml_sites_filepath,'w'))
+        append_line_to_md_table(table_of_updates_filepath, "%.1fkb (%s) | %+.1fkb (%+d) | [report](%s) | %s" % (newsize, newteam, delta, size_diff, result['url'], note), False)
         left -= 1
 
 if __name__ == '__main__':
