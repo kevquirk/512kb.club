@@ -4,6 +4,7 @@
 # starting with those having _earliest_ 'last_checked' date
 # (those having non-date 'last_checked' field, like "N/A", are checked first).
 import datetime
+from io import StringIO
 import os
 import sys
 import requests
@@ -85,6 +86,14 @@ def append_line_to_md_table(md_filepath, data_to_append, newline=True):
         with open(md_filepath, 'a') as f:
             f.write( "\n" + data_to_append)
 
+def yaml_dump_formatted(yaml_data, yaml_filepath):
+    output = StringIO()
+    YAML().dump(yaml_data, output)
+    lines = output.getvalue().splitlines()
+    final_output = "\n".join("\n"+line if line.startswith('-') else line for line in lines if line.strip())
+    with open(yaml_filepath, 'w') as f:
+        f.write(final_output)
+
 def main():
     if len(sys.argv) != 3:
         print("Usage: %s /path/to/sites.yml number_of_oldest_sites_to_check" % sys.argv[0])
@@ -128,8 +137,16 @@ def main():
         # get new data
         result = countPageBytes(site['url'])
         if result['url'] == "error":
+            print(f" N/A (N/A) | N/A (N/A) | no report | Unable to scan URL")
+            append_line_to_md_table(table_of_updates_filepath, " N/A (N/A) | N/A (N/A) | no report | Unable to scan URL", False)
+            if not'last_passed' in site:
+                date_last_checked = site['last_checked']
+                site['last_passed'] = date_last_checked
+            site['last_checked'] = datetime.date.today()
+            yaml_dump_formatted(sites, yaml_sites_filepath)
+            # yaml.dump(sites,open(yaml_sites_filepath,'w'))
             left -= 1
-            pass
+            continue
         # analyze the result
         newsize = result['kb']
         newteam = sizeToTeam(newsize)
@@ -146,8 +163,15 @@ def main():
         print(f"%.1fkb (%s) | %+.1fkb (%+d) | [report](%s) | %s" % (newsize, newteam, delta, size_diff, result['url'], note))
         # save the result
         site['size'] = newsize
+        if newsize >= 512:
+            if not 'last_passed' in site:
+                date_last_checked = site['last_checked']
+                site['last_passed'] = date_last_checked
+        else:
+            site['last_passed'] = datetime.date.today()
         site['last_checked'] = datetime.date.today()
-        yaml.dump(sites,open(yaml_sites_filepath,'w'))
+        # yaml.dump(sites,open(yaml_sites_filepath,'w'))
+        yaml_dump_formatted(sites, yaml_sites_filepath)
         append_line_to_md_table(table_of_updates_filepath, "%.1fkb (%s) | %+.1fkb (%+d) | [report](%s) | %s" % (newsize, newteam, delta, size_diff, result['url'], note), False)
         left -= 1
 
