@@ -1948,6 +1948,11 @@
   size: 12.4
   last_checked: 2022-05-06
 
+- domain: lucas.computer
+  url: https://www.lucas.computer
+  size: 200.9
+  last_checked: 2024-01-14
+
 - domain: lucienbill.fr
   url: https://www.lucienbill.fr
   size: 31.7
