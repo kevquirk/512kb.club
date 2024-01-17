@@ -3592,3 +3592,8 @@
   url: https://zwbetz.com/
   size: 67.8
   last_checked: 2022-07-20
+
+- domain: varchar.neocities.org
+  url: https://varchar.neocities.org/
+  size: 171.1
+  last_checked: 2024-01-16
