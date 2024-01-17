@@ -3328,6 +3328,11 @@
   size: 42.3
   last_checked: 2023-03-26
 
+- domain: varchar.neocities.org
+  url: https://varchar.neocities.org/
+  size: 171.1
+  last_checked: 2024-01-16
+
 - domain: vegard.net
   url: https://www.vegard.net/
   size: 54.5
@@ -3592,8 +3597,3 @@
   url: https://zwbetz.com/
   size: 67.8
   last_checked: 2022-07-20
-
-- domain: varchar.neocities.org
-  url: https://varchar.neocities.org/
-  size: 171.1
-  last_checked: 2024-01-16
