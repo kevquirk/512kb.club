@@ -1463,6 +1463,11 @@
   size: 60.1
   last_checked: 2022-02-24
 
+- domain: hcrypt.net
+  url: https://hcrypt.net
+  size: 11.98
+  last_checked: 2024-01-18
+
 - domain: healthchecks.io
   url: https://healthchecks.io/
   size: 435
