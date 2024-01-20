@@ -983,6 +983,11 @@
   size: 31.2
   last_checked: 2022-05-06
 
+- domain: denisdefreyne.com
+  url: https://denisdefreyne.com/
+  size: 404.6
+  last_checked: 2024-01-20
+
 - domain: detektywi.it
   url: https://detektywi.it
   size: 447
@@ -3607,8 +3612,3 @@
   url: https://zwbetz.com/
   size: 67.8
   last_checked: 2022-07-20
-
-- domain: denisdefreyne.com
-  url: https://denisdefreyne.com/
-  size: 404.6
-  last_checked: 2024-01-20
