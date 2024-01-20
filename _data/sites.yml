@@ -288,6 +288,11 @@
   size: 82.5
   last_checked: 2023-11-06
 
+- domain: astroslair.xyz
+  url: https://astroslair.xyz/
+  size: 268.96
+  last_checked: 2024-01-20
+
 - domain: atthis.link
   url: https://atthis.link/
   size: 9.4
@@ -3602,8 +3607,3 @@
   url: https://zwbetz.com/
   size: 67.8
   last_checked: 2022-07-20
-
-- domain: astroslair.xyz
-  url: https://astroslair.xyz/
-  size: 268.96
-  last_checked: 2024-01-20
