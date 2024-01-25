@@ -2443,6 +2443,11 @@
   size: 47.4
   last_checked: 2022-09-11
 
+- domain: paulcomte.cafe
+  url: https://paulcomte.cafe/
+  size: 20.81
+  last_checked: 2024-01-25
+
 - domain: paulwilde.uk
   url: https://paulwilde.uk/
   size: 33.5
@@ -3162,11 +3167,6 @@
   url: https://theobori.cafe/
   size: 47.0
   last_checked: 2023-10-30
-
-- domain: paulcomte.cafe
-  url: https://paulcomte.cafe/
-  size: 20.81
-  last_checked: 2024-01-25
 
 - domain: thewebisfucked.com
   url: https://thewebisfucked.com
