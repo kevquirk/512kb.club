@@ -1,8 +1,3 @@
-- domain: janandrei.pages.dev
-  url: https://janandrei.pages.dev/
-  size: 86.74
-  last_checked: 2024-01-30
-  
 - domain: 0chris.com
   url: https://www.0chris.com/
   size: 4.3
@@ -1677,6 +1672,11 @@
   url: https://jan.alphadev.net/
   size: 76.7
   last_checked: 2023-08-02
+
+- domain: janandrei.pages.dev
+  url: https://janandrei.pages.dev/
+  size: 86.74
+  last_checked: 2024-01-30
 
 - domain: jasonthai.me
   url: https://jasonthai.me/
