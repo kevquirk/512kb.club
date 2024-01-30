@@ -963,6 +963,11 @@
   size: 69.5
   last_checked: 2022-05-06
 
+- domain: daudix.codeberg.page
+  url: https://daudix.codeberg.page/
+  size: 40.8
+  last_checked: 2024-01-28
+
 - domain: david.ae
   url: https://david.ae/
   size: 364
