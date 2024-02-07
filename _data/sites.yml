@@ -1,8 +1,3 @@
-- domain: alexeystar.com
-  url: https://alexeystar.com/
-  size: 41.95
-  last_checked: 2024-02-07
-
 - domain: 0chris.com
   url: https://www.0chris.com/
   size: 4.3
@@ -157,6 +152,11 @@
   url: http://alexey.shpakovsky.ru/
   size: 91.2
   last_checked: 2022-05-15
+
+- domain: alexeystar.com
+  url: https://alexeystar.com/
+  size: 41.95
+  last_checked: 2024-02-07
 
 - domain: alexmolas.com
   url: https://www.alexmolas.com
