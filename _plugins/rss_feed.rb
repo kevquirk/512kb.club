@@ -7,7 +7,10 @@ module RSSGenerator
   class Generator < Jekyll::Generator
     def generate(site)
       # Read the YAML file
-      websites = YAML.load_file(File.join(site.source, '_data', 'sites.yml'))
+      websites = YAML.load_file(
+        File.join(site.source, '_data', 'sites.yml'),
+        permitted_classes: [Date]
+      )
 
       # Sort websites by "last_checked" in descending order
       websites.sort_by! { |website| website['last_checked'] }.reverse!
