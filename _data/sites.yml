@@ -143,6 +143,11 @@
   size: 296
   last_checked: 2023-12-28
 
+- domain: akpain.net
+  url: https://www.akpain.net/
+  size: 290
+  last_checked: 2024-02-23
+
 - domain: alessandrocuzzocrea.com
   url: https://alessandrocuzzocrea.com
   size: 13.4
@@ -3143,11 +3148,6 @@
   size: 155
   last_checked: 2022-04-26
 
-- domain: tdpain.net
-  url: https://www.tdpain.net/
-  size: 287
-  last_checked: 2023-03-13
-
 - domain: tedmagaoay.com
   url: https://tedmagaoay.com/
   size: 74.8
@@ -3665,8 +3665,8 @@
 
 - domain: zwbetz.com
   url: https://zwbetz.com/
-  size: 67.8
-  last_checked: 2022-07-20
+  size: 40
+  last_checked: 2024-02-16
 
 - domain: zwieratko.sk
   url: https://zwieratko.sk/
