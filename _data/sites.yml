@@ -2088,6 +2088,11 @@
   size: 81.6
   last_checked: 2023-09-14
 
+- domain: matiargs.com
+  url: https://matiargs.com/
+  size: 26.38
+  last_checked: 2024-02-26
+
 - domain: matt-smiley
   url: https://matt-smiley.com/
   size: 48.6
@@ -3672,8 +3677,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-
-- domain: matiargs.com
-  url: https://matiargs.com/
-  size: 26.38
-  last_checked: 2024-02-26
