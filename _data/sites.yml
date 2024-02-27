@@ -2088,6 +2088,11 @@
   size: 81.6
   last_checked: 2023-09-14
 
+- domain: matiargs.com
+  url: https://matiargs.com/
+  size: 26.38
+  last_checked: 2024-02-26
+
 - domain: matt-smiley
   url: https://matt-smiley.com/
   size: 48.6
@@ -3682,8 +3687,3 @@
   url: https://pursuit-of-simplicity.pages.dev/
   size: 11.27
   last_checked: 2024-03-02
-
-- domain: matiargs.com
-  url: https://matiargs.com/
-  size: 26.38
-  last_checked: 2024-02-26
