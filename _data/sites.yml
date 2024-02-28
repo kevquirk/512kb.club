@@ -1,8 +1,3 @@
-- domain: berrysauce.me
-  url: https://berrysauce.me/
-  size: 459.71
-  last_checked: 2024-02-26
-
 - domain: 0chris.com
   url: https://www.0chris.com/
   size: 4.3
@@ -392,6 +387,11 @@
   url: http://benrosenberg.info/
   size: 6.8
   last_checked: 2022-04-26
+
+- domain: berrysauce.me
+  url: https://berrysauce.me/
+  size: 459.71
+  last_checked: 2024-02-26
 
 - domain: bestmotherfucking.website
   url: https://bestmotherfucking.website/
