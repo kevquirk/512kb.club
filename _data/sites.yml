@@ -2678,6 +2678,11 @@
   size: 83.0
   last_checked: 2022-05-15
 
+- domain: pursuit-of-simplicity.pages.dev
+  url: https://pursuit-of-simplicity.pages.dev/
+  size: 11.27
+  last_checked: 2024-03-02
+
 - domain: pyratebeard.net
   url: https://pyratebeard.net
   size: 62.3
@@ -3697,8 +3702,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-
-- domain: pursuit-of-simplicity.pages.dev
-  url: https://pursuit-of-simplicity.pages.dev/
-  size: 11.27
-  last_checked: 2024-03-02
