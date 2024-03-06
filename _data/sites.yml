@@ -1,8 +1,3 @@
-- domain: timikels.com
-  url: https://timikels.com/blog/
-  size: 19.9
-  last_checked: 2024-03-06
-
 - domain: 0chris.com
   url: https://www.0chris.com/
   size: 4.3
@@ -3282,6 +3277,11 @@
   url: https://timharek.no/
   size: 22.8
   last_checked: 2022-05-15
+
+- domain: timikels.com
+  url: https://timikels.com/blog/
+  size: 19.9
+  last_checked: 2024-03-06
 
 - domain: timotijhof.net
   url: https://timotijhof.net/
