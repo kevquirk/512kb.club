@@ -3,11 +3,6 @@
   size: 4.3
   last_checked: 2022-03-20
 
-- domain: learnwithgurpreet.com
-  url: https://www.learnwithgurpreet.com/
-  size: 73.45
-  last_checked: 2024-02-20
-
 - domain: 0xedward.io
   url: https://0xedward.io/
   size: 6.2
@@ -1967,6 +1962,11 @@
   url: https://leafedfox.xyz
   size: 31.7
   last_checked: 2023-11-23
+
+- domain: learnwithgurpreet.com
+  url: https://www.learnwithgurpreet.com/
+  size: 73.45
+  last_checked: 2024-02-20
 
 - domain: lectupedia.com
   url: https://lectupedia.com/
