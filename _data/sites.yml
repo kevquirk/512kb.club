@@ -3738,7 +3738,7 @@
   size: 28.07
   last_checked: 2024-02-11
 
-  - domain: vermontartisans.org
-    url: https://vermontartisans.org
-    size: 262.29
-    last-checked: 2024-03-07
+- domain: vermontartisans.org
+  url: https://vermontartisans.org
+  size: 262.29
+  last-checked: 2024-03-07
