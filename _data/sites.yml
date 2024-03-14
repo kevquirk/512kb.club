@@ -3108,6 +3108,11 @@
   size: 400
   last_checked: 2022-04-26
 
+- domain: slhn.cz
+  url: https://www.slhn.cz/
+  size: 145.16
+  last_checked: 2024-03-13
+
 - domain: sm6kne.amprnet.se
   url: https://sm6kne.amprnet.se/
   size: 8.9
@@ -3767,8 +3772,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-
-- domain: slhn.cz
-  url: https://www.slhn.cz/
-  size: 145.16
-  last_checked: 2024-03-13
