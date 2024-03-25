@@ -708,6 +708,11 @@
   size: 338
   last_checked: 2022-02-11
 
+- domain: cashx.pages.dev
+  url: https://cashx.pages.dev/
+  size: 21.79
+  last_checked: 2024-03-25
+
 - domain: castorisdead.xyz
   url: https://castorisdead.xyz
   size: 48.1
@@ -3812,8 +3817,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-
-- domain: cashx.pages.dev
-  url: https://cashx.pages.dev/
-  size: 21.79
-  last_checked: 2024-03-25
