@@ -3433,10 +3433,10 @@
   size: 42.9
   last_checked: 2022-05-15
 
-- domain: tusharhero.freeshell.org
-  url: http://tusharhero.freeshell.org/
-  size: 11
-  last_checked: 2024-03-20
+- domain: tusharhero.codeberg.page
+  url: https://tusharhero.codeberg.page/
+  size: 9.24
+  last_checked: 2024-03-27
 
 - domain: txt.fabio.com.ar
   url: https://txt.fabio.com.ar/
