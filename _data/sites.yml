@@ -898,6 +898,11 @@
   size: 221
   last_checked: 2023-12-29
 
+  - domain: cri.cl
+  url: https://cri.cl/
+  size: 86.13
+  last_checked: 2024-03-28
+
 - domain: cri.dev
   url: https://cri.dev/
   size: 30.2
