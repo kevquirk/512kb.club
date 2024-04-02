@@ -345,3 +345,11 @@ img {
 .random {
   background: var(--before-green);
 }
+
+.notice {
+    border: 2px solid;
+    padding: 1rem 1.5rem;
+    background-color: var(--accent);
+    margin: 3rem 0;
+    text-align: center;
+}
