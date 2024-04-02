@@ -2843,6 +2843,11 @@
   size: 5.51
   last_checked: 2023-11-10
 
+- domain: recipe.polente.de
+  url: https://recipe.polente.de/
+  size: 276.04
+  last_checked: 2024-04-02
+
 - domain: rectangles.app
   url: https://rectangles.app/
   size: 6.93
@@ -3827,8 +3832,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-
-- domain: recipe.polente.de
-  url: https://recipe.polente.de/
-  size: 276.04
-  last_checked: 2024-04-02
