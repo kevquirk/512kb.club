@@ -18,6 +18,11 @@
   size: 25.6
   last_checked: 2022-03-20
 
+- domain: shreyasprakash.com
+  url: http://shreyasprakash.com/ (Make sure you keep the trailing slash)
+  size: 8.01
+  last_checked: 2024-04-07 (YYYY-MM-DD)
+
 - domain: 10maurycy10.github.io
   url: https://10maurycy10.github.io/
   size: 20.2
