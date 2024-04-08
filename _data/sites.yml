@@ -1783,6 +1783,11 @@
   size: 8.28
   last_checked: 2022-07-03
 
+- domain: javaprohire.com
+  url: https://javaprohire.com/
+  size: 451.38
+  last_checked: 2024-04-06
+
 - domain: jaxson.neocities.org
   url: https://jaxson.neocities.org/
   size: 7.67
@@ -3857,8 +3862,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-
-- domain: javaprohire.com
-  url: https://javaprohire.com/
-  size: 451.38
-  last_checked: 2024-04-06
