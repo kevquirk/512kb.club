@@ -1,7 +1,7 @@
-- domain: 0chris.com
-  url: https://www.0chris.com/
+- domain: stchris.net
+  url: https://www.stchris.net/
   size: 4.3
-  last_checked: 2022-03-20
+  last_checked: 2024-04-08
 
 - domain: 0xedward.io
   url: https://0xedward.io/
@@ -62,11 +62,6 @@
   url: https://64b.it/
   size: 204
   last_checked: 2022-03-22
-
-- domain: ARC-X.org
-  url: https://ARC-X.org/
-  size: 14.7
-  last_checked: 2023-11-15
 
 - domain: aaron.place
   url: https://aaron.place/
@@ -758,11 +753,6 @@
   size: 25.6
   last_checked: 2023-08-01
 
-- domain: chibilinks.com
-  url: https://chibilinks.com/
-  size: 17.1
-  last_checked: 2022-09-28
-
 - domain: chimbosonic.com
   url: https://chimbosonic.com/
   size: 43.7
@@ -817,11 +807,6 @@
   url: https://cli.club/
   size: 25.5
   last_checked: 2022-07-13
-
-- domain: closedgl2.github.io
-  url: https://closedgl2.github.io/
-  size: 8.2
-  last_checked: 2022-01-21
 
 - domain: clubhouse.boxpiper.com
   url: https://clubhouse.boxpiper.com/
@@ -1178,11 +1163,6 @@
   size: 238
   last_checked: 2022-05-15
 
-- domain: eg-zine.cf
-  url: https://eg-zine.cf/
-  size: 13.1
-  last_checked: 2023-05-02
-
 - domain: eilles.xyz
   url: https://eilles.xyz/
   size: 6.86
@@ -1428,11 +1408,6 @@
   size: 37.6
   last_checked: 2022-08-01
 
-- domain: fz1.space
-  url: https://fz1.space/
-  size: 3.78
-  last_checked: 2022-10-11
-
 - domain: gabnotes.org
   url: https://gabnotes.org/
   size: 95.5
@@ -1637,11 +1612,6 @@
   url: https://huma.id/
   size: 9.43
   last_checked: 2022-05-31
-
-- domain: hund.tty1.se
-  url: https://hund.tty1.se/
-  size: 17.8
-  last_checked: 2022-03-11
 
 - domain: hybras.dev
   url: https://hybras.dev/
@@ -2468,11 +2438,6 @@
   size: 32.7
   last_checked: 2023-08-18
 
-- domain: notes.whoibrar.com
-  url: https://notes.whoibrar.com
-  size: 9.48
-  last_checked: 2022-05-07
-
 - domain: notionbackups.com
   url: https://notionbackups.com
   size: 48.3
@@ -3038,11 +3003,6 @@
   size: 73.0
   last_checked: 2023-07-12
 
-- domain: saucecode.bar
-  url: https://saucecode.bar/
-  size: 5.61
-  last_checked: 2022-08-02
-
 - domain: saurabhs.org
   url: https://saurabhs.org/
   size: 71.7
@@ -3243,11 +3203,6 @@
   size: 6.6
   last_checked: 2022-05-06
 
-- domain: stapy.magentix.fr
-  url: https://stapy.magentix.fr/
-  size: 21.4
-  last_checked: 2022-05-06
-
 - domain: steamosaic.com
   url: https://steamosaic.com/
   size: 356
@@ -3277,11 +3232,6 @@
   url: https://susam.net/
   size: 9.51
   last_checked: 2022-12-11
-
-- domain: sverona.dev
-  url: https://sverona.dev/
-  size: 15.2
-  last_checked: 2023-02-07
 
 - domain: tanami.org
   url: https://tanami.org/
