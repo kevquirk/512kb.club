@@ -53,11 +53,6 @@
   size: 16.2
   last_checked: 2022-03-20
 
-- domain: writefreesoftware.org
-  url: https://writefreesoftware.org/
-  size: 248.74
-  last_checked: 2024-04-08
-
 - domain: 64b.it
   url: https://64b.it/
   size: 204
@@ -3652,6 +3647,11 @@
   url: https://wpturbo.dev/
   size: 280
   last_checked: 2023-01-04
+
+- domain: writefreesoftware.org
+  url: https://writefreesoftware.org/
+  size: 248.74
+  last_checked: 2024-04-08
 
 - domain: wrzeczak.net
   url: https://wrzeczak.net/
