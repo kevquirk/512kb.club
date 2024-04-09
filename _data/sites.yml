@@ -2,7 +2,12 @@
   url: https://0xedward.io/
   size: 6.2
   last_checked: 2022-05-13
-
+  
+- domain: secu.pages.dev
+  url: https://secu.pages.dev/
+  size: 2.1
+  last_checked: 2024-04-10
+  
 - domain: 0xff.nu
   url: https://0xff.nu/
   size: 7.2
