@@ -1443,6 +1443,11 @@
   size: 373
   last_checked: 2022-02-18
 
+- domain: gilcu3.website
+  url: https://gilcu3.website/
+  size: 38.81
+  last_checked: 2024-04-12
+
 - domain: gitmoji.kaki87.net
   url: https://gitmoji.kaki87.net/
   size: 153
@@ -3822,8 +3827,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-
-- domain: gilcu3.website
-  url: https://gilcu3.website/
-  size: 38.81
-  last_checked: 2024-04-12
