@@ -1,8 +1,3 @@
-- domain: janilowski.pl
-  url: https://janilowski.pl/
-  size: 70.89
-  last_checked: 2024-04-13
-
 - domain: 0xedward.io
   url: https://0xedward.io/
   size: 6.2
@@ -1752,6 +1747,11 @@
   url: https://janandrei.pages.dev/
   size: 86.74
   last_checked: 2024-01-30
+
+- domain: janilowski.pl
+  url: https://janilowski.pl/
+  size: 70.89
+  last_checked: 2024-04-13
 
 - domain: jasonthai.me
   url: https://jasonthai.me/
