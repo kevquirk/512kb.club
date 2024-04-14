@@ -2633,6 +2633,11 @@
   size: 195
   last_checked: 2023-06-05
 
+- domain: pinopticon.net
+  url: https://pinopticon.net/
+  size: 40.68
+  last_checked: 2024-04-14
+
 - domain: piraces.dev
   url: https://piraces.dev/
   size: 62.2
@@ -3832,8 +3837,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-
-- domain: pinopticon.net
-  url: https://pinopticon.net/
-  size: 40.68
-  last_checked: 2024-04-14
