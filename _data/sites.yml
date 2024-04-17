@@ -3023,6 +3023,11 @@
   size: 71.7
   last_checked: 2023-09-20
 
+- domain: scaglio.id
+  url: https://scaglio.id/
+  size: 174.17
+  last_checked: 2024-04-10
+
 - domain: scf37.me
   url: https://scf37.me/
   size: 93.5
@@ -3842,8 +3847,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-
-- domain: scaglio.id
-  url: https://scaglio.id/
-  size: 174.17
-  last_checked: 2024-04-10
