@@ -890,7 +890,7 @@
 
 - domain: crooked.ink
   url: https://crooked.ink
-  size: 428
+  size: 155.23
   last_checked: 2022-05-20
 
 - domain: cschad.com
@@ -3842,3 +3842,8 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
+
+- domain: scaglio.id
+  url: https://scaglio.id/
+  size: 174.17
+  last_checked: 2024-04-10
