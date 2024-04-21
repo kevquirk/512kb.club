@@ -2683,6 +2683,11 @@
   size: 339
   last_checked: 2022-04-26
 
+- domain: plettner.dev
+  url: https://plettner.dev/
+  size: 318.17
+  last_checked: 2024-04-21
+
 - domain: popov.link
   url: https://popov.link/
   size: 11.5
@@ -3847,8 +3852,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-
-- domain: plettner.dev
-  url: https://plettner.dev/
-  size: 318.17
-  last_checked: 2024-04-21
