@@ -1823,6 +1823,11 @@
   size: 433
   last_checked: 2023-03-30
 
+- domain: jochen.fyi
+  url: https://jochen.fyi/
+  size: 6.42
+  last_checked: 2024-04-25
+
 - domain: joelchrono12.xyz
   url: https://joelchrono12.xyz/
   size: 41.6
@@ -3862,8 +3867,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-
-- domain: jochen.fyi
-  url: https://jochen.fyi/
-  size: 6.42
-  last_checked: 2024-04-25
