@@ -2058,6 +2058,11 @@
   size: 98
   last_checked: 2022-04-15
 
+- domain: loorjoal.netlify.app
+  url: https://loorjoal.netlify.app/
+  size: 175.99
+  last_checked: 2024-04-24
+
 - domain: luana.cc
   url: https://luana.cc/
   size: 12.4
@@ -3857,9 +3862,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-
-- domain: loorjoal.netlify.app
-  url: https://loorjoal.netlify.app/
-  size: 175.99
-  last_checked: 2024-04-24
-  
