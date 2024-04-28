@@ -763,6 +763,11 @@
   size: 254
   last_checked: 2023-08-01
 
+- domain: chittur.dev
+  url: https://chittur.dev/
+  size: 28.5
+  last_checked: 2024-4-27
+
 - domain: chrdek.github.io
   url: https://chrdek.github.io/
   size: 350
