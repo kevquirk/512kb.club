@@ -1773,6 +1773,11 @@
   size: 70.89
   last_checked: 2024-04-13
 
+- domain: jano.sh
+  url: https://jano.sh/
+  size: 184.24
+  last_checked: 2024-05-06
+
 - domain: jasonthai.me
   url: https://jasonthai.me/
   size: 8.28
@@ -3892,8 +3897,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-
-- domain: jano.sh
-  url: https://jano.sh/
-  size: 184.24
-  last_checked: 2024-05-06
