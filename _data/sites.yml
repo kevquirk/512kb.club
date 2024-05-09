@@ -1713,6 +1713,11 @@
   size: 191
   last_checked: 2023-07-11
 
+- domain: jackbailey.dev
+  url: https://jackbailey.dev/
+  size: 338.21
+  last_checked: 2024-05-09
+
 - domain: jackiechalarca.org
   url: https://jackiechalarca.org/
   size: 18.2
@@ -3902,8 +3907,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-
-- domain: jackbailey.dev
-  url: https://jackbailey.dev/
-  size: 338.21
-  last_checked: 2024-05-09
