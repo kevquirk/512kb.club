@@ -1,8 +1,3 @@
-- domain: 0chris.com
-  url: https://www.0chris.com/
-  size: 4.3
-  last_checked: 2022-03-20
-
 - domain: 0xedward.io
   url: https://0xedward.io/
   size: 6.2
@@ -62,11 +57,6 @@
   url: https://64b.it/
   size: 204
   last_checked: 2022-03-22
-
-- domain: ARC-X.org
-  url: https://ARC-X.org/
-  size: 14.7
-  last_checked: 2023-11-15
 
 - domain: aaron.place
   url: https://aaron.place/
@@ -212,6 +202,11 @@
   url: https://anderegg.ca/
   size: 70.2
   last_checked: 2024-03-23
+
+- domain: andrew.let-them.cyou
+  url: https://andrew.let-them.cyou/
+  size: 28.59
+  last_checked: 2024-04-26
 
 - domain: andrewsfasteners.uk
   url: https://www.andrewsfasteners.uk/
@@ -758,11 +753,6 @@
   size: 25.6
   last_checked: 2023-08-01
 
-- domain: chibilinks.com
-  url: https://chibilinks.com/
-  size: 17.1
-  last_checked: 2022-09-28
-
 - domain: chimbosonic.com
   url: https://chimbosonic.com/
   size: 43.7
@@ -772,6 +762,11 @@
   url: https://chino.is-a.dev/
   size: 254
   last_checked: 2023-08-01
+
+- domain: chittur.dev
+  url: https://chittur.dev/
+  size: 28.5
+  last_checked: 2024-4-27
 
 - domain: chrdek.github.io
   url: https://chrdek.github.io/
@@ -817,11 +812,6 @@
   url: https://cli.club/
   size: 25.5
   last_checked: 2022-07-13
-
-- domain: closedgl2.github.io
-  url: https://closedgl2.github.io/
-  size: 8.2
-  last_checked: 2022-01-21
 
 - domain: clubhouse.boxpiper.com
   url: https://clubhouse.boxpiper.com/
@@ -900,8 +890,8 @@
 
 - domain: cri.cl
   url: https://cri.cl/
-  size: 86.13
-  last_checked: 2024-03-28
+  size: 222.47
+  last_checked: 2024-04-07
 
 - domain: cri.dev
   url: https://cri.dev/
@@ -910,7 +900,7 @@
 
 - domain: crooked.ink
   url: https://crooked.ink
-  size: 428
+  size: 155.23
   last_checked: 2022-05-20
 
 - domain: cschad.com
@@ -1178,11 +1168,6 @@
   size: 238
   last_checked: 2022-05-15
 
-- domain: eg-zine.cf
-  url: https://eg-zine.cf/
-  size: 13.1
-  last_checked: 2023-05-02
-
 - domain: eilles.xyz
   url: https://eilles.xyz/
   size: 6.86
@@ -1302,6 +1287,11 @@
   url: http://evantravers.com/
   size: 474
   last_checked: 2022-04-26
+
+- domain: ewolff.com
+  url: https://ewolff.com/
+  size: 217.1
+  last_checked: 2024-04-04
 
 - domain: excus.eu
   url: https://excus.eu/
@@ -1423,11 +1413,6 @@
   size: 37.6
   last_checked: 2022-08-01
 
-- domain: fz1.space
-  url: https://fz1.space/
-  size: 3.78
-  last_checked: 2022-10-11
-
 - domain: gabnotes.org
   url: https://gabnotes.org/
   size: 95.5
@@ -1437,6 +1422,11 @@
   url: https://gadonias.com/
   size: 220
   last_checked: 2022-05-15
+
+- domain: gagor.pro
+  url: https://gagor.pro/
+  size: 125.17
+  last_checked: 2024-04-16
 
 - domain: gaikanomer9.com
   url: https://gaikanomer9.com/
@@ -1467,6 +1457,11 @@
   url: https://getwheat.ca/
   size: 373
   last_checked: 2022-02-18
+
+- domain: gilcu3.website
+  url: https://gilcu3.website/
+  size: 38.81
+  last_checked: 2024-04-12
 
 - domain: gitmoji.kaki87.net
   url: https://gitmoji.kaki87.net/
@@ -1603,6 +1598,11 @@
   size: 35.4
   last_checked: 2023-03-15
 
+- domain: home.hedy.dev
+  url: https://home.hedy.dev/
+  size: 57.87
+  last_checked: 2024-04-27
+
 - domain: how.wtf
   url: https://how.wtf/
   size: 18.2
@@ -1632,11 +1632,6 @@
   url: https://huma.id/
   size: 9.43
   last_checked: 2022-05-31
-
-- domain: hund.tty1.se
-  url: https://hund.tty1.se/
-  size: 17.8
-  last_checked: 2022-03-11
 
 - domain: hybras.dev
   url: https://hybras.dev/
@@ -1773,10 +1768,25 @@
   size: 86.74
   last_checked: 2024-01-30
 
+- domain: janilowski.pl
+  url: https://janilowski.pl/
+  size: 70.89
+  last_checked: 2024-04-13
+
+- domain: jano.sh
+  url: https://jano.sh/
+  size: 184.24
+  last_checked: 2024-05-06
+
 - domain: jasonthai.me
   url: https://jasonthai.me/
   size: 8.28
   last_checked: 2022-07-03
+
+- domain: javaprohire.com
+  url: https://javaprohire.com/
+  size: 451.38
+  last_checked: 2024-04-06
 
 - domain: jaxson.neocities.org
   url: https://jaxson.neocities.org/
@@ -1832,6 +1842,11 @@
   url: https://joanybuclon.com/
   size: 433
   last_checked: 2023-03-30
+
+- domain: jochen.fyi
+  url: https://jochen.fyi/
+  size: 6.42
+  last_checked: 2024-04-25
 
 - domain: joelchrono12.xyz
   url: https://joelchrono12.xyz/
@@ -1975,8 +1990,8 @@
 
 - domain: konstantintutsch.com
   url: https://konstantintutsch.com/
-  size: 72.0
-  last_checked: 2023-11-11
+  size: 15.79
+  last_checked: 2024-03-30
 
 - domain: kraktoos.com
   url: https://kraktoos.com/
@@ -2067,6 +2082,11 @@
   url: https://loganmarchione.com/
   size: 98
   last_checked: 2022-04-15
+
+- domain: loorjoal.netlify.app
+  url: https://loorjoal.netlify.app/
+  size: 175.99
+  last_checked: 2024-04-24
 
 - domain: luana.cc
   url: https://luana.cc/
@@ -2163,10 +2183,20 @@
   size: 127
   last_checked: 2022-03-17
 
+- domain: masagu.dev
+  url: https://masagu.dev/
+  size: 221.8
+  last_checked: 2024-04-26
+
 - domain: mataroa.blog
   url: https://mataroa.blog/
   size: 21.3
   last_checked: 2022-05-06
+
+- domain: mathieularose.com
+  url: https://mathieularose.com/
+  size: 311.98
+  last_checked: 2024-04-21
 
 - domain: mathijs.vgorcum.com
   url: https://mathijs.vgorcum.com/
@@ -2448,15 +2478,15 @@
   size: 8.2
   last_checked: 2022-05-15
 
+- domain: notes.ghed.in
+  url: https://notes.ghed.in/
+  size: 29.31
+  last_checked: 2024-04-06
+
 - domain: notes.musayev.com
   url: https://notes.musayev.com/
   size: 32.7
   last_checked: 2023-08-18
-
-- domain: notes.whoibrar.com
-  url: https://notes.whoibrar.com
-  size: 9.48
-  last_checked: 2022-05-07
 
 - domain: notionbackups.com
   url: https://notionbackups.com
@@ -2477,6 +2507,11 @@
   url: https://obviy.us/
   size: 470
   last_checked: 2023-06-09
+
+- domain: odrotbohm.de
+  url: https://odrotbohm.de/
+  size: 59.7
+  last_checked: 2024-04-03
 
 - domain: ofearthandacorns.com
   url: https://ofearthandacorns.com/
@@ -2643,6 +2678,11 @@
   size: 195
   last_checked: 2023-06-05
 
+- domain: pinopticon.net
+  url: https://pinopticon.net/
+  size: 40.68
+  last_checked: 2024-04-14
+
 - domain: piraces.dev
   url: https://piraces.dev/
   size: 62.2
@@ -2682,6 +2722,11 @@
   url: https://playerone.kevincox.ca/
   size: 339
   last_checked: 2022-04-26
+
+- domain: plettner.dev
+  url: https://plettner.dev/
+  size: 318.17
+  last_checked: 2024-04-21
 
 - domain: popov.link
   url: https://popov.link/
@@ -2842,6 +2887,11 @@
   url: https://rb.ax/
   size: 5.51
   last_checked: 2023-11-10
+
+- domain: recipe.polente.de
+  url: https://recipe.polente.de/
+  size: 276.04
+  last_checked: 2024-04-02
 
 - domain: rectangles.app
   url: https://rectangles.app/
@@ -3018,15 +3068,15 @@
   size: 73.0
   last_checked: 2023-07-12
 
-- domain: saucecode.bar
-  url: https://saucecode.bar/
-  size: 5.61
-  last_checked: 2022-08-02
-
 - domain: saurabhs.org
   url: https://saurabhs.org/
   size: 71.7
   last_checked: 2023-09-20
+
+- domain: scaglio.id
+  url: https://scaglio.id/
+  size: 174.17
+  last_checked: 2024-04-10
 
 - domain: scf37.me
   url: https://scf37.me/
@@ -3178,10 +3228,20 @@
   size: 10.0
   last_checked: 2022-09-17
 
+- domain: software-architektur.tv
+  url: https://software-architektur.tv/
+  size: 49.3
+  last_checked: 2024-04-04
+
 - domain: solar.milangaelectronica.com.ar
   url: https://solar.milangaelectronica.com.ar/
   size: 67.6
   last_checked: 2022-10-31
+
+- domain: sothawo.com
+  url: https://www.sothawo.com/
+  size: 85.14
+  last_checked: 2024-04-03
 
 - domain: sousali.com
   url: https://sousali.com/
@@ -3213,10 +3273,10 @@
   size: 6.6
   last_checked: 2022-05-06
 
-- domain: stapy.magentix.fr
-  url: https://stapy.magentix.fr/
-  size: 21.4
-  last_checked: 2022-05-06
+- domain: stchris.net
+  url: https://www.stchris.net/
+  size: 4.3
+  last_checked: 2024-04-08
 
 - domain: steamosaic.com
   url: https://steamosaic.com/
@@ -3247,11 +3307,6 @@
   url: https://susam.net/
   size: 9.51
   last_checked: 2022-12-11
-
-- domain: sverona.dev
-  url: https://sverona.dev/
-  size: 15.2
-  last_checked: 2023-02-07
 
 - domain: tanami.org
   url: https://tanami.org/
@@ -3297,6 +3352,11 @@
   url: https://theden.sh/
   size: 132
   last_checked: 2023-07-11
+
+- domain: theholytachanka.com
+  url: https://theholytachanka.com/
+  size: 92.62
+  last_checked: 2024-04-30
 
 - domain: thejollyteapot.com
   url: https://thejollyteapot.com/
@@ -3452,6 +3512,11 @@
   url: https://tusharhero.codeberg.page/
   size: 9.24
   last_checked: 2024-03-27
+
+- domain: twobiers.github.io
+  url: https://twobiers.github.io/
+  size: 68.77
+  last_checked: 2024-04-03
 
 - domain: txt.fabio.com.ar
   url: https://txt.fabio.com.ar/
@@ -3662,6 +3727,11 @@
   url: https://wpturbo.dev/
   size: 280
   last_checked: 2023-01-04
+
+- domain: writefreesoftware.org
+  url: https://writefreesoftware.org/
+  size: 248.74
+  last_checked: 2024-04-08
 
 - domain: wrzeczak.net
   url: https://wrzeczak.net/
