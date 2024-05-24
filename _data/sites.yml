@@ -2623,6 +2623,11 @@
   size: 8.4
   last_checked: 2022-05-06
 
+- domain: patpro.net
+  url: https://www.patpro.net/blog/
+  size: 349.4
+  last_checked: 2024-05-24
+
 - domain: patrickwu.space
   url: https://patrickwu.space/
   size: 47.4
@@ -3922,9 +3927,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-
-- domain: patpro.net
-  url: https://www.patpro.net/blog/
-  size: 349.4
-  last_checked: 2024-05-24
-  
