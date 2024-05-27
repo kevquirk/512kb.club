@@ -2228,7 +2228,7 @@
   size: 26.38
   last_checked: 2024-02-26
 
-- domain: matt-smiley
+- domain: matt-smiley.com
   url: https://matt-smiley.com/
   size: 48.6
   last_checked: 2022-03-25
@@ -3932,3 +3932,8 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
+
+- domain: mudkip.dev
+  url: https://mudkip.dev
+  size: 23.8
+  last_checked: 2024-05-27
