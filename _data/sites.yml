@@ -2378,6 +2378,11 @@
   size: 366
   last_checked: 2023-06-18
 
+- domain: mudkip.dev
+  url: https://mudkip.dev
+  size: 27.33
+  last_checked: 2024-05-27
+
 - domain: mulph.ie
   url: https://mulph.ie/
   size: 196
@@ -3932,8 +3937,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-
-- domain: mudkip.dev
-  url: https://mudkip.dev
-  size: 27.33
-  last_checked: 2024-05-27
