@@ -1358,6 +1358,11 @@
   size: 55.8
   last_checked: 2023-02-02
 
+- domain: fiala.space
+  url: https://fiala.space/
+  size: 53.38
+  last_checked: 2024-05-31
+
 - domain: figcat.com
   url: https://figcat.com/
   size: 96
@@ -3947,8 +3952,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-
-- domain: fiala.space
-  url: https://fiala.space/
-  size: 53.38
-  last_checked: 2024-05-31
