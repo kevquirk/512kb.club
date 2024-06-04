@@ -1048,6 +1048,11 @@
   size: 31.2
   last_checked: 2022-05-06
 
+- domain: demidfr.com
+  url: https://demidfr.com/
+  size: 13.44
+  last_checked: 2024-06-04
+
 - domain: denisdefreyne.com
   url: https://denisdefreyne.com/
   size: 404.6
@@ -3957,8 +3962,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-
-- domain: demidfr.com
-  url: https://demidfr.com/
-  size: 13.44
-  last_checked: 2024-06-04
