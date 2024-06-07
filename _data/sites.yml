@@ -3573,6 +3573,11 @@
   size: 9.24
   last_checked: 2024-03-27
 
+- domain: tuxilio.codeberg.page
+  url: https://tuxilio.codeberg.page/
+  size: 26.02
+  last_checked: 2024-06-07
+
 - domain: twobiers.github.io
   url: https://twobiers.github.io/
   size: 68.77
