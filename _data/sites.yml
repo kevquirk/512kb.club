@@ -1728,6 +1728,11 @@
   size: 44.63
   last_checked: 2024-02-19
 
+- domain: iris.eus
+  url: https://iris.eus/
+  size: 36.53
+  last_checked: 2024-06-08
+
 - domain: italianpoetry.it
   url: https://italianpoetry.it/
   size: 362
@@ -3362,6 +3367,11 @@
   url: https://susam.net/
   size: 9.51
   last_checked: 2022-12-11
+
+- domain: taavi.wtf
+  url: https://taavi.wtf/
+  size: 218.48
+  last_checked: 2024-06-08
 
 - domain: tanami.org
   url: https://tanami.org/
