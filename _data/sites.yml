@@ -3993,7 +3993,7 @@
   size: 28.07
   last_checked: 2024-02-11
 
-  - domain: crism.ro
-    url: https://crism.ro/
-    size: 124.94
-    last_checked: 2024-06-16
+- domain: crism.ro
+  url: https://crism.ro/
+  size: 124.94
+  last_checked: 2024-06-16
