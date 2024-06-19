@@ -378,6 +378,11 @@
   size: 502
   last_checked: 2022-01-30
 
+- domain: baysonfox.com
+  url: https://baysonfox.com
+  size: 188
+  last_checked: 2024-06-18
+
 - domain: bbbhltz.codeberg.page
   url: https://bbbhltz.codeberg.page
   size: 70.8
