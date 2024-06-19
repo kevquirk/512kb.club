@@ -843,6 +843,11 @@
   size: 434
   last_checked: 2022-05-15
 
+- domain: co2.fyi
+  url: https://co2.fyi/
+  size: 145.31
+  last_checked: 2024-06-19
+
 - domain: code.strigo.cc
   url: https://code.strigo.cc/
   size: 128
@@ -4002,8 +4007,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-
-- domain: co2.fyi
-  url: https://co2.fyi/
-  size: 145.31
-  last_checked: 2024-06-19
