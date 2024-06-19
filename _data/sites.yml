@@ -918,6 +918,11 @@
   size: 30.2
   last_checked: 2022-04-26
 
+- domain: crism.ro
+  url: https://crism.ro/
+  size: 124.94
+  last_checked: 2024-06-16
+
 - domain: crooked.ink
   url: https://crooked.ink
   size: 155.23
@@ -3997,8 +4002,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-
-- domain: crism.ro
-  url: https://crism.ro/
-  size: 124.94
-  last_checked: 2024-06-16
