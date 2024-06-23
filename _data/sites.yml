@@ -1,8 +1,3 @@
-- domain: blog.mni.li
-  url: https://blog.mni.li/
-  size: 143.98
-  last_checked: 2024-06-22
-
 - domain: 0xedward.io
   url: https://0xedward.io/
   size: 6.2
@@ -552,6 +547,11 @@
   url: https://blog.libove.org
   size: 103
   last_checked: 2022-08-31
+
+- domain: blog.mni.li
+  url: https://blog.mni.li/
+  size: 143.98
+  last_checked: 2024-06-22
 
 - domain: blog.muzzug.com
   url: https://blog.muzzug.com/
