@@ -2263,6 +2263,11 @@
   size: 221.8
   last_checked: 2024-04-26
 
+- domain: matanabudy.com
+  url: https://matanabudy.com/
+  size: 31.29
+  last_checked: 2024-06-25
+
 - domain: mataroa.blog
   url: https://mataroa.blog/
   size: 21.3
@@ -4037,8 +4042,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-
-- domain: matanabudy.com
-  url: https://matanabudy.com/
-  size: 31.29
-  last_checked: 2024-06-25
