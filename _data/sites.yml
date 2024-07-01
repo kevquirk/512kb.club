@@ -333,6 +333,11 @@
   size: 213
   last_checked: 2022-05-06
 
+- domain: avidseeker.github.io
+  url: https://avidseeker.github.io
+  size: 13.13
+  last_checked: 2024-06-30
+
 - domain: awesomesheep48.ca
   url: https://awesomesheep48.ca
   size: 10.1
@@ -4057,8 +4062,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-
-- domain: avidseeker.github.io
-  url: https://avidseeker.github.io
-  size: 13.13
-  last_checked: 2024-06-30
