@@ -3493,6 +3493,11 @@
   size: 92.6
   last_checked: 2022-04-26
 
+- domain: thatmlopsguy.github.io
+  url: https://thatmlopsguy.github.io/
+  size: 165.9
+  last_checked: 2024-07-01
+
 - domain: thaumatorium.com
   url: https://thaumatorium.com/
   size: 53.3
@@ -4067,8 +4072,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-
-- domain: thatmlopsguy.github.io
-  url: https://thatmlopsguy.github.io/
-  size: 165.9
-  last_checked: 2024-07-01
