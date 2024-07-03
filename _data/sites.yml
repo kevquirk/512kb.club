@@ -1133,6 +1133,11 @@
   size: 14.9
   last_checked: 2022-05-05
 
+- domain: dostoynikov.com
+  url: https://dostoynikov.com/
+  size: 9.11
+  last_checked: 2024-07-02
+
 - domain: dotfilehub.com
   url: https://dotfilehub.com/
   size: 7.8
@@ -4082,8 +4087,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-
-- domain: dostoynikov.com
-  url: https://dostoynikov.com/
-  size: 9.11
-  last_checked: 2024-07-02
