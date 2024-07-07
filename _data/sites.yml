@@ -1,8 +1,3 @@
-- domain: kchousos.github.io
-  url: https://kchousos.github.io/
-  size: 56.74
-  last_checked: 2024-07-05
-
 - domain: 0xedward.io
   url: https://0xedward.io/
   size: 6.2
@@ -2047,6 +2042,11 @@
   url: https://www.kaukokaipuu.xyz/
   size: 89.0
   last_checked: 2023-09-24
+
+- domain: kchousos.github.io
+  url: https://kchousos.github.io/
+  size: 56.74
+  last_checked: 2024-07-05
 
 - domain: kealanparr.com
   url: https://kealanparr.com/
