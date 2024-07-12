@@ -1,8 +1,3 @@
-- domain: jesse.cafe
-  url: https://jesse.cafe/
-  size: 8.93
-  last_checked: 2024-07-10
-
 - domain: 0xedward.io
   url: https://0xedward.io/
   size: 6.2
@@ -1927,6 +1922,11 @@
   url: https://jeremysarber.com/
   size: 10.1
   last_checked: 2022-04-26
+
+- domain: jesse.cafe
+  url: https://jesse.cafe/
+  size: 8.93
+  last_checked: 2024-07-10
 
 - domain: jf17.ru
   url: https://jf17.ru/
