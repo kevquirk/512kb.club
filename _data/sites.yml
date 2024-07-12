@@ -4124,6 +4124,6 @@
   last_checked: 2024-02-11
 
 - domain: fedicraft.org
-  url: https://fedicraft.org/ (Make sure you keep the trailing slash)
+  url: https://fedicraft.org/
   size: 149.23
   last_checked: 2024-07-12
