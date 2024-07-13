@@ -1,13 +1,3 @@
-- domain: litew.pages.dev
-  url: https://crtv.pages.dev/
-  size: 8.08
-  last_checked: 2024-07-13
-
-- domain: crtv.pages.dev
-  url: https://crtv.pages.dev/
-  size: 64.12
-  last_checked: 2024-07-13
-
 - domain: 0xedward.io
   url: https://0xedward.io/
   size: 6.2
@@ -952,6 +942,11 @@
   url: https://crooked.ink
   size: 155.23
   last_checked: 2022-05-20
+
+- domain: crtv.pages.dev
+  url: https://crtv.pages.dev/
+  size: 64.12
+  last_checked: 2024-07-13
 
 - domain: cschad.com
   url: https://cschad.com
@@ -2187,6 +2182,11 @@
   url: https://lightningwright.net/
   size: 63.3
   last_checked: 2023-11-06
+
+- domain: litew.pages.dev
+  url: https://crtv.pages.dev/
+  size: 8.08
+  last_checked: 2024-07-13
 
 - domain: littlezhang.com
   url: https://littlezhang.com/
