@@ -1398,6 +1398,11 @@
   size: 237
   last_checked: 2022-05-15
 
+- domain: fedicraft.org
+  url: https://fedicraft.org/
+  size: 149.23
+  last_checked: 2024-07-12
+
 - domain: fem.lol
   url: https://fem.lol/
   size: 302
@@ -4122,8 +4127,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-
-- domain: fedicraft.org
-  url: https://fedicraft.org/
-  size: 149.23
-  last_checked: 2024-07-12
