@@ -1168,6 +1168,11 @@
   size: 66.2
   last_checked: 2022-04-26
 
+- domain: ducks.party
+  url: https://ducks.party/s3
+  size: 225.7
+  last_checked: 2024-07-16
+
 - domain: duechiacchiere.it
   url: https://duechiacchiere.it/
   size: 181
@@ -4137,8 +4142,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-
-- domain: ducks.party
-  url: https://ducks.party/s3
-  size: 225.7
-  last_checked: 2024-07-16
