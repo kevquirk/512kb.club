@@ -1,8 +1,3 @@
-- domain: joshua.dog
-  url: https://joshua.dog/
-  size: 454.35
-  last_checked: 2024-07-20
-  
 - domain: 0xedward.io
   url: https://0xedward.io/
   size: 6.2
@@ -2022,6 +2017,11 @@
   url: https://joshkasuboski.com/
   size: 163
   last_checked: 2022-04-26
+
+- domain: joshua.dog
+  url: https://joshua.dog/
+  size: 454.35
+  last_checked: 2024-07-20
 
 - domain: joshualiu.org
   url: https://www.joshualiu.org/
