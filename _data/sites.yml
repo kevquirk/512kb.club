@@ -1593,6 +1593,11 @@
   size: 9.83
   last_checked: 2024-07-05
 
+- domain: grishy.dev
+  url: https://grishy.dev/
+  size: 160.94
+  last_checked: 2024-06-20
+
 - domain: groganburners.ie
   url: https://www.groganburners.ie/
   size: 472
@@ -4142,8 +4147,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-
-- domain: grishy.dev
-  url: https://grishy.dev/
-  size: 160.94
-  last_checked: 2024-06-20
