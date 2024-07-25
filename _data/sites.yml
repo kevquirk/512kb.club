@@ -4098,6 +4098,11 @@
   size: 255
   last_checked: 2022-10-28
 
+- domain: zacharykai.net
+  url: http://zacharykai.net
+  size: 132.94
+  last_checked: 2024-07-23
+  
 - domain: zagura.one
   url: https://zagura.one
   size: 47.39
