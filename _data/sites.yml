@@ -13,11 +13,6 @@
   size: 25.6
   last_checked: 2022-03-20
 
-- domain: pra9.com
-  url: https://pra9.com
-  size: 137.2
-  last_checked: 2024-07-24
-
 - domain: 10maurycy10.github.io
   url: https://10maurycy10.github.io/
   size: 20.2
@@ -2932,6 +2927,11 @@
   url: https://pothix.com/
   size: 183
   last_checked: 2022-03-18
+
+- domain: pra9.com
+  url: https://pra9.com
+  size: 137.2
+  last_checked: 2024-07-24
 
 - domain: pre.hn
   url: https://pre.hn/
