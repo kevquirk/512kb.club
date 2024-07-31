@@ -1,8 +1,3 @@
-- domain: sexiarz.com
-  url: https://sexiarz.com/
-  size: 304.74
-  last_checked: 2024-07-26
-
 - domain: 0xedward.io
   url: https://0xedward.io/
   size: 6.2
@@ -3332,6 +3327,11 @@
   url: http://serhack.me/
   size: 461
   last_checked: 2022-01-29
+
+- domain: sexiarz.com
+  url: https://sexiarz.com/
+  size: 304.74
+  last_checked: 2024-07-26
 
 - domain: sexnine.xyz
   url: https://sexnine.xyz/
