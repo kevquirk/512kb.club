@@ -1,8 +1,3 @@
-- domain: blog.96khz.net
-  url: https://blog.96khz.net/
-  size: 15.8
-  last_checked: 2024-08-03
-
 - domain: 0xedward.io
   url: https://0xedward.io/
   size: 6.2
@@ -497,6 +492,11 @@
   url: https://block.sunappu.net/
   size: 193
   last_checked: 2022-04-16
+
+- domain: blog.96khz.net
+  url: https://blog.96khz.net/
+  size: 15.8
+  last_checked: 2024-08-03
 
 - domain: blog.benoitj.ca
   url: https://blog.benoitj.ca/
