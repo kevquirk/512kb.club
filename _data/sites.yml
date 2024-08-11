@@ -2168,6 +2168,11 @@
   size: 12.2
   last_checked: 2022-01-13
 
+- domain: ladybenko.net
+  url: https://ladybenko.net/
+  size: 14.33
+  last_checked: 2024-08-10
+
 - domain: lanzani.nl
   url: https://www.lanzani.nl
   size: 65.1
@@ -4207,8 +4212,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-
-- domain: ladybenko.net
-  url: https://ladybenko.net/
-  size: 14.33
-  last_checked: 2024-08-10
