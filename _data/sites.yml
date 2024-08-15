@@ -1,8 +1,3 @@
-- domain: architjain-512.pages.dev
-  url: https://architjain-512.pages.dev/
-  size: 430.7
-  last_checked: 2024-08-12
-
 - domain: 0xedward.io
   url: https://0xedward.io/
   size: 6.2
@@ -257,6 +252,11 @@
   url: https://www.archaeoramblings.com/
   size: 26.4
   last_checked: 2024-02-18
+
+- domain: architjain-512.pages.dev
+  url: https://architjain-512.pages.dev/
+  size: 430.7
+  last_checked: 2024-08-12
 
 - domain: arghyadeep.in
   url: https://arghyadeep.in/
