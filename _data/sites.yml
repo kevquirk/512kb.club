@@ -3,21 +3,6 @@
   size: 6.2
   last_checked: 2022-05-13
 
-- domain: merisia.ca
-  url: https://www.merisia.ca/
-  size: 396.77
-  last_checked: 2024-08-23
-
-- domain: enattendantpauline.ca
-  url: https://www.enattendantpauline.ca/
-  size: 93.42
-  last_checked: 2024-08-23
-
-- domain: benjaminrancourt.ca
-  url: https://www.benjaminrancourt.ca/
-  size: 297.24
-  last_checked: 2024-08-23
-
 - domain: 0xff.nu
   url: https://0xff.nu/
   size: 7.2
@@ -432,6 +417,11 @@
   url: https://bellacoolaharbour.ca/
   size: 162.57
   last_checked: 2024-06-08
+
+- domain: benjaminrancourt.ca
+  url: https://www.benjaminrancourt.ca/
+  size: 297.24
+  last_checked: 2024-08-23
 
 - domain: benrosenberg.info
   url: http://benrosenberg.info/
@@ -1322,6 +1312,11 @@
   url: https://emman.dev
   size: 481
   last_checked: 2022-10-05
+
+- domain: enattendantpauline.ca
+  url: https://www.enattendantpauline.ca/
+  size: 93.42
+  last_checked: 2024-08-23
 
 - domain: enesergun.net
   url: https://enesergun.net
@@ -2477,6 +2472,11 @@
   url: https://meribold.org/
   size: 19.9
   last_checked: 2022-05-15
+
+- domain: merisia.ca
+  url: https://www.merisia.ca/
+  size: 396.77
+  last_checked: 2024-08-23
 
 - domain: mha.fi
   url: https://mha.fi/
