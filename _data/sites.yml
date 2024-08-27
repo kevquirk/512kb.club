@@ -2888,6 +2888,11 @@
   size: 32.91
   last_checked: 2024-01-16
 
+- domain: peterkeenan.net
+  url: https://peterkeenan.net/
+  size: 68.71
+  last_checked: 2024-08-25
+
 - domain: pez.solutions
   url: https://pez.solutions
   size: 12.38
@@ -4262,8 +4267,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-
-- domain: peterkeenan.net
-  url: https://peterkeenan.net/
-  size: 68.71
-  last_checked: 2024-08-25
