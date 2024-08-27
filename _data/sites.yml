@@ -2763,6 +2763,11 @@
   size: 89.0
   last_checked: 2022-06-25
 
+- domain: orbitalmartian.codeberg.page
+  url: https://orbitalmartian.codeberg.org/
+  size: 142.25
+  last_checked: 2024-08-25
+
 - domain: order332.com
   url: https://order332.com/
   size: 372
@@ -4257,8 +4262,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-
-- domain: orbitalmartian.codeberg.page
-  url: https://orbitalmartian.codeberg.org/
-  size: 142.25
-  last_checked: 2024-08-25
