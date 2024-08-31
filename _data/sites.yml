@@ -3148,6 +3148,11 @@
   size: 6.93
   last_checked: 2022-04-01
 
+- domain: redesign.by
+  url: https://redesign.by/
+  size: 341
+  last_checked: 2024-08-29
+
 - domain: redmanmale.com
   url: https://redmanmale.com/
   size: 27.6
@@ -4267,7 +4272,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-- domain: redesign.by
-  url: https://redesign.by/
-  size: 341
-  last_checked: 2024-08-29
