@@ -2313,6 +2313,11 @@
   size: 77.4
   last_checked: 2022-05-14
 
+- domain: lukron.xyz
+  url: https://lukron.xyz
+  size: 71.67
+  last_checked: 2024-08-29
+
 - domain: lunar.icu
   url: https://lunar.icu/
   size: 218
@@ -4272,8 +4277,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-
-- domain: lukron.xyz
-  url: https://lukron.xyz
-  size: 71.67
-  last_checked: 2024-08-29
