@@ -1673,6 +1673,11 @@
   size: 26.6
   last_checked: 2022-10-08
 
+- domain: hangibalik.com.tr
+  url: https://hangibalik.com.tr/
+  size: 434.99
+  last_checked: 2024-08-31
+
 - domain: hashtagueule.fr
   url: https://hashtagueule.fr
   size: 59.5
@@ -4287,9 +4292,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-
-- domain: hangibalik.com.tr
-  url: https://hangibalik.com.tr/
-  size: 434.99
-  last_checked: 2024-08-31
-
