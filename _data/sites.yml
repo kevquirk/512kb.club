@@ -1783,6 +1783,11 @@
   size: 9.43
   last_checked: 2022-05-31
 
+- domain: hunden.linuxkompis.se
+  url: https://hunden.linuxkompis.se
+  size: 30.47
+  last_checked: 2024-09-15
+
 - domain: hybras.dev
   url: https://hybras.dev/
   size: 302
@@ -4317,8 +4322,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-
-- domain: hunden.linuxkompis.se
-  url: https://hunden.linuxkompis.se
-  size: 30.47
-  last_checked: 2024-09-15
