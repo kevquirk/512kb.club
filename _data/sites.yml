@@ -1278,6 +1278,11 @@
   size: 7.5
   last_checked: 2022-05-05
 
+- domain: ejv2.cc
+  url: https://ejv2.cc/
+  size: 221.54
+  last_checked: 2024-09-16
+
 - domain: eklausmeier.goip.de
   url: https://eklausmeier.goip.de/
   size: 27.9
@@ -4327,8 +4332,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-
-- domain: ejv2.cc
-  url: https://ejv2.cc/
-  size: 221.54
-  last_checked: 2024-09-16
