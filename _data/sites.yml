@@ -2493,6 +2493,11 @@
   size: 152
   last_checked: 2022-03-17
 
+- domain: mei.puppycat.house
+  url: https://mei.puppycat.house/
+  size: 485.51
+  last_checked: 2024-09-15
+
 - domain: melroy.org
   url: https://melroy.org
   size: 38.4
@@ -2507,11 +2512,6 @@
   url: https://www.merisia.ca/
   size: 396.77
   last_checked: 2024-08-23
-
-- domain: mei.puppycat.house
-  url: https://mei.puppycat.house/
-  size: 485.51
-  last_checked: 2024-09-15
 
 - domain: mha.fi
   url: https://mha.fi/
