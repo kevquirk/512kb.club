@@ -1,8 +1,3 @@
-- domain: ficd.ca
-  url: https://ficd.ca/
-  size: 38.6
-  last_checked: 2024-09-24
-
 - domain: 0xedward.io
   url: https://0xedward.io/
   size: 6.2
@@ -1487,6 +1482,11 @@
   url: https://fiala.space/
   size: 323.75
   last_checked: 2024-06-23
+
+- domain: ficd.ca
+  url: https://ficd.ca/
+  size: 38.6
+  last_checked: 2024-09-24
 
 - domain: figcat.com
   url: https://figcat.com/
