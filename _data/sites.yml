@@ -288,11 +288,6 @@
   size: 502
   last_checked: 2022-01-30
 
-- domain: bbbhltz.codeberg.page
-  url: https://bbbhltz.codeberg.page
-  size: 70.8
-  last_checked: 2023-08-30
-
 - domain: bduck.xyz
   url: https://bduck.xyz/
   size: 249
@@ -467,6 +462,11 @@
   url: https://bmoat.com/
   size: 90.1
   last_checked: 2023-04-22
+
+- domain: bobbyhiltz.com
+  url: https://bobbyhiltz.com
+  size: 29
+  last_checked: 2024-10-27
 
 - domain: boehs.org
   url: http://boehs.org/
