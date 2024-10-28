@@ -133,6 +133,11 @@
   size: 113
   last_checked: 2023-04-28
 
+- domain: ajazz.neocities.org
+  url: https://ajazz.neocities.org/
+  size: 219.83
+  last_checked: 2024-10-05
+
 - domain: aklsh.me
   url: https://aklsh.me/
   size: 296
@@ -4372,8 +4377,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-
-- domain: ajazz.neocities.org
-  url: https://ajazz.neocities.org/
-  size: 219.83
-  last_checked: 2024-10-05
