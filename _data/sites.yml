@@ -773,6 +773,11 @@
   size: 338
   last_checked: 2022-02-11
 
+- domain: cari-lin.com
+  url: https://cari-lin.com/
+  size: 288.45
+  last_checked: 2024-10-24
+
 - domain: cashx.pages.dev
   url: https://cashx.pages.dev/
   size: 21.79
@@ -4402,8 +4407,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-
-- domain: cari-lin.com
-  url: https://cari-lin.com/
-  size: 288.45
-  last_checked: 2024-10-24
