@@ -3288,6 +3288,11 @@
   size: 9.45
   last_checked: 2022-08-20
 
+- domain: rishikeshs.com
+  url: https://rishikeshs.com/
+  size: 128.22
+  last_checked: 2024-10-06
+
 - domain: rldane.space
   url: https://rldane.space/
   size: 131.2
@@ -4377,8 +4382,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-
-- domain: rishikeshs.com
-  url: https://rishikeshs.com/
-  size: 128.22
-  last_checked: 2024-10-06
