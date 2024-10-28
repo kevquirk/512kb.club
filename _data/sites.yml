@@ -928,6 +928,11 @@
   size: 52.45
   last_checked: 2024-06-27
 
+- domain: conor.zone
+  url: https://conor.zone/
+  size: 284.46
+  last_checked: 2024-10-09
+
 - domain: conorknowles.com
   url: https://conorknowles.com/
   size: 5.08
@@ -4387,9 +4392,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-
-- domain: conor.zone
-  url: https://conor.zone/
-  size: 284.46
-  last_checked: 2024-10-09
-  
