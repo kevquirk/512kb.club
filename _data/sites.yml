@@ -418,6 +418,11 @@
   size: 249
   last_checked: 2022-05-15
 
+- domain: beardnuggets.com
+  url: https://beardnuggets.com/
+  size: 261.45
+  last_checked: 2024-10-08
+
 - domain: bebyx.co.ua
   url: https://bebyx.co.ua/
   size: 8.5
@@ -4412,8 +4417,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-
-- domain: beardnuggets.com
-  url: https://beardnuggets.com/
-  size: 261.45
-  last_checked: 2024-10-08
