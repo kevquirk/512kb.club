@@ -1048,6 +1048,11 @@
   size: 245
   last_checked: 2023-01-20
 
+- domain: cy7.sh
+  url: https://cy7.sh/
+  size: 23.09
+  last_checked: 2024-10-29
+
 - domain: cyber-diocletian.github.io
   url: https://cyber-diocletian.github.io/
   size: 47.3
@@ -4422,8 +4427,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-
-- domain: cy7.sh
-  url: https://cy7.sh/
-  size: 23.09
-  last_checked: 2024-10-29
