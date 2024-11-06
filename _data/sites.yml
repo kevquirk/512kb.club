@@ -1953,6 +1953,11 @@
   size: 191
   last_checked: 2023-07-11
 
+- domain: j4nk.dev
+  url: https://j4nk.dev/
+  size: 232.33
+  last_checked: 2024-11-03
+
 - domain: jackbailey.dev
   url: https://jackbailey.dev/
   size: 338.21
@@ -4442,8 +4447,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-
-- domain: j4nk.dev
-  url: https://j4nk.dev/
-  size: 232.33
-  last_checked: 2024-11-03
