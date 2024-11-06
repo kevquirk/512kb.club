@@ -318,6 +318,11 @@
   size: 348
   last_checked: 2022-03-20
 
+- domain: ashishpanigrahi.com
+  url: https://ashishpanigrahi.com
+  size: 195.72
+  last_checked: 2024-11-02
+
 - domain: asindu.xyz
   url: https://asindu.xyz/
   size: 264
@@ -4437,8 +4442,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-
-- domain: ashishpanigrahi.com
-  url: https://ashishpanigrahi.com
-  size: 195.72
-  last_checked: 2024-11-02
