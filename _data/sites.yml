@@ -3628,6 +3628,11 @@
   size: 17.3
   last_checked: 2022-05-06
 
+- domain: sjaks.iki.fi
+  url: https://sjaks.iki.fi/
+  size: 57.87
+  last_checked: 2024-03-11
+
 - domain: slashdev.space
   url: https://slashdev.space/
   size: 400
@@ -4447,8 +4452,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-
-- domain: sjaks.iki.fi
-  url: https://sjaks.iki.fi/
-  size: 57.87
-  last_checked: 2024-03-11
