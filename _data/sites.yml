@@ -138,6 +138,11 @@
   size: 113
   last_checked: 2023-04-28
 
+- domain: aidxn.fun
+  url: https://aidxn.fun/
+  size: 138.45
+  last_checked: 2024-11-08
+
 - domain: ajazz.neocities.org
   url: https://ajazz.neocities.org/
   size: 219.83
@@ -4457,8 +4462,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-
-- domain: aidxn.fun
-  url: https://aidxn.fun/
-  size: 138.45
-  last_checked: 2024-11-08
