@@ -2023,6 +2023,11 @@
   size: 86.74
   last_checked: 2024-01-30
 
+- domain: jangobrecht.com
+  url: https://jangobrecht.com/
+  size: 15.90
+  last_checked: 2024-11-15
+
 - domain: janilowski.pl
   url: https://janilowski.pl/
   size: 70.89
@@ -4467,8 +4472,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-
-- domain: jangobrecht.com
-  url: https://jangobrecht.com/
-  size: 15.90
-  last_checked: 2024-11-15
