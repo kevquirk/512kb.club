@@ -1148,10 +1148,10 @@
   size: 69.5
   last_checked: 2022-05-06
 
-- domain: daudix.codeberg.page
-  url: https://daudix.codeberg.page/
-  size: 40.8
-  last_checked: 2024-01-28
+- domain: daudix.one
+  url: https://daudix.one/home/
+  size: 497.58
+  last_checked: 2024-11-16
 
 - domain: david.ae
   url: https://david.ae/
@@ -1197,11 +1197,6 @@
   url: https://devilinside.me
   size: 326
   last_checked: 2022-11-21
-
-- domain: devprogrammer.com
-  url: https://devprogrammer.com/
-  size: 188
-  last_checked: 2023-11-26
 
 - domain: dhruvasambrani.github.io
   url: https://dhruvasambrani.github.io/blog/
@@ -1347,6 +1342,11 @@
   url: http://ekuttan.me/
   size: 192
   last_checked: 2022-08-24
+
+- domain: eleboog.com
+  url: https://eleboog.com
+  size: 263.02
+  last_checked: 2024-11-14
 
 - domain: eliakr.github.io
   url: https://eliakr.github.io/moriacalc/thetiki.html
@@ -2077,6 +2077,11 @@
   url: https://jesse.cafe/
   size: 8.93
   last_checked: 2024-07-10
+
+- domain: jesuspavonabian.es
+  url: https://jesuspavonabian.es/
+  size: 70.25
+  last_checked: 2024-11-11
 
 - domain: jf17.ru
   url: https://jf17.ru/
@@ -4345,8 +4350,8 @@
 
 - domain: yordi.me
   url: https://yordi.me/
-  size: 99.75
-  last_checked: 2024-06-19
+  size: 59.28
+  last_checked: 2024-10-11
 
 - domain: youify.xyz
   url: https://youify.xyz
@@ -4467,3 +4472,8 @@
   url: https://pavel.pikirenia.me/
   size: 92.33
   last_checked: 2024-11-18
+
+- domain: jangobrecht.com
+  url: https://jangobrecht.com/
+  size: 15.90
+  last_checked: 2024-11-15
