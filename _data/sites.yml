@@ -148,6 +148,11 @@
   size: 219.83
   last_checked: 2024-10-05
 
+- domain: akgb.neocities.org
+  url: https://akgb.neocities.org/
+  size: 9.81
+  last_checked: 2024-11-30
+
 - domain: aklsh.me
   url: https://aklsh.me/
   size: 296
@@ -312,11 +317,6 @@
   url: https://artemislena.eu/
   size: 40.0
   last_checked: 2022-05-15
-
-- domain: aruniverse.neocities.org
-  url: https://aruniverse.neocities.org/
-  size: 44.24
-  last_checked: 2024-06-01
 
 - domain: aryan.app
   url: https://aryan.app/
