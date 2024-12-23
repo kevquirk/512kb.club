@@ -2318,6 +2318,11 @@
   size: 65.1
   last_checked: 2024-03-08
 
+- domain: lars-christian.com
+  url: https://lars-christian.com/
+  size: 72.55
+  last_checked: 2024-11-25
+
 - domain: lazy-gamer.net
   url: https://lazy-gamer.net/
   size: 111
@@ -4487,9 +4492,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-
-- domain: lars-christian.com
-  url: https://lars-christian.com/
-  size: 72.55
-  last_checked: 2024-11-25
-  
