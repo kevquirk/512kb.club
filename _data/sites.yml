@@ -1903,6 +1903,11 @@
   size: 194.0
   last_checked: 2022-04-21
 
+- domain: icealtria.github.io
+  url: https://icealtria.github.io/
+  size: 75.07
+  last_checked: 2024-11-29
+
 - domain: ig.emnace.org
   url: https://ig.emnace.org/
   size: 3.5
@@ -4492,8 +4497,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-
-- domain: icealtria.github.io
-  url: https://icealtria.github.io/
-  size: 75.07
-  last_checked: 2024-11-29
