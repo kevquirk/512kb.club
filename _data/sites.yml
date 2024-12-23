@@ -303,11 +303,6 @@
   size: 61.9
   last_checked: 2023-04-30
 
-- domain: aroace.space
-  url: https://aroace.space/
-  size: 186
-  last_checked: 2022-05-05
-
 - domain: artemislena.eu
   url: https://artemislena.eu/
   size: 40.0
@@ -1612,11 +1607,6 @@
   url: https://francescoro.si/
   size: 196.21
   last_checked: 2024-10-20
-
-- domain: freebee.fun
-  url: https://freebee.fun/play/
-  size: 36.0
-  last_checked: 2022-05-06
 
 - domain: fullbl.it
   url: https://fullbl.it
@@ -4342,11 +4332,6 @@
   url: https://xameren.fsky.io/
   size: 87.89
   last_checked: 2024-12-22
-
-- domain: xameren.repl.co
-  url: https://xameren.repl.co/
-  size: 56.6
-  last_checked: 2023-05-01
 
 - domain: xidoc.nim.town
   url: http://xidoc.nim.town/
