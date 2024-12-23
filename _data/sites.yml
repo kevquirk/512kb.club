@@ -1423,6 +1423,11 @@
   size: 6.5
   last_checked: 2022-05-05
 
+- domain: ersei.net
+  url: https://ersei.net/
+  size: 162.79
+  last_checked: 2024-12-08
+
 - domain: esta.la
   url: https://esta.la/
   size: 471
@@ -4512,8 +4517,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-
-- domain: ersei.net
-  url: https://ersei.net/
-  size: 162.79
-  last_checked: 2024-12-08
