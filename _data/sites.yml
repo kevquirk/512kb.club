@@ -3798,6 +3798,11 @@
   size: 188
   last_checked: 2022-04-26
 
+- domain: sudanchapagain.com.np
+  url: https://sudanchapagain.com.np
+  size: 30.12
+  last_checked: 2024-12-25
+
 - domain: sudocss.vercel.app
   url: https://sudocss.vercel.app/
   size: 73.23
