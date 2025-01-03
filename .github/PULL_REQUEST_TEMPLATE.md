@@ -17,7 +17,7 @@ This PR is:
 *Do not tick a checkbox if you haven’t performed its action.* Honesty is indispensable for a smooth review process.
 -->
 
-- [ ] I used the uncompressed size of the site
+- [ ] I used the **exact** uncompressed size of the site
 - [ ] I have included a link to the Cloudflare report
 - [ ] This site is not an ultra minimal site
 - [ ] The following information is filled identical to the data file
