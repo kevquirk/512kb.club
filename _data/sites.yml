@@ -3058,6 +3058,11 @@
   size: 124
   last_checked: 2023-11-20
 
+- domain: perrotta.dev
+  url: https://perrotta.dev/
+  size: 33.87
+  last_checked: 2025-01-01
+
 - domain: person-al.github.io
   url: https://person-al.github.io/
   size: 66.3
@@ -4522,8 +4527,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-
-- domain: perrotta.dev
-  url: https://perrotta.dev/
-  size: 33.87
-  last_checked: 2025-01-01
