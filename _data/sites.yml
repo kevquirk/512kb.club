@@ -1,7 +1,3 @@
-- domain: sean.cyou
-  url: https://sean.cyou/
-  size: 291.38
-  last_checked: 2025-01-09
 - domain: 0xedward.io
   url: https://0xedward.io/
   size: 6.2
@@ -3601,6 +3597,11 @@
   url: https://scottk.mba/
   size: 19.7
   last_checked: 2023-06-16
+
+- domain: sean.cyou
+  url: https://sean.cyou/
+  size: 291.38
+  last_checked: 2025-01-09
 
 - domain: searchcandy.uk
   url: https://www.searchcandy.uk/
