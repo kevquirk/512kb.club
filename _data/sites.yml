@@ -1173,6 +1173,11 @@
   size: 31.2
   last_checked: 2022-05-06
 
+- domain: dedications.fyi
+  url: https://dedications.fyi/
+  size: 294.12
+  last_checked: 2025-01-11
+
 - domain: demidfr.com
   url: https://demidfr.com/
   size: 13.44
@@ -1237,6 +1242,11 @@
   url: https://www.dpsg-toelz.de/
   size: 150
   last_checked: 2023-08-17
+
+- domain: drewsh.com
+  url: https://drewsh.com
+  size: 74.01
+  last_checked: 2025-01-17
 
 - domain: drkhsh.at
   url: https://drkhsh.at/
@@ -1342,6 +1352,11 @@
   url: http://ekuttan.me/
   size: 192
   last_checked: 2022-08-24
+
+- domain: eldred.fr
+  url: https://eldred.fr
+  size: 338.53
+  last_checked: 2024-12-23
 
 - domain: eleboog.com
   url: https://eleboog.com
@@ -1772,6 +1787,11 @@
   url: https://hashtagueule.fr
   size: 59.5
   last_checked: 2022-05-06
+
+- domain: hatedabamboo.me
+  url: https://hatedabamboo.me/
+  size: 48.79
+  last_checked: 2025-01-13
 
 - domain: havenweb.org
   url: https://havenweb.org/
@@ -2618,6 +2638,11 @@
   size: 152
   last_checked: 2022-03-17
 
+- domain: mehedisharif.com
+  url: https://mehedisharif.com/
+  size: 375.86
+  last_checked: 2024-12-27
+
 - domain: mei.puppycat.house
   url: https://mei.puppycat.house/
   size: 485.51
@@ -2657,6 +2682,11 @@
   url: https://miguelpimentel.do/
   size: 242.17
   last_checked: 2024-03-19
+
+- domain: mijndertstuij.nl
+  url: https://mijndertstuij.nl/
+  size: 60.42
+  last_checked: 2025-01-07
 
 - domain: mikebabb.com
   url: https://mikebabb.com/
@@ -3583,6 +3613,11 @@
   size: 19.7
   last_checked: 2023-06-16
 
+- domain: sean.cyou
+  url: https://sean.cyou/
+  size: 291.38
+  last_checked: 2025-01-09
+
 - domain: searchcandy.uk
   url: https://www.searchcandy.uk/
   size: 290
@@ -3797,6 +3832,11 @@
   url: https://stefdawson.com/
   size: 188
   last_checked: 2022-04-26
+
+- domain: stringpool.de
+  url: https://stringpool.de
+  size: 178.92
+  last_checked: 2025-01-06
 
 - domain: sudocss.vercel.app
   url: https://sudocss.vercel.app/
@@ -4532,3 +4572,8 @@
   url: https://blog.bytewerk.io/
   size: 57.84
   last_checked: 2025-01-13
+
+  - domain: findl.top
+    url: https://findl.top
+    size: 41.53
+    last_checked: 2025-01-13
