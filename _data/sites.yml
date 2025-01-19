@@ -1578,6 +1578,11 @@
   size: 90.54
   last_checked: 2024-06-23
 
+- domain: findl.top
+  url: https://findl.top
+  size: 41.53
+  last_checked: 2025-01-13
+
 - domain: flatpackapps.com
   url: https://flatpackapps.com/
   size: 29.9
@@ -4573,7 +4578,7 @@
   size: 57.84
   last_checked: 2025-01-13
 
-  - domain: findl.top
-    url: https://findl.top
-    size: 41.53
-    last_checked: 2025-01-13
+- domain: findl.top
+  url: https://findl.top
+  size: 41.53
+  last_checked: 2025-01-13
