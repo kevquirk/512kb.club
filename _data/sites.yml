@@ -1173,6 +1173,11 @@
   size: 31.2
   last_checked: 2022-05-06
 
+- domain: dedications.fyi
+  url: https://dedications.fyi/
+  size: 294.12
+  last_checked: 2025-01-11
+
 - domain: demidfr.com
   url: https://demidfr.com/
   size: 13.44
@@ -4552,8 +4557,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-
-- domain: dedications.fyi
-  url: https://dedications.fyi/
-  size: 294.12
-  last_checked: 2025-01-11
