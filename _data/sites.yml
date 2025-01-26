@@ -718,6 +718,11 @@
   size: 103.0
   last_checked: 2022-06-27
 
+- domain: bsmth.de
+  url: https://bsmth.de/
+  size: 175.17
+  last_checked: 2025-01-26
+
 - domain: bubble.email
   url: https://bubble.email
   size: 421.0
