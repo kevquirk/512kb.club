@@ -173,11 +173,6 @@
   size: 91.2
   last_checked: 2022-05-15
 
-- domain: alexeystar.com
-  url: https://alexeystar.com/
-  size: 7.43
-  last_checked: 2024-07-30
-
 - domain: alexmolas.com
   url: https://www.alexmolas.com
   size: 230
@@ -748,6 +743,11 @@
   size: 88
   last_checked: 2023-02-26
 
+- domain: bytewerk.io
+  url: https://blog.bytewerk.io/
+  size: 57.84
+  last_checked: 2025-01-13
+
 - domain: c.har.li
   url: https://c.har.li/e/
   size: 148
@@ -1173,6 +1173,11 @@
   size: 31.2
   last_checked: 2022-05-06
 
+- domain: dedications.fyi
+  url: https://dedications.fyi/
+  size: 294.12
+  last_checked: 2025-01-11
+
 - domain: demidfr.com
   url: https://demidfr.com/
   size: 13.44
@@ -1237,6 +1242,11 @@
   url: https://www.dpsg-toelz.de/
   size: 150
   last_checked: 2023-08-17
+
+- domain: drewsh.com
+  url: https://drewsh.com
+  size: 74.01
+  last_checked: 2025-01-17
 
 - domain: drkhsh.at
   url: https://drkhsh.at/
@@ -1348,6 +1358,11 @@
   size: 192
   last_checked: 2022-08-24
 
+- domain: eldred.fr
+  url: https://eldred.fr
+  size: 338.53
+  last_checked: 2024-12-23
+
 - domain: eleboog.com
   url: https://eleboog.com
   size: 263.02
@@ -1455,8 +1470,8 @@
 
 - domain: eugene-andrienko.com
   url: https://eugene-andrienko.com/
-  size: 222.45
-  last_checked: 2024-09-19
+  size: 89.31
+  last_checked: 2025-01-16
 
 - domain: evanhahn.com
   url: https://evanhahn.com/
@@ -1567,6 +1582,16 @@
   url: https://filmroellchen.eu/
   size: 90.54
   last_checked: 2024-06-23
+
+- domain: findl.top
+  url: https://findl.top
+  size: 41.53
+  last_checked: 2025-01-13
+
+- domain: findl.top
+  url: https://findl.top
+  size: 41.53
+  last_checked: 2025-01-13
 
 - domain: flatpackapps.com
   url: https://flatpackapps.com/
@@ -1777,6 +1802,11 @@
   url: https://hashtagueule.fr
   size: 59.5
   last_checked: 2022-05-06
+
+- domain: hatedabamboo.me
+  url: https://hatedabamboo.me/
+  size: 48.79
+  last_checked: 2025-01-13
 
 - domain: havenweb.org
   url: https://havenweb.org/
@@ -2623,6 +2653,11 @@
   size: 152
   last_checked: 2022-03-17
 
+- domain: mehedisharif.com
+  url: https://mehedisharif.com/
+  size: 375.86
+  last_checked: 2024-12-27
+
 - domain: mei.puppycat.house
   url: https://mei.puppycat.house/
   size: 485.51
@@ -2662,6 +2697,11 @@
   url: https://miguelpimentel.do/
   size: 242.17
   last_checked: 2024-03-19
+
+- domain: mijndertstuij.nl
+  url: https://mijndertstuij.nl/
+  size: 60.42
+  last_checked: 2025-01-07
 
 - domain: mikebabb.com
   url: https://mikebabb.com/
@@ -2852,6 +2892,11 @@
   url: https://nixnet.services/
   size: 175
   last_checked: 2022-04-26
+
+- domain: nizzlay.com
+  url: https://nizzlay.com/
+  size: 76.38
+  last_checked: 2025-01-14
 
 - domain: no-bs-repairs.com
   url: https://no-bs-repairs.com
@@ -3588,6 +3633,11 @@
   size: 19.7
   last_checked: 2023-06-16
 
+- domain: sean.cyou
+  url: https://sean.cyou/
+  size: 291.38
+  last_checked: 2025-01-09
+
 - domain: searchcandy.uk
   url: https://www.searchcandy.uk/
   size: 290
@@ -3802,6 +3852,11 @@
   url: https://stefdawson.com/
   size: 188
   last_checked: 2022-04-26
+
+- domain: stringpool.de
+  url: https://stringpool.de
+  size: 178.92
+  last_checked: 2025-01-06
 
 - domain: sudocss.vercel.app
   url: https://sudocss.vercel.app/
@@ -4122,6 +4177,11 @@
   url: https://www.unsungnovelty.org/
   size: 87.1
   last_checked: 2023-04-25
+
+- domain: uoftwebloggingclub.neocities.org
+  url: https://uoftwebloggingclub.neocities.org/
+  size: 295.35
+  last_checked: 2025-01-03
 
 - domain: usecue.com
   url: https://www.usecue.com/
