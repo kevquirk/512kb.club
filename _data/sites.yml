@@ -1903,6 +1903,11 @@
   size: 75.9
   last_checked: 2022-01-29
 
+- domain: hugosum.com
+  url: https://hugosum.com/
+  size: 406.45
+  last_checked: 2025-01-21
+
 - domain: huma.id
   url: https://huma.id/
   size: 9.43
@@ -4602,8 +4607,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-
-- domain: hugosum.com
-  url: https://hugosum.com/
-  size: 406.45
-  last_checked: 2025-01-21
