@@ -2778,6 +2778,11 @@
   size: 9.8
   last_checked: 2022-05-06
 
+- domain: mleduc.xyz
+  url: https://mleduc.xyz/
+  size: 456.35
+  last_checked: 2025-02-03
+
 - domain: mnsr.win
   url: https://mnsr.win/
   size: 9.61
@@ -4632,8 +4637,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-
-- domain: mleduc.xyz
-  url: https://mleduc.xyz/
-  size: 456.35
-  last_checked: 2025-02-03
