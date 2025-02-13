@@ -1,8 +1,3 @@
-- domain: frgmnt.art
-  url: https://frgmnt.art/
-  size: 126.3
-  last_checked: 2025-02-10
-
 - domain: 0xedward.io
   url: https://0xedward.io/
   size: 6.2
@@ -1662,6 +1657,11 @@
   url: https://francescoro.si/
   size: 196.21
   last_checked: 2024-10-20
+
+- domain: frgmnt.art
+  url: https://frgmnt.art/
+  size: 126.3
+  last_checked: 2025-02-10
 
 - domain: fullbl.it
   url: https://fullbl.it
