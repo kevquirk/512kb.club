@@ -3,11 +3,6 @@
   size: 6.2
   last_checked: 2022-05-13
 
-- domain: schoenlaub.dev
-  url: https://schoenlaub.dev/
-  size: 252.53
-  last_checked: 2025-02-07
-
 - domain: 0xff.nu
   url: https://0xff.nu/
   size: 7.2
@@ -3677,6 +3672,11 @@
   url: https://schnouki.net/
   size: 69.29
   last_checked: 2024-11-21
+
+- domain: schoenlaub.dev
+  url: https://schoenlaub.dev/
+  size: 252.53
+  last_checked: 2025-02-07
 
 - domain: scottishstoater.com
   url: https://www.scottishstoater.com/
