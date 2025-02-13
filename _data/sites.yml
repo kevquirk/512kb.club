@@ -3723,6 +3723,11 @@
   size: 84.4
   last_checked: 2022-05-15
 
+- domain: secondbreakfast.party
+  url: https://secondbreakfast.party
+  size: 5.99
+  last_checked: 2025-02-12
+
 - domain: seirdy.one
   url: https://seirdy.one/
   size: 20.6
@@ -4657,8 +4662,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-
-- domain: secondbreakfast.party
-  url: https://secondbreakfast.party
-  size: 5.99
-  last_checked: 2025-02-12
