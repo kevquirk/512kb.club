@@ -2078,6 +2078,11 @@
   size: 5.13
   last_checked: 2022-01-29
 
+- domain: jamaro.net
+  url: https://jamaro.net/
+  size: 79.25
+  last_checked: 2025-02-24
+
 - domain: jamesgreenblue.com
   url: https://jamesgreenblue.com/
   size: 102
@@ -4667,9 +4672,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-
-- domain: jamaro.net
-  url: https://jamaro.net/
-  size: 79.25
-  last_checked: 2025-02-24
-  
