@@ -3,11 +3,6 @@
   size: 6.2
   last_checked: 2022-05-13
 
-- domain: skyfall.dev
-  url: https://skyfall.dev/
-  size: 418.82
-  last_checked: 2025-02-23
-
 - domain: 0xff.nu
   url: https://0xff.nu/
   size: 7.2
@@ -3832,6 +3827,11 @@
   url: https://sjaks.iki.fi/
   size: 57.87
   last_checked: 2024-03-11
+
+- domain: skyfall.dev
+  url: https://skyfall.dev/
+  size: 418.82
+  last_checked: 2025-02-23
 
 - domain: slashdev.space
   url: https://slashdev.space/
