@@ -3,11 +3,6 @@
   size: 6.2
   last_checked: 2022-05-13
 
-- domain: zurdala.es
-  url: https://www.zurdala.es/
-  size: 79.24
-  last_checked: 2025-02-19
-
 - domain: 0xff.nu
   url: https://0xff.nu/
   size: 7.2
@@ -4667,6 +4662,11 @@
   url: http://zupzup.org/
   size: 34.99
   last_checked: 2024-09-24
+
+- domain: zurdala.es
+  url: https://www.zurdala.es/
+  size: 79.24
+  last_checked: 2025-02-19
 
 - domain: zwbetz.com
   url: https://zwbetz.com/
