@@ -2908,6 +2908,11 @@
   size: 11.7
   last_checked: 2022-05-15
 
+- domain: netr.ing
+  url: https://netr.ing/
+  size: 35.7
+  last_checked: 2025-03-03
+
 - domain: news.itsjake.me
   url: https://news.itsjake.me/
   size: 77.2
