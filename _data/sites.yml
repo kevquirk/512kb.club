@@ -2908,6 +2908,11 @@
   size: 59.32
   last_checked: 2024-06-30
 
+- domain: nenadalm.github.io
+  url: https://nenadalm.github.io/backgammon/
+  size: 426.51
+  last_checked: 2025-02-28
+
 - domain: nequalsonelifestyle.com
   url: https://nequalsonelifestyle.com/
   size: 73.5
@@ -4682,8 +4687,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-
-- domain: nenadalm.github.io
-  url: https://nenadalm.github.io/backgammon/
-  size: 426.51
-  last_checked: 2025-02-28
