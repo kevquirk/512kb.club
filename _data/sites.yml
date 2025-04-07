@@ -4283,6 +4283,11 @@
   size: 385.36
   last_checked: 2024-06-21
 
+- domain: val.packett.cool
+  url: https://val.packett.cool/
+  size: 111.15
+  last_checked: 2024-02-26
+
 - domain: vandenbran.de
   url: https://vandenbran.de/
   size: 51.2
