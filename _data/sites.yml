@@ -1105,8 +1105,8 @@
 
 - domain: daltoncraven.com
   url: https://daltoncraven.com/
-  size: 317
-  last_checked: 2022-05-15
+  size: 62.91
+  last_checked: 2025-02-26
 
 - domain: danaross.dev
   url: https://danaross.dev/
@@ -2053,6 +2053,11 @@
   size: 11.0
   last_checked: 2023-03-10
 
+- domain: jacob.earth
+  url: https://jacob.earth/blog/
+  size: 63.21
+  last_checked: 2024-03-18
+
 - domain: jacobgibbs.co.uk
   url: https://jacobgibbs.co.uk/
   size: 13.08
@@ -2623,6 +2628,11 @@
   size: 21.3
   last_checked: 2022-05-06
 
+- domain: mathieuderuiter.nl
+  url: https://mathieuderuiter.nl/
+  size: 17.39
+  last_checked: 2025-03-17
+
 - domain: mathieularose.com
   url: https://mathieularose.com/
   size: 311.98
@@ -2897,6 +2907,11 @@
   url: https://nelson.cloud/
   size: 59.32
   last_checked: 2024-06-30
+
+- domain: nenadalm.github.io
+  url: https://nenadalm.github.io/backgammon/
+  size: 426.51
+  last_checked: 2025-02-28
 
 - domain: nequalsonelifestyle.com
   url: https://nequalsonelifestyle.com/
@@ -4272,6 +4287,11 @@
   url: https://vaclavzoubek.eu/
   size: 385.36
   last_checked: 2024-06-21
+
+- domain: val.packett.cool
+  url: https://val.packett.cool/
+  size: 111.15
+  last_checked: 2024-02-26
 
 - domain: vandenbran.de
   url: https://vandenbran.de/
