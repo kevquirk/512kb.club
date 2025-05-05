@@ -1,8 +1,3 @@
-- domain: ors1mer.xyz
-  url: https://ors1mer.xyz/
-  size: 7.99
-  last_checked: 2025-03-30
-
 - domain: 0xedward.io
   url: https://0xedward.io/
   size: 6.2
@@ -3092,6 +3087,11 @@
   url: https://order332.com/
   size: 372
   last_checked: 2023-06-18
+
+- domain: ors1mer.xyz
+  url: https://ors1mer.xyz/
+  size: 7.99
+  last_checked: 2025-03-30
 
 - domain: oscarforner.com
   url: https://oscarforner.com/
