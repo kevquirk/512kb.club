@@ -1,8 +1,3 @@
-- domain: kim.grytoyr.io
-  url: https://kim.grytoyr.io/
-  size: 64.0
-  last_checked: 2025-04-14
-
 - domain: 0xedward.io
   url: https://0xedward.io/
   size: 6.2
@@ -2362,6 +2357,11 @@
   url: https://kidl.at/
   size: 11.5
   last_checked: 2022-05-15
+
+- domain: kim.grytoyr.io
+  url: https://kim.grytoyr.io/
+  size: 64.0
+  last_checked: 2025-04-14
 
 - domain: kimchiii.space
   url: https://kimchiii.space/
