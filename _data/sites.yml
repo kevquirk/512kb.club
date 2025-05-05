@@ -1,8 +1,3 @@
-- domain: morsehero.com
-  url: https://morsehero.com
-  size: 333.4
-  last_checked: 2025-03-07
-
 - domain: 0xedward.io
   url: https://0xedward.io/
   size: 6.2
@@ -2867,6 +2862,11 @@
   url: https://momi.ca/
   size: 264
   last_checked: 2022-03-17
+
+- domain: morsehero.com
+  url: https://morsehero.com
+  size: 333.4
+  last_checked: 2025-03-07
 
 - domain: mr.schochastics.net
   url: https://mr.schochastics.net/
