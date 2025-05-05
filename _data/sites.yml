@@ -598,6 +598,11 @@
   size: 103
   last_checked: 2022-08-31
 
+- domain: blog.maple3142.net
+  url: https://blog.maple3142.net/
+  size: 91.16
+  last_checked: 2025-04-01
+
 - domain: blog.mni.li
   url: https://blog.mni.li/
   size: 143.98
@@ -4712,8 +4717,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-
-- domain: blog.maple3142.net
-  url: https://blog.maple3142.net/
-  size: 91.16
-  last_checked: 2025-04-01
