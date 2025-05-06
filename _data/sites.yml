@@ -4323,6 +4323,11 @@
   size: 295.35
   last_checked: 2025-01-03
 
+- domain: urbanisierung.dev
+  url: https://urbanisierung.dev
+  size: 235
+  last_checked: 2025-05-05
+
 - domain: usecue.com
   url: https://www.usecue.com/
   size: 51.6
@@ -4467,6 +4472,11 @@
   url: https://webzine.puffy.cafe
   size: 8.2
   last_checked: 2022-05-06
+
+- domain: weeklyfoo.com
+  url: https://weeklyfoo.com
+  size: 196
+  last_checked: 2025-05-05
 
 - domain: weinzierlweb.com
   url: https://weinzierlweb.com/
@@ -4747,13 +4757,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-
-- domain: urbanisierung.dev
-  url: https://urbanisierung.dev
-  size: 235
-  last_checked: 2025-05-05
-
-- domain: weeklyfoo.com
-  url: https://weeklyfoo.com
-  size: 196
-  last_checked: 2025-05-05
