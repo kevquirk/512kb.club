@@ -1453,6 +1453,11 @@
   size: 50.7
   last_checked: 2022-09-17
 
+- domain: ericswpark.com
+  url: https://ericswpark.com/
+  size: 248
+  last_checked: 2025-05-05
+
 - domain: ericz.me
   url: https://ericz.me/
   size: 61.2
@@ -4762,8 +4767,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-
-- domain: ericswpark.com
-  url: https://ericswpark.com/
-  size: 248
-  last_checked: 2025-05-05
