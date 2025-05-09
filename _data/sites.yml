@@ -4738,6 +4738,11 @@
   size: 17.7
   last_checked: 2022-06-24
 
+- domain: zlendy.com
+  url: http://zlendy.com/
+  size: 381
+  last_checked: 2025-05-08
+
 - domain: zoia.org
   url: https://zoia.org
   size: 22.1
@@ -4777,8 +4782,3 @@
   url: https://zwieratko.sk/
   size: 28.07
   last_checked: 2024-02-11
-
-- domain: zlendy.com
-  url: http://zlendy.com/
-  size: 381
-  last_checked: 2025-05-08
