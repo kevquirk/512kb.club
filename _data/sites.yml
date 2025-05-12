@@ -33,11 +33,6 @@
   size: 59.6
   last_checked: 2022-05-06
 
-- domain: timokats.xyz
-  url: https://timokats.xyz/
-  size: 13
-  last_checked: 2025-05-11
-
 - domain: 2600.madrid
   url: https://2600.madrid
   size: 4.97
@@ -4207,6 +4202,11 @@
   url: https://timikels.com/blog/
   size: 19.9
   last_checked: 2024-03-06
+
+- domain: timokats.xyz
+  url: https://timokats.xyz/
+  size: 13
+  last_checked: 2025-05-11
 
 - domain: timotijhof.net
   url: https://timotijhof.net/
