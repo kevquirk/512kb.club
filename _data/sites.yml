@@ -698,6 +698,11 @@
   size: 41.19
   last_checked: 2025-05-18
 
+- domain: catppuccin.com
+  url: https://catppuccin.com
+  size: 199
+  last_checked: 2025-05-18
+
 - domain: cbaca.blog
   url: https://cbaca.blog/
   size: 71.65
