@@ -1768,6 +1768,11 @@
   size: 17.01
   last_checked: 2025-05-18
 
+- domain: inx.moe
+  url: https://inx.moe/
+  size: 237.86
+  last_checked: 2025-05-21
+
 - domain: iotib.net
   url: https://www.iotib.net
   size: 44.82
