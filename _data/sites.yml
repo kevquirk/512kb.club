@@ -1448,6 +1448,11 @@
   size: 128.01
   last_checked: 2025-05-18
 
+- domain: ftcunion.org
+  url: https://www.ftcunion.org/
+  size: 346
+  last_checked: 2025-05-24
+
 - domain: fullbl.it
   url: https://fullbl.it
   size: 22.17
@@ -4162,8 +4167,3 @@
   url: https://zwieratko.sk/
   size: 30.94
   last_checked: 2025-05-18
-
-- domain: ftcunion.org
-  url: https://www.ftcunion.org/
-  size: 346
-  last_checked: 2025-05-24
