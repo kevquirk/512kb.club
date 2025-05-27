@@ -238,6 +238,11 @@
   size: 471.34
   last_checked: 2025-05-18
 
+- domain: aria.coffee
+  url: https://aria.coffee/
+  size: 216
+  last_checked: 2025-05-27
+
 - domain: arkensys.dedyn.io
   url: https://arkensys.dedyn.io
   size: 19.56
@@ -4167,8 +4172,3 @@
   url: https://zwieratko.sk/
   size: 30.94
   last_checked: 2025-05-18
-
-- domain: aria.coffee
-  url: https://aria.coffee/
-  size: 216
-  last_checked: 2025-05-27
