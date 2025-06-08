@@ -4133,6 +4133,11 @@
   size: 279.48
   last_checked: 2025-05-18
 
+  - domain: youcanjustdothings.com
+  url: https://youcanjustdothings.com/
+  size: 37
+  last_checked: 2025-06-08
+
 - domain: zacharykai.net
   url: http://zacharykai.net
   size: 325.66
@@ -4197,3 +4202,5 @@
   url: https://zwieratko.sk/
   size: 30.94
   last_checked: 2025-05-18
+  
+
