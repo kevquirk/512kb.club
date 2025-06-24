@@ -1,8 +1,3 @@
-- domain: markpitblado.me
-  url: https://www.markpitblado.me/
-  size: 54
-  last_checked: 2025-06-22
-
 - domain: 0xedward.io
   url: https://0xedward.io/
   size: 41.02
@@ -2327,6 +2322,11 @@
   url: https://markosaric.com/
   size: 399.58
   last_checked: 2025-05-18
+
+- domain: markpitblado.me
+  url: https://www.markpitblado.me/
+  size: 54
+  last_checked: 2025-06-22
 
 - domain: markus-haack.com
   url: https://markus-haack.com/
