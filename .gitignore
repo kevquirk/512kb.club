@@ -3,5 +3,4 @@ _site
 .jekyll-metadata
 *-cache/
 .DS_Store
-
-python-gtmetrix
+scripts/myauth.py

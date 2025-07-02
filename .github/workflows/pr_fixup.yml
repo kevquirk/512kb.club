@@ -1,0 +1,34 @@
+on:
+  push:
+    branches:
+      - main
+
+name: PR Fixup
+
+jobs:
+  format-sites:
+    name: Run formatter and commit changes
+    runs-on: ubuntu-latest
+    permissions:
+      # Give the default GITHUB_TOKEN write permission to commit and push the
+      # added or changed files to the repository.
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          # Make sure the actual branch is checked out when running on pull requests
+          ref: ${{ github.head_ref }}
+      - name: Format entries
+        uses: mikefarah/yq@v4.35.2
+        with:
+          cmd: yq --inplace 'sort_by(.domain)' _data/sites.yml 
+      - name: Add back newline between entries
+        run: |
+          sed -i 's/- domain:/\n- domain:/g' _data/sites.yml
+      - name: Format and commit code
+        uses: creyD/prettier_action@v4.3
+        with:
+          # This part is also where you can pass other options, for example:
+          prettier_options: --write _data/sites.yml
+          commit_message: Fix formatting
