@@ -748,6 +748,11 @@
   size: 309.94
   last_checked: 2025-05-18
 
+- domain: chemmala.com
+  url: https://george.chemmala.com/
+  size: 491
+  last_checked: 2025-07-19
+
 - domain: cheziceman.fr
   url: https://cheziceman.fr/
   size: 20.63
@@ -4217,8 +4222,3 @@
   url: https://zwieratko.sk/
   size: 30.94
   last_checked: 2025-05-18
-
-- domain: chemmala.com
-  url: https://george.chemmala.com/
-  size: 491
-  last_checked: 2025-07-19
