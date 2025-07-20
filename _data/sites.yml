@@ -123,6 +123,11 @@
   size: 227.67
   last_checked: 2025-05-18
 
+- domain: aj.bozdar.im
+  url: https://aj.bozdar.im/
+  size: 130
+  last_checked: 2025-07-12
+
 - domain: ajazz.neocities.org
   url: https://ajazz.neocities.org/
   size: 220.38
@@ -4112,11 +4117,6 @@
   url: https://xwx.moe/
   size: 7.61
   last_checked: 2025-05-18
-
-- domain: aj.bozdar.im
-  url: https://aj.bozdar.im/
-  size: 130
-  last_checked: 2025-07-12
 
 - domain: yalinpala.dev
   url: https://yalinpala.dev/
