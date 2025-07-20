@@ -3808,6 +3808,11 @@
   size: 328.10
   last_checked: 2025-05-18
 
+- domain: ty3r0x.chaox.ro
+  url: https://ty3r0x.chaox.ro/
+  size: 462.93
+  last_checked: 2025-07-16
+
 - domain: uncenter.dev
   url: https://www.uncenter.dev/
   size: 136.32
@@ -4237,8 +4242,3 @@
   url: https://zwieratko.sk/
   size: 30.94
   last_checked: 2025-05-18
-
-- domain: ty3r0x.chaox.ro
-  url: https://ty3r0x.chaox.ro/
-  size: 462.93
-  last_checked: 2025-07-16
