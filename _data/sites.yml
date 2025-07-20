@@ -3128,6 +3128,11 @@
   size: 18.04
   last_checked: 2025-05-18
 
+- domain: recycledrobot.cp.uk
+  url: https://recycledrobot.cp.uk/
+  size: 476
+  last_checked: 2025-06-26
+
 - domain: redesign.by
   url: https://redesign.by/
   size: 33.06
@@ -4252,8 +4257,3 @@
   url: https://zwieratko.sk/
   size: 30.94
   last_checked: 2025-05-18
-
-- domain: recycledrobot.cp.uk
-  url: https://recycledrobot.cp.uk/
-  size: 476
-  last_checked: 2025-06-26
