@@ -3423,6 +3423,11 @@
   size: 26.93
   last_checked: 2025-05-18
 
+- domain: shime.sh
+  url: https://shime.sh
+  size: 149
+  last_checked: 2025-07-23
+
 - domain: shom.dev
   url: https://shom.dev/
   size: 156.45
