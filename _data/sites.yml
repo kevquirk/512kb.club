@@ -3508,6 +3508,11 @@
   size: 494.58
   last_checked: 2025-05-18
 
+- domain: sorcery.ie
+  url: https://sorcery.ie/
+  size: 14.39
+  last_checked: 2025-07-23
+
 - domain: sothawo.com
   url: https://www.sothawo.com/
   size: 101.68
@@ -4267,8 +4272,3 @@
   url: https://zwieratko.sk/
   size: 30.94
   last_checked: 2025-05-18
-
-- domain: sorcery.ie
-  url: https://sorcery.ie/
-  size: 14.39
-  last_checked: 2025-07-23
