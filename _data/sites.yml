@@ -1,8 +1,3 @@
-- domain: burgeonlab.com
-  url: https://www.burgeonlab.com/
-  size: 499
-  last_checked: 2025-07-25
-
 - domain: 0xedward.io
   url: https://0xedward.io/
   size: 41.02
@@ -682,6 +677,11 @@
   url: https://burak.mulayim.app/
   size: 73.37
   last_checked: 2025-05-18
+
+- domain: burgeonlab.com
+  url: https://www.burgeonlab.com/
+  size: 499
+  last_checked: 2025-07-25
 
 - domain: bytewerk.io
   url: https://blog.bytewerk.io/
