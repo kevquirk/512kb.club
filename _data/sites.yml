@@ -1,8 +1,3 @@
-- domain: airikr.me
-  url: https://airikr.me/
-  size: 97
-  last_checked: 2025-07-26
-
 - domain: 0xedward.io
   url: https://0xedward.io/
   size: 41.02
@@ -127,6 +122,11 @@
   url: https://ahmubashshir.github.io/
   size: 227.67
   last_checked: 2025-05-18
+
+- domain: airikr.me
+  url: https://airikr.me/
+  size: 97
+  last_checked: 2025-07-26
 
 - domain: aj.bozdar.im
   url: https://aj.bozdar.im/
