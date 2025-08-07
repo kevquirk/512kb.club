@@ -2398,6 +2398,11 @@
   size: 179.81
   last_checked: 2025-05-18
 
+- domain: marlena.app
+  url: http://marlena.app/
+  size: 376
+  last_checked: 2025-08-07
+
 - domain: martin.baillie.id
   url: https://martin.baillie.id/
   size: 130.33
