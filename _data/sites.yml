@@ -3368,6 +3368,11 @@
   size: 202.02
   last_checked: 2025-05-18
 
+- domain: scaledteam.ru
+  url: https://scaledteam.ru/
+  size: 33
+  last_checked: 2025-08-08
+
 - domain: scf37.me
   url: https://scf37.me/
   size: 67.30
@@ -4342,8 +4347,3 @@
   url: https://zwieratko.sk/
   size: 30.94
   last_checked: 2025-05-18
-
-- domain: scaledteam.ru
-  url: https://scaledteam.ru/
-  size: 33
-  last_checked: 2025-08-08
