@@ -3648,6 +3648,11 @@
   size: 38.43
   last_checked: 2025-05-18
 
+- domain: studio.digitalmalayali.in
+  url: https://studio.digitalmalayali.in/
+  size: 347
+  last_checked: 2025-08-13
+
 - domain: sudocss.vercel.app
   url: https://sudocss.vercel.app/
   size: 106.63
