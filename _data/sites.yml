@@ -2393,6 +2393,11 @@
   size: 10.04
   last_checked: 2025-05-18
 
+- domain: mahmoudashraf.dev
+  url: https://mahmoudashraf.dev/
+  size: 477
+  last_checked: 2025-08-15
+
 - domain: manuelmoreale.com
   url: https://manuelmoreale.com/
   size: 262.32
@@ -4367,8 +4372,3 @@
   url: https://zwieratko.sk/
   size: 30.94
   last_checked: 2025-05-18
-
-- domain: mahmoudashraf.dev
-  url: https://mahmoudashraf.dev/
-  size: 477
-  last_checked: 2025-08-15
