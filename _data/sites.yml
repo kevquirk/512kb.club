@@ -3228,6 +3228,11 @@
   size: 123
   last_checked: 2022-05-22
 
+- domain: revertly.io
+  url: https://revertly.io/
+  size: 429
+  last_checked: 2021-08-21
+
 - domain: revuo-xmr.com
   url: https://revuo-xmr.com/
   size: 243.93
