@@ -3313,6 +3313,11 @@
   size: 21.6
   last_checked: 2022-01-29
 
+- domain: roryblair.dev
+  url: https://roryblair.dev
+  size: 69.5
+  last_checked: 2025-05-18
+
 - domain: roytakanen.github.io
   url: https://roytakanen.github.io/
   size: 26.56
@@ -4376,9 +4381,4 @@
 - domain: zwieratko.sk
   url: https://zwieratko.sk/
   size: 30.94
-  last_checked: 2025-05-18
-
-- domain: roryblair.dev
-  url: https://roryblair.dev
-  size: 69.5
   last_checked: 2025-05-18
