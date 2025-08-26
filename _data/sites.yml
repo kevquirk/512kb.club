@@ -1558,6 +1558,11 @@
   size: 28.60
   last_checked: 2025-05-18
 
+- domain: geodev.me
+  url: https://geodev.me/
+  size: 191
+  last_checked: 2025-05-23
+
 - domain: george.mand.is
   url: https://george.mand.is/
   size: 351.59
@@ -4382,8 +4387,3 @@
   url: https://zwieratko.sk/
   size: 30.94
   last_checked: 2025-05-18
-
-- domain: geodev.me
-  url: https://geodev.me/
-  size: 191
-  last_checked: 2025-05-23
