@@ -263,6 +263,11 @@
   size: 342
   last_checked: 2025-08-03
 
+- domain: ari.lt
+  url: https://ari.lt/
+  size: 165
+  last_checked: 2025-08-28
+
 - domain: arkensys.dedyn.io
   url: https://arkensys.dedyn.io
   size: 19.56
