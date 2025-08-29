@@ -258,15 +258,15 @@
   size: 67
   last_checked: 2025-06-01
 
-- domain: aria.coffee
-  url: https://aria.coffee/
-  size: 342
-  last_checked: 2025-08-03
-
 - domain: ari.lt
   url: https://ari.lt/
   size: 165
   last_checked: 2025-08-28
+
+- domain: aria.coffee
+  url: https://aria.coffee/
+  size: 342
+  last_checked: 2025-08-03
 
 - domain: arkensys.dedyn.io
   url: https://arkensys.dedyn.io
