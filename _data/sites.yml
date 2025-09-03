@@ -2968,6 +2968,11 @@
   size: 9.02
   last_checked: 2025-05-18
 
+- domain: peetz0r.nl
+  url: https://peetz0r.nl/
+  size: 92
+  last_checked: 2025-08-31
+
 - domain: penstemon.net
   url: https://penstemon.net/
   size: 5.7
@@ -4427,8 +4432,3 @@
   url: https://zwieratko.sk/
   size: 30.94
   last_checked: 2025-05-18
-
-- domain: peetz0r.nl
-  url: https://peetz0r.nl/
-  size: 92
-  last_checked: 2025-08-31
