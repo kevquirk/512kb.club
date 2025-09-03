@@ -2518,6 +2518,11 @@
   size: 82.28
   last_checked: 2025-05-18
 
+- domain: mattlacey.com
+  url: https://mattlacey.com/
+  size: 15
+  last_checked: 2025-09-02
+
 - domain: mattstein.com
   url: https://mattstein.com/
   size: 225.45
@@ -4417,8 +4422,3 @@
   url: https://zwieratko.sk/
   size: 30.94
   last_checked: 2025-05-18
-
-- domain: mattlacey.com
-  url: https://mattlacey.com/
-  size: 15
-  last_checked: 2025-09-02
