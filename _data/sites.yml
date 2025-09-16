@@ -978,6 +978,11 @@
   size: 106.12
   last_checked: 2025-05-18
 
+- domain: cv-marc.mno.family
+  url: https://cv-marc.mno.family/
+  size: 53
+  last_checked: 2025-09-16
+
 - domain: cv.tomy.me
   url: https://cv.tomy.me
   size: 49.63
