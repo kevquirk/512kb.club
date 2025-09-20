@@ -428,6 +428,11 @@
   size: 80.52
   last_checked: 2025-05-18
 
+- domain: bestdaria.com
+  url: https://bestdaria.com/
+  size: 85.00
+  last_checked: 2025-09-19
+
 - domain: bestemployeeever.com
   url: https://bestemployeeever.com/
   size: 202.62
@@ -3787,11 +3792,6 @@
   url: https://tevinzhang.com/
   size: 507.76
   last_checked: 2024-06-27
-
-- domain: bestdaria.com
-  url: https://bestdaria.com/
-  size: 85.00
-  last_checked: 2025-09-19
 
 - domain: thatmlopsguy.github.io
   url: https://thatmlopsguy.github.io/
