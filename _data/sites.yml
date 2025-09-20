@@ -3383,6 +3383,11 @@
   size: 14.52
   last_checked: 2025-05-18
 
+- domain: ruudvanasseldonk.com
+  url: https://ruudvanasseldonk.com/
+  size: 14.0
+  last_checked: 2025-09-18
+
 - domain: ryantiffany.com
   url: https://ryantiffany.com/
   size: 39.7
@@ -4432,8 +4437,3 @@
   url: https://zwieratko.sk/
   size: 30.94
   last_checked: 2025-05-18
-
-- domain: ruudvanasseldonk.com
-  url: https://ruudvanasseldonk.com/
-  size: 14.0
-  last_checked: 2025-09-18
