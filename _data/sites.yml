@@ -2513,6 +2513,11 @@
   size: 249.48
   last_checked: 2025-05-18
 
+- domain: masilotti.com
+  url: https://masilotti.com/
+  size: 370
+  last_checked: 2025-09-18
+
 - domain: mat383.com
   url: https://mat383.com/
   size: 51.41
@@ -4507,8 +4512,3 @@
   url: https://zwieratko.sk/
   size: 30.94
   last_checked: 2025-05-18
-  
-- domain: masilotti.com
-  url: https://masilotti.com/
-  size: 370
-  last_checked: 2025-09-18
