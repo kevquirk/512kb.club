@@ -1853,6 +1853,11 @@
   size: 32.08
   last_checked: 2025-05-18
 
+- domain: hunicke.com
+  url: https://hunicke.com/
+  size: 102.65
+  last_checked: 2025-09-21
+
 - domain: hybras.dev
   url: https://hybras.dev/
   size: 18.96
@@ -4502,8 +4507,3 @@
   url: https://zwieratko.sk/
   size: 30.94
   last_checked: 2025-05-18
-
-- domain: hunicke.com
-  url: https://hunicke.com/
-  size: 102.65
-  last_checked: 2025-09-21
