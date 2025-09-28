@@ -1,8 +1,3 @@
-- domain: florian.latzel.io
-  url: https://florian.latzel.io/
-  size: 40
-  last_checked: 2025-09-27
-
 - domain: 0xedward.io
   url: https://0xedward.io/
   size: 41.02
@@ -1527,6 +1522,11 @@
   url: https://flavigula.net/
   size: 296
   last_checked: 2023-12-02
+
+- domain: florian.latzel.io
+  url: https://florian.latzel.io/
+  size: 40
+  last_checked: 2025-09-27
 
 - domain: fmartingr.com
   url: https://fmartingr.com
