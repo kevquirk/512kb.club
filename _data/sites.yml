@@ -528,6 +528,11 @@
   size: 133.08
   last_checked: 2025-05-18
 
+- domain: blog.csgo.ovh
+  url: https://blog.csgo.ovh/
+  size: 174
+  last_checked: 2025-09-26
+
 - domain: blog.danieljanus.pl
   url: https://blog.danieljanus.pl/
   size: 358.92
@@ -4487,8 +4492,3 @@
   url: https://zwieratko.sk/
   size: 30.94
   last_checked: 2025-05-18
-
-- domain: blog.csgo.ovh
-  url: https://blog.csgo.ovh/
-  size: 174
-  last_checked: 2025-09-26
