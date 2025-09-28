@@ -1338,6 +1338,11 @@
   size: 222.58
   last_checked: 2025-05-18
 
+- domain: eorus.com
+  url: http://eorus.com/
+  size: 254
+  last_checked: 2025-09-23
+
 - domain: erickouassi.com
   url: https://erickouassi.com/
   size: 59.52
@@ -4497,8 +4502,3 @@
   url: https://zwieratko.sk/
   size: 30.94
   last_checked: 2025-05-18
-  
-- domain: eorus.com
-  url: http://eorus.com/ 
-  size: 254
-  last_checked: 2025-09-23
