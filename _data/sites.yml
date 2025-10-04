@@ -4512,3 +4512,13 @@
   url: https://zwieratko.sk/
   size: 30.94
   last_checked: 2025-05-18
+
+- domain: www.horwood.biz
+  url: https://www.horwood.biz
+  size: 256
+  last_checked: 2025-10-04
+
+- domain: homelab.horwood.biz
+  url: https://homelab.horwood.biz
+  size: 199
+  last_checked: 2025-10-04
