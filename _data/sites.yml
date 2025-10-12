@@ -4478,6 +4478,11 @@
   size: 182.80
   last_checked: 2025-05-18
 
+- domain: tilde.club/~zgd
+  url: https://tilde.club/~zgd
+  size: 6.2
+  last_checked: 2025-10-12
+
 - domain: zlendy.com
   url: http://zlendy.com/
   size: 396.54
