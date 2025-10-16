@@ -4512,3 +4512,8 @@
   url: https://zwieratko.sk/
   size: 30.94
   last_checked: 2025-05-18
+
+- domain: smalltictactoe.netlify.app
+  url: https://smalltictactoe.netlify.app/
+  size: 2.6
+  last_checked: 2025-10-16
