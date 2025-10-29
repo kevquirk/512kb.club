@@ -3,11 +3,6 @@
   size: 41.02
   last_checked: 2025-05-18
 
-- domain: janetdocs.org
-  url: https://janetdocs.org/
-  size: 67
-  last_checked: 2025-10-17
-  
 - domain: 0xff.nu
   url: https://0xff.nu/
   size: 17.32
@@ -2017,6 +2012,11 @@
   url: https://jan.alphadev.net/
   size: 36.30
   last_checked: 2025-05-18
+
+- domain: janetdocs.org
+  url: https://janetdocs.org/
+  size: 67
+  last_checked: 2025-10-17
 
 - domain: jangobrecht.com
   url: https://jangobrecht.com/
