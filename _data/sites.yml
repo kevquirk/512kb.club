@@ -4468,6 +4468,11 @@
   size: 77
   last_checked: 2025-07-26
 
+- domain: z0x.ca
+  url: https://z0x.ca/
+  size: 96
+  last_checked: 2025-10-09
+
 - domain: zacharykai.net
   url: http://zacharykai.net
   size: 325.66
@@ -4532,8 +4537,3 @@
   url: https://zwieratko.sk/
   size: 30.94
   last_checked: 2025-05-18
-
-- domain: z0x.ca
-  url: https://z0x.ca/
-  size: 96
-  last_checked: 2025-10-09
