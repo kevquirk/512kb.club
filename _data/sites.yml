@@ -3703,6 +3703,11 @@
   size: 8.9
   last_checked: 2023-02-07
 
+- domain: smalltictactoe.netlify.app
+  url: https://smalltictactoe.netlify.app/
+  size: 2.6
+  last_checked: 2025-10-16
+
 - domain: sno.ws
   url: https://sno.ws/
   size: 20.28
@@ -4522,8 +4527,3 @@
   url: https://zwieratko.sk/
   size: 30.94
   last_checked: 2025-05-18
-
-- domain: smalltictactoe.netlify.app
-  url: https://smalltictactoe.netlify.app/
-  size: 2.6
-  last_checked: 2025-10-16
