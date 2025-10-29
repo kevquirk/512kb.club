@@ -1,3 +1,8 @@
+- domain: prahladyeri.github.io
+  url: https://prahladyeri.github.io/
+  size: 95
+  last_checked: 2025-10-05
+  
 - domain: 0xedward.io
   url: https://0xedward.io/
   size: 41.02
@@ -714,9 +719,9 @@
   last_checked: 2025-05-18
 
 - domain: burgeonlab.com
-  url: https://www.burgeonlab.com/
-  size: 455
-  last_checked: 2025-08-08
+  url: https://burgeonlab.com/
+  size: 151
+  last_checked: 2025-10-27
 
 - domain: bytewerk.io
   url: https://blog.bytewerk.io/
@@ -2013,6 +2018,11 @@
   size: 36.30
   last_checked: 2025-05-18
 
+- domain: janetdocs.org
+  url: https://janetdocs.org/
+  size: 67
+  last_checked: 2025-10-17
+
 - domain: jangobrecht.com
   url: https://jangobrecht.com/
   size: 11.85
@@ -2342,6 +2352,11 @@
   url: https://lightningwright.net/
   size: 50.36
   last_checked: 2025-05-18
+
+- domain: lite.jackson.gd
+  url: https://lite.jackson.gd/
+  size: 31.0
+  last_checked: 2025-10-10
 
 - domain: litew.pages.dev
   url: https://litew.pages.dev/
@@ -3195,8 +3210,8 @@
 
 - domain: probably.co.uk
   url: https://probably.co.uk/
-  size: 67.15
-  last_checked: 2025-05-18
+  size: 68.75
+  last_checked: 2025-10-22
 
 - domain: processwire.dev
   url: https://processwire.dev/
@@ -3697,6 +3712,11 @@
   url: https://sm6kne.amprnet.se/
   size: 8.9
   last_checked: 2023-02-07
+
+- domain: smalltictactoe.netlify.app
+  url: https://smalltictactoe.netlify.app/
+  size: 2.6
+  last_checked: 2025-10-16
 
 - domain: sno.ws
   url: https://sno.ws/
@@ -4333,6 +4353,11 @@
   size: 159.78
   last_checked: 2025-05-18
 
+- domain: www.codedge.de
+  url: https://www.codedge.de/
+  size: 184
+  last_checked: 2025-10-28
+
 - domain: www.nmichaels.org
   url: https://www.nmichaels.org
   size: 6.62
@@ -4448,6 +4473,11 @@
   size: 77
   last_checked: 2025-07-26
 
+- domain: z0x.ca
+  url: https://z0x.ca/
+  size: 96
+  last_checked: 2025-10-09
+
 - domain: zacharykai.net
   url: http://zacharykai.net
   size: 325.66
@@ -4517,3 +4547,8 @@
   url: https://wuminboke.site/
   size: 240
   last_checked: 2025-10-05
+
+- domain: freethedotye.org
+  url: https://freethedotye.org/
+  size: 42
+  last_checked: 2025-10-07
