@@ -30,7 +30,7 @@ But we can make a difference - all it takes is some optimisation. Do you really 
 
 <br>
 <div class="divrandom centre">
-  <a class="button random" href="#100" onclick="randomSite(); return false;">Visit a Random Site</a>
+  <a class="button random" href="/random">Visit a Random Site</a>
 </div>
 
 {:.jump}
