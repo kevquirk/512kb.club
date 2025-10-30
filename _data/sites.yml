@@ -714,9 +714,9 @@
   last_checked: 2025-05-18
 
 - domain: burgeonlab.com
-  url: https://www.burgeonlab.com/
-  size: 455
-  last_checked: 2025-08-08
+  url: https://burgeonlab.com/
+  size: 151
+  last_checked: 2025-10-27
 
 - domain: bytewerk.io
   url: https://blog.bytewerk.io/
@@ -1133,6 +1133,11 @@
   size: 334.47
   last_checked: 2025-05-18
 
+- domain: devops.nz
+  url: https://devops.nz
+  size: 56
+  last_checked: 2025-10-04
+
 - domain: dhruvasambrani.github.io
   url: https://dhruvasambrani.github.io/blog/
   size: 40.76
@@ -1342,6 +1347,11 @@
   url: http://eorus.com/
   size: 254
   last_checked: 2025-09-23
+
+- domain: eorus.com
+  url: http://eorus.com/
+  size: 74
+  last_checked: 2025-10-04
 
 - domain: erickouassi.com
   url: https://erickouassi.com/
@@ -1557,6 +1567,11 @@
   url: https://francescoro.si/
   size: 196.24
   last_checked: 2025-05-18
+
+- domain: freethedotye.org
+  url: https://freethedotye.org/
+  size: 42
+  last_checked: 2025-10-07
 
 - domain: frgmnt.art
   url: https://frgmnt.art/
@@ -1803,6 +1818,11 @@
   size: 20.29
   last_checked: 2025-05-18
 
+- domain: hrishik.me
+  url: https://hrishik.me
+  size: 145
+  last_checked: 2025-09-28
+
 - domain: html-chunder.neocities.org
   url: https://html-chunder.neocities.org/
   size: 63.03
@@ -2012,6 +2032,11 @@
   url: https://jan.alphadev.net/
   size: 36.30
   last_checked: 2025-05-18
+
+- domain: janetdocs.org
+  url: https://janetdocs.org/
+  size: 67
+  last_checked: 2025-10-17
 
 - domain: jangobrecht.com
   url: https://jangobrecht.com/
@@ -2342,6 +2367,11 @@
   url: https://lightningwright.net/
   size: 50.36
   last_checked: 2025-05-18
+
+- domain: lite.jackson.gd
+  url: https://lite.jackson.gd/
+  size: 31.0
+  last_checked: 2025-10-10
 
 - domain: litew.pages.dev
   url: https://litew.pages.dev/
@@ -2783,6 +2813,11 @@
   size: 115.60
   last_checked: 2025-05-18
 
+- domain: ne555.io
+  url: https://ne555.io/
+  size: 50
+  last_checked: 2025-09-30
+
 - domain: nelson.cloud
   url: https://nelson.cloud/
   size: 134.31
@@ -3178,6 +3213,11 @@
   size: 6.60
   last_checked: 2025-05-18
 
+- domain: prahladyeri.github.io
+  url: https://prahladyeri.github.io/
+  size: 95
+  last_checked: 2025-10-05
+
 - domain: pre.hn
   url: https://pre.hn/
   size: 59.70
@@ -3195,8 +3235,8 @@
 
 - domain: probably.co.uk
   url: https://probably.co.uk/
-  size: 67.15
-  last_checked: 2025-05-18
+  size: 68.75
+  last_checked: 2025-10-22
 
 - domain: processwire.dev
   url: https://processwire.dev/
@@ -3697,6 +3737,11 @@
   url: https://sm6kne.amprnet.se/
   size: 8.9
   last_checked: 2023-02-07
+
+- domain: smalltictactoe.netlify.app
+  url: https://smalltictactoe.netlify.app/
+  size: 2.6
+  last_checked: 2025-10-16
 
 - domain: sno.ws
   url: https://sno.ws/
@@ -4333,6 +4378,16 @@
   size: 159.78
   last_checked: 2025-05-18
 
+- domain: wuminboke.site
+  url: https://wuminboke.site/
+  size: 240
+  last_checked: 2025-10-05
+
+- domain: www.codedge.de
+  url: https://www.codedge.de/
+  size: 184
+  last_checked: 2025-10-28
+
 - domain: www.nmichaels.org
   url: https://www.nmichaels.org
   size: 6.62
@@ -4447,6 +4502,11 @@
   url: https://yviskos.github.io/
   size: 77
   last_checked: 2025-07-26
+
+- domain: z0x.ca
+  url: https://z0x.ca/
+  size: 96
+  last_checked: 2025-10-09
 
 - domain: zacharykai.net
   url: http://zacharykai.net
