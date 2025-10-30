@@ -3738,10 +3738,10 @@
   size: 8.9
   last_checked: 2023-02-07
 
-- domain: smalltictactoe.netlify.app
-  url: https://smalltictactoe.netlify.app/
-  size: 2.6
-  last_checked: 2025-10-16
+- domain: smalltictactoe.dpdns.org
+  url: https://smalltictactoe.dpdns.org/
+  size: 2.5
+  last_checked: 2025-10-30
 
 - domain: sno.ws
   url: https://sno.ws/
