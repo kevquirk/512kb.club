@@ -2273,6 +2273,11 @@
   size: 53.35
   last_checked: 2025-08-30
 
+- domain: lite.cnn.com
+  url: https://lite.cnn.com
+  size: 314
+  last_checked: 2025-11-04
+
 - domain: lite.jackson.gd
   url: https://lite.jackson.gd/
   size: 31.0
@@ -3712,6 +3717,11 @@
   url: https://tevinzhang.com/
   size: 507.76
   last_checked: 2024-06-27
+
+- domain: text.npr.org
+  url: https://text.npr.org
+  size: 5.8
+  last_checked: 2025-11-04
 
 - domain: thatdaria.com
   url: https://thatdaria.com/
