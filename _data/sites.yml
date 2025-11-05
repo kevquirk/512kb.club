@@ -3708,6 +3708,11 @@
   size: 4.14
   last_checked: 2025-08-30
 
+- domain: test.dssr.ch
+  url: https://test.dssr.ch/
+  size: 6.3
+  last_checked: 2025-11-05
+
 - domain: tevinzhang.com
   url: https://tevinzhang.com/
   size: 507.76
