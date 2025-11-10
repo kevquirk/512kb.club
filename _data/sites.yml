@@ -53,6 +53,11 @@
   size: 287.12
   last_checked: 2025-08-30
 
+- domain: aade.sh
+  url: https://aade.sh/
+  size: 19
+  last_checked: 2025-11-10
+
 - domain: aaron.place
   url: https://aaron.place/
   size: 21.9
