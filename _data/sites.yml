@@ -3363,6 +3363,11 @@
   size: 19.93
   last_checked: 2025-08-30
 
+- domain: salamwaddah.com
+  url: https://salamwaddah.com/
+  size: 87
+  last_checked: 2025-11-04 (YYYY-MM-DD)
+
 - domain: saleve.xyz
   url: https://www.saleve.xyz/
   size: 386.34
@@ -4352,8 +4357,3 @@
   url: https://zwieratko.sk/
   size: 30.94
   last_checked: 2025-08-30
-
-- domain: salamwaddah.com
-  url: https://salamwaddah.com/
-  size: 87
-  last_checked: 2025-11-04 (YYYY-MM-DD)
