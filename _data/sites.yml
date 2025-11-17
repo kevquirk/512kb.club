@@ -3433,11 +3433,6 @@
   size: 138.61
   last_checked: 2025-05-18
 
-- domain: securityblogs.xyz
-  url: https://securityblogs.xyz/
-  size: 103
-  last_checked: 2025-11-04
-
 - domain: scaglio.id
   url: https://scaglio.id/
   size: 201.98
@@ -3497,6 +3492,11 @@
   url: https://secondbreakfast.party
   size: 13.94
   last_checked: 2025-08-30
+
+- domain: securityblogs.xyz
+  url: https://securityblogs.xyz/
+  size: 103
+  last_checked: 2025-11-04
 
 - domain: seirdy.one
   url: https://seirdy.one/
