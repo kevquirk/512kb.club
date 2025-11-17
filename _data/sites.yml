@@ -963,6 +963,11 @@
   size: 245
   last_checked: 2023-01-20
 
+- domain: cwop.rest
+  url: https://cwop.rest/
+  size: 211
+  last_checked: 2025-11-04
+
 - domain: cy7.sh
   url: https://cy7.sh/
   size: 269.36
