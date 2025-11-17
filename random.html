@@ -1,0 +1,28 @@
+---
+layout: default
+permalink: /random/
+title: Random site redirect...
+---
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      const sites = [
+        {% for site in site.data.sites %}
+          "{{ site.url }}"{% unless forloop.last %},{% endunless %}
+        {% endfor %}
+      ];
+
+      if (sites.length > 0) {
+        const random = sites[Math.floor(Math.random() * sites.length)];
+        // Redirect after a short delay so users see feedback
+        setTimeout(() => {
+          window.location.href = random;
+        }, 500);
+      } else {
+        document.body.textContent = "No sites found in data.";
+      }
+    });
+  </script>
+
+  <h2>Redirecting you to a random 512KB Club site...</h2>
+  <br>
+  <br>
