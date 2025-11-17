@@ -1478,6 +1478,11 @@
   size: 235.22
   last_checked: 2025-08-30
 
+- domain: www.firefly-lang.org
+  url: https://www.firefly-lang.org/
+  size: 213
+  last_checked: 2025-11-04
+
 - domain: flatpackapps.com
   url: https://flatpackapps.com/
   size: 29.9
