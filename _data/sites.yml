@@ -1738,6 +1738,11 @@
   size: 242.68
   last_checked: 2025-08-30
 
+- domain: hostingtrack.stackgui.de
+  url: https://hostingtrack.stackgui.de/
+  size: 66
+  last_checked: 2025-11-04
+
 - domain: how.wtf
   url: https://how.wtf/
   size: 20.08
@@ -4367,8 +4372,3 @@
   url: https://zwieratko.sk/
   size: 30.94
   last_checked: 2025-08-30
-
-- domain: hostingtrack.stackgui.de
-  url: https://hostingtrack.stackgui.de/
-  size: 66
-  last_checked: 2025-11-04
