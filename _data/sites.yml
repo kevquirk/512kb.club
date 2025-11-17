@@ -3873,6 +3873,11 @@
   size: 151.80
   last_checked: 2025-08-30
 
+- domain: torrent.parts
+  url: https://torrent.parts
+  size: 268
+  last_checked: 2025-11-04
+
 - domain: translucide.net
   url: https://translucide.net/
   size: 422.23
