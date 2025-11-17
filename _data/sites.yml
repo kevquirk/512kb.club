@@ -2858,6 +2858,11 @@
   size: 58.69
   last_checked: 2025-08-30
 
+- domain: onlinefreesolitaire.com
+  url: https://onlinefreesolitaire.com/
+  size: 114.00
+  last_checked: 2025-11-04
+
 - domain: orbitalmartian.vercel.app
   url: https://orbitalmartian.vercel.app/
   size: 265.20
@@ -4362,8 +4367,3 @@
   url: https://zwieratko.sk/
   size: 30.94
   last_checked: 2025-08-30
-
-- domain: onlinefreesolitaire.com
-  url: https://onlinefreesolitaire.com/
-  size: 114.00
-  last_checked: 2025-11-04
