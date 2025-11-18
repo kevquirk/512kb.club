@@ -1,4 +1,9 @@
-- domain: 0xedward.io
+- domain: godteeth.com
+  url: http://godteeth.com/
+  size: 5.2
+  last_checked: 2025-11-18
+  
+  - domain: 0xedward.io
   url: https://0xedward.io/
   size: 41.02
   last_checked: 2025-08-30
