@@ -1,6 +1,7 @@
 require 'yaml'
 require 'rexml/document'
 require 'date'
+require 'time'
 include REXML
 
 module RSSGenerator
@@ -12,8 +13,28 @@ module RSSGenerator
         permitted_classes: [Date]
       )
 
+      # Ensure we always sort comparable values
+      websites.each do |website|
+        raw_date = website['last_checked']
+        website['last_checked'] =
+          case raw_date
+          when Time
+            raw_date
+          when Date, DateTime
+            raw_date.to_time
+          when String
+            begin
+              Time.parse(raw_date)
+            rescue ArgumentError
+              nil
+            end
+          else
+            nil
+          end
+      end
+
       # Sort websites by "last_checked" in descending order
-      websites.sort_by! { |website| website['last_checked'] }.reverse!
+      websites.sort_by! { |website| website['last_checked'] || Time.at(0) }.reverse!
 
       # Get the 10 latest entries
       latest_websites = websites.take(10)
@@ -50,7 +71,8 @@ module RSSGenerator
         item.add_element(link)
 
         pub_date = Element.new('pubDate')
-        pub_date.text = website['last_checked'].strftime('%a, %d %b %Y %H:%M:%S %z')
+        pub_time = website['last_checked'] || Time.now
+        pub_date.text = pub_time.strftime('%a, %d %b %Y %H:%M:%S %z')
         item.add_element(pub_date)
 
         description = Element.new('description')
