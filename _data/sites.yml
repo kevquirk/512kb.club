@@ -2258,6 +2258,11 @@
   size: 30.0
   last_checked: 2022-04-26
 
+- domain: kojordan.com
+  url: https://www.kojordan.com/
+  size: 86.00
+  last_checked: 2025-11-26
+
 - domain: konstantintutsch.com
   url: https://konstantintutsch.com/
   size: 10.98
@@ -4447,8 +4452,3 @@
   url: https://zwieratko.sk/
   size: 30.94
   last_checked: 2025-08-30
-
-- domain: kojordan.com
-  url: https://www.kojordan.com/
-  size: 86.00
-  last_checked: 2025-11-26
