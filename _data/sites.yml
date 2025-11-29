@@ -2508,6 +2508,11 @@
   size: 15.52
   last_checked: 2025-08-30
 
+- domain: marekhonzal.com
+  url: https://marekhonzal.com/
+  size: 267
+  last_checked: 2025-11-17
+
 - domain: markosaric.com
   url: https://markosaric.com/
   size: 398.25
@@ -4512,8 +4517,3 @@
   url: https://zwieratko.sk/
   size: 30.94
   last_checked: 2025-08-30
-
-- domain: marekhonzal.com
-  url: https://marekhonzal.com/
-  size: 267
-  last_checked: 2025-11-17
