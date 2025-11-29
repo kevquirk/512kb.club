@@ -3053,6 +3053,11 @@
   size: 7.16
   last_checked: 2025-08-30
 
+- domain: philna.sh
+  url: https://philna.sh/
+  size: 198
+  last_checked: 2025-11-27
+
 - domain: phreedom.club
   url: https://phreedom.club/
   size: 16.92
@@ -4427,8 +4432,3 @@
   url: https://zwieratko.sk/
   size: 30.94
   last_checked: 2025-08-30
-  
-- domain: philna.sh
-  url: https://philna.sh/
-  size: 198
-  last_checked: 2025-11-27
