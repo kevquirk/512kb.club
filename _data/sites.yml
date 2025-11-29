@@ -738,6 +738,11 @@
   size: 8.3
   last_checked: 2025-08-19
 
+- domain: cards.how
+  url: https://cards.how
+  size: 215
+  last_checked: 2025-11-04
+
 - domain: cari-lin.com
   url: https://cari-lin.com/
   size: 188.34
