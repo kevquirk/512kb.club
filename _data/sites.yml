@@ -1,8 +1,3 @@
-- domain: kinoptikon.de
-  url: https://www.kinoptikon.de/
-  size: 61.17
-  last_checked: 2025-11-24
-
 - domain: 0xedward.io
   url: https://0xedward.io/
   size: 41.02
@@ -2252,6 +2247,11 @@
   url: https://kinduff.com/
   size: 194.11
   last_checked: 2025-08-30
+
+- domain: kinoptikon.de
+  url: https://www.kinoptikon.de/
+  size: 61.17
+  last_checked: 2025-11-24
 
 - domain: kirillunlimited.com
   url: https://kirillunlimited.com/
