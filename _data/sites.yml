@@ -2963,6 +2963,11 @@
   size: 111.80
   last_checked: 2025-08-30
 
+- domain: blog.pabuisson.com
+  url: https://blog.pabuisson.com/
+  size: 77
+  last_checked: 2025-11-21
+
 - domain: paheko.cloud
   url: https://paheko.cloud/
   size: 163.15
