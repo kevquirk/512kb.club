@@ -13,11 +13,6 @@
   size: 38.14
   last_checked: 2025-08-30
 
-- domain: cocoweb.fr
-  url: https://cocoweb.fr/
-  size: 115
-  last_checked: 2025-11-28
-
 - domain: 10maurycy10.github.io
   url: https://10maurycy10.github.io/
   size: 213.83
@@ -837,6 +832,11 @@
   url: https://cli.club/
   size: 109.46
   last_checked: 2025-08-30
+
+- domain: cocoweb.fr
+  url: https://cocoweb.fr/
+  size: 115
+  last_checked: 2025-11-28
 
 - domain: code.strigo.cc
   url: https://code.strigo.cc/
