@@ -138,6 +138,11 @@
   size: 298.79
   last_checked: 2025-08-30
 
+- domain: albertcoronado.com
+  url: https://www.albertcoronado.com
+  size: 265
+  last_checked: 2025-11-26
+
 - domain: alexalejandre.com
   url: https://alexalejandre.com/
   size: 30.47
@@ -4437,8 +4442,3 @@
   url: https://zwieratko.sk/
   size: 30.94
   last_checked: 2025-08-30
-
-- domain: albertcoronado.com
-  url: https://www.albertcoronado.com
-  size: 265
-  last_checked: 2025-11-26  
