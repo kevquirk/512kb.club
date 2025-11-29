@@ -3593,6 +3593,11 @@
   size: 53.31
   last_checked: 2025-08-30
 
+- domain: skillmenu.nl
+  url: https://www.skillmenu.nl/
+  size: 495
+  last_checked: 2025-11-28
+
 - domain: skyfall.dev
   url: https://skyfall.dev/
   size: 431.64
@@ -4417,8 +4422,3 @@
   url: https://zwieratko.sk/
   size: 30.94
   last_checked: 2025-08-30
-
-- domain: skillmenu.nl
-  url: https://www.skillmenu.nl/
-  size: 495
-  last_checked: 2025-11-28
