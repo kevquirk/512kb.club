@@ -568,6 +568,11 @@
   size: 101.30
   last_checked: 2025-08-30
 
+- domain: blog.pabuisson.com
+  url: https://blog.pabuisson.com/
+  size: 77
+  last_checked: 2025-11-21
+
 - domain: blog.plusmid.dev
   url: https://blog.plusmid.dev
   size: 51.58
@@ -2962,11 +2967,6 @@
   url: https://otgt.us.eu.org/
   size: 111.80
   last_checked: 2025-08-30
-
-- domain: blog.pabuisson.com
-  url: https://blog.pabuisson.com/
-  size: 77
-  last_checked: 2025-11-21
 
 - domain: paheko.cloud
   url: https://paheko.cloud/
