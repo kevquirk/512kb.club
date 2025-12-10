@@ -4233,6 +4233,11 @@
   size: 24.68
   last_checked: 2025-08-30
 
+- domain: wave2.org
+  url: https://wave2.org/
+  size: 92
+  last_checked: 2025-12-10
+
 - domain: webmusic.pages.dev
   url: https://webmusic.pages.dev/
   size: 387.68
