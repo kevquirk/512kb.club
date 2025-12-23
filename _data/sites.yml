@@ -1758,6 +1758,11 @@
   size: 63.61
   last_checked: 2025-08-30
 
+- domain: healthchecks.io
+  url: https://healthchecks.io/
+  size: 511
+  last_checked: 2025-12-23
+
 - domain: hendrikharlichs.de
   url: https://hendrikharlichs.de/
   size: 197.85
