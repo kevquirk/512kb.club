@@ -2688,6 +2688,11 @@
   size: 35.85
   last_checked: 2025-08-30
 
+- domain: michaelyodev.github.io
+  url: https://michaelyodev.github.io/
+  size: 65
+  last_checked: 2025-12-19
+
 - domain: michel-slm.name
   url: https://michel-slm.name/
   size: 289.21
@@ -4577,8 +4582,3 @@
   url: https://zwieratko.sk/
   size: 30.94
   last_checked: 2025-08-30
-
-- domain: michaelyodev.github.io
-  url: https://michaelyodev.github.io/
-  size: 65
-  last_checked: 2025-12-19
