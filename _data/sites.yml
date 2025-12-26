@@ -3083,6 +3083,11 @@
   size: 385.45
   last_checked: 2025-08-30
 
+- domain: pdeinfo.com
+  url: http://pdeinfo.com/
+  size: 33
+  last_checked: 2025-12-15
+
 - domain: pdp.dev
   url: https://pdp.dev
   size: 8.98
@@ -4597,8 +4602,3 @@
   url: https://zwieratko.sk/
   size: 30.94
   last_checked: 2025-08-30
-
-- domain: pdeinfo.com
-  url: http://pdeinfo.com/
-  size: 33
-  last_checked: 2025-12-15
