@@ -63,6 +63,11 @@
   size: 41.40
   last_checked: 2025-08-30
 
+- domain: abareplace.com
+  url: https://www.abareplace.com/
+  size: 31
+  last_checked: 2025-12-15
+
 - domain: abf.li
   url: https://abf.li
   size: 78.57
@@ -4602,9 +4607,3 @@
   url: https://zwieratko.sk/
   size: 30.94
   last_checked: 2025-08-30
-
-- domain: abareplace.com
-  url: https://www.abareplace.com/
-  size: 31
-  last_checked: 2025-12-15
-
