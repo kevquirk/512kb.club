@@ -1,3 +1,8 @@
+- domain: blog.nicolai.ink
+  url: https://blog.nicolai.ink/ (Make sure you keep the trailing slash)
+  size: 287
+  last_checked: 2021-05-26 (YYYY-MM-DD)
+
 - domain: 0xedward.io
   url: https://0xedward.io/
   size: 41.02
