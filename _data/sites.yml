@@ -1613,6 +1613,11 @@
   size: 95
   last_checked: 2025-06-06
 
+- domain: gabnotes.org
+  url: https://gabnotes.org/
+  size: 378
+  last_checked: 2026-01-09
+
 - domain: gadonias.com
   url: https://gadonias.com/
   size: 310.23
