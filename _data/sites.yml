@@ -1493,6 +1493,11 @@
   size: 37.83
   last_checked: 2025-08-30
 
+- domain: faustzero.one
+  url: http://faustzero.one/
+  size: 3
+  last_checked: 2026-01-18
+
 - domain: federicoleva.eu
   url: https://federicoleva.eu/
   size: 273
