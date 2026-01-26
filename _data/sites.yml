@@ -2418,6 +2418,11 @@
   size: 141.09
   last_checked: 2025-08-30
 
+- domain: lochle.xyz
+  url: http://lochle.xyz/
+  size: 82
+  last_checked: 2026-01-26
+
 - domain: log.pfad.fr
   url: https://log.pfad.fr/
   size: 11.85
