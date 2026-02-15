@@ -1,8 +1,3 @@
-- domain: priyavr.at
-  url: https://priyavr.at/
-  size: 43
-  last_checked: 2026-01-14
-
 - domain: 0xedward.io
   url: https://0xedward.io/
   size: 41.02
@@ -3357,6 +3352,11 @@
   url: https://priyanshoon.me/
   size: 181
   last_checked: 2026-02-11
+
+- domain: priyavr.at
+  url: https://priyavr.at/
+  size: 43
+  last_checked: 2026-01-14
 
 - domain: prma.dev
   url: https://prma.dev/
