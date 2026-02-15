@@ -130,8 +130,8 @@
 
 - domain: aj.bozdar.im
   url: https://aj.bozdar.im/
-  size: 150.80
-  last_checked: 2025-08-30
+  size: 42.00
+  last_checked: 2026-01-16
 
 - domain: ajazz.neocities.org
   url: https://ajazz.neocities.org/
@@ -848,6 +848,11 @@
   size: 39.68
   last_checked: 2025-08-30
 
+- domain: chrisblackwell.me
+  url: https://chrisblackwell.me
+  size: 224
+  last_checked: 2026-02-06
+
 - domain: chriskoehnke.com
   url: https://chriskoehnke.com
   size: 129.22
@@ -913,6 +918,11 @@
   size: 369.77
   last_checked: 2025-08-30
 
+- domain: connermccall.com
+  url: https://connermccall.com/
+  size: 76
+  last_checked: 2026-01-14
+
 - domain: conor.zone
   url: https://conor.zone/
   size: 157.22
@@ -937,6 +947,11 @@
   url: https://coopermatt.com/
   size: 360
   last_checked: 2022-04-26
+
+- domain: costinstefan.ro
+  url: https://costinstefan.ro/
+  size: 410
+  last_checked: 2026-02-03
 
 - domain: couchblog.de
   url: https://couchblog.de/
@@ -1107,6 +1122,11 @@
   url: https://dataswamp.org/~solene/
   size: 98.54
   last_checked: 2025-08-30
+
+- domain: datenkastl.de
+  url: https://datenkastl.de
+  size: 64
+  last_checked: 2026-01-11
 
 - domain: davidovski.xyz
   url: http://davidovski.xyz/
@@ -1617,6 +1637,10 @@
   url: https://gabnotes.org/
   size: 378
   last_checked: 2026-01-09
+- domain: fxgn.dev
+  url: https://fxgn.dev/
+  size: 86.65
+  last_checked: 2026-02-05
 
 - domain: gadonias.com
   url: https://gadonias.com/
@@ -1812,6 +1836,11 @@
   url: https://hispagatos.org
   size: 414.53
   last_checked: 2025-08-30
+
+- domain: hisvirusness.com
+  url: https://hisvirusness.com/
+  size: 73
+  last_checked: 2026-02-09
 
 - domain: hjr265.me
   url: https://hjr265.me/
@@ -2118,6 +2147,11 @@
   size: 48.62
   last_checked: 2025-08-30
 
+- domain: jmmonteiro.com
+  url: https://jmmonteiro.com/
+  size: 33
+  last_checked: 2026-01-31
+
 - domain: jmtd.net
   url: https://jmtd.net/
   size: 267.21
@@ -2308,11 +2342,6 @@
   size: 27.16
   last_checked: 2025-08-30
 
-- domain: kj7nzl.net
-  url: https://www.kj7nzl.net/
-  size: 30.0
-  last_checked: 2022-04-26
-
 - domain: kojordan.com
   url: https://www.kojordan.com/
   size: 86.00
@@ -2362,6 +2391,11 @@
   url: https://lars-christian.com/
   size: 76.30
   last_checked: 2025-08-30
+
+- domain: lch361.net
+  url: https://lch361.net/
+  size: 211
+  last_checked: 2026-02-01
 
 - domain: leafedfox.xyz
   url: https://leafedfox.xyz
@@ -2423,6 +2457,11 @@
   size: 141.09
   last_checked: 2025-08-30
 
+- domain: lochle.xyz
+  url: http://lochle.xyz/
+  size: 82
+  last_checked: 2026-01-26
+
 - domain: log.pfad.fr
   url: https://log.pfad.fr/
   size: 11.85
@@ -2447,6 +2486,11 @@
   url: https://lotte.chir.rs/
   size: 69.82
   last_checked: 2025-08-30
+
+- domain: luan.xyz
+  url: https://luan.xyz
+  size: 93
+  last_checked: 2026-02-07
 
 - domain: luana.cc
   url: https://luana.cc/
@@ -2848,6 +2892,11 @@
   size: 103.77
   last_checked: 2025-08-30
 
+- domain: n5l.illadelaire.org
+  url: https://n5l.illadelaire.org/
+  size: 182
+  last_checked: 2026-01-12
+
 - domain: nali.org
   url: https://nali.org/
   size: 263.91
@@ -2955,8 +3004,8 @@
 
 - domain: notes.hatedabamboo.me
   url: https://notes.hatedabamboo.me/
-  size: 83
-  last_checked: 2025-09-17
+  size: 44
+  last_checked: 2026-02-11
 
 - domain: notes.musayev.com
   url: https://notes.musayev.com/
@@ -3007,6 +3056,11 @@
   url: https://omnicarousel.dev/
   size: 174.04
   last_checked: 2025-08-30
+
+- domain: onechord.click
+  url: https://onechord.click/
+  size: 62
+  last_checked: 2026-02-06
 
 - domain: oneoffinvoice.com
   url: https://oneoffinvoice.com/
@@ -3147,6 +3201,11 @@
   url: https://percentagecalculator.page/
   size: 73.00
   last_checked: 2025-11-07
+
+- domain: pere.quintanasegui.com
+  url: https://pere.quintanasegui.com/
+  size: 71
+  last_checked: 2026-01-12
 
 - domain: perezdecastro.org
   url: https://perezdecastro.org/
@@ -3307,6 +3366,16 @@
   url: https://privatebin.info/
   size: 378.47
   last_checked: 2025-08-30
+
+- domain: priyanshoon.me
+  url: https://priyanshoon.me/
+  size: 181
+  last_checked: 2026-02-11
+
+- domain: priyavr.at
+  url: https://priyavr.at/
+  size: 43
+  last_checked: 2026-01-14
 
 - domain: prma.dev
   url: https://prma.dev/
@@ -3763,6 +3832,11 @@
   size: 481.16
   last_checked: 2025-08-30
 
+- domain: simonomi.dev
+  url: https://simonomi.dev/
+  size: 22
+  last_checked: 2026-01-16
+
 - domain: simpleblogs.org
   url: https://simpleblogs.org/
   size: 80.21
@@ -3817,6 +3891,11 @@
   url: https://solar.milangaelectronica.com.ar/
   size: 494.59
   last_checked: 2025-08-30
+
+- domain: somdev.in
+  url: https://somdev.in/
+  size: 309
+  last_checked: 2026-02-11
 
 - domain: sorcery.ie
   url: https://sorcery.ie/
@@ -4042,6 +4121,11 @@
   url: https://thomassimon.dev/
   size: 52.71
   last_checked: 2025-08-30
+
+- domain: thomveldhuis.xyz
+  url: https://thomveldhuis.xyz/
+  size: 176
+  last_checked: 2026-01-18
 
 - domain: tiberriver256.github.io
   url: https://tiberriver256.github.io/
@@ -4413,6 +4497,11 @@
   size: 50.51
   last_checked: 2025-08-30
 
+- domain: willhackett.uk
+  url: https://willhackett.uk/
+  size: 120.0
+  last_checked: 2026-01-21
+
 - domain: wilw.dev
   url: https://wilw.dev/
   size: 27.85
@@ -4617,6 +4706,11 @@
   url: https://zerokspot.com/
   size: 182.85
   last_checked: 2025-08-30
+
+- domain: zerv.al
+  url: https://zerv.al/
+  size: 125.00
+  last_checked: 2026-02-14
 
 - domain: zlendy.com
   url: http://zlendy.com/
