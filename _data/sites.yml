@@ -4088,6 +4088,11 @@
   size: 52.71
   last_checked: 2025-08-30
 
+- domain: thomveldhuis.xyz
+  url: https://thomveldhuis.xyz/
+  size: 176
+  last_checked: 2026-01-18
+
 - domain: tiberriver256.github.io
   url: https://tiberriver256.github.io/
   size: 62.19
@@ -4702,8 +4707,3 @@
   url: https://zwieratko.sk/
   size: 30.94
   last_checked: 2025-08-30
-
-- domain: thomveldhuis.xyz
-  url: https://thomveldhuis.xyz/
-  size: 176
-  last_checked: 2026-01-18
