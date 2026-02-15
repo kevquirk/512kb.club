@@ -2443,6 +2443,11 @@
   size: 69.82
   last_checked: 2025-08-30
 
+- domain: luan.xyz
+  url: https://luan.xyz
+  size: 93
+  last_checked: 2026-02-07
+
 - domain: luana.cc
   url: https://luana.cc/
   size: 322.44
@@ -4657,8 +4662,3 @@
   url: https://zwieratko.sk/
   size: 30.94
   last_checked: 2025-08-30
-
-- domain: luan.xyz
-  url: https://luan.xyz
-  size: 93
-  last_checked: 2026-02-07
