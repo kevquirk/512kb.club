@@ -3,16 +3,6 @@
   size: 41.02
   last_checked: 2025-08-30
 
-- domain: pere.quintanasegui.com
-  url: https://pere.quintanasegui.com/
-  size: 71
-  last_checked: 2026-01-12
-
-- domain: n5l.illadelaire.org
-  url: https://n5l.illadelaire.org/
-  size: 182
-  last_checked: 2026-01-12
-
 - domain: 0xff.nu
   url: https://0xff.nu/
   size: 19.55
@@ -1132,6 +1122,11 @@
   url: https://dataswamp.org/~solene/
   size: 98.54
   last_checked: 2025-08-30
+
+- domain: datenkastl.de
+  url: https://datenkastl.de
+  size: 64
+  last_checked: 2026-01-11
 
 - domain: davidovski.xyz
   url: http://davidovski.xyz/
@@ -2893,6 +2888,11 @@
   size: 103.77
   last_checked: 2025-08-30
 
+- domain: n5l.illadelaire.org
+  url: https://n5l.illadelaire.org/
+  size: 182
+  last_checked: 2026-01-12
+
 - domain: nali.org
   url: https://nali.org/
   size: 263.91
@@ -3197,6 +3197,11 @@
   url: https://percentagecalculator.page/
   size: 73.00
   last_checked: 2025-11-07
+
+- domain: pere.quintanasegui.com
+  url: https://pere.quintanasegui.com/
+  size: 71
+  last_checked: 2026-01-12
 
 - domain: perezdecastro.org
   url: https://perezdecastro.org/
@@ -4732,8 +4737,3 @@
   url: https://zwieratko.sk/
   size: 30.94
   last_checked: 2025-08-30
-
-- domain: datenkastl.de
-  url: https://datenkastl.de
-  size: 64
-  last_checked: 2026-01-11
