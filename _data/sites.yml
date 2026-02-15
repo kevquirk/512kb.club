@@ -1,8 +1,3 @@
-- domain: fxgn.dev
-  url: https://fxgn.dev/
-  size: 86.65
-  last_checked: 2026-02-05
-
 - domain: 0xedward.io
   url: https://0xedward.io/
   size: 41.02
@@ -1622,6 +1617,11 @@
   url: https://futureofthe.tech
   size: 95
   last_checked: 2025-06-06
+
+- domain: fxgn.dev
+  url: https://fxgn.dev/
+  size: 86.65
+  last_checked: 2026-02-05
 
 - domain: gadonias.com
   url: https://gadonias.com/
