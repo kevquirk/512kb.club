@@ -1,8 +1,3 @@
-- domain: somdev.in
-  url: https://somdev.in/
-  size: 309
-  last_checked: 2026-02-11
-
 - domain: 0xedward.io
   url: https://0xedward.io/
   size: 41.02
@@ -3817,6 +3812,11 @@
   url: https://solar.milangaelectronica.com.ar/
   size: 494.59
   last_checked: 2025-08-30
+
+- domain: somdev.in
+  url: https://somdev.in/
+  size: 309
+  last_checked: 2026-02-11
 
 - domain: sorcery.ie
   url: https://sorcery.ie/
