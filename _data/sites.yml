@@ -2133,6 +2133,11 @@
   size: 48.62
   last_checked: 2025-08-30
 
+- domain: jmmonteiro.com
+  url: https://jmmonteiro.com/
+  size: 33
+  last_checked: 2026-01-31
+
 - domain: jmtd.net
   url: https://jmtd.net/
   size: 267.21
@@ -4687,8 +4692,3 @@
   url: https://zwieratko.sk/
   size: 30.94
   last_checked: 2025-08-30
-
-- domain: jmmonteiro.com
-  url: https://jmmonteiro.com/
-  size: 33
-  last_checked: 2026-01-31
