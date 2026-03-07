@@ -2908,11 +2908,6 @@
   size: 103.77
   last_checked: 2025-08-30
 
-- domain: slomkowski.eu
-  url: https://slomkowski.eu/
-  size: 168
-  last_checked: 2026-02-23
-
 - domain: n5l.illadelaire.org
   url: https://n5l.illadelaire.org/
   size: 182
@@ -3907,6 +3902,11 @@
   url: https://slashdev.space/
   size: 409.35
   last_checked: 2025-08-30
+
+- domain: slomkowski.eu
+  url: https://slomkowski.eu/
+  size: 168
+  last_checked: 2026-02-23
 
 - domain: slowernews.com
   url: http://www.slowernews.com/
