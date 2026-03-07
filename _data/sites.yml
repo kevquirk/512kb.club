@@ -2168,6 +2168,11 @@
   size: 448.15
   last_checked: 2025-08-30
 
+- domain: joarvarndt.se
+  url: https://joarvarndt.se/
+  size: 457
+  last_checked: 2026-02-27
+
 - domain: jochen.fyi
   url: https://jochen.fyi/
   size: 438.72
@@ -4757,8 +4762,3 @@
   url: https://zwieratko.sk/
   size: 30.94
   last_checked: 2025-08-30
-
-- domain: joarvarndt.se
-  url: https://joarvarndt.se/
-  size: 457
-  last_checked: 2026-02-27
