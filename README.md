@@ -1,5 +1,7 @@
 # 512KB Club
 
+**The 512kb Club has been sunset (<a href="https://kevquirk.com/sunsetting-the-512kb-club">read more here</a>), so I have disabled the ability to create pull requests. If someone else takes over the project, this may come back in the future.**
+
 The internet has become a **bloated mess**. Massive JavaScript libraries, countless client-side queries and overly complex frontend frameworks are par for the course these days.
 
 When online newspapers like [The Guardian](https://www.theguardian.com/uk) are **over 4MB in size**, you know there's a problem. Why does an online newspaper need to be over 4MB in size? It's crazy.
