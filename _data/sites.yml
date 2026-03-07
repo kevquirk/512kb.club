@@ -3853,6 +3853,11 @@
   size: 22.51
   last_checked: 2025-08-30
 
+- domain: simplyhexagon.com
+  url: https://www.simplyhexagon.com/
+  size: 82.56
+  last_checked: 2026-03-01
+
 - domain: sjaks.iki.fi
   url: https://sjaks.iki.fi/
   size: 53.31
@@ -4747,8 +4752,3 @@
   url: https://zwieratko.sk/
   size: 30.94
   last_checked: 2025-08-30
-
-- domain: simplyhexagon.com
-  url: https://www.simplyhexagon.com/
-  size: 82.56
-  last_checked: 2026-03-01
