@@ -1,8 +1,3 @@
-- domain: dwaan.com
-  url: https://dwaan.com/
-  size: 419
-  last_checked: 2026-02-18
-
 - domain: 0xedward.io
   url: https://0xedward.io/
   size: 41.02
@@ -1287,6 +1282,11 @@
   url: https://dustri.org/b/
   size: 123
   last_checked: 2023-03-01
+
+- domain: dwaan.com
+  url: https://dwaan.com/
+  size: 419
+  last_checked: 2026-02-18
 
 - domain: ecliptik.com
   url: https://www.ecliptik.com/
