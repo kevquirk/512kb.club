@@ -3,6 +3,8 @@ permalink: /
 layout: default
 hasRandomBtn: true
 ---
+<p class="notice"><b>The 512kb Club has been sunset (<a href="https://kevquirk.com/sunsetting-the-512kb-club">read more here</a>), so I have disabled the ability to create pull requests. If someone else takes over the project, this may come back in the future.</b></p>
+
 The internet has become a <b>bloated mess</b>. Huge JavaScript libraries, countless client-side queries and overly complex frontend frameworks are par for the course these days.
 
 When popular website like [The New York Times](https://www.nytimes.com/) are **[multiple MB in size](/assets/images/nytimes-report.pdf)** (nearly 50% of which is JavaScript!), you know there's a problem. Why does any site need to be that huge? It's crazy.
