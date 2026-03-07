@@ -3828,6 +3828,11 @@
   size: 72
   last_checked: 2025-12-24
 
+- domain: silencingmachine.com
+  url: https://silencingmachine.com/
+  size: 244
+  last_checked: 2026-02-28
+
 - domain: silvestar.codes
   url: https://www.silvestar.codes/
   size: 339.21
@@ -4752,8 +4757,3 @@
   url: https://zwieratko.sk/
   size: 30.94
   last_checked: 2025-08-30
-
-- domain: silencingmachine.com
-  url: https://silencingmachine.com/
-  size: 244
-  last_checked: 2026-02-28
